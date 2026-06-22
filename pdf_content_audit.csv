@@ -1,0 +1,2557 @@
+id,level,kind,source,page,title,reading,status
+N2-vocab-0001,N2,vocab,N2 Junbi Từ vựng,2,評判,ひょうばん,TITLE_IN_PDF
+N2-vocab-0002,N2,vocab,N2 Junbi Từ vựng,2,雑談,ざつだん,TITLE_IN_PDF
+N2-vocab-0003,N2,vocab,N2 Junbi Từ vựng,2,おしゃべり,,TITLE_IN_PDF
+N2-vocab-0004,N2,vocab,N2 Junbi Từ vựng,3,取材,しゅざい,TITLE_IN_PDF
+N2-vocab-0005,N2,vocab,N2 Junbi Từ vựng,3,きっかけ,,TITLE_IN_PDF
+N2-vocab-0006,N2,vocab,N2 Junbi Từ vựng,3,続出,ぞくしゅつ,TITLE_IN_PDF
+N2-vocab-0007,N2,vocab,N2 Junbi Từ vựng,3,外見,がいけん,TITLE_IN_PDF
+N2-vocab-0008,N2,vocab,N2 Junbi Từ vựng,3,上昇,じょうしょう,TITLE_IN_PDF
+N2-vocab-0009,N2,vocab,N2 Junbi Từ vựng,4,見解,けんかい,TITLE_IN_PDF
+N2-vocab-0010,N2,vocab,N2 Junbi Từ vựng,4,普及,ふきゅう,TITLE_IN_PDF
+N2-vocab-0011,N2,vocab,N2 Junbi Từ vựng,5,注目,ちゅうもく,TITLE_IN_PDF
+N2-vocab-0012,N2,vocab,N2 Junbi Từ vựng,5,分析,ぶんせき,TITLE_IN_PDF
+N2-vocab-0013,N2,vocab,N2 Junbi Từ vựng,5,反映,はんえい,TITLE_IN_PDF
+N2-vocab-0014,N2,vocab,N2 Junbi Từ vựng,6,強み,つよみ,TITLE_IN_PDF
+N2-vocab-0015,N2,vocab,N2 Junbi Từ vựng,6,回復,かいふく,TITLE_IN_PDF
+N2-vocab-0016,N2,vocab,N2 Junbi Từ vựng,6,方針,ほうしん,TITLE_IN_PDF
+N2-vocab-0017,N2,vocab,N2 Junbi Từ vựng,6,範囲,はんい,TITLE_IN_PDF
+N2-vocab-0018,N2,vocab,N2 Junbi Từ vựng,6,利益,りえき,TITLE_IN_PDF
+N2-vocab-0019,N2,vocab,N2 Junbi Từ vựng,7,解消,かいしょう,TITLE_IN_PDF
+N2-vocab-0020,N2,vocab,N2 Junbi Từ vựng,7,改善,かいぜん,TITLE_IN_PDF
+N2-vocab-0021,N2,vocab,N2 Junbi Từ vựng,8,視野,しや,TITLE_IN_PDF
+N2-vocab-0022,N2,vocab,N2 Junbi Từ vựng,8,機能,きのう,TITLE_IN_PDF
+N2-vocab-0023,N2,vocab,N2 Junbi Từ vựng,9,世間,せけん,TITLE_IN_PDF
+N2-vocab-0024,N2,vocab,N2 Junbi Từ vựng,9,違反,いはん,TITLE_IN_PDF
+N2-vocab-0025,N2,vocab,N2 Junbi Từ vựng,9,素質,そしつ,TITLE_IN_PDF
+N2-vocab-0026,N2,vocab,N2 Junbi Từ vựng,10,辞退,じたい,TITLE_IN_PDF
+N2-vocab-0027,N2,vocab,N2 Junbi Từ vựng,10,改正,かいせい,TITLE_IN_PDF
+N2-vocab-0028,N2,vocab,N2 Junbi Từ vựng,10,夢中,むちゅう,TITLE_IN_PDF
+N2-vocab-0029,N2,vocab,N2 Junbi Từ vựng,10,日中,にっちゅう,TITLE_IN_PDF
+N2-vocab-0030,N2,vocab,N2 Junbi Từ vựng,11,矛盾,むじゅん,TITLE_IN_PDF
+N2-vocab-0031,N2,vocab,N2 Junbi Từ vựng,12,交代,こうたい,TITLE_IN_PDF
+N2-vocab-0032,N2,vocab,N2 Junbi Từ vựng,12,合図,あいず,TITLE_IN_PDF
+N2-vocab-0033,N2,vocab,N2 Junbi Từ vựng,12,愚痴,ぐち,TITLE_IN_PDF
+N2-vocab-0034,N2,vocab,N2 Junbi Từ vựng,13,場面,ばめん,TITLE_IN_PDF
+N2-vocab-0035,N2,vocab,N2 Junbi Từ vựng,13,成長,せいちょう,TITLE_IN_PDF
+N2-vocab-0036,N2,vocab,N2 Junbi Từ vựng,13,追加,ついか,TITLE_IN_PDF
+N2-vocab-0037,N2,vocab,N2 Junbi Từ vựng,13,廃止,はいし,TITLE_IN_PDF
+N2-vocab-0038,N2,vocab,N2 Junbi Từ vựng,14,心強い,こころづよい,TITLE_IN_PDF
+N2-vocab-0039,N2,vocab,N2 Junbi Từ vựng,14,解散,かいさん,TITLE_IN_PDF
+N2-vocab-0040,N2,vocab,N2 Junbi Từ vựng,14,意欲,いよく,TITLE_IN_PDF
+N2-vocab-0041,N2,vocab,N2 Junbi Từ vựng,15,専念,せんねん,TITLE_IN_PDF
+N2-vocab-0042,N2,vocab,N2 Junbi Từ vựng,15,格好,かっこう,TITLE_IN_PDF
+N2-vocab-0043,N2,vocab,N2 Junbi Từ vựng,15,提示,ていじ,TITLE_IN_PDF
+N2-vocab-0044,N2,vocab,N2 Junbi Từ vựng,16,分野,ぶんや,TITLE_IN_PDF
+N2-vocab-0045,N2,vocab,N2 Junbi Từ vựng,16,中継,ちゅうけい,TITLE_IN_PDF
+N2-vocab-0046,N2,vocab,N2 Junbi Từ vựng,16,見当,けんとう,TITLE_IN_PDF
+N2-vocab-0047,N2,vocab,N2 Junbi Từ vựng,16,比例,ひれい,TITLE_IN_PDF
+N2-vocab-0048,N2,vocab,N2 Junbi Từ vựng,16,ふもと,,TITLE_IN_PDF
+N2-vocab-0049,N2,vocab,N2 Junbi Từ vựng,16,補足,,TITLE_IN_PDF
+N2-vocab-0050,N2,vocab,N2 Junbi Từ vựng,17,催促,,TITLE_IN_PDF
+N2-vocab-0051,N2,vocab,N2 Junbi Từ vựng,18,導入,どうにゅう,TITLE_IN_PDF
+N2-vocab-0052,N2,vocab,N2 Junbi Từ vựng,18,体格,たいかく,TITLE_IN_PDF
+N2-vocab-0053,N2,vocab,N2 Junbi Từ vựng,19,勘定,かんじょう,TITLE_IN_PDF
+N2-vocab-0054,N2,vocab,N2 Junbi Từ vựng,19,人通り,ひとどおり,TITLE_IN_PDF
+N2-vocab-0055,N2,vocab,N2 Junbi Từ vựng,19,訂正,ていせい,TITLE_IN_PDF
+N2-vocab-0056,N2,vocab,N2 Junbi Từ vựng,19,用心,ようじん,TITLE_IN_PDF
+N2-vocab-0057,N2,vocab,N2 Junbi Từ vựng,20,会見,かいけん,TITLE_IN_PDF
+N2-vocab-0058,N2,vocab,N2 Junbi Từ vựng,20,支持,しじ,TITLE_IN_PDF
+N2-vocab-0059,N2,vocab,N2 Junbi Từ vựng,20,言い訳,いわけ,TITLE_IN_PDF
+N2-vocab-0060,N2,vocab,N2 Junbi Từ vựng,20,特色,とくしょく,TITLE_IN_PDF
+N2-vocab-0061,N2,vocab,N2 Junbi Từ vựng,21,所有,しょゆう,TITLE_IN_PDF
+N2-vocab-0062,N2,vocab,N2 Junbi Từ vựng,21,収納,しゅうのう,TITLE_IN_PDF
+N2-vocab-0063,N2,vocab,N2 Junbi Từ vựng,21,用途,ようと,TITLE_IN_PDF
+N2-vocab-0064,N2,vocab,N2 Junbi Từ vựng,22,行方,ゆくえ,TITLE_IN_PDF
+N2-vocab-0065,N2,vocab,N2 Junbi Từ vựng,22,予測,よそく,TITLE_IN_PDF
+N2-vocab-0066,N2,vocab,N2 Junbi Từ vựng,22,完了,かんりょう,TITLE_IN_PDF
+N2-vocab-0067,N2,vocab,N2 Junbi Từ vựng,22,相違,そうい,TITLE_IN_PDF
+N2-vocab-0068,N2,vocab,N2 Junbi Từ vựng,22,作成,さくせい,TITLE_IN_PDF
+N2-vocab-0069,N2,vocab,N2 Junbi Từ vựng,22,中断,ちゅうだん,TITLE_IN_PDF
+N2-vocab-0070,N2,vocab,N2 Junbi Từ vựng,23,収穫,しゅうかく,TITLE_IN_PDF
+N2-vocab-0071,N2,vocab,N2 Junbi Từ vựng,24,衝突,しょうとつ,TITLE_IN_PDF
+N2-vocab-0072,N2,vocab,N2 Junbi Từ vựng,24,発達,はったつ,TITLE_IN_PDF
+N2-vocab-0073,N2,vocab,N2 Junbi Từ vựng,24,引退,いんたい,TITLE_IN_PDF
+N2-vocab-0074,N2,vocab,N2 Junbi Từ vựng,25,順調,じゅんちょう,TITLE_IN_PDF
+N2-vocab-0075,N2,vocab,N2 Junbi Từ vựng,25,提供,ていきょう,TITLE_IN_PDF
+N2-vocab-0076,N2,vocab,N2 Junbi Từ vựng,25,邪魔,じゃま,TITLE_IN_PDF
+N2-vocab-0077,N2,vocab,N2 Junbi Từ vựng,25,息抜き,いきぬき,TITLE_IN_PDF
+N2-vocab-0078,N2,vocab,N2 Junbi Từ vựng,25,延長,えんちょう,TITLE_IN_PDF
+N2-vocab-0079,N2,vocab,N2 Junbi Từ vựng,26,目上,めうえ,TITLE_IN_PDF
+N2-vocab-0080,N2,vocab,N2 Junbi Từ vựng,26,反省,はんせい,TITLE_IN_PDF
+N2-vocab-0081,N2,vocab,N2 Junbi Từ vựng,27,確保,かくほ,TITLE_IN_PDF
+N2-vocab-0082,N2,vocab,N2 Junbi Từ vựng,27,契機,けいき,TITLE_IN_PDF
+N2-vocab-0083,N2,vocab,N2 Junbi Từ vựng,27,謝り,,TITLE_IN_PDF
+N2-vocab-0084,N2,vocab,N2 Junbi Từ vựng,28,臆病,おくびょう,TITLE_IN_PDF
+N2-vocab-0085,N2,vocab,N2 Junbi Từ vựng,28,頂上,ちょうじょう,TITLE_IN_PDF
+N2-vocab-0086,N2,vocab,N2 Junbi Từ vựng,28,節約,せつやく,TITLE_IN_PDF
+N2-vocab-0087,N2,vocab,N2 Junbi Từ vựng,29,苦情,くじょう,TITLE_IN_PDF
+N2-vocab-0088,N2,vocab,N2 Junbi Từ vựng,29,名所,めいしょ,TITLE_IN_PDF
+N2-vocab-0089,N2,vocab,N2 Junbi Từ vựng,29,記憶,きおく,TITLE_IN_PDF
+N2-vocab-0090,N2,vocab,N2 Junbi Từ vựng,29,不平,ふへい,TITLE_IN_PDF
+N2-vocab-0091,N2,vocab,N2 Junbi Từ vựng,30,限定,げんてい,TITLE_IN_PDF
+N2-vocab-0092,N2,vocab,N2 Junbi Từ vựng,30,論戦,ろんせん,TITLE_IN_PDF
+N2-vocab-0093,N2,vocab,N2 Junbi Từ vựng,30,独特,どくとく,TITLE_IN_PDF
+N2-vocab-0094,N2,vocab,N2 Junbi Từ vựng,31,じたばた,,TITLE_IN_PDF
+N2-vocab-0095,N2,vocab,N2 Junbi Từ vựng,31,役目,やくめ,TITLE_IN_PDF
+N2-vocab-0096,N2,vocab,N2 Junbi Từ vựng,31,最寄り,もより,TITLE_IN_PDF
+N2-vocab-0097,N2,vocab,N2 Junbi Từ vựng,31,解約,かいやく,TITLE_IN_PDF
+N2-vocab-0098,N2,vocab,N2 Junbi Từ vựng,31,演説,えんぜつ,TITLE_IN_PDF
+N2-vocab-0099,N2,vocab,N2 Junbi Từ vựng,31,点検,てんけん,TITLE_IN_PDF
+N2-vocab-0100,N2,vocab,N2 Junbi Từ vựng,32,地元,じもと,TITLE_IN_PDF
+N2-vocab-0101,N2,vocab,N2 Junbi Từ vựng,33,敏感,びんかん,TITLE_IN_PDF
+N2-vocab-0102,N2,vocab,N2 Junbi Từ vựng,33,保存,ほぞん,TITLE_IN_PDF
+N2-vocab-0103,N2,vocab,N2 Junbi Từ vựng,33,日課,にっか,TITLE_IN_PDF
+N2-vocab-0104,N2,vocab,N2 Junbi Từ vựng,34,油断,ゆだん,TITLE_IN_PDF
+N2-vocab-0105,N2,vocab,N2 Junbi Từ vựng,34,分担,ぶんたん,TITLE_IN_PDF
+N2-vocab-0106,N2,vocab,N2 Junbi Từ vựng,34,同情,どうじょう,TITLE_IN_PDF
+N2-vocab-0107,N2,vocab,N2 Junbi Từ vựng,34,初歩,しょほ,TITLE_IN_PDF
+N2-vocab-0108,N2,vocab,N2 Junbi Từ vựng,35,本物,ほんもの,TITLE_IN_PDF
+N2-vocab-0109,N2,vocab,N2 Junbi Từ vựng,35,あこがれ,,TITLE_IN_PDF
+N2-vocab-0110,N2,vocab,N2 Junbi Từ vựng,35,転勤,てんきん,TITLE_IN_PDF
+N2-vocab-0111,N2,vocab,N2 Junbi Từ vựng,36,栽培,さいばい,TITLE_IN_PDF
+N2-vocab-0112,N2,vocab,N2 Junbi Từ vựng,36,動揺,どうよう,TITLE_IN_PDF
+N2-vocab-0113,N2,vocab,N2 Junbi Từ vựng,36,かかりつけ,,TITLE_IN_PDF
+N2-vocab-0114,N2,vocab,N2 Junbi Từ vựng,36,特殊,とくしゅ,TITLE_IN_PDF
+N2-vocab-0115,N2,vocab,N2 Junbi Từ vựng,37,素材,そざい,TITLE_IN_PDF
+N2-vocab-0116,N2,vocab,N2 Junbi Từ vựng,37,充満,じゅうまん,TITLE_IN_PDF
+N2-vocab-0117,N2,vocab,N2 Junbi Từ vựng,37,信頼,しんらい,TITLE_IN_PDF
+N2-vocab-0118,N2,vocab,N2 Junbi Từ vựng,37,尊重,そんちょう,TITLE_IN_PDF
+N2-vocab-0119,N2,vocab,N2 Junbi Từ vựng,38,初期,しょき,TITLE_IN_PDF
+N2-vocab-0120,N2,vocab,N2 Junbi Từ vựng,38,欠陥,けっかん,TITLE_IN_PDF
+N2-vocab-0121,N2,vocab,N2 Junbi Từ vựng,39,評価,ひょうか,TITLE_IN_PDF
+N2-vocab-0122,N2,vocab,N2 Junbi Từ vựng,39,診断,しんだん,TITLE_IN_PDF
+N2-vocab-0123,N2,vocab,N2 Junbi Từ vựng,40,権利,けんり,TITLE_IN_PDF
+N2-vocab-0124,N2,vocab,N2 Junbi Từ vựng,40,増大,ぞうだい,TITLE_IN_PDF
+N2-vocab-0125,N2,vocab,N2 Junbi Từ vựng,40,上達,じょうたつ,TITLE_IN_PDF
+N2-vocab-0126,N2,vocab,N2 Junbi Từ vựng,40,視察,しさつ,TITLE_IN_PDF
+N2-vocab-0127,N2,vocab,N2 Junbi Từ vựng,41,削除,さくじょ,TITLE_IN_PDF
+N2-vocab-0128,N2,vocab,N2 Junbi Từ vựng,41,減量,げんりょう,TITLE_IN_PDF
+N2-vocab-0129,N2,vocab,N2 Junbi Từ vựng,41,整備,せいび,TITLE_IN_PDF
+N2-vocab-0130,N2,vocab,N2 Junbi Từ vựng,41,視線,しせん,TITLE_IN_PDF
+N2-vocab-0131,N2,vocab,N2 Junbi Từ vựng,42,評価,ひょうか,TITLE_IN_PDF
+N2-vocab-0132,N2,vocab,N2 Junbi Từ vựng,42,診断,しんだん,TITLE_IN_PDF
+N2-vocab-0133,N2,vocab,N2 Junbi Từ vựng,43,権利,けんり,TITLE_IN_PDF
+N2-vocab-0134,N2,vocab,N2 Junbi Từ vựng,43,増大,ぞうだい,TITLE_IN_PDF
+N2-vocab-0135,N2,vocab,N2 Junbi Từ vựng,43,上達,じょうたつ,TITLE_IN_PDF
+N2-vocab-0136,N2,vocab,N2 Junbi Từ vựng,43,視察,しさつ,TITLE_IN_PDF
+N2-vocab-0137,N2,vocab,N2 Junbi Từ vựng,44,削除,さくじょ,TITLE_IN_PDF
+N2-vocab-0138,N2,vocab,N2 Junbi Từ vựng,44,減量,げんりょう,TITLE_IN_PDF
+N2-vocab-0139,N2,vocab,N2 Junbi Từ vựng,44,整備,せいび,TITLE_IN_PDF
+N2-vocab-0140,N2,vocab,N2 Junbi Từ vựng,44,視線,しせん,TITLE_IN_PDF
+N2-vocab-0141,N2,vocab,N2 Junbi Từ vựng,45,才能,さいのう,TITLE_IN_PDF
+N2-vocab-0142,N2,vocab,N2 Junbi Từ vựng,45,効用,こうよう,TITLE_IN_PDF
+N2-vocab-0143,N2,vocab,N2 Junbi Từ vựng,45,効力,こうりょく,TITLE_IN_PDF
+N2-vocab-0144,N2,vocab,N2 Junbi Từ vựng,46,避難,ひなん,TITLE_IN_PDF
+N2-vocab-0145,N2,vocab,N2 Junbi Từ vựng,46,盗難,とうなん,TITLE_IN_PDF
+N2-vocab-0146,N2,vocab,N2 Junbi Từ vựng,46,改造,かいぞう,TITLE_IN_PDF
+N2-vocab-0147,N2,vocab,N2 Junbi Từ vựng,46,転換,てんかん,TITLE_IN_PDF
+N2-vocab-0148,N2,vocab,N2 Junbi Từ vựng,46,非難,ひなん,TITLE_IN_PDF
+N2-vocab-0149,N2,vocab,N2 Junbi Từ vựng,47,要所,ようしょ,TITLE_IN_PDF
+N2-vocab-0150,N2,vocab,N2 Junbi Từ vựng,47,展開,てんかい,TITLE_IN_PDF
+N2-vocab-0151,N2,vocab,N2 Junbi Từ vựng,48,解放,かいほう,TITLE_IN_PDF
+N2-vocab-0152,N2,vocab,N2 Junbi Từ vựng,48,退出,たいしゅつ,TITLE_IN_PDF
+N2-vocab-0153,N2,vocab,N2 Junbi Từ vựng,48,意図,いと,TITLE_IN_PDF
+N2-vocab-0154,N2,vocab,N2 Junbi Từ vựng,49,根気,こんき,TITLE_IN_PDF
+N2-vocab-0155,N2,vocab,N2 Junbi Từ vựng,49,統一,とういつ,TITLE_IN_PDF
+N2-vocab-0156,N2,vocab,N2 Junbi Từ vựng,49,特定,とくてい,TITLE_IN_PDF
+N2-vocab-0157,N2,vocab,N2 Junbi Từ vựng,49,容姿,ようし,TITLE_IN_PDF
+N2-vocab-0158,N2,vocab,N2 Junbi Từ vựng,50,発想,はっそう,TITLE_IN_PDF
+N2-vocab-0159,N2,vocab,N2 Junbi Từ vựng,50,仮定,かてい,TITLE_IN_PDF
+N2-vocab-0160,N2,vocab,N2 Junbi Từ vựng,50,目印,めじるし,TITLE_IN_PDF
+N2-vocab-0161,N2,vocab,N2 Junbi Từ vựng,51,対応,たいおう,TITLE_IN_PDF
+N2-vocab-0162,N2,vocab,N2 Junbi Từ vựng,51,特徴,とくちょう,TITLE_IN_PDF
+N2-vocab-0163,N2,vocab,N2 Junbi Từ vựng,51,向こう,むこう,TITLE_IN_PDF
+N2-vocab-0164,N2,vocab,N2 Junbi Từ vựng,52,引用,いんよう,TITLE_IN_PDF
+N2-vocab-0165,N2,vocab,N2 Junbi Từ vựng,52,吸収,きゅうしゅう,TITLE_IN_PDF
+N2-vocab-0166,N2,vocab,N2 Junbi Từ vựng,52,性能,せいのう,TITLE_IN_PDF
+N2-vocab-0167,N2,vocab,N2 Junbi Từ vựng,52,得点,とくてん,TITLE_IN_PDF
+N2-vocab-0168,N2,vocab,N2 Junbi Từ vựng,53,予報,よほう,TITLE_IN_PDF
+N2-vocab-0169,N2,vocab,N2 Junbi Từ vựng,53,実現,じつげん,TITLE_IN_PDF
+N2-vocab-0170,N2,vocab,N2 Junbi Từ vựng,53,達成,たっせい,TITLE_IN_PDF
+N2-vocab-0171,N2,vocab,N2 Junbi Từ vựng,54,対比,たいひ,TITLE_IN_PDF
+N2-vocab-0172,N2,vocab,N2 Junbi Từ vựng,54,大別,たいべつ,TITLE_IN_PDF
+N2-vocab-0173,N2,vocab,N2 Junbi Từ vựng,54,伝染,でんせん,TITLE_IN_PDF
+N2-vocab-0174,N2,vocab,N2 Junbi Từ vựng,55,選出,せんしゅつ,TITLE_IN_PDF
+N2-vocab-0175,N2,vocab,N2 Junbi Từ vựng,55,寄付,きふ,TITLE_IN_PDF
+N2-vocab-0176,N2,vocab,N2 Junbi Từ vựng,55,先端,せんたん,TITLE_IN_PDF
+N2-vocab-0177,N2,vocab,N2 Junbi Từ vựng,55,表現,ひょうげん,TITLE_IN_PDF
+N2-vocab-0178,N2,vocab,N2 Junbi Từ vựng,56,明示,めいじ,TITLE_IN_PDF
+N2-vocab-0179,N2,vocab,N2 Junbi Từ vựng,56,専属,せんぞく,TITLE_IN_PDF
+N2-vocab-0180,N2,vocab,N2 Junbi Từ vựng,56,孤立,こりつ,TITLE_IN_PDF
+N2-vocab-0181,N2,vocab,N2 Junbi Từ vựng,57,分別,ぶんべつ,TITLE_IN_PDF
+N2-vocab-0182,N2,vocab,N2 Junbi Từ vựng,57,区分,くぶん,TITLE_IN_PDF
+N2-vocab-0183,N2,vocab,N2 Junbi Từ vựng,57,現状,げんじょう,TITLE_IN_PDF
+N2-vocab-0184,N2,vocab,N2 Junbi Từ vựng,57,移行,いこう,TITLE_IN_PDF
+N2-vocab-0185,N2,vocab,N2 Junbi Từ vựng,58,移住,いじゅう,TITLE_IN_PDF
+N2-vocab-0186,N2,vocab,N2 Junbi Từ vựng,58,養成,ようせい,TITLE_IN_PDF
+N2-vocab-0187,N2,vocab,N2 Junbi Từ vựng,58,考慮,こうりょ,TITLE_IN_PDF
+N2-vocab-0188,N2,vocab,N2 Junbi Từ vựng,58,測定,そくてい,TITLE_IN_PDF
+N2-vocab-0189,N2,vocab,N2 Junbi Từ vựng,59,提案,ていあん,TITLE_IN_PDF
+N2-vocab-0190,N2,vocab,N2 Junbi Từ vựng,59,信仰,しんこう,TITLE_IN_PDF
+N2-vocab-0191,N2,vocab,N2 Junbi Từ vựng,60,定着,ていちゃく,TITLE_IN_PDF
+N2-vocab-0192,N2,vocab,N2 Junbi Từ vựng,60,愛情,あいじょう,TITLE_IN_PDF
+N2-vocab-0193,N2,vocab,N2 Junbi Từ vựng,60,判断,はんだん,TITLE_IN_PDF
+N2-vocab-0194,N2,vocab,N2 Junbi Từ vựng,61,凸凹,でこぼこ,TITLE_IN_PDF
+N2-vocab-0195,N2,vocab,N2 Junbi Từ vựng,61,教育,きょういく,TITLE_IN_PDF
+N2-vocab-0196,N2,vocab,N2 Junbi Từ vựng,61,大臣,だいじん,TITLE_IN_PDF
+N2-vocab-0197,N2,vocab,N2 Junbi Từ vựng,61,やる気,き,TITLE_IN_PDF
+N2-vocab-0198,N2,vocab,N2 Junbi Từ vựng,61,指摘,してき,TITLE_IN_PDF
+N2-vocab-0199,N2,vocab,N2 Junbi Từ vựng,62,決勝戦,けっしょうせん,TITLE_IN_PDF
+N2-vocab-0200,N2,vocab,N2 Junbi Từ vựng,62,活気,かっき,TITLE_IN_PDF
+N2-vocab-0201,N2,vocab,N2 Junbi Từ vựng,63,放映,ほうえい,TITLE_IN_PDF
+N2-vocab-0202,N2,vocab,N2 Junbi Từ vựng,63,採用,さいよう,TITLE_IN_PDF
+N2-vocab-0203,N2,vocab,N2 Junbi Từ vựng,64,進出,しんしゅつ,TITLE_IN_PDF
+N2-vocab-0204,N2,vocab,N2 Junbi Từ vựng,64,俳優,はいゆう,TITLE_IN_PDF
+N2-vocab-0205,N2,vocab,N2 Junbi Từ vựng,64,組織,そしき,TITLE_IN_PDF
+N2-vocab-0206,N2,vocab,N2 Junbi Từ vựng,64,真夏,まなつ,TITLE_IN_PDF
+N2-vocab-0207,N2,vocab,N2 Junbi Từ vựng,65,政党,せいとう,TITLE_IN_PDF
+N2-vocab-0208,N2,vocab,N2 Junbi Từ vựng,65,退場,たいじょう,TITLE_IN_PDF
+N2-vocab-0209,N2,vocab,N2 Junbi Từ vựng,65,拡大,かくだい,TITLE_IN_PDF
+N2-vocab-0210,N2,vocab,N2 Junbi Từ vựng,65,向上,こうじょう,TITLE_IN_PDF
+N2-vocab-0211,N2,vocab,N2 Junbi Từ vựng,66,需要,じゅよう,TITLE_IN_PDF
+N2-vocab-0212,N2,vocab,N2 Junbi Từ vựng,66,半球,はんきゅう,TITLE_IN_PDF
+N2-vocab-0213,N2,vocab,N2 Junbi Từ vựng,66,投票,とうひょう,TITLE_IN_PDF
+N2-vocab-0214,N2,vocab,N2 Junbi Từ vựng,67,主人公,しゅじんこう,TITLE_IN_PDF
+N2-vocab-0215,N2,vocab,N2 Junbi Từ vựng,67,区切り,くぎり,TITLE_IN_PDF
+N2-vocab-0216,N2,vocab,N2 Junbi Từ vựng,67,雷,かみなり,TITLE_IN_PDF
+N2-vocab-0217,N2,vocab,N2 Junbi Từ vựng,67,試し,ためし,TITLE_IN_PDF
+N2-vocab-0218,N2,vocab,N2 Junbi Từ vựng,67,保障,ほしょう,TITLE_IN_PDF
+N2-vocab-0219,N2,vocab,N2 Junbi Từ vựng,68,筆者,ひっしゃ,TITLE_IN_PDF
+N2-vocab-0220,N2,vocab,N2 Junbi Từ vựng,68,休憩,きゅうけい,TITLE_IN_PDF
+N2-vocab-0221,N2,vocab,N2 Junbi Từ vựng,69,歌謡曲,かようきょく,TITLE_IN_PDF
+N2-vocab-0222,N2,vocab,N2 Junbi Từ vựng,69,候補,こうほ,TITLE_IN_PDF
+N2-vocab-0223,N2,vocab,N2 Junbi Từ vựng,69,分配,ぶんぱい,TITLE_IN_PDF
+N2-vocab-0224,N2,vocab,N2 Junbi Từ vựng,70,状況,じょうきょう,TITLE_IN_PDF
+N2-vocab-0225,N2,vocab,N2 Junbi Từ vựng,70,概要,がいよう,TITLE_IN_PDF
+N2-vocab-0226,N2,vocab,N2 Junbi Từ vựng,70,役割,やくわり,TITLE_IN_PDF
+N2-vocab-0227,N2,vocab,N2 Junbi Từ vựng,70,異文化,いぶんか,TITLE_IN_PDF
+N2-vocab-0228,N2,vocab,N2 Junbi Từ vựng,71,初心者,しょしんしゃ,TITLE_IN_PDF
+N2-vocab-0229,N2,vocab,N2 Junbi Từ vựng,71,いたずら,,TITLE_IN_PDF
+N2-vocab-0230,N2,vocab,N2 Junbi Từ vựng,71,対等,たいとう,TITLE_IN_PDF
+N2-vocab-0231,N2,vocab,N2 Junbi Từ vựng,72,鶴,つる,TITLE_IN_PDF
+N2-vocab-0232,N2,vocab,N2 Junbi Từ vựng,72,用具,ようぐ,TITLE_IN_PDF
+N2-vocab-0233,N2,vocab,N2 Junbi Từ vựng,72,舌,,TITLE_IN_PDF
+N2-vocab-0234,N2,vocab,N2 Junbi Từ vựng,73,原稿,げんこう,TITLE_IN_PDF
+N2-vocab-0235,N2,vocab,N2 Junbi Từ vựng,73,改訂,かいてい,TITLE_IN_PDF
+N2-vocab-0236,N2,vocab,N2 Junbi Từ vựng,73,証拠,しょうこ,TITLE_IN_PDF
+N2-vocab-0237,N2,vocab,N2 Junbi Từ vựng,73,撮影,さつえい,TITLE_IN_PDF
+N2-vocab-0238,N2,vocab,N2 Junbi Từ vựng,74,批判,ひはん,TITLE_IN_PDF
+N2-vocab-0239,N2,vocab,N2 Junbi Từ vựng,74,思考,しこう,TITLE_IN_PDF
+N2-vocab-0240,N2,vocab,N2 Junbi Từ vựng,74,高層,こうそう,TITLE_IN_PDF
+N2-vocab-0241,N2,vocab,N2 Junbi Từ vựng,75,提出,ていしゅつ,TITLE_IN_PDF
+N2-vocab-0242,N2,vocab,N2 Junbi Từ vựng,75,議論,ぎろん,TITLE_IN_PDF
+N2-vocab-0243,N2,vocab,N2 Junbi Từ vựng,76,姿,すがた,TITLE_IN_PDF
+N2-vocab-0244,N2,vocab,N2 Junbi Từ vựng,76,共同,きょうどう,TITLE_IN_PDF
+N2-vocab-0245,N2,vocab,N2 Junbi Từ vựng,76,転職,てんしょく,TITLE_IN_PDF
+N2-vocab-0246,N2,vocab,N2 Junbi Từ vựng,76,日差し,ひざし,TITLE_IN_RAW_ONLY
+N2-vocab-0247,N2,vocab,N2 Junbi Từ vựng,77,絵画展,かいがてん,TITLE_IN_PDF
+N2-vocab-0248,N2,vocab,N2 Junbi Từ vựng,77,採集,さいしゅう,TITLE_IN_PDF
+N2-vocab-0249,N2,vocab,N2 Junbi Từ vựng,77,取得,しゅとく,TITLE_IN_PDF
+N2-vocab-0250,N2,vocab,N2 Junbi Từ vựng,77,天候,てんこう,TITLE_IN_PDF
+N2-vocab-0251,N2,vocab,N2 Junbi Từ vựng,79,疑問,ぎもん,TITLE_IN_PDF
+N2-vocab-0252,N2,vocab,N2 Junbi Từ vựng,79,専攻,せんこう,TITLE_IN_PDF
+N2-vocab-0253,N2,vocab,N2 Junbi Từ vựng,80,防犯,ぼうはん,TITLE_IN_PDF
+N2-vocab-0254,N2,vocab,N2 Junbi Từ vựng,80,事業,じぎょう,TITLE_IN_PDF
+N2-vocab-0255,N2,vocab,N2 Junbi Từ vựng,80,予想,よそう,TITLE_IN_PDF
+N2-vocab-0256,N2,vocab,N2 Junbi Từ vựng,80,誤解,ごかい,TITLE_IN_PDF
+N2-vocab-0257,N2,vocab,N2 Junbi Từ vựng,81,気候,きこう,TITLE_IN_PDF
+N2-vocab-0258,N2,vocab,N2 Junbi Từ vựng,81,講座,こうざ,TITLE_IN_PDF
+N2-vocab-0259,N2,vocab,N2 Junbi Từ vựng,81,設計,せっけい,TITLE_IN_PDF
+N2-vocab-0260,N2,vocab,N2 Junbi Từ vựng,81,受賞,じゅしょう,TITLE_IN_PDF
+N2-vocab-0261,N2,vocab,N2 Junbi Từ vựng,82,要点,ようてん,TITLE_IN_PDF
+N2-vocab-0262,N2,vocab,N2 Junbi Từ vựng,82,購入,こうにゅう,TITLE_IN_PDF
+N2-vocab-0263,N2,vocab,N2 Junbi Từ vựng,82,再発,さいはつ,TITLE_IN_PDF
+N2-vocab-0264,N2,vocab,N2 Junbi Từ vựng,83,講演,こうえん,TITLE_IN_PDF
+N2-vocab-0265,N2,vocab,N2 Junbi Từ vựng,83,対策,たいさく,TITLE_IN_PDF
+N2-vocab-0266,N2,vocab,N2 Junbi Từ vựng,83,優先,ゆうせん,TITLE_IN_PDF
+N2-vocab-0267,N2,vocab,N2 Junbi Từ vựng,83,勤務,きんむ,TITLE_IN_PDF
+N2-vocab-0268,N2,vocab,N2 Junbi Từ vựng,84,覚悟,かくご,TITLE_IN_PDF
+N2-vocab-0269,N2,vocab,N2 Junbi Từ vựng,84,手数料,てすうりょう,TITLE_IN_PDF
+N2-vocab-0270,N2,vocab,N2 Junbi Từ vựng,84,記録,きろく,TITLE_IN_PDF
+N2-vocab-0271,N2,vocab,N2 Junbi Từ vựng,85,免許,めんきょ,TITLE_IN_PDF
+N2-vocab-0272,N2,vocab,N2 Junbi Từ vựng,85,手前,てまえ,TITLE_IN_PDF
+N2-vocab-0273,N2,vocab,N2 Junbi Từ vựng,85,演技,えんぎ,TITLE_IN_PDF
+N2-vocab-0274,N2,vocab,N2 Junbi Từ vựng,86,監督,かんとく,TITLE_IN_PDF
+N2-vocab-0275,N2,vocab,N2 Junbi Từ vựng,86,出場,しゅつじょう,TITLE_IN_PDF
+N2-vocab-0276,N2,vocab,N2 Junbi Từ vựng,86,選択,せんたく,TITLE_IN_PDF
+N2-vocab-0277,N2,vocab,N2 Junbi Từ vựng,86,演奏,えんそう,TITLE_IN_PDF
+N2-vocab-0278,N2,vocab,N2 Junbi Từ vựng,86,仕組み,しくみ,TITLE_IN_PDF
+N2-vocab-0279,N2,vocab,N2 Junbi Từ vựng,87,一変,いっぺん,TITLE_IN_PDF
+N2-vocab-0280,N2,vocab,N2 Junbi Từ vựng,87,援助,えんじょ,TITLE_IN_PDF
+N2-vocab-0281,N2,vocab,N2 Junbi Từ vựng,88,伝言,でんごん,TITLE_IN_PDF
+N2-vocab-0282,N2,vocab,N2 Junbi Từ vựng,88,真実,しんじつ,TITLE_IN_PDF
+N2-vocab-0283,N2,vocab,N2 Junbi Từ vựng,88,でたらめ,,TITLE_IN_PDF
+N2-vocab-0284,N2,vocab,N2 Junbi Từ vựng,89,各々,おのおの,TITLE_IN_PDF
+N2-vocab-0285,N2,vocab,N2 Junbi Từ vựng,89,打ち合わせ,うあわせ,TITLE_IN_PDF
+N2-vocab-0286,N2,vocab,N2 Junbi Từ vựng,89,礼儀,れいぎ,TITLE_IN_PDF
+N2-vocab-0287,N2,vocab,N2 Junbi Từ vựng,89,訓練,くんれん,TITLE_IN_PDF
+N2-vocab-0288,N2,vocab,N2 Junbi Từ vựng,90,娯楽,ごらく,TITLE_IN_PDF
+N2-vocab-0289,N2,vocab,N2 Junbi Từ vựng,90,当たり前,あまえ,TITLE_IN_PDF
+N2-vocab-0290,N2,vocab,N2 Junbi Từ vựng,90,あちこち,,TITLE_IN_PDF
+N2-vocab-0291,N2,vocab,N2 Junbi Từ vựng,91,あらすじ,,TITLE_IN_PDF
+N2-vocab-0292,N2,vocab,N2 Junbi Từ vựng,91,呑気,のんき,TITLE_IN_PDF
+N2-vocab-0293,N2,vocab,N2 Junbi Từ vựng,91,普段,ふだん,TITLE_IN_PDF
+N2-vocab-0294,N2,vocab,N2 Junbi Từ vựng,92,黑字,くろじ,TITLE_IN_PDF
+N2-vocab-0295,N2,vocab,N2 Junbi Từ vựng,92,感謝,かんしゃ,TITLE_IN_PDF
+N2-vocab-0296,N2,vocab,N2 Junbi Từ vựng,92,拒否,きょひ,TITLE_IN_PDF
+N2-vocab-0297,N2,vocab,N2 Junbi Từ vựng,92,景色,けしき,TITLE_IN_PDF
+N2-vocab-0298,N2,vocab,N2 Junbi Từ vựng,93,貿易,ぼうえき,TITLE_IN_PDF
+N2-vocab-0299,N2,vocab,N2 Junbi Từ vựng,93,防災,ぼうさい,TITLE_IN_PDF
+N2-vocab-0300,N2,vocab,N2 Junbi Từ vựng,93,装置,そうち,TITLE_IN_PDF
+N2-vocab-0301,N2,vocab,N2 Junbi Từ vựng,94,治療,ちりょう,TITLE_IN_PDF
+N2-vocab-0302,N2,vocab,N2 Junbi Từ vựng,94,医療,いりょう,TITLE_IN_PDF
+N2-vocab-0303,N2,vocab,N2 Junbi Từ vựng,94,針,はり,TITLE_IN_PDF
+N2-vocab-0304,N2,vocab,N2 Junbi Từ vựng,95,行事,ぎょうじ,TITLE_IN_PDF
+N2-vocab-0305,N2,vocab,N2 Junbi Từ vựng,95,供給,きょうきゅう,TITLE_IN_PDF
+N2-vocab-0306,N2,vocab,N2 Junbi Từ vựng,95,設備,せつび,TITLE_IN_PDF
+N2-vocab-0307,N2,vocab,N2 Junbi Từ vựng,95,建設,けんせつ,TITLE_IN_PDF
+N2-vocab-0308,N2,vocab,N2 Junbi Từ vựng,96,印刷,いんさつ,TITLE_IN_PDF
+N2-vocab-0309,N2,vocab,N2 Junbi Từ vựng,96,貨物,かもつ,TITLE_IN_PDF
+N2-vocab-0310,N2,vocab,N2 Junbi Từ vựng,96,延期,えんき,TITLE_IN_PDF
+N2-vocab-0311,N2,vocab,N2 Junbi Từ vựng,97,機嫌,きげん,TITLE_IN_PDF
+N2-vocab-0312,N2,vocab,N2 Junbi Từ vựng,97,規制,きせい,TITLE_IN_PDF
+N2-vocab-0313,N2,vocab,N2 Junbi Từ vựng,97,皮膚,ひふ,TITLE_IN_PDF
+N2-vocab-0314,N2,vocab,N2 Junbi Từ vựng,98,熱演,ねつえん,TITLE_IN_PDF
+N2-vocab-0315,N2,vocab,N2 Junbi Từ vựng,98,就職,しゅうしょく,TITLE_IN_PDF
+N2-vocab-0316,N2,vocab,N2 Junbi Từ vựng,98,構造,こうぞう,TITLE_IN_PDF
+N2-vocab-0317,N2,vocab,N2 Junbi Từ vựng,98,更新,こうしん,TITLE_IN_PDF
+N2-vocab-0318,N2,vocab,N2 Junbi Từ vựng,98,予防,よぼう,TITLE_IN_PDF
+N2-vocab-0319,N2,vocab,N2 Junbi Từ vựng,99,警備,けいび,TITLE_IN_PDF
+N2-vocab-0320,N2,vocab,N2 Junbi Từ vựng,99,賃貸,ちんたい,TITLE_IN_PDF
+N2-vocab-0321,N2,vocab,N2 Junbi Từ vựng,100,差別,さべつ,TITLE_IN_PDF
+N2-vocab-0322,N2,vocab,N2 Junbi Từ vựng,100,標準,ひょうじゅん,TITLE_IN_PDF
+N2-vocab-0323,N2,vocab,N2 Junbi Từ vựng,100,名誉,めいよ,TITLE_IN_PDF
+N2-vocab-0324,N2,vocab,N2 Junbi Từ vựng,101,豊富,ほうふ,TITLE_IN_PDF
+N2-vocab-0325,N2,vocab,N2 Junbi Từ vựng,101,平等,びょうどう,TITLE_IN_PDF
+N2-vocab-0326,N2,vocab,N2 Junbi Từ vựng,101,症状,しょうじょう,TITLE_IN_PDF
+N2-vocab-0327,N2,vocab,N2 Junbi Từ vựng,101,見出し,みだし,TITLE_IN_PDF
+N2-vocab-0328,N2,vocab,N2 Junbi Từ vựng,101,結論,けつろん,TITLE_IN_PDF
+N2-vocab-0329,N2,vocab,N2 Junbi Từ vựng,102,未熟,みじゅく,TITLE_IN_PDF
+N2-vocab-0330,N2,vocab,N2 Junbi Từ vựng,102,壁,かべ,TITLE_IN_PDF
+N2-vocab-0331,N2,vocab,N2 Junbi Từ vựng,103,景気,けいき,TITLE_IN_PDF
+N2-vocab-0332,N2,vocab,N2 Junbi Từ vựng,103,募集,ぼしゅう,TITLE_IN_PDF
+N2-vocab-0333,N2,vocab,N2 Junbi Từ vựng,104,活発,かっぱつ,TITLE_IN_PDF
+N2-vocab-0334,N2,vocab,N2 Junbi Từ vựng,104,手間,てま,TITLE_IN_PDF
+N2-vocab-0335,N2,vocab,N2 Junbi Từ vựng,105,感覚,かんかく,TITLE_IN_PDF
+N2-vocab-0336,N2,vocab,N2 Junbi Từ vựng,105,余裕,よゆう,TITLE_IN_PDF
+N2-vocab-0337,N2,vocab,N2 Junbi Từ vựng,105,講師,こうし,TITLE_IN_PDF
+N2-vocab-0338,N2,vocab,N2 Junbi Từ vựng,105,低下,ていか,TITLE_IN_PDF
+N2-vocab-0339,N2,vocab,N2 Junbi Từ vựng,106,赤字,あかじ,TITLE_IN_PDF
+N2-vocab-0340,N2,vocab,N2 Junbi Từ vựng,106,要求,ようきゅう,TITLE_IN_PDF
+N2-vocab-0341,N2,vocab,N2 Junbi Từ vựng,107,見事,みごと,TITLE_IN_PDF
+N2-vocab-0342,N2,vocab,N2 Junbi Từ vựng,107,休養,きゅうよう,TITLE_IN_PDF
+N2-vocab-0343,N2,vocab,N2 Junbi Từ vựng,108,肌,はだ,TITLE_IN_PDF
+N2-vocab-0344,N2,vocab,N2 Junbi Từ vựng,108,生きがい,,TITLE_IN_PDF
+N2-vocab-0345,N2,vocab,N2 Junbi Từ vựng,108,食卓,しょくたく,TITLE_IN_PDF
+N2-vocab-0346,N2,vocab,N2 Junbi Từ vựng,108,味方,みかた,TITLE_IN_PDF
+N2-vocab-0347,N2,vocab,N2 Junbi Từ vựng,109,同僚,どうりょう,TITLE_IN_PDF
+N2-vocab-0348,N2,vocab,N2 Junbi Từ vựng,109,人物,じんぶつ,TITLE_IN_PDF
+N2-vocab-0349,N2,vocab,N2 Junbi Từ vựng,109,しわ,,TITLE_IN_PDF
+N2-vocab-0350,N2,vocab,N2 Junbi Từ vựng,110,処分,,TITLE_IN_PDF
+N2-vocab-0351,N2,vocab,N2 Junbi Từ vựng,111,負担,ふたん,TITLE_IN_PDF
+N2-vocab-0352,N2,vocab,N2 Junbi Từ vựng,111,省エネ,しょうエネ,TITLE_IN_PDF
+N2-vocab-0353,N2,vocab,N2 Junbi Từ vựng,111,海水浴,かいすいよく,TITLE_IN_PDF
+N2-vocab-0354,N2,vocab,N2 Junbi Từ vựng,112,妊娠,にんしん,TITLE_IN_PDF
+N2-vocab-0355,N2,vocab,N2 Junbi Từ vựng,112,大半,たいはん,TITLE_IN_PDF
+N2-vocab-0356,N2,vocab,N2 Junbi Từ vựng,112,おじぎ,,TITLE_IN_PDF
+N2-vocab-0357,N2,vocab,N2 Junbi Từ vựng,112,推薦,すいせん,TITLE_IN_PDF
+N2-vocab-0358,N2,vocab,N2 Junbi Từ vựng,112,記号,きごう,TITLE_IN_PDF
+N2-vocab-0359,N2,vocab,N2 Junbi Từ vựng,113,勘,かん,TITLE_IN_PDF
+N2-vocab-0360,N2,vocab,N2 Junbi Từ vựng,113,検索,けんさく,TITLE_IN_PDF
+N2-vocab-0361,N2,vocab,N2 Junbi Từ vựng,114,設定,せってい,TITLE_IN_PDF
+N2-vocab-0362,N2,vocab,N2 Junbi Từ vựng,114,遺伝,いでん,TITLE_IN_PDF
+N2-vocab-0363,N2,vocab,N2 Junbi Từ vựng,114,後日,ごじつ,TITLE_IN_PDF
+N2-vocab-0364,N2,vocab,N2 Junbi Từ vựng,115,制度,せいど,TITLE_IN_PDF
+N2-vocab-0365,N2,vocab,N2 Junbi Từ vựng,115,作業,さぎょう,TITLE_IN_PDF
+N2-vocab-0366,N2,vocab,N2 Junbi Từ vựng,115,至急,しきゅう,TITLE_IN_PDF
+N2-vocab-0367,N2,vocab,N2 Junbi Từ vựng,115,年月,ねんげつ,TITLE_IN_PDF
+N2-vocab-0368,N2,vocab,N2 Junbi Từ vựng,116,: 自然にあるものを人間が作る,じんこう,TITLE_IN_PDF
+N2-vocab-0369,N2,vocab,N2 Junbi Từ vựng,116,天然,てんねん,TITLE_IN_PDF
+N2-vocab-0370,N2,vocab,N2 Junbi Từ vựng,116,重視,じゅうし,TITLE_IN_PDF
+N2-vocab-0371,N2,vocab,N2 Junbi Từ vựng,117,対立,たいりつ,TITLE_IN_PDF
+N2-vocab-0372,N2,vocab,N2 Junbi Từ vựng,117,面積,めんせき,TITLE_IN_PDF
+N2-vocab-0373,N2,vocab,N2 Junbi Từ vựng,118,熱中,ねっちゅう,TITLE_IN_PDF
+N2-vocab-0374,N2,vocab,N2 Junbi Từ vựng,118,日光,にっこう,TITLE_IN_PDF
+N2-vocab-0375,N2,vocab,N2 Junbi Từ vựng,118,周辺,しゅうへん,TITLE_IN_PDF
+N2-vocab-0376,N2,vocab,N2 Junbi Từ vựng,119,元,もと,TITLE_IN_PDF
+N2-vocab-0377,N2,vocab,N2 Junbi Từ vựng,119,見た目,みため,TITLE_IN_PDF
+N2-vocab-0378,N2,vocab,N2 Junbi Từ vựng,119,夜中,よなか,TITLE_IN_PDF
+N2-vocab-0379,N2,vocab,N2 Junbi Từ vựng,120,実施,じっし,TITLE_IN_PDF
+N2-vocab-0380,N2,vocab,N2 Junbi Từ vựng,120,価値,かち,TITLE_IN_PDF
+N2-vocab-0381,N2,vocab,N2 Junbi Từ vựng,121,義務,ぎむ,TITLE_IN_PDF
+N2-vocab-0382,N2,vocab,N2 Junbi Từ vựng,121,背景,はいけい,TITLE_IN_PDF
+N2-vocab-0383,N2,vocab,N2 Junbi Từ vựng,122,起動,きどう,TITLE_IN_PDF
+N2-vocab-0384,N2,vocab,N2 Junbi Từ vựng,122,操作,そうさ,TITLE_IN_PDF
+N2-vocab-0385,N2,vocab,N2 Junbi Từ vựng,122,著者,ちょしゃ,TITLE_IN_PDF
+N2-vocab-0386,N2,vocab,N2 Junbi Từ vựng,122,診察,しんさつ,TITLE_IN_PDF
+N2-vocab-0387,N2,vocab,N2 Junbi Từ vựng,123,批評,ひひょう,TITLE_IN_PDF
+N2-vocab-0388,N2,vocab,N2 Junbi Từ vựng,123,出世,しゅっせ,TITLE_IN_PDF
+N2-vocab-0389,N2,vocab,N2 Junbi Từ vựng,123,宿泊,しゅくはく,TITLE_IN_PDF
+N2-vocab-0390,N2,vocab,N2 Junbi Từ vựng,124,便・便,びんべん,TITLE_IN_RAW_ONLY
+N2-vocab-0391,N2,vocab,N2 Junbi Từ vựng,125,収集,しゅうしゅう,TITLE_IN_PDF
+N2-vocab-0392,N2,vocab,N2 Junbi Từ vựng,125,参考,さんこう,TITLE_IN_PDF
+N2-vocab-0393,N2,vocab,N2 Junbi Từ vựng,126,汚染,おせん,TITLE_IN_PDF
+N2-vocab-0394,N2,vocab,N2 Junbi Từ vựng,126,土地,とち,TITLE_IN_PDF
+N2-vocab-0395,N2,vocab,N2 Junbi Từ vựng,126,公共,こうきょう,TITLE_IN_PDF
+N2-vocab-0396,N2,vocab,N2 Junbi Từ vựng,126,本来,ほんらい,TITLE_IN_PDF
+N2-vocab-0397,N2,vocab,N2 Junbi Từ vựng,127,理想,りそう,TITLE_IN_PDF
+N2-vocab-0398,N2,vocab,N2 Junbi Từ vựng,127,大気,たいき,TITLE_IN_PDF
+N2-vocab-0399,N2,vocab,N2 Junbi Từ vựng,127,名作,めいさく,TITLE_IN_PDF
+N2-vocab-0400,N2,vocab,N2 Junbi Từ vựng,127,劇場,げきじょう,TITLE_IN_PDF
+N2-vocab-0401,N2,vocab,N2 Junbi Từ vựng,128,休講,きゅうこう,TITLE_IN_PDF
+N2-vocab-0402,N2,vocab,N2 Junbi Từ vựng,128,全身,ぜんしん,TITLE_IN_PDF
+N2-vocab-0403,N2,vocab,N2 Junbi Từ vựng,128,能率,のうりつ,TITLE_IN_PDF
+N2-vocab-0404,N2,vocab,N2 Junbi Từ vựng,129,(銀行)口座,ぎんこうこうざ,TITLE_IN_RAW_ONLY
+N2-vocab-0405,N2,vocab,N2 Junbi Từ vựng,129,製造,せいぞう,TITLE_IN_PDF
+N2-vocab-0406,N2,vocab,N2 Junbi Từ vựng,129,国会,こっかい,TITLE_IN_PDF
+N2-vocab-0407,N2,vocab,N2 Junbi Từ vựng,129,図形,ずけい,TITLE_IN_PDF
+N2-vocab-0408,N2,vocab,N2 Junbi Từ vựng,130,好き嫌い,すきらい,TITLE_IN_PDF
+N2-vocab-0409,N2,vocab,N2 Junbi Từ vựng,130,思い込み,おもこみ,TITLE_IN_PDF
+N2-vocab-0410,N2,vocab,N2 Junbi Từ vựng,130,通知,つうち,TITLE_IN_PDF
+N2-vocab-0411,N2,vocab,N2 Junbi Từ vựng,131,反抗,はんこう,TITLE_IN_PDF
+N2-vocab-0412,N2,vocab,N2 Junbi Từ vựng,131,無駄,むだ,TITLE_IN_PDF
+N2-vocab-0413,N2,vocab,N2 Junbi Từ vựng,131,休暇,きゅうか,TITLE_IN_PDF
+N2-vocab-0414,N2,vocab,N2 Junbi Từ vựng,132,眺める,ながめる,TITLE_IN_RAW_ONLY
+N2-vocab-0415,N2,vocab,N2 Junbi Từ vựng,132,感心する,かんしんする,TITLE_IN_RAW_ONLY
+N2-vocab-0416,N2,vocab,N2 Junbi Từ vựng,132,発揮,はっき,TITLE_IN_PDF
+N2-vocab-0417,N2,vocab,N2 Junbi Từ vựng,132,尽きる,つきる,TITLE_IN_RAW_ONLY
+N2-vocab-0418,N2,vocab,N2 Junbi Từ vựng,132,相次ぐ,あいつぐ,TITLE_IN_RAW_ONLY
+N2-vocab-0419,N2,vocab,N2 Junbi Từ vựng,133,外す,はずす,TITLE_IN_PDF
+N2-vocab-0420,N2,vocab,N2 Junbi Từ vựng,133,保つ,たもつ,TITLE_IN_PDF
+N2-vocab-0421,N2,vocab,N2 Junbi Từ vựng,134,詰まる,つまる,TITLE_IN_PDF
+N2-vocab-0422,N2,vocab,N2 Junbi Từ vựng,134,縮む,ちぢむ,TITLE_IN_RAW_ONLY
+N2-vocab-0423,N2,vocab,N2 Junbi Từ vựng,134,叶う,かのう,TITLE_IN_RAW_ONLY
+N2-vocab-0424,N2,vocab,N2 Junbi Từ vựng,135,追う,おう,TITLE_IN_RAW_ONLY
+N2-vocab-0425,N2,vocab,N2 Junbi Từ vựng,135,俯く,うつむく,TITLE_IN_RAW_ONLY
+N2-vocab-0426,N2,vocab,N2 Junbi Từ vựng,135,湿る,しめる,TITLE_IN_PDF
+N2-vocab-0427,N2,vocab,N2 Junbi Từ vựng,135,誤る,あやまる,TITLE_IN_PDF
+N2-vocab-0428,N2,vocab,N2 Junbi Từ vựng,136,塞ぐ,ふさぐ,TITLE_IN_PDF
+N2-vocab-0429,N2,vocab,N2 Junbi Từ vựng,136,終える,おえる,TITLE_IN_RAW_ONLY
+N2-vocab-0430,N2,vocab,N2 Junbi Từ vựng,136,偏る,かたよる,TITLE_IN_RAW_ONLY
+N2-vocab-0431,N2,vocab,N2 Junbi Từ vựng,137,つまずく,,TITLE_IN_PDF
+N2-vocab-0432,N2,vocab,N2 Junbi Từ vựng,137,目指す,めざす,TITLE_IN_RAW_ONLY
+N2-vocab-0433,N2,vocab,N2 Junbi Từ vựng,137,蓄える,たくわえる,TITLE_IN_PDF
+N2-vocab-0434,N2,vocab,N2 Junbi Từ vựng,138,異なる,ことなる,TITLE_IN_PDF
+N2-vocab-0435,N2,vocab,N2 Junbi Từ vựng,138,面する,めん,TITLE_IN_PDF
+N2-vocab-0436,N2,vocab,N2 Junbi Từ vựng,138,甘やかす,あま,TITLE_IN_RAW_ONLY
+N2-vocab-0437,N2,vocab,N2 Junbi Từ vựng,139,にごる,,TITLE_IN_PDF
+N2-vocab-0438,N2,vocab,N2 Junbi Từ vựng,139,つぶす,,TITLE_IN_PDF
+N2-vocab-0439,N2,vocab,N2 Junbi Từ vựng,139,ささやく,,TITLE_IN_PDF
+N2-vocab-0440,N2,vocab,N2 Junbi Từ vựng,140,生じる,しょう,TITLE_IN_PDF
+N2-vocab-0441,N2,vocab,N2 Junbi Từ vựng,141,さびる,,TITLE_IN_PDF
+N2-vocab-0442,N2,vocab,N2 Junbi Từ vựng,141,悔やむ,くやむ,TITLE_IN_RAW_ONLY
+N2-vocab-0443,N2,vocab,N2 Junbi Từ vựng,141,譲る,ゆずる,TITLE_IN_PDF
+N2-vocab-0444,N2,vocab,N2 Junbi Từ vựng,142,略す,りゃくす,TITLE_IN_RAW_ONLY
+N2-vocab-0445,N2,vocab,N2 Junbi Từ vựng,142,覆う,おおう,TITLE_IN_RAW_ONLY
+N2-vocab-0446,N2,vocab,N2 Junbi Từ vựng,142,接する,せっする,TITLE_IN_PDF
+N2-vocab-0447,N2,vocab,N2 Junbi Từ vựng,143,衰える,おとろえる,TITLE_IN_PDF
+N2-vocab-0448,N2,vocab,N2 Junbi Từ vựng,143,うなずく,,TITLE_IN_PDF
+N2-vocab-0449,N2,vocab,N2 Junbi Từ vựng,143,染みる,しみる,TITLE_IN_PDF
+N2-vocab-0450,N2,vocab,N2 Junbi Từ vựng,143,めくる,,TITLE_IN_PDF
+N2-vocab-0451,N2,vocab,N2 Junbi Từ vựng,144,いじる,,TITLE_IN_PDF
+N2-vocab-0452,N2,vocab,N2 Junbi Từ vựng,145,構う,かまう,TITLE_IN_RAW_ONLY
+N2-vocab-0453,N2,vocab,N2 Junbi Từ vựng,145,納める,おさめる,TITLE_IN_PDF
+N2-vocab-0454,N2,vocab,N2 Junbi Từ vựng,145,潜る,もぐる,TITLE_IN_RAW_ONLY
+N2-vocab-0455,N2,vocab,N2 Junbi Từ vựng,145,埋まる,うまる,TITLE_IN_RAW_ONLY
+N2-vocab-0456,N2,vocab,N2 Junbi Từ vựng,146,至る,いた,TITLE_IN_PDF
+N2-vocab-0457,N2,vocab,N2 Junbi Từ vựng,146,挟む,はさむ,TITLE_IN_RAW_ONLY
+N2-vocab-0458,N2,vocab,N2 Junbi Từ vựng,146,省く,はぶく,TITLE_IN_PDF
+N2-vocab-0459,N2,vocab,N2 Junbi Từ vựng,147,傾く,かたむく,TITLE_IN_PDF
+N2-vocab-0460,N2,vocab,N2 Junbi Từ vựng,147,添える,そえる,TITLE_IN_RAW_ONLY
+N2-vocab-0461,N2,vocab,N2 Junbi Từ vựng,148,散らかる,ちらかる,TITLE_IN_RAW_ONLY
+N2-vocab-0462,N2,vocab,N2 Junbi Từ vựng,148,抱える,かかえる,TITLE_IN_RAW_ONLY
+N2-vocab-0463,N2,vocab,N2 Junbi Từ vựng,149,揃う,そろう,TITLE_IN_RAW_ONLY
+N2-vocab-0464,N2,vocab,N2 Junbi Từ vựng,149,欠かす,か,TITLE_IN_PDF
+N2-vocab-0465,N2,vocab,N2 Junbi Từ vựng,150,隠れる,かくれる,TITLE_IN_RAW_ONLY
+N2-vocab-0466,N2,vocab,N2 Junbi Từ vựng,150,とらえる,,TITLE_IN_PDF
+N2-vocab-0467,N2,vocab,N2 Junbi Từ vựng,151,招く,まねく,TITLE_IN_PDF
+N2-vocab-0468,N2,vocab,N2 Junbi Từ vựng,151,似る,にる,TITLE_IN_RAW_ONLY
+N2-vocab-0469,N2,vocab,N2 Junbi Từ vựng,151,崩れる,くずれる,TITLE_IN_RAW_ONLY
+N2-vocab-0470,N2,vocab,N2 Junbi Từ vựng,151,睨む,にらむ,TITLE_IN_RAW_ONLY
+N2-vocab-0471,N2,vocab,N2 Junbi Từ vựng,152,屈む,かかむ,TITLE_IN_RAW_ONLY
+N2-vocab-0472,N2,vocab,N2 Junbi Từ vựng,152,訪ねる,たずねる,TITLE_IN_PDF
+N2-vocab-0473,N2,vocab,N2 Junbi Từ vựng,152,狙う,ねらう,TITLE_IN_PDF
+N2-vocab-0474,N2,vocab,N2 Junbi Từ vựng,153,生かす,い,TITLE_IN_PDF
+N2-vocab-0475,N2,vocab,N2 Junbi Từ vựng,153,しびれる,,TITLE_IN_PDF
+N2-vocab-0476,N2,vocab,N2 Junbi Từ vựng,153,まく,,TITLE_IN_PDF
+N2-vocab-0477,N2,vocab,N2 Junbi Từ vựng,154,収める,おさめる,TITLE_IN_PDF
+N2-vocab-0478,N2,vocab,N2 Junbi Từ vựng,154,扱う,あつかう,TITLE_IN_RAW_ONLY
+N2-vocab-0479,N2,vocab,N2 Junbi Từ vựng,155,就く,つく,TITLE_IN_PDF
+N2-vocab-0480,N2,vocab,N2 Junbi Từ vựng,155,恵まれる,めぐまれる,TITLE_IN_RAW_ONLY
+N2-vocab-0481,N2,vocab,N2 Junbi Từ vựng,156,導く,みちびく,TITLE_IN_PDF
+N2-vocab-0482,N2,vocab,N2 Junbi Từ vựng,156,努める,つとめる,TITLE_IN_PDF
+N2-vocab-0483,N2,vocab,N2 Junbi Từ vựng,156,傷む,いたむ,TITLE_IN_PDF
+N2-vocab-0484,N2,vocab,N2 Junbi Từ vựng,157,演じる,えんじる,TITLE_IN_PDF
+N2-vocab-0485,N2,vocab,N2 Junbi Từ vựng,157,述べる,のべる,TITLE_IN_PDF
+N2-vocab-0486,N2,vocab,N2 Junbi Từ vựng,157,けなす,,TITLE_IN_PDF
+N2-vocab-0487,N2,vocab,N2 Junbi Từ vựng,157,築く,きずく,TITLE_IN_PDF
+N2-vocab-0488,N2,vocab,N2 Junbi Từ vựng,158,限る,かぎる,TITLE_IN_PDF
+N2-vocab-0489,N2,vocab,N2 Junbi Từ vựng,158,依頼する,いらいする,TITLE_IN_RAW_ONLY
+N2-vocab-0490,N2,vocab,N2 Junbi Từ vựng,158,報じる,ほうじる,TITLE_IN_PDF
+N2-vocab-0491,N2,vocab,N2 Junbi Từ vựng,159,詫びる,わびる,TITLE_IN_PDF
+N2-vocab-0492,N2,vocab,N2 Junbi Từ vựng,159,威張る,いばる,TITLE_IN_RAW_ONLY
+N2-vocab-0493,N2,vocab,N2 Junbi Từ vựng,160,破る,やぶる,TITLE_IN_PDF
+N2-vocab-0494,N2,vocab,N2 Junbi Từ vựng,160,一致する,いっちする,TITLE_IN_RAW_ONLY
+N2-vocab-0495,N2,vocab,N2 Junbi Từ vựng,160,主張する,しゅちょうする,TITLE_IN_PDF
+N2-vocab-0496,N2,vocab,N2 Junbi Từ vựng,161,参る,まいる,TITLE_IN_RAW_ONLY
+N2-vocab-0497,N2,vocab,N2 Junbi Từ vựng,161,くるむ,,TITLE_IN_PDF
+N2-vocab-0498,N2,vocab,N2 Junbi Từ vựng,161,担ぐ,かつぐ,TITLE_IN_PDF
+N2-vocab-0499,N2,vocab,N2 Junbi Từ vựng,162,移転する,いてんする,TITLE_IN_PDF
+N2-vocab-0500,N2,vocab,N2 Junbi Từ vựng,162,及ぶ,およぶ,TITLE_IN_PDF
+N2-vocab-0501,N2,vocab,N2 Junbi Từ vựng,163,済ます,すます,TITLE_IN_RAW_ONLY
+N2-vocab-0502,N2,vocab,N2 Junbi Từ vựng,163,怠ける,なまける,TITLE_IN_RAW_ONLY
+N2-vocab-0503,N2,vocab,N2 Junbi Từ vựng,164,調整する,ちょうせいする,TITLE_IN_RAW_ONLY
+N2-vocab-0504,N2,vocab,N2 Junbi Từ vựng,164,貢献する,こうけんする,TITLE_IN_RAW_ONLY
+N2-vocab-0505,N2,vocab,N2 Junbi Từ vựng,164,備える,そなえる,TITLE_IN_RAW_ONLY
+N2-vocab-0506,N2,vocab,N2 Junbi Từ vựng,164,諦める,あきらめる,TITLE_IN_PDF
+N2-vocab-0507,N2,vocab,N2 Junbi Từ vựng,165,あきれる,,TITLE_IN_PDF
+N2-vocab-0508,N2,vocab,N2 Junbi Từ vựng,165,与える,あたえる,TITLE_IN_PDF
+N2-vocab-0509,N2,vocab,N2 Junbi Từ vựng,165,温める,あたためる,TITLE_IN_PDF
+N2-vocab-0510,N2,vocab,N2 Junbi Từ vựng,165,寛ぐ,くつろぐ,TITLE_IN_RAW_ONLY
+N2-vocab-0511,N2,vocab,N2 Junbi Từ vựng,166,儲ける,もうける,TITLE_IN_RAW_ONLY
+N2-vocab-0512,N2,vocab,N2 Junbi Từ vựng,166,控える,ひかえる,TITLE_IN_RAW_ONLY
+N2-vocab-0513,N2,vocab,N2 Junbi Từ vựng,167,実る,みのる,TITLE_IN_PDF
+N2-vocab-0514,N2,vocab,N2 Junbi Từ vựng,167,改める,あらためる,TITLE_IN_RAW_ONLY
+N2-vocab-0515,N2,vocab,N2 Junbi Từ vựng,167,補う,おぎなう,TITLE_IN_PDF
+N2-vocab-0516,N2,vocab,N2 Junbi Từ vựng,168,触れる,ふれる,TITLE_IN_PDF
+N2-vocab-0517,N2,vocab,N2 Junbi Từ vựng,168,敗れる,やぶれる,TITLE_IN_PDF
+N2-vocab-0518,N2,vocab,N2 Junbi Từ vựng,168,雇う,やとう,TITLE_IN_RAW_ONLY
+N2-vocab-0519,N2,vocab,N2 Junbi Từ vựng,169,恐れる,おそれる,TITLE_IN_RAW_ONLY
+N2-vocab-0520,N2,vocab,N2 Junbi Từ vựng,169,適する,てきする,TITLE_IN_RAW_ONLY
+N2-vocab-0521,N2,vocab,N2 Junbi Từ vựng,170,乱れる,みだれる,TITLE_IN_PDF
+N2-vocab-0522,N2,vocab,N2 Junbi Từ vựng,170,防ぐ,ふせぐ,TITLE_IN_PDF
+N2-vocab-0523,N2,vocab,N2 Junbi Từ vựng,171,割る,わる,TITLE_IN_PDF
+N2-vocab-0524,N2,vocab,N2 Junbi Từ vựng,171,悩む,なやむ,TITLE_IN_PDF
+N2-vocab-0525,N2,vocab,N2 Junbi Từ vựng,171,積む,つむ,TITLE_IN_PDF
+N2-vocab-0526,N2,vocab,N2 Junbi Từ vựng,172,尋ねる,たずねる,TITLE_IN_RAW_ONLY
+N2-vocab-0527,N2,vocab,N2 Junbi Từ vựng,172,焦げる,こげる,TITLE_IN_RAW_ONLY
+N2-vocab-0528,N2,vocab,N2 Junbi Từ vựng,172,測る,はかる,TITLE_IN_PDF
+N2-vocab-0529,N2,vocab,N2 Junbi Từ vựng,173,広まる,ひろまる,TITLE_IN_RAW_ONLY
+N2-vocab-0530,N2,vocab,N2 Junbi Từ vựng,173,認める,みとめる,TITLE_IN_PDF
+N2-vocab-0531,N2,vocab,N2 Junbi Từ vựng,174,潰れる,つぶれる,TITLE_IN_PDF
+N2-vocab-0532,N2,vocab,N2 Junbi Từ vựng,175,見つめる,みつめる,TITLE_IN_PDF
+N2-vocab-0533,N2,vocab,N2 Junbi Từ vựng,175,荒れる,あれる,TITLE_IN_PDF
+N2-vocab-0534,N2,vocab,N2 Junbi Từ vựng,175,暴れる,あばれる,TITLE_IN_RAW_ONLY
+N2-vocab-0535,N2,vocab,N2 Junbi Từ vựng,176,責める,せめる,TITLE_IN_PDF
+N2-vocab-0536,N2,vocab,N2 Junbi Từ vựng,176,避ける,さける,TITLE_IN_PDF
+N2-vocab-0537,N2,vocab,N2 Junbi Từ vựng,176,すれ違う,ちがう,TITLE_IN_PDF
+N2-vocab-0538,N2,vocab,N2 Junbi Từ vựng,177,ためらう,,TITLE_IN_PDF
+N2-vocab-0539,N2,vocab,N2 Junbi Từ vựng,177,かじる,,TITLE_IN_PDF
+N2-vocab-0540,N2,vocab,N2 Junbi Từ vựng,177,攻める,せめる,TITLE_IN_PDF
+N2-vocab-0541,N2,vocab,N2 Junbi Từ vựng,178,はがす,,TITLE_IN_PDF
+N2-vocab-0542,N2,vocab,N2 Junbi Từ vựng,178,つかむ,,TITLE_IN_PDF
+N2-vocab-0543,N2,vocab,N2 Junbi Từ vựng,179,かわいがる,,TITLE_IN_PDF
+N2-vocab-0544,N2,vocab,N2 Junbi Từ vựng,179,祈る,いのる,TITLE_IN_RAW_ONLY
+N2-vocab-0545,N2,vocab,N2 Junbi Từ vựng,179,ひっくり返す,,TITLE_IN_PDF
+N2-vocab-0546,N2,vocab,N2 Junbi Từ vựng,179,しゃがむ,,TITLE_IN_PDF
+N2-vocab-0547,N2,vocab,N2 Junbi Từ vựng,180,裏切る,うらぎる,TITLE_IN_PDF
+N2-vocab-0548,N2,vocab,N2 Junbi Từ vựng,180,ふざける,,TITLE_IN_PDF
+N2-vocab-0549,N2,vocab,N2 Junbi Từ vựng,180,なぐさめる,,TITLE_IN_PDF
+N2-vocab-0550,N2,vocab,N2 Junbi Từ vựng,180,恨む,うらむ,TITLE_IN_RAW_ONLY
+N2-vocab-0551,N2,vocab,N2 Junbi Từ vựng,182,除く,のぞく,TITLE_IN_PDF
+N2-vocab-0552,N2,vocab,N2 Junbi Từ vựng,182,用いる,もちいる,TITLE_IN_PDF
+N2-vocab-0553,N2,vocab,N2 Junbi Từ vựng,183,耐える,たえる,TITLE_IN_PDF
+N2-vocab-0554,N2,vocab,N2 Junbi Từ vựng,183,訴える,うったえる,TITLE_IN_PDF
+N2-vocab-0555,N2,vocab,N2 Junbi Từ vựng,184,巡る,めぐる,TITLE_IN_PDF
+N2-vocab-0556,N2,vocab,N2 Junbi Từ vựng,184,負う,おう,TITLE_IN_PDF
+N2-vocab-0557,N2,vocab,N2 Junbi Từ vựng,184,脅かす,おどかす,TITLE_IN_RAW_ONLY
+N2-vocab-0558,N2,vocab,N2 Junbi Từ vựng,185,近寄る,ちかよる,TITLE_IN_RAW_ONLY
+N2-vocab-0559,N2,vocab,N2 Junbi Từ vựng,185,占める,しめる,TITLE_IN_RAW_ONLY
+N2-vocab-0560,N2,vocab,N2 Junbi Từ vựng,185,薄める,うすめる,TITLE_IN_PDF
+N2-vocab-0561,N2,vocab,N2 Junbi Từ vựng,186,傷つく,きずつく,TITLE_IN_PDF
+N2-vocab-0562,N2,vocab,N2 Junbi Từ vựng,186,求める,もとめる,TITLE_IN_PDF
+N2-vocab-0563,N2,vocab,N2 Junbi Từ vựng,187,ずれる,,TITLE_IN_PDF
+N2-vocab-0564,N2,vocab,N2 Junbi Từ vựng,187,支える,ささえる,TITLE_IN_RAW_ONLY
+N2-vocab-0565,N2,vocab,N2 Junbi Từ vựng,187,頼る,たよる,TITLE_IN_RAW_ONLY
+N2-vocab-0566,N2,vocab,N2 Junbi Từ vựng,188,逆らう,さからう,TITLE_IN_RAW_ONLY
+N2-vocab-0567,N2,vocab,N2 Junbi Từ vựng,188,捻る,ひねる,TITLE_IN_RAW_ONLY
+N2-vocab-0568,N2,vocab,N2 Junbi Từ vựng,188,静まる,しずまる,TITLE_IN_RAW_ONLY
+N2-vocab-0569,N2,vocab,N2 Junbi Từ vựng,189,転がる,ころがる,TITLE_IN_PDF
+N2-vocab-0570,N2,vocab,N2 Junbi Từ vựng,189,憧れる,あこがれる,TITLE_IN_RAW_ONLY
+N2-vocab-0571,N2,vocab,N2 Junbi Từ vựng,190,味わう,あじわう,TITLE_IN_PDF
+N2-vocab-0572,N2,vocab,N2 Junbi Từ vựng,191,設ける,もうける,TITLE_IN_RAW_ONLY
+N2-vocab-0573,N2,vocab,N2 Junbi Từ vựng,191,震える,ふるえる,TITLE_IN_PDF
+N2-vocab-0574,N2,vocab,N2 Junbi Từ vựng,192,誓う,ちかう,TITLE_IN_PDF
+N2-vocab-0575,N2,vocab,N2 Junbi Từ vựng,192,むかつく,,TITLE_IN_PDF
+N2-vocab-0576,N2,vocab,N2 Junbi Từ vựng,192,呼び止める,よとめる,TITLE_IN_RAW_ONLY
+N2-vocab-0577,N2,vocab,N2 Junbi Từ vựng,192,仕上げる,しあげる,TITLE_IN_RAW_ONLY
+N2-vocab-0578,N2,vocab,N2 Junbi Từ vựng,193,割り込む,わこむ,TITLE_IN_RAW_ONLY
+N2-vocab-0579,N2,vocab,N2 Junbi Từ vựng,193,差し支える,さつかえる,TITLE_IN_RAW_ONLY
+N2-vocab-0580,N2,vocab,N2 Junbi Từ vựng,193,買い占める,かしめる,TITLE_IN_RAW_ONLY
+N2-vocab-0581,N2,vocab,N2 Junbi Từ vựng,194,思い切る,おもきる,TITLE_IN_RAW_ONLY
+N2-vocab-0582,N2,vocab,N2 Junbi Từ vựng,194,振り向く,ふむく,TITLE_IN_RAW_ONLY
+N2-vocab-0583,N2,vocab,N2 Junbi Từ vựng,194,思いつく,おもいつく,TITLE_IN_RAW_ONLY
+N2-vocab-0584,N2,vocab,N2 Junbi Từ vựng,195,引き止める,ひとめる,TITLE_IN_RAW_ONLY
+N2-vocab-0585,N2,vocab,N2 Junbi Từ vựng,195,打ち消す,うけす,TITLE_IN_PDF
+N2-vocab-0586,N2,vocab,N2 Junbi Từ vựng,195,飛び散る,とちる,TITLE_IN_RAW_ONLY
+N2-vocab-0587,N2,vocab,N2 Junbi Từ vựng,195,乗り継ぐ,のつぐ,TITLE_IN_RAW_ONLY
+N2-vocab-0588,N2,vocab,N2 Junbi Từ vựng,196,落ち込む,おこむ,TITLE_IN_PDF
+N2-vocab-0589,N2,vocab,N2 Junbi Từ vựng,196,引き返す,ひかえす,TITLE_IN_PDF
+N2-vocab-0590,N2,vocab,N2 Junbi Từ vựng,196,打ち明ける,うあける,TITLE_IN_RAW_ONLY
+N2-vocab-0591,N2,vocab,N2 Junbi Từ vựng,197,目立つ,めだつ,TITLE_IN_RAW_ONLY
+N2-vocab-0592,N2,vocab,N2 Junbi Từ vựng,197,詰め込む,つこむ,TITLE_IN_PDF
+N2-vocab-0593,N2,vocab,N2 Junbi Từ vựng,198,見分ける,みわける,TITLE_IN_PDF
+N2-vocab-0594,N2,vocab,N2 Junbi Từ vựng,198,突っ込む,つこむ,TITLE_IN_PDF
+N2-vocab-0595,N2,vocab,N2 Junbi Từ vựng,198,くっ付く,つく,TITLE_IN_RAW_ONLY
+N2-vocab-0596,N2,vocab,N2 Junbi Từ vựng,198,引っかかる,ひっかかる,TITLE_IN_PDF
+N2-vocab-0597,N2,vocab,N2 Junbi Từ vựng,199,持ち寄る,もよる,TITLE_IN_PDF
+N2-vocab-0598,N2,vocab,N2 Junbi Từ vựng,199,当てはまる,あてはまる,TITLE_IN_PDF
+N2-vocab-0599,N2,vocab,N2 Junbi Từ vựng,199,付け加える,つくわえる,TITLE_IN_RAW_ONLY
+N2-vocab-0600,N2,vocab,N2 Junbi Từ vựng,199,行き着く,いつく,TITLE_IN_PDF
+N2-vocab-0601,N2,vocab,N2 Junbi Từ vựng,200,上回る,うわまわる,TITLE_IN_PDF
+N2-vocab-0602,N2,vocab,N2 Junbi Từ vựng,200,飛び越える,とこえる,TITLE_IN_PDF
+N2-vocab-0603,N2,vocab,N2 Junbi Từ vựng,200,見渡す,みわたす,TITLE_IN_PDF
+N2-vocab-0604,N2,vocab,N2 Junbi Từ vựng,201,取り入れる,といれる,TITLE_IN_RAW_ONLY
+N2-vocab-0605,N2,vocab,N2 Junbi Từ vựng,201,立ち上げる,たあげる,TITLE_IN_RAW_ONLY
+N2-vocab-0606,N2,vocab,N2 Junbi Từ vựng,201,打ち上げる,うあげる,TITLE_IN_PDF
+N2-vocab-0607,N2,vocab,N2 Junbi Từ vựng,201,冷え込む,ひこむ,TITLE_IN_PDF
+N2-vocab-0608,N2,vocab,N2 Junbi Từ vựng,202,取り壊す,とこわす,TITLE_IN_PDF
+N2-vocab-0609,N2,vocab,N2 Junbi Từ vựng,202,積み重ねる,つかさねる,TITLE_IN_PDF
+N2-vocab-0610,N2,vocab,N2 Junbi Từ vựng,202,建て替える,たかえる,TITLE_IN_RAW_ONLY
+N2-vocab-0611,N2,vocab,N2 Junbi Từ vựng,203,切り替える,きかえる,TITLE_IN_RAW_ONLY
+N2-vocab-0612,N2,vocab,N2 Junbi Từ vựng,203,受け持つ,うけもつ,CHECK_MANUALLY
+N2-vocab-0613,N2,vocab,N2 Junbi Từ vựng,203,取り上げる,とりあげる,CHECK_MANUALLY
+N2-vocab-0614,N2,vocab,N2 Junbi Từ vựng,204,繰り返す,くりかえす,CHECK_MANUALLY
+N2-vocab-0615,N2,vocab,N2 Junbi Từ vựng,204,思いがけない,おもいがけない,TITLE_IN_PDF
+N2-vocab-0616,N2,vocab,N2 Junbi Từ vựng,204,手ごろ,て,TITLE_IN_PDF
+N2-vocab-0617,N2,vocab,N2 Junbi Từ vựng,204,不公平,ふこうへい,TITLE_IN_PDF
+N2-vocab-0618,N2,vocab,N2 Junbi Từ vựng,204,正式,せいしき,TITLE_IN_PDF
+N2-vocab-0619,N2,vocab,N2 Junbi Từ vựng,205,質素,しっそ,TITLE_IN_PDF
+N2-vocab-0620,N2,vocab,N2 Junbi Từ vựng,205,詳細,しょうさい,TITLE_IN_PDF
+N2-vocab-0621,N2,vocab,N2 Junbi Từ vựng,206,大幅,おおはば,TITLE_IN_PDF
+N2-vocab-0622,N2,vocab,N2 Junbi Từ vựng,206,透明,とうめい,TITLE_IN_PDF
+N2-vocab-0623,N2,vocab,N2 Junbi Từ vựng,206,乱暴,らんぼう,TITLE_IN_PDF
+N2-vocab-0624,N2,vocab,N2 Junbi Từ vựng,207,合同,ごうどう,TITLE_IN_PDF
+N2-vocab-0625,N2,vocab,N2 Junbi Từ vựng,207,鮮やか,あざやか,TITLE_IN_PDF
+N2-vocab-0626,N2,vocab,N2 Junbi Từ vựng,207,賢い,かしこい,TITLE_IN_PDF
+N2-vocab-0627,N2,vocab,N2 Junbi Từ vựng,207,相応しい,ふさわしい,TITLE_IN_PDF
+N2-vocab-0628,N2,vocab,N2 Junbi Từ vựng,208,乏しい,とぼしい,TITLE_IN_PDF
+N2-vocab-0629,N2,vocab,N2 Junbi Từ vựng,208,慌ただしい,あわただしい,TITLE_IN_RAW_ONLY
+N2-vocab-0630,N2,vocab,N2 Junbi Từ vựng,208,物足りない,ものたりない,TITLE_IN_PDF
+N2-vocab-0631,N2,vocab,N2 Junbi Từ vựng,209,やかましい,,TITLE_IN_PDF
+N2-vocab-0632,N2,vocab,N2 Junbi Từ vựng,209,騒がしい,さわがしい,TITLE_IN_PDF
+N2-vocab-0633,N2,vocab,N2 Junbi Từ vựng,210,〜を騒がす,,TITLE_IN_PDF
+N2-vocab-0634,N2,vocab,N2 Junbi Từ vựng,210,輝かしい,かがやかしい,TITLE_IN_PDF
+N2-vocab-0635,N2,vocab,N2 Junbi Từ vựng,210,たくましい,,TITLE_IN_PDF
+N2-vocab-0636,N2,vocab,N2 Junbi Từ vựng,210,頼もしい,たのもしい,TITLE_IN_PDF
+N2-vocab-0637,N2,vocab,N2 Junbi Từ vựng,210,ずるい,,TITLE_IN_PDF
+N2-vocab-0638,N2,vocab,N2 Junbi Từ vựng,211,そそっかしい,,TITLE_IN_PDF
+N2-vocab-0639,N2,vocab,N2 Junbi Từ vựng,211,くどい,,TITLE_IN_PDF
+N2-vocab-0640,N2,vocab,N2 Junbi Từ vựng,211,痛ましい,いたましい,TITLE_IN_PDF
+N2-vocab-0641,N2,vocab,N2 Junbi Từ vựng,211,哀れな,あわれな,TITLE_IN_PDF
+N2-vocab-0642,N2,vocab,N2 Junbi Từ vựng,212,重苦しい,おもくるしい,TITLE_IN_PDF
+N2-vocab-0643,N2,vocab,N2 Junbi Từ vựng,212,ずうずうしい,,TITLE_IN_PDF
+N2-vocab-0644,N2,vocab,N2 Junbi Từ vựng,212,厚かましい,あつかましい,TITLE_IN_PDF
+N2-vocab-0645,N2,vocab,N2 Junbi Từ vựng,212,連絡先を教えて頂けますでしょうか,,TITLE_IN_PDF
+N2-vocab-0646,N2,vocab,N2 Junbi Từ vựng,213,緩やか,ゆるやか,TITLE_IN_PDF
+N2-vocab-0647,N2,vocab,N2 Junbi Từ vựng,213,分厚い,ぶあつい,TITLE_IN_PDF
+N2-vocab-0648,N2,vocab,N2 Junbi Từ vựng,213,弱々しい,よわよわしい,TITLE_IN_PDF
+N2-vocab-0649,N2,vocab,N2 Junbi Từ vựng,214,情けない,なさけない,TITLE_IN_PDF
+N2-vocab-0650,N2,vocab,N2 Junbi Từ vựng,214,等しい,ひとしい,TITLE_IN_PDF
+N2-vocab-0651,N2,vocab,N2 Junbi Từ vựng,214,羨ましい,うらやましい,TITLE_IN_PDF
+N2-vocab-0652,N2,vocab,N2 Junbi Từ vựng,215,くだらない,,TITLE_IN_PDF
+N2-vocab-0653,N2,vocab,N2 Junbi Từ vựng,215,すまない,,TITLE_IN_PDF
+N2-vocab-0654,N2,vocab,N2 Junbi Từ vựng,215,騒がしい,さわがしい,TITLE_IN_PDF
+N2-vocab-0655,N2,vocab,N2 Junbi Từ vựng,216,みっともない,,TITLE_IN_PDF
+N2-vocab-0656,N2,vocab,N2 Junbi Từ vựng,216,貧しい,まずしい,TITLE_IN_PDF
+N2-vocab-0657,N2,vocab,N2 Junbi Từ vựng,216,幼い,おさない,TITLE_IN_PDF
+N2-vocab-0658,N2,vocab,N2 Junbi Từ vựng,216,またとない,,TITLE_IN_PDF
+N2-vocab-0659,N2,vocab,N2 Junbi Từ vựng,217,偉い,えらい,TITLE_IN_PDF
+N2-vocab-0660,N2,vocab,N2 Junbi Từ vựng,217,詳しい,くわしい,TITLE_IN_RAW_ONLY
+N2-vocab-0661,N2,vocab,N2 Junbi Từ vựng,217,目覚ましい,めざましい,TITLE_IN_RAW_ONLY
+N2-vocab-0662,N2,vocab,N2 Junbi Từ vựng,218,曖昧な,あいまいな,TITLE_IN_RAW_ONLY
+N2-vocab-0663,N2,vocab,N2 Junbi Từ vựng,218,有効,ゆうこう,TITLE_IN_PDF
+N2-vocab-0664,N2,vocab,N2 Junbi Từ vựng,219,大げさ,おおげさ,TITLE_IN_PDF
+N2-vocab-0665,N2,vocab,N2 Junbi Từ vựng,219,深刻,しんこく,TITLE_IN_PDF
+N2-vocab-0666,N2,vocab,N2 Junbi Từ vựng,220,温厚,おんこう,TITLE_IN_PDF
+N2-vocab-0667,N2,vocab,N2 Junbi Từ vựng,220,勝手,かって,TITLE_IN_PDF
+N2-vocab-0668,N2,vocab,N2 Junbi Từ vựng,220,慎重,しんちょう,TITLE_IN_PDF
+N2-vocab-0669,N2,vocab,N2 Junbi Từ vựng,221,優秀,ゆうしゅう,TITLE_IN_PDF
+N2-vocab-0670,N2,vocab,N2 Junbi Từ vựng,221,奇妙,きみょう,TITLE_IN_PDF
+N2-vocab-0671,N2,vocab,N2 Junbi Từ vựng,221,適度,てきど,TITLE_IN_PDF
+N2-vocab-0672,N2,vocab,N2 Junbi Từ vựng,222,冷静,れいせい,TITLE_IN_PDF
+N2-vocab-0673,N2,vocab,N2 Junbi Từ vựng,222,贅沢,ぜいたく,TITLE_IN_PDF
+N2-vocab-0674,N2,vocab,N2 Junbi Từ vựng,222,必死,ひっし,TITLE_IN_PDF
+N2-vocab-0675,N2,vocab,N2 Junbi Từ vựng,223,頑丈,がんじょう,TITLE_IN_PDF
+N2-vocab-0676,N2,vocab,N2 Junbi Từ vựng,223,手軽,てがる,TITLE_IN_PDF
+N2-vocab-0677,N2,vocab,N2 Junbi Từ vựng,223,柔軟,じゅうなん,TITLE_IN_PDF
+N2-vocab-0678,N2,vocab,N2 Junbi Từ vựng,223,小柄,こがら,TITLE_IN_PDF
+N2-vocab-0679,N2,vocab,N2 Junbi Từ vựng,224,無口,むくち,TITLE_IN_PDF
+N2-vocab-0680,N2,vocab,N2 Junbi Từ vựng,224,温暖,おんだん,TITLE_IN_PDF
+N2-vocab-0681,N2,vocab,N2 Junbi Từ vựng,224,安易,あんい,TITLE_IN_PDF
+N2-vocab-0682,N2,vocab,N2 Junbi Từ vựng,225,愉快,ゆかい,TITLE_IN_PDF
+N2-vocab-0683,N2,vocab,N2 Junbi Từ vựng,225,過剰,かじょう,TITLE_IN_PDF
+N2-vocab-0684,N2,vocab,N2 Junbi Từ vựng,225,有利,ゆうり,TITLE_IN_PDF
+N2-vocab-0685,N2,vocab,N2 Junbi Từ vựng,226,利口,りこう,TITLE_IN_PDF
+N2-vocab-0686,N2,vocab,N2 Junbi Từ vựng,226,多才,たさい,TITLE_IN_PDF
+N2-vocab-0687,N2,vocab,N2 Junbi Từ vựng,226,物騒,ぶっそう,TITLE_IN_PDF
+N2-vocab-0688,N2,vocab,N2 Junbi Từ vựng,226,いい加減,かげん,TITLE_IN_PDF
+N2-vocab-0689,N2,vocab,N2 Junbi Từ vựng,227,真剣,しんけん,TITLE_IN_PDF
+N2-vocab-0690,N2,vocab,N2 Junbi Từ vựng,227,優良,ゆうりょう,TITLE_IN_PDF
+N2-vocab-0691,N2,vocab,N2 Junbi Từ vựng,227,余計,よけい,TITLE_IN_PDF
+N2-vocab-0692,N2,vocab,N2 Junbi Từ vựng,228,頑固,がんこ,TITLE_IN_PDF
+N2-vocab-0693,N2,vocab,N2 Junbi Từ vựng,228,簡略,かんりゃく,TITLE_IN_PDF
+N2-vocab-0694,N2,vocab,N2 Junbi Từ vựng,229,好調,こうちょう,TITLE_IN_PDF
+N2-vocab-0695,N2,vocab,N2 Junbi Từ vựng,229,わずか,,TITLE_IN_PDF
+N2-vocab-0696,N2,vocab,N2 Junbi Từ vựng,229,円満,えんまん,TITLE_IN_PDF
+N2-vocab-0697,N2,vocab,N2 Junbi Từ vựng,230,率直,そっちょく,TITLE_IN_PDF
+N2-vocab-0698,N2,vocab,N2 Junbi Từ vựng,230,不規則,ふきそく,TITLE_IN_PDF
+N2-vocab-0699,N2,vocab,N2 Junbi Từ vựng,230,鮮明,せんめい,TITLE_IN_PDF
+N2-vocab-0700,N2,vocab,N2 Junbi Từ vựng,230,滑らか,なめらか,TITLE_IN_PDF
+N2-vocab-0701,N2,vocab,N2 Junbi Từ vựng,230,ありがち,,TITLE_IN_PDF
+N2-vocab-0702,N2,vocab,N2 Junbi Từ vựng,231,あやふや,,TITLE_IN_PDF
+N2-vocab-0703,N2,vocab,N2 Junbi Từ vựng,231,大まか,おおまか,TITLE_IN_PDF
+N2-vocab-0704,N2,vocab,N2 Junbi Từ vựng,231,急速,きゅうそく,TITLE_IN_PDF
+N2-vocab-0705,N2,vocab,N2 Junbi Từ vựng,232,器用,きよう,TITLE_IN_PDF
+N2-vocab-0706,N2,vocab,N2 Junbi Từ vựng,232,的確,てきかく,TITLE_IN_PDF
+N2-vocab-0707,N2,vocab,N2 Junbi Từ vựng,232,強引,ごういん,TITLE_IN_PDF
+N2-vocab-0708,N2,vocab,N2 Junbi Từ vựng,232,豪華,ごうか,TITLE_IN_PDF
+N2-vocab-0709,N2,vocab,N2 Junbi Từ vựng,233,穏やか,おだやか,TITLE_IN_PDF
+N2-vocab-0710,N2,vocab,N2 Junbi Từ vựng,233,偉大,いだい,TITLE_IN_PDF
+N2-vocab-0711,N2,vocab,N2 Junbi Từ vựng,233,内気,うちき,TITLE_IN_PDF
+N2-vocab-0712,N2,vocab,N2 Junbi Từ vựng,234,明らか,あきらか,TITLE_IN_PDF
+N2-vocab-0713,N2,vocab,N2 Junbi Từ vựng,234,厄介,やっかい,TITLE_IN_PDF
+N2-vocab-0714,N2,vocab,N2 Junbi Từ vựng,234,そっくり,,TITLE_IN_PDF
+N2-vocab-0715,N2,vocab,N2 Junbi Từ vựng,235,稀,まれ,TITLE_IN_PDF
+N2-vocab-0716,N2,vocab,N2 Junbi Từ vựng,235,密接,みっせつ,TITLE_IN_PDF
+N2-vocab-0717,N2,vocab,N2 Junbi Từ vựng,235,極端,きょくたん,TITLE_IN_PDF
+N2-vocab-0718,N2,vocab,N2 Junbi Từ vựng,235,抽象的,ちゅうしょうてき,TITLE_IN_PDF
+N2-vocab-0719,N2,vocab,N2 Junbi Từ vựng,236,主な,おもな,TITLE_IN_PDF
+N2-vocab-0720,N2,vocab,N2 Junbi Từ vựng,236,快適,かいてき,TITLE_IN_PDF
+N2-vocab-0721,N2,vocab,N2 Junbi Từ vựng,236,確か,たしか,TITLE_IN_PDF
+N2-vocab-0722,N2,vocab,N2 Junbi Từ vựng,237,有難い,ありがたい,TITLE_IN_RAW_ONLY
+N2-vocab-0723,N2,vocab,N2 Junbi Từ vựng,237,めでたい,,TITLE_IN_PDF
+N2-vocab-0724,N2,vocab,N2 Junbi Từ vựng,238,ばかばかしい,,TITLE_IN_PDF
+N2-vocab-0725,N2,vocab,N2 Junbi Từ vựng,238,面倒くさい,めんどうくさい,TITLE_IN_PDF
+N2-vocab-0726,N2,vocab,N2 Junbi Từ vựng,238,弱気な,よわきな,TITLE_IN_RAW_ONLY
+N2-vocab-0727,N2,vocab,N2 Junbi Từ vựng,239,強気,つよき,TITLE_IN_PDF
+N2-vocab-0728,N2,vocab,N2 Junbi Từ vựng,239,粗末,そまつ,TITLE_IN_PDF
+N2-vocab-0729,N2,vocab,N2 Junbi Từ vựng,239,貴重な,きちょうな,TITLE_IN_PDF
+N2-vocab-0730,N2,vocab,N2 Junbi Từ vựng,240,惨め,みじめ,TITLE_IN_PDF
+N2-vocab-0731,N2,vocab,N2 Junbi Từ vựng,240,さすが,,TITLE_IN_PDF
+N2-vocab-0732,N2,vocab,N2 Junbi Từ vựng,241,気楽な,きらくな,TITLE_IN_RAW_ONLY
+N2-vocab-0733,N2,vocab,N2 Junbi Từ vựng,241,欲張り,よくばり,TITLE_IN_PDF
+N2-vocab-0734,N2,vocab,N2 Junbi Từ vựng,241,謙虚,けんきょ,TITLE_IN_PDF
+N2-vocab-0735,N2,vocab,N2 Junbi Từ vựng,242,言わば,いわば,TITLE_IN_PDF
+N2-vocab-0736,N2,vocab,N2 Junbi Từ vựng,242,絶えず,たえず,TITLE_IN_RAW_ONLY
+N2-vocab-0737,N2,vocab,N2 Junbi Từ vựng,242,いよいよ,,TITLE_IN_PDF
+N2-vocab-0738,N2,vocab,N2 Junbi Từ vựng,242,とうとう,,TITLE_IN_PDF
+N2-vocab-0739,N2,vocab,N2 Junbi Từ vựng,243,徐々に,じょじょに,TITLE_IN_PDF
+N2-vocab-0740,N2,vocab,N2 Junbi Từ vựng,243,たびたび,,TITLE_IN_PDF
+N2-vocab-0741,N2,vocab,N2 Junbi Từ vựng,243,ぶかぶか,,TITLE_IN_PDF
+N2-vocab-0742,N2,vocab,N2 Junbi Từ vựng,244,ぼんやり,,TITLE_IN_PDF
+N2-vocab-0743,N2,vocab,N2 Junbi Từ vựng,244,ほぼ,,TITLE_IN_PDF
+N2-vocab-0744,N2,vocab,N2 Junbi Từ vựng,245,せめて,,TITLE_IN_PDF
+N2-vocab-0745,N2,vocab,N2 Junbi Từ vựng,245,割と,わりと,TITLE_IN_PDF
+N2-vocab-0746,N2,vocab,N2 Junbi Từ vựng,245,くたくた,,TITLE_IN_PDF
+N2-vocab-0747,N2,vocab,N2 Junbi Từ vựng,245,わずかに,,TITLE_IN_PDF
+N2-vocab-0748,N2,vocab,N2 Junbi Từ vựng,246,いきなり,,TITLE_IN_PDF
+N2-vocab-0749,N2,vocab,N2 Junbi Từ vựng,246,とっくに,,TITLE_IN_PDF
+N2-vocab-0750,N2,vocab,N2 Junbi Từ vựng,246,ごろごろ,,TITLE_IN_PDF
+N2-vocab-0751,N2,vocab,N2 Junbi Từ vựng,246,直ちに,ただちに,TITLE_IN_RAW_ONLY
+N2-vocab-0752,N2,vocab,N2 Junbi Từ vựng,247,着々と,ちゃくちゃくと,TITLE_IN_PDF
+N2-vocab-0753,N2,vocab,N2 Junbi Từ vựng,247,そうとう,,TITLE_IN_PDF
+N2-vocab-0754,N2,vocab,N2 Junbi Từ vựng,247,かさかさ,,TITLE_IN_PDF
+N2-vocab-0755,N2,vocab,N2 Junbi Từ vựng,248,さっさと,,TITLE_IN_PDF
+N2-vocab-0756,N2,vocab,N2 Junbi Từ vựng,248,自ら,みずから,TITLE_IN_PDF
+N2-vocab-0757,N2,vocab,N2 Junbi Từ vựng,248,生き生き,いいき,TITLE_IN_RAW_ONLY
+N2-vocab-0758,N2,vocab,N2 Junbi Từ vựng,248,あいにく,,TITLE_IN_PDF
+N2-vocab-0759,N2,vocab,N2 Junbi Từ vựng,249,案の定,あんじょう,TITLE_IN_PDF
+N2-vocab-0760,N2,vocab,N2 Junbi Từ vựng,249,依然として,いぜんとして,TITLE_IN_PDF
+N2-vocab-0761,N2,vocab,N2 Junbi Từ vựng,249,予め,あらかじめ,TITLE_IN_RAW_ONLY
+N2-vocab-0762,N2,vocab,N2 Junbi Từ vựng,250,間際,まぎわ,TITLE_IN_PDF
+N2-vocab-0763,N2,vocab,N2 Junbi Từ vựng,250,たちまち,,TITLE_IN_PDF
+N2-vocab-0764,N2,vocab,N2 Junbi Từ vựng,251,こつこつ,,TITLE_IN_PDF
+N2-vocab-0765,N2,vocab,N2 Junbi Từ vựng,251,一気に,いっきに,TITLE_IN_PDF
+N2-vocab-0766,N2,vocab,N2 Junbi Từ vựng,251,うとうと,,TITLE_IN_PDF
+N2-vocab-0767,N2,vocab,N2 Junbi Từ vựng,251,たまに,,TITLE_IN_PDF
+N2-vocab-0768,N2,vocab,N2 Junbi Từ vựng,252,たまたま,,TITLE_IN_PDF
+N2-vocab-0769,N2,vocab,N2 Junbi Từ vựng,252,びっしょり,,TITLE_IN_PDF
+N2-vocab-0770,N2,vocab,N2 Junbi Từ vựng,252,おそらく,,TITLE_IN_PDF
+N2-vocab-0771,N2,vocab,N2 Junbi Từ vựng,252,やや,,TITLE_IN_PDF
+N2-vocab-0772,N2,vocab,N2 Junbi Từ vựng,253,かつて,,TITLE_IN_PDF
+N2-vocab-0773,N2,vocab,N2 Junbi Từ vựng,253,一旦,いったん,TITLE_IN_PDF
+N2-vocab-0774,N2,vocab,N2 Junbi Từ vựng,253,じかに,,TITLE_IN_PDF
+N2-vocab-0775,N2,vocab,N2 Junbi Từ vựng,254,ぐったり,,TITLE_IN_PDF
+N2-vocab-0776,N2,vocab,N2 Junbi Từ vựng,254,常に,つねに,TITLE_IN_PDF
+N2-vocab-0777,N2,vocab,N2 Junbi Từ vựng,254,ひそひそ,,TITLE_IN_PDF
+N2-vocab-0778,N2,vocab,N2 Junbi Từ vựng,254,一斉に,いっせいに,TITLE_IN_PDF
+N2-vocab-0779,N2,vocab,N2 Junbi Từ vựng,255,当分,とうぶん,TITLE_IN_PDF
+N2-vocab-0780,N2,vocab,N2 Junbi Từ vựng,255,一転,いってん,TITLE_IN_PDF
+N2-vocab-0781,N2,vocab,N2 Junbi Từ vựng,255,きっぱり,,TITLE_IN_PDF
+N2-vocab-0782,N2,vocab,N2 Junbi Từ vựng,256,精一杯,せいいっぱい,TITLE_IN_PDF
+N2-vocab-0783,N2,vocab,N2 Junbi Từ vựng,256,即座に,そくざに,TITLE_IN_PDF
+N2-vocab-0784,N2,vocab,N2 Junbi Từ vựng,256,ごちゃごちゃ,,TITLE_IN_PDF
+N2-vocab-0785,N2,vocab,N2 Junbi Từ vựng,257,一層,いっそう,TITLE_IN_PDF
+N2-vocab-0786,N2,vocab,N2 Junbi Từ vựng,257,ぎっしり,,TITLE_IN_PDF
+N2-vocab-0787,N2,vocab,N2 Junbi Từ vựng,257,ぐるぐる,,TITLE_IN_PDF
+N2-vocab-0788,N2,vocab,N2 Junbi Từ vựng,257,順々に,じゅんじゅんに,TITLE_IN_PDF
+N2-vocab-0789,N2,vocab,N2 Junbi Từ vựng,257,軽々と,かるがると,TITLE_IN_PDF
+N2-vocab-0790,N2,vocab,N2 Junbi Từ vựng,258,細々と,ほそぼそと,TITLE_IN_PDF
+N2-vocab-0791,N2,vocab,N2 Junbi Từ vựng,258,まもなく,,TITLE_IN_PDF
+N2-vocab-0792,N2,vocab,N2 Junbi Từ vựng,259,ぐんぐん,,TITLE_IN_PDF
+N2-vocab-0793,N2,vocab,N2 Junbi Từ vựng,259,ふんわり,,TITLE_IN_PDF
+N2-vocab-0794,N2,vocab,N2 Junbi Từ vựng,259,うっすら,,TITLE_IN_PDF
+N2-vocab-0795,N2,vocab,N2 Junbi Từ vựng,260,しっとり,,TITLE_IN_PDF
+N2-vocab-0796,N2,vocab,N2 Junbi Từ vựng,260,どうりで,,TITLE_IN_PDF
+N2-vocab-0797,N2,vocab,N2 Junbi Từ vựng,260,ゆらゆら,,TITLE_IN_PDF
+N2-vocab-0798,N2,vocab,N2 Junbi Từ vựng,260,さらさら,,TITLE_IN_PDF
+N2-vocab-0799,N2,vocab,N2 Junbi Từ vựng,261,すらすら,,TITLE_IN_PDF
+N2-vocab-0800,N2,vocab,N2 Junbi Từ vựng,261,続々と,ぞくぞくと,TITLE_IN_PDF
+N2-vocab-0801,N2,vocab,N2 Junbi Từ vựng,261,少なくとも,すくなくとも,TITLE_IN_PDF
+N2-vocab-0802,N2,vocab,N2 Junbi Từ vựng,262,先々,さきざき,TITLE_IN_PDF
+N2-vocab-0803,N2,vocab,N2 Junbi Từ vựng,262,知らず,しらず,TITLE_IN_PDF
+N2-vocab-0804,N2,vocab,N2 Junbi Từ vựng,263,一時的に,いちじてきに,TITLE_IN_PDF
+N2-vocab-0805,N2,vocab,N2 Junbi Từ vựng,263,ばっさり,,TITLE_IN_PDF
+N2-vocab-0806,N2,vocab,N2 Junbi Từ vựng,263,ぎざぎざ,,TITLE_IN_PDF
+N2-vocab-0807,N2,vocab,N2 Junbi Từ vựng,263,いちいち,,TITLE_IN_PDF
+N2-vocab-0808,N2,vocab,N2 Junbi Từ vựng,264,きょろきょろ,,TITLE_IN_PDF
+N2-vocab-0809,N2,vocab,N2 Junbi Từ vựng,264,今頃,いまごろ,TITLE_IN_PDF
+N2-vocab-0810,N2,vocab,N2 Junbi Từ vựng,264,どうせ,,TITLE_IN_PDF
+N2-vocab-0811,N2,vocab,N2 Junbi Từ vựng,264,それぞれ,,TITLE_IN_PDF
+N2-vocab-0812,N2,vocab,N2 Junbi Từ vựng,265,がっしり,,TITLE_IN_PDF
+N2-vocab-0813,N2,vocab,N2 Junbi Từ vựng,265,うっかり,,TITLE_IN_PDF
+N2-vocab-0814,N2,vocab,N2 Junbi Từ vựng,265,ほんの,,TITLE_IN_PDF
+N2-vocab-0815,N2,vocab,N2 Junbi Từ vựng,265,あらゆる,,TITLE_IN_PDF
+N2-vocab-0816,N2,vocab,N2 Junbi Từ vựng,266,いずれ,,TITLE_IN_PDF
+N2-vocab-0817,N2,vocab,N2 Junbi Từ vựng,266,見事に,みごとに,TITLE_IN_PDF
+N2-vocab-0818,N2,vocab,N2 Junbi Từ vựng,266,改めて,あらためて,TITLE_IN_PDF
+N2-vocab-0819,N2,vocab,N2 Junbi Từ vựng,266,何となく,なんとなく,TITLE_IN_RAW_ONLY
+N2-vocab-0820,N2,vocab,N2 Junbi Từ vựng,267,次第に,しだいに,TITLE_IN_PDF
+N2-vocab-0821,N2,vocab,N2 Junbi Từ vựng,267,ようやく,,TITLE_IN_PDF
+N2-vocab-0822,N2,vocab,N2 Junbi Từ vựng,268,いわゆる,,TITLE_IN_PDF
+N2-vocab-0823,N2,vocab,N2 Junbi Từ vựng,268,幾分,いくぶん,TITLE_IN_PDF
+N2-vocab-0824,N2,vocab,N2 Junbi Từ vựng,268,一段と,いちだんと,TITLE_IN_PDF
+N2-vocab-0825,N2,vocab,N2 Junbi Từ vựng,269,大いに,おおいに,TITLE_IN_PDF
+N2-vocab-0826,N2,vocab,N2 Junbi Từ vựng,269,せいぜい,,TITLE_IN_PDF
+N2-vocab-0827,N2,vocab,N2 Junbi Từ vựng,269,とりあえず,,TITLE_IN_PDF
+N2-vocab-0828,N2,vocab,N2 Junbi Từ vựng,269,既に,すでに,TITLE_IN_PDF
+N2-vocab-0829,N2,vocab,N2 Junbi Từ vựng,270,にわかに,,TITLE_IN_PDF
+N2-vocab-0830,N2,vocab,N2 Junbi Từ vựng,270,再三,,TITLE_IN_PDF
+N2-vocab-0831,N2,vocab,N2 Junbi Từ vựng,270,しょっちゅう,,TITLE_IN_PDF
+N2-vocab-0832,N2,vocab,N2 Junbi Từ vựng,271,単に,たんに,TITLE_IN_PDF
+N2-vocab-0833,N2,vocab,N2 Junbi Từ vựng,271,あれこれ,,TITLE_IN_PDF
+N2-vocab-0834,N2,vocab,N2 Junbi Từ vựng,272,およそ,,TITLE_IN_PDF
+N2-vocab-0835,N2,vocab,N2 Junbi Từ vựng,272,さらに,,TITLE_IN_PDF
+N2-vocab-0836,N2,vocab,N2 Junbi Từ vựng,272,最も,もっとも,TITLE_IN_PDF
+N2-vocab-0837,N2,vocab,N2 Junbi Từ vựng,272,万一,まんいち,TITLE_IN_PDF
+N2-vocab-0838,N2,vocab,N2 Junbi Từ vựng,272,めったに,,TITLE_IN_PDF
+N2-vocab-0839,N2,vocab,N2 Junbi Từ vựng,273,そのうち,,TITLE_IN_PDF
+N2-vocab-0840,N2,vocab,N2 Junbi Từ vựng,273,むしろ,,TITLE_IN_PDF
+N2-vocab-0841,N2,vocab,N2 Junbi Từ vựng,273,かえって,,TITLE_IN_PDF
+N2-vocab-0842,N2,vocab,N2 Junbi Từ vựng,274,なんだか,,TITLE_IN_PDF
+N2-vocab-0843,N2,vocab,N2 Junbi Từ vựng,274,やがて,,TITLE_IN_PDF
+N2-vocab-0844,N2,vocab,N2 Junbi Từ vựng,274,今に,いまに,TITLE_IN_PDF
+N2-vocab-0845,N2,vocab,N2 Junbi Từ vựng,275,果たして,はたして,TITLE_IN_PDF
+N2-vocab-0846,N2,vocab,N2 Junbi Từ vựng,275,ばったり,,TITLE_IN_PDF
+N2-vocab-0847,N2,vocab,N2 Junbi Từ vựng,275,ひとまず,,TITLE_IN_PDF
+N2-vocab-0848,N2,vocab,N2 Junbi Từ vựng,275,しばしば,,TITLE_IN_PDF
+N2-vocab-0849,N2,vocab,N2 Junbi Từ vựng,275,しーんと,,TITLE_IN_PDF
+N2-vocab-0850,N2,vocab,N2 Junbi Từ vựng,276,めっきり,,TITLE_IN_PDF
+N2-vocab-0851,N2,vocab,N2 Junbi Từ vựng,276,なお,,TITLE_IN_PDF
+N2-vocab-0852,N2,vocab,N2 Junbi Từ vựng,277,ずらりと,,TITLE_IN_PDF
+N2-vocab-0853,N2,vocab,N2 Junbi Từ vựng,277,わざわざ,,TITLE_IN_PDF
+N2-vocab-0854,N2,vocab,N2 Junbi Từ vựng,277,わざと,,TITLE_IN_PDF
+N2-vocab-0855,N2,vocab,N2 Junbi Từ vựng,278,もしかすると,,TITLE_IN_PDF
+N2-vocab-0856,N2,vocab,N2 Junbi Từ vựng,278,すっと,,TITLE_IN_PDF
+N2-vocab-0857,N2,vocab,N2 Junbi Từ vựng,278,どうやら,,TITLE_IN_PDF
+N2-vocab-0858,N2,vocab,N2 Junbi Từ vựng,279,未だに,,TITLE_IN_PDF
+N2-vocab-0859,N2,vocab,N2 Junbi Từ vựng,279,まさに,,TITLE_IN_PDF
+N2-vocab-0860,N2,vocab,N2 Junbi Từ vựng,279,しかも,,TITLE_IN_PDF
+N2-vocab-0861,N2,vocab,N2 Junbi Từ vựng,279,にやにや,,TITLE_IN_PDF
+N2-vocab-0862,N2,vocab,N2 Junbi Từ vựng,281,たった,,TITLE_IN_PDF
+N2-vocab-0863,N2,vocab,N2 Junbi Từ vựng,281,事前に,,TITLE_IN_PDF
+N2-vocab-0864,N2,vocab,N2 Junbi Từ vựng,281,ぐっと,,TITLE_IN_PDF
+N2-vocab-0865,N2,vocab,N2 Junbi Từ vựng,282,どうしても,,TITLE_IN_PDF
+N2-vocab-0866,N2,vocab,N2 Junbi Từ vựng,282,こっそり,,TITLE_IN_PDF
+N2-vocab-0867,N2,vocab,N2 Junbi Từ vựng,282,ところで,,TITLE_IN_PDF
+N2-vocab-0868,N2,vocab,N2 Junbi Từ vựng,282,フロント,,TITLE_IN_PDF
+N2-vocab-0869,N2,vocab,N2 Junbi Từ vựng,283,リハビリ,,TITLE_IN_PDF
+N2-vocab-0870,N2,vocab,N2 Junbi Từ vựng,283,オーバー,,TITLE_IN_PDF
+N2-vocab-0871,N2,vocab,N2 Junbi Từ vựng,283,サイレン,,TITLE_IN_PDF
+N2-vocab-0872,N2,vocab,N2 Junbi Từ vựng,284,サイン,,TITLE_IN_PDF
+N2-vocab-0873,N2,vocab,N2 Junbi Từ vựng,284,フレッシュ,,TITLE_IN_PDF
+N2-vocab-0874,N2,vocab,N2 Junbi Từ vựng,284,マイペース,,TITLE_IN_PDF
+N2-vocab-0875,N2,vocab,N2 Junbi Từ vựng,285,シーズン,,TITLE_IN_PDF
+N2-vocab-0876,N2,vocab,N2 Junbi Từ vựng,285,レンタル,,TITLE_IN_PDF
+N2-vocab-0877,N2,vocab,N2 Junbi Từ vựng,285,ブーム,,TITLE_IN_PDF
+N2-vocab-0878,N2,vocab,N2 Junbi Từ vựng,285,スムーズ,,TITLE_IN_PDF
+N2-vocab-0879,N2,vocab,N2 Junbi Từ vựng,285,プラン,,TITLE_IN_PDF
+N2-vocab-0880,N2,vocab,N2 Junbi Từ vựng,286,パンク,,TITLE_IN_PDF
+N2-vocab-0881,N2,vocab,N2 Junbi Từ vựng,286,リラックス,,TITLE_IN_PDF
+N2-vocab-0882,N2,vocab,N2 Junbi Từ vựng,287,テンポ,,TITLE_IN_PDF
+N2-vocab-0883,N2,vocab,N2 Junbi Từ vựng,287,アピール,,TITLE_IN_PDF
+N2-vocab-0884,N2,vocab,N2 Junbi Từ vựng,287,アレンジ,,TITLE_IN_PDF
+N2-vocab-0885,N2,vocab,N2 Junbi Từ vựng,288,スペース,,TITLE_IN_PDF
+N2-vocab-0886,N2,vocab,N2 Junbi Từ vựng,288,テクニック,,TITLE_IN_PDF
+N2-vocab-0887,N2,vocab,N2 Junbi Từ vựng,288,プレッシャー,,TITLE_IN_PDF
+N2-vocab-0888,N2,vocab,N2 Junbi Từ vựng,288,ハード,,TITLE_IN_PDF
+N2-vocab-0889,N2,vocab,N2 Junbi Từ vựng,288,ターゲット,,TITLE_IN_PDF
+N2-vocab-0890,N2,vocab,N2 Junbi Từ vựng,289,ガイド,,TITLE_IN_PDF
+N2-vocab-0891,N2,vocab,N2 Junbi Từ vựng,289,シリーズ,,TITLE_IN_PDF
+N2-vocab-0892,N2,vocab,N2 Junbi Từ vựng,290,クリア,,TITLE_IN_PDF
+N2-vocab-0893,N2,vocab,N2 Junbi Từ vựng,290,ストライキ,,TITLE_IN_PDF
+N2-vocab-0894,N2,vocab,N2 Junbi Từ vựng,291,ライバル,,TITLE_IN_PDF
+N2-vocab-0895,N2,vocab,N2 Junbi Từ vựng,291,ゲスト,,TITLE_IN_PDF
+N2-vocab-0896,N2,vocab,N2 Junbi Từ vựng,291,エラー,,TITLE_IN_PDF
+N2-vocab-0897,N2,vocab,N2 Junbi Từ vựng,291,インストール,,TITLE_IN_PDF
+N2-vocab-0898,N2,vocab,N2 Junbi Từ vựng,291,チャージ,,TITLE_IN_PDF
+N2-vocab-0899,N2,vocab,N2 Junbi Từ vựng,292,評判,ひょうばん,TITLE_IN_PDF
+N2-vocab-0900,N2,vocab,N2 Junbi Từ vựng,292,インパクト,,TITLE_IN_PDF
+N2-vocab-0901,N2,vocab,N2 Junbi Từ vựng,292,ペンキ,,TITLE_IN_PDF
+N2-vocab-0902,N2,vocab,N2 Junbi Từ vựng,293,ダム,,TITLE_IN_PDF
+N2-vocab-0903,N2,vocab,N2 Junbi Từ vựng,293,セロテープ,,TITLE_IN_PDF
+N2-vocab-0904,N2,vocab,N2 Junbi Từ vựng,293,リポーター,,TITLE_IN_PDF
+N2-vocab-0905,N2,vocab,N2 Junbi Từ vựng,294,ムード,,TITLE_IN_PDF
+N2-vocab-0906,N2,vocab,N2 Junbi Từ vựng,294,タイヤ,,TITLE_IN_PDF
+N2-vocab-0907,N2,vocab,N2 Junbi Từ vựng,294,ダウン,,TITLE_IN_PDF
+N2-vocab-0908,N2,vocab,N2 Junbi Từ vựng,294,インテリア,,TITLE_IN_PDF
+N2-vocab-0909,N2,vocab,N2 Junbi Từ vựng,294,カルシウム,,TITLE_IN_PDF
+N2-vocab-0910,N2,vocab,N2 Junbi Từ vựng,295,スタッフ,,TITLE_IN_PDF
+N2-vocab-0911,N2,vocab,N2 Junbi Từ vựng,295,ダメージ,,TITLE_IN_PDF
+N2-vocab-0912,N2,vocab,N2 Junbi Từ vựng,296,コンプレックス,,TITLE_IN_PDF
+N2-vocab-0913,N2,vocab,N2 Junbi Từ vựng,296,コスト,,TITLE_IN_PDF
+N2-vocab-0914,N2,vocab,N2 Junbi Từ vựng,296,プラスチック,,TITLE_IN_PDF
+N2-vocab-0915,N2,vocab,N2 Junbi Từ vựng,296,レンズ,,TITLE_IN_PDF
+N2-vocab-0916,N2,vocab,N2 Junbi Từ vựng,297,ライトアップ,,TITLE_IN_PDF
+N2-vocab-0917,N2,vocab,N2 Junbi Từ vựng,297,マッチ,,TITLE_IN_PDF
+N2-vocab-0918,N2,vocab,N2 Junbi Từ vựng,297,ノーマル,,TITLE_IN_PDF
+N2-vocab-0919,N2,vocab,N2 Junbi Từ vựng,297,ルーズ,,TITLE_IN_PDF
+N2-vocab-0920,N2,vocab,N2 Junbi Từ vựng,298,ストレス,,TITLE_IN_PDF
+N2-vocab-0921,N2,vocab,N2 Junbi Từ vựng,298,カット,,TITLE_IN_PDF
+N2-vocab-0922,N2,vocab,N2 Junbi Từ vựng,299,コントロール,,TITLE_IN_PDF
+N2-vocab-0923,N2,vocab,N2 Junbi Từ vựng,299,アイデア,,TITLE_IN_PDF
+N2-vocab-0924,N2,vocab,N2 Junbi Từ vựng,299,チャンス,,TITLE_IN_PDF
+N2-vocab-0925,N2,vocab,N2 Junbi Từ vựng,299,スケジュール,,TITLE_IN_PDF
+N2-vocab-0926,N2,vocab,N2 Junbi Từ vựng,300,システム,,TITLE_IN_PDF
+N2-vocab-0927,N2,vocab,N2 Junbi Từ vựng,300,モニター,,TITLE_IN_PDF
+N2-vocab-0928,N2,vocab,N2 Junbi Từ vựng,300,ベテラン,,TITLE_IN_PDF
+N2-vocab-0929,N2,vocab,N2 Junbi Từ vựng,301,コメント,,TITLE_IN_PDF
+N2-vocab-0930,N2,vocab,N2 Junbi Từ vựng,301,パターン,,TITLE_IN_PDF
+N2-vocab-0931,N2,vocab,N2 Junbi Từ vựng,301,キャンパス,,TITLE_IN_PDF
+N2-vocab-0932,N2,vocab,N2 Junbi Từ vựng,302,フォント,,TITLE_IN_PDF
+N2-vocab-0933,N2,vocab,N2 Junbi Từ vựng,302,デモ,,TITLE_IN_PDF
+N2-vocab-0934,N2,vocab,N2 Junbi Từ vựng,302,テロ,,TITLE_IN_PDF
+N2-vocab-0935,N2,vocab,N2 Junbi Từ vựng,303,エコ,,TITLE_IN_PDF
+N2-vocab-0936,N2,vocab,N2 Junbi Từ vựng,303,センス,,TITLE_IN_PDF
+N2-vocab-0937,N2,vocab,N2 Junbi Từ vựng,303,フリーサイズ,,TITLE_IN_PDF
+N2-vocab-0938,N2,vocab,N2 Junbi Từ vựng,303,リズム,,TITLE_IN_PDF
+N2-vocab-0939,N2,vocab,N2 Junbi Từ vựng,303,ユニーク,,TITLE_IN_PDF
+N2-vocab-0940,N2,vocab,N2 Junbi Từ vựng,304,ダウンロード,,TITLE_IN_PDF
+N2-vocab-0941,N2,vocab,N2 Junbi Từ vựng,304,イラスト,,TITLE_IN_PDF
+N2-kanji-0001,N2,kanji,N2 Junbi Hán tự,2,散,,TITLE_IN_PDF
+N2-kanji-0002,N2,kanji,N2 Junbi Hán tự,2,咲,訓: さーく,TITLE_IN_PDF
+N2-kanji-0003,N2,kanji,N2 Junbi Hán tự,2,枝,訓: えだ / 音: シ,TITLE_IN_PDF
+N2-kanji-0004,N2,kanji,N2 Junbi Hán tự,3,飾,訓: かざーる / 音: ショク,TITLE_IN_PDF
+N2-kanji-0005,N2,kanji,N2 Junbi Hán tự,3,枯,訓: かーれる,TITLE_IN_PDF
+N2-kanji-0006,N2,kanji,N2 Junbi Hán tự,4,桜,訓: さくら,TITLE_IN_PDF
+N2-kanji-0007,N2,kanji,N2 Junbi Hán tự,4,梅,訓: うめ / 音: バイ,TITLE_IN_PDF
+N2-kanji-0008,N2,kanji,N2 Junbi Hán tự,4,美,訓: うつくーしい / 音: ビ ミ,TITLE_IN_PDF
+N2-kanji-0009,N2,kanji,N2 Junbi Hán tự,5,香,訓: かおーる かおーり か / 音: コウ キョウ,TITLE_IN_PDF
+N2-kanji-0010,N2,kanji,N2 Junbi Hán tự,6,紫,訓: むらさき / 音: シ,TITLE_IN_PDF
+N2-kanji-0011,N2,kanji,N2 Junbi Hán tự,6,紅,訓: べに,TITLE_IN_PDF
+N2-kanji-0012,N2,kanji,N2 Junbi Hán tự,6,灰,訓: はい,TITLE_IN_PDF
+N2-kanji-0013,N2,kanji,N2 Junbi Hán tự,7,鮮,訓: あざーやか / 音: セン,TITLE_IN_PDF
+N2-kanji-0014,N2,kanji,N2 Junbi Hán tự,7,彩,訓: いろどーる / 音: サイ,TITLE_IN_PDF
+N2-kanji-0015,N2,kanji,N2 Junbi Hán tự,8,凍,訓: こおーる / 音: トウ,TITLE_IN_PDF
+N2-kanji-0016,N2,kanji,N2 Junbi Hán tự,8,河,訓: かわ,TITLE_IN_PDF
+N2-kanji-0017,N2,kanji,N2 Junbi Hán tự,8,源,,TITLE_IN_PDF
+N2-kanji-0018,N2,kanji,N2 Junbi Hán tự,9,沈,訓: しずーむ しずーめる / 音: チン,TITLE_IN_PDF
+N2-kanji-0019,N2,kanji,N2 Junbi Hán tự,9,沿,訓: そーう,TITLE_IN_PDF
+N2-kanji-0020,N2,kanji,N2 Junbi Hán tự,10,飼,訓: かーう / 音: シ,TITLE_IN_PDF
+N2-kanji-0021,N2,kanji,N2 Junbi Hán tự,10,畜,,TITLE_IN_PDF
+N2-kanji-0022,N2,kanji,N2 Junbi Hán tự,10,猫,訓: ねこ / 音: ビョウ,TITLE_IN_PDF
+N2-kanji-0023,N2,kanji,N2 Junbi Hán tự,11,羊,訓: ひつじ / 音: ヨウ,TITLE_IN_PDF
+N2-kanji-0024,N2,kanji,N2 Junbi Hán tự,11,豚,訓: ぶた / 音: トン,TITLE_IN_PDF
+N2-kanji-0025,N2,kanji,N2 Junbi Hán tự,12,放,訓: はなーす / 音: ホウ,TITLE_IN_PDF
+N2-kanji-0026,N2,kanji,N2 Junbi Hán tự,12,穴,訓: あな,TITLE_IN_PDF
+N2-kanji-0027,N2,kanji,N2 Junbi Hán tự,12,巣,訓: す,TITLE_IN_PDF
+N2-kanji-0028,N2,kanji,N2 Junbi Hán tự,13,周,訓: まわーり / 音: シユウ,TITLE_IN_PDF
+N2-kanji-0029,N2,kanji,N2 Junbi Hán tự,13,囲,訓: かこーむ / 音: イ,TITLE_IN_PDF
+N2-kanji-0030,N2,kanji,N2 Junbi Hán tự,13,互,訓: たがーい,TITLE_IN_PDF
+N2-kanji-0031,N2,kanji,N2 Junbi Hán tự,14,我,訓: われ わーが / 音: ガ,TITLE_IN_PDF
+N2-kanji-0032,N2,kanji,N2 Junbi Hán tự,14,皆,訓: みんな,TITLE_IN_PDF
+N2-kanji-0033,N2,kanji,N2 Junbi Hán tự,15,緒,音: ショ チョ,TITLE_IN_PDF
+N2-kanji-0034,N2,kanji,N2 Junbi Hán tự,15,援,音: エン,TITLE_IN_PDF
+N2-kanji-0035,N2,kanji,N2 Junbi Hán tự,15,抱,訓: だーく いだーく かかーえる / 音: ホウ,TITLE_IN_PDF
+N2-kanji-0036,N2,kanji,N2 Junbi Hán tự,16,氏,音: シ,TITLE_IN_PDF
+N2-kanji-0037,N2,kanji,N2 Junbi Hán tự,16,孫,訓: まご / 音: ソン,TITLE_IN_PDF
+N2-kanji-0038,N2,kanji,N2 Junbi Hán tự,16,祖,音: ソ,TITLE_IN_PDF
+N2-kanji-0039,N2,kanji,N2 Junbi Hán tự,17,僕,音: ボク,TITLE_IN_PDF
+N2-kanji-0040,N2,kanji,N2 Junbi Hán tự,17,僚,音: リョウ,TITLE_IN_PDF
+N2-kanji-0041,N2,kanji,N2 Junbi Hán tự,17,輩,音: ハイ,TITLE_IN_PDF
+N2-kanji-0042,N2,kanji,N2 Junbi Hán tự,17,誰,訓: だれ,TITLE_IN_PDF
+N2-kanji-0043,N2,kanji,N2 Junbi Hán tự,18,偶,音: グウ,TITLE_IN_PDF
+N2-kanji-0044,N2,kanji,N2 Junbi Hán tự,19,畳,訓: たたーむ たたみ / 音: ジョウ,TITLE_IN_PDF
+N2-kanji-0045,N2,kanji,N2 Junbi Hán tự,19,床,訓: とこ ゆか,TITLE_IN_PDF
+N2-kanji-0046,N2,kanji,N2 Junbi Hán tự,19,軒,,TITLE_IN_PDF
+N2-kanji-0047,N2,kanji,N2 Junbi Hán tự,20,玄,音: ゲン,TITLE_IN_PDF
+N2-kanji-0048,N2,kanji,N2 Junbi Hán tự,20,壁,訓: かべ / 音: ヘキ,TITLE_IN_PDF
+N2-kanji-0049,N2,kanji,N2 Junbi Hán tự,21,契,音: ケイ,TITLE_IN_PDF
+N2-kanji-0050,N2,kanji,N2 Junbi Hán tự,21,証,,TITLE_IN_PDF
+N2-kanji-0051,N2,kanji,N2 Junbi Hán tự,21,域,,TITLE_IN_PDF
+N2-kanji-0052,N2,kanji,N2 Junbi Hán tự,22,届,訓: とどーける とどーく,TITLE_IN_PDF
+N2-kanji-0053,N2,kanji,N2 Junbi Hán tự,22,招,訓: まねーく / 音: ショウ,TITLE_IN_PDF
+N2-kanji-0054,N2,kanji,N2 Junbi Hán tự,22,贈,訓: おくーる / 音: ゾウ,TITLE_IN_PDF
+N2-kanji-0055,N2,kanji,N2 Junbi Hán tự,23,寮,音: リョウ,TITLE_IN_PDF
+N2-kanji-0056,N2,kanji,N2 Junbi Hán tự,23,隣,訓: となーる となり,TITLE_IN_PDF
+N2-kanji-0057,N2,kanji,N2 Junbi Hán tự,23,狭,訓: せまーい せばーめる,TITLE_IN_PDF
+N2-kanji-0058,N2,kanji,N2 Junbi Hán tự,24,含,訓: ふくーむ ふくーめる,TITLE_IN_PDF
+N2-kanji-0059,N2,kanji,N2 Junbi Hán tự,24,溶,訓: とーける とーく とーかす,TITLE_IN_PDF
+N2-kanji-0060,N2,kanji,N2 Junbi Hán tự,24,汁,訓: しる つゆ,TITLE_IN_PDF
+N2-kanji-0061,N2,kanji,N2 Junbi Hán tự,25,盛,訓: もーる さかーる さかーん / 音: セイ ジョウ,TITLE_IN_PDF
+N2-kanji-0062,N2,kanji,N2 Junbi Hán tự,26,詰,訓: つーめる つーむ つーまる,TITLE_IN_PDF
+N2-kanji-0063,N2,kanji,N2 Junbi Hán tự,26,瓶,,TITLE_IN_PDF
+N2-kanji-0064,N2,kanji,N2 Junbi Hán tự,26,粒,訓: つぶ,TITLE_IN_PDF
+N2-kanji-0065,N2,kanji,N2 Junbi Hán tự,26,酢,訓: す,TITLE_IN_PDF
+N2-kanji-0066,N2,kanji,N2 Junbi Hán tự,27,糖,,TITLE_IN_PDF
+N2-kanji-0067,N2,kanji,N2 Junbi Hán tự,28,脂,訓: あぶら / 音: シ,TITLE_IN_PDF
+N2-kanji-0068,N2,kanji,N2 Junbi Hán tự,28,肪,音: ボウ,TITLE_IN_PDF
+N2-kanji-0069,N2,kanji,N2 Junbi Hán tự,28,筋,訓: すじ / 音: キン,TITLE_IN_PDF
+N2-kanji-0070,N2,kanji,N2 Junbi Hán tự,29,節,音: セツ セチ,TITLE_IN_PDF
+N2-kanji-0071,N2,kanji,N2 Junbi Hán tự,30,並,訓: ならーぶ ならーべる なみ,TITLE_IN_PDF
+N2-kanji-0072,N2,kanji,N2 Junbi Hán tự,30,巻,訓: まーく まき,TITLE_IN_PDF
+N2-kanji-0073,N2,kanji,N2 Junbi Hán tự,30,居,訓: いーる,TITLE_IN_PDF
+N2-kanji-0074,N2,kanji,N2 Junbi Hán tự,31,清,訓: きよーい きよーまる きよーめる,TITLE_IN_PDF
+N2-kanji-0075,N2,kanji,N2 Junbi Hán tự,31,掃,訓: はーく,TITLE_IN_PDF
+N2-kanji-0076,N2,kanji,N2 Junbi Hán tự,32,宝,訓: たから,TITLE_IN_PDF
+N2-kanji-0077,N2,kanji,N2 Junbi Hán tự,32,城,訓: しろ,TITLE_IN_PDF
+N2-kanji-0078,N2,kanji,N2 Junbi Hán tự,32,栄,訓: さかーえる,TITLE_IN_PDF
+N2-kanji-0079,N2,kanji,N2 Junbi Hán tự,33,蔵,訓: くら,TITLE_IN_PDF
+N2-kanji-0080,N2,kanji,N2 Junbi Hán tự,33,士,訓: さむらい,TITLE_IN_PDF
+N2-kanji-0081,N2,kanji,N2 Junbi Hán tự,34,封,,TITLE_IN_PDF
+N2-kanji-0082,N2,kanji,N2 Junbi Hán tự,34,筒,訓: つつ,TITLE_IN_PDF
+N2-kanji-0083,N2,kanji,N2 Junbi Hán tự,34,歳,,TITLE_IN_PDF
+N2-kanji-0084,N2,kanji,N2 Junbi Hán tự,35,暮,訓: くーれ くーらし,TITLE_IN_PDF
+N2-kanji-0085,N2,kanji,N2 Junbi Hán tự,35,宛,訓: あーて あて,TITLE_IN_PDF
+N2-kanji-0086,N2,kanji,N2 Junbi Hán tự,35,菓,,TITLE_IN_PDF
+N2-kanji-0087,N2,kanji,N2 Junbi Hán tự,36,輪,訓: わ,TITLE_IN_PDF
+N2-kanji-0088,N2,kanji,N2 Junbi Hán tự,36,港,訓: みなと,TITLE_IN_PDF
+N2-kanji-0089,N2,kanji,N2 Junbi Hán tự,36,途,,TITLE_IN_PDF
+N2-kanji-0090,N2,kanji,N2 Junbi Hán tự,37,標,,TITLE_IN_PDF
+N2-kanji-0091,N2,kanji,N2 Junbi Hán tự,37,普,,TITLE_IN_PDF
+N2-kanji-0092,N2,kanji,N2 Junbi Hán tự,38,渋,訓: しぶーる しぶーい,TITLE_IN_PDF
+N2-kanji-0093,N2,kanji,N2 Junbi Hán tự,38,滞,訓: とどこおーる,TITLE_IN_PDF
+N2-kanji-0094,N2,kanji,N2 Junbi Hán tự,38,街,訓: まち,TITLE_IN_PDF
+N2-kanji-0095,N2,kanji,N2 Junbi Hán tự,39,往,,TITLE_IN_PDF
+N2-kanji-0096,N2,kanji,N2 Junbi Hán tự,39,距,,TITLE_IN_PDF
+N2-kanji-0097,N2,kanji,N2 Junbi Hán tự,39,灯,訓: ともーする あかり,TITLE_IN_PDF
+N2-kanji-0098,N2,kanji,N2 Junbi Hán tự,40,妊,音: ニン,TITLE_IN_PDF
+N2-kanji-0099,N2,kanji,N2 Junbi Hán tự,40,娠,音: シン,TITLE_IN_PDF
+N2-kanji-0100,N2,kanji,N2 Junbi Hán tự,40,双,訓: ふた / 音: ソウ,TITLE_IN_PDF
+N2-kanji-0101,N2,kanji,N2 Junbi Hán tự,41,誕,音: タン,TITLE_IN_PDF
+N2-kanji-0102,N2,kanji,N2 Junbi Hán tự,41,拍,音: ハク ヒョウ,TITLE_IN_PDF
+N2-kanji-0103,N2,kanji,N2 Junbi Hán tự,42,催,音: サイ,TITLE_IN_PDF
+N2-kanji-0104,N2,kanji,N2 Junbi Hán tự,42,渇,訓: かわーく / 音: カツ,TITLE_IN_PDF
+N2-kanji-0105,N2,kanji,N2 Junbi Hán tự,42,騒,訓: さわーぐ / 音: ソウ,TITLE_IN_PDF
+N2-kanji-0106,N2,kanji,N2 Junbi Hán tự,43,延,訓: / 音:,TITLE_IN_PDF
+N2-kanji-0107,N2,kanji,N2 Junbi Hán tự,43,更,訓: / 音:,TITLE_IN_PDF
+N2-kanji-0108,N2,kanji,N2 Junbi Hán tự,43,徹,音:,TITLE_IN_PDF
+N2-kanji-0109,N2,kanji,N2 Junbi Hán tự,44,憶,音:,TITLE_IN_PDF
+N2-kanji-0110,N2,kanji,N2 Junbi Hán tự,45,携,訓: / 音:,TITLE_IN_PDF
+N2-kanji-0111,N2,kanji,N2 Junbi Hán tự,45,即,訓: / 音:,TITLE_IN_PDF
+N2-kanji-0112,N2,kanji,N2 Junbi Hán tự,45,稼,音:,TITLE_IN_PDF
+N2-kanji-0113,N2,kanji,N2 Junbi Hán tự,46,需,音:,TITLE_IN_PDF
+N2-kanji-0114,N2,kanji,N2 Junbi Hán tự,46,拒,訓: / 音:,TITLE_IN_PDF
+N2-kanji-0115,N2,kanji,N2 Junbi Hán tự,46,厳,訓: / 音:,TITLE_IN_PDF
+N2-kanji-0116,N2,kanji,N2 Junbi Hán tự,47,背,訓: / 音:,TITLE_IN_PDF
+N2-kanji-0117,N2,kanji,N2 Junbi Hán tự,47,肩,訓: / 音:,TITLE_IN_PDF
+N2-kanji-0118,N2,kanji,N2 Junbi Hán tự,47,胸,音:,TITLE_IN_PDF
+N2-kanji-0119,N2,kanji,N2 Junbi Hán tự,48,腰,音:,TITLE_IN_PDF
+N2-kanji-0120,N2,kanji,N2 Junbi Hán tự,49,脳,音:,TITLE_IN_PDF
+N2-kanji-0121,N2,kanji,N2 Junbi Hán tự,49,臓,音:,TITLE_IN_PDF
+N2-kanji-0122,N2,kanji,N2 Junbi Hán tự,49,胃,音:,TITLE_IN_PDF
+N2-kanji-0123,N2,kanji,N2 Junbi Hán tự,49,骨,音:,TITLE_IN_PDF
+N2-kanji-0124,N2,kanji,N2 Junbi Hán tự,50,康,音:,TITLE_IN_PDF
+N2-kanji-0125,N2,kanji,N2 Junbi Hán tự,50,診,訓: / 音:,TITLE_IN_PDF
+N2-kanji-0126,N2,kanji,N2 Junbi Hán tự,50,療,音:,TITLE_IN_PDF
+N2-kanji-0127,N2,kanji,N2 Junbi Hán tự,51,異,音:,TITLE_IN_PDF
+N2-kanji-0128,N2,kanji,N2 Junbi Hán tự,52,症,音:,TITLE_IN_PDF
+N2-kanji-0129,N2,kanji,N2 Junbi Hán tự,52,状,音:,TITLE_IN_PDF
+N2-kanji-0130,N2,kanji,N2 Junbi Hán tự,52,況,音:,TITLE_IN_PDF
+N2-kanji-0131,N2,kanji,N2 Junbi Hán tự,53,態,音:,TITLE_IN_PDF
+N2-kanji-0132,N2,kanji,N2 Junbi Hán tự,53,睡,音:,TITLE_IN_PDF
+N2-kanji-0133,N2,kanji,N2 Junbi Hán tự,53,喫,音:,TITLE_IN_PDF
+N2-kanji-0134,N2,kanji,N2 Junbi Hán tự,54,傷,訓: きず / 音: ショウ,TITLE_IN_PDF
+N2-kanji-0135,N2,kanji,N2 Junbi Hán tự,54,処,訓: ところ / 訓: ショ,TITLE_IN_PDF
+N2-kanji-0136,N2,kanji,N2 Junbi Hán tự,54,針,訓: はり / 音: シン,TITLE_IN_PDF
+N2-kanji-0137,N2,kanji,N2 Junbi Hán tự,55,抜,訓: ぬーく ぬーかす ぬーける / 音: バツ,TITLE_IN_PDF
+N2-kanji-0138,N2,kanji,N2 Junbi Hán tự,55,菌,音: キン,TITLE_IN_PDF
+N2-kanji-0139,N2,kanji,N2 Junbi Hán tự,55,剤,音: ザイ,TITLE_IN_PDF
+N2-kanji-0140,N2,kanji,N2 Junbi Hán tự,56,看,訓: みーる / 音: カン,TITLE_IN_PDF
+N2-kanji-0141,N2,kanji,N2 Junbi Hán tự,56,視,訓: みーる / 音: シ,TITLE_IN_PDF
+N2-kanji-0142,N2,kanji,N2 Junbi Hán tự,56,眼,音: ガン,TITLE_IN_PDF
+N2-kanji-0143,N2,kanji,N2 Junbi Hán tự,57,刺,訓: さーす さーさる さーし / 音: シ,TITLE_IN_PDF
+N2-kanji-0144,N2,kanji,N2 Junbi Hán tự,58,肌,訓: はだ,TITLE_IN_PDF
+N2-kanji-0145,N2,kanji,N2 Junbi Hán tự,58,粧,音: ショウ,TITLE_IN_PDF
+N2-kanji-0146,N2,kanji,N2 Junbi Hán tự,58,髪,音: ショウ,TITLE_IN_PDF
+N2-kanji-0147,N2,kanji,N2 Junbi Hán tự,59,華,訓: はな / 音: カ,TITLE_IN_PDF
+N2-kanji-0148,N2,kanji,N2 Junbi Hán tự,59,鏡,訓: かがみ / 音: キョウ,TITLE_IN_PDF
+N2-kanji-0149,N2,kanji,N2 Junbi Hán tự,60,勢,訓: いきおーい / 音: セイ ゼイ,TITLE_IN_PDF
+N2-kanji-0150,N2,kanji,N2 Junbi Hán tự,60,柔,訓: やわーらかい / 音: ジュウ,TITLE_IN_PDF
+N2-kanji-0151,N2,kanji,N2 Junbi Hán tự,60,軟,訓: やわーらかい / 音: ナン,TITLE_IN_PDF
+N2-kanji-0152,N2,kanji,N2 Junbi Hán tự,61,帽,音: ボウ,TITLE_IN_PDF
+N2-kanji-0153,N2,kanji,N2 Junbi Hán tự,62,傘,訓: かさ / 音: サン,TITLE_IN_PDF
+N2-kanji-0154,N2,kanji,N2 Junbi Hán tự,62,革,訓: かわ / 音: カク,TITLE_IN_PDF
+N2-kanji-0155,N2,kanji,N2 Junbi Hán tự,62,靴,訓: くつ ぐつ,TITLE_IN_PDF
+N2-kanji-0156,N2,kanji,N2 Junbi Hán tự,63,柄,訓: がら,TITLE_IN_PDF
+N2-kanji-0157,N2,kanji,N2 Junbi Hán tự,63,装,訓: よそおーう / 音: ショウ ソウ,TITLE_IN_PDF
+N2-kanji-0158,N2,kanji,N2 Junbi Hán tự,64,慣,訓: なーれる / 音: カン,TITLE_IN_PDF
+N2-kanji-0159,N2,kanji,N2 Junbi Hán tự,64,競,訓: きそーう / 音: キョウ,TITLE_IN_PDF
+N2-kanji-0160,N2,kanji,N2 Junbi Hán tự,64,養,訓: やしなーう / 音: ヨウ,TITLE_IN_PDF
+N2-kanji-0161,N2,kanji,N2 Junbi Hán tự,65,課,訓: かーす / 音: カ,TITLE_IN_PDF
+N2-kanji-0162,N2,kanji,N2 Junbi Hán tự,65,論,音: ロン,TITLE_IN_PDF
+N2-kanji-0163,N2,kanji,N2 Junbi Hán tự,66,就,訓: つーく / 音: シュウ,TITLE_IN_PDF
+N2-kanji-0164,N2,kanji,N2 Junbi Hán tự,66,従,訓: したがーう / 音: ジュウ,TITLE_IN_PDF
+N2-kanji-0165,N2,kanji,N2 Junbi Hán tự,66,応,訓: こたーえる / 音: オウ,TITLE_IN_PDF
+N2-kanji-0166,N2,kanji,N2 Junbi Hán tự,67,訪,訓: おとずーれる たずーねる / 音: ホウ,TITLE_IN_PDF
+N2-kanji-0167,N2,kanji,N2 Junbi Hán tự,68,採,訓: とーる / 音: サイ,TITLE_IN_PDF
+N2-kanji-0168,N2,kanji,N2 Junbi Hán tự,68,募,訓: つのーる / 音: ボ,TITLE_IN_PDF
+N2-kanji-0169,N2,kanji,N2 Junbi Hán tự,68,雇,訓: やとーう / 音: コ,TITLE_IN_PDF
+N2-kanji-0170,N2,kanji,N2 Junbi Hán tự,69,総,音: ソウ,TITLE_IN_PDF
+N2-kanji-0171,N2,kanji,N2 Junbi Hán tự,70,企,音: キ,TITLE_IN_PDF
+N2-kanji-0172,N2,kanji,N2 Junbi Hán tự,70,依,音: イ,TITLE_IN_PDF
+N2-kanji-0173,N2,kanji,N2 Junbi Hán tự,70,頼,訓: たのーむ たよーる たのーもしい / 音: ライ,TITLE_IN_PDF
+N2-kanji-0174,N2,kanji,N2 Junbi Hán tự,71,比,訓: くらーべる / 音: ヒ,TITLE_IN_PDF
+N2-kanji-0175,N2,kanji,N2 Junbi Hán tự,71,較,音: カク,TITLE_IN_PDF
+N2-kanji-0176,N2,kanji,N2 Junbi Hán tự,72,評,音: ヒョウ,TITLE_IN_PDF
+N2-kanji-0177,N2,kanji,N2 Junbi Hán tự,72,善,音: ゼン,TITLE_IN_PDF
+N2-kanji-0178,N2,kanji,N2 Junbi Hán tự,72,努,訓: つとーめる / 音: ド,TITLE_IN_PDF
+N2-kanji-0179,N2,kanji,N2 Junbi Hán tự,73,購,音: コウ,TITLE_IN_PDF
+N2-kanji-0180,N2,kanji,N2 Junbi Hán tự,73,額,訓: ひたい / 音: ガク,TITLE_IN_PDF
+N2-kanji-0181,N2,kanji,N2 Junbi Hán tự,73,納,訓: おさーめる おさーまる / 音: ノウ ナッ,TITLE_IN_PDF
+N2-kanji-0182,N2,kanji,N2 Junbi Hán tự,74,景,音: ケイ,TITLE_IN_PDF
+N2-kanji-0183,N2,kanji,N2 Junbi Hán tự,74,資,音: シ,TITLE_IN_PDF
+N2-kanji-0184,N2,kanji,N2 Junbi Hán tự,74,益,訓: ます / 音: エキ,TITLE_IN_PDF
+N2-kanji-0185,N2,kanji,N2 Junbi Hán tự,75,株,訓: かぶ,TITLE_IN_PDF
+N2-kanji-0186,N2,kanji,N2 Junbi Hán tự,76,増,訓: ふーえる まーす ふーやす / 音: ゾウ,TITLE_IN_PDF
+N2-kanji-0187,N2,kanji,N2 Junbi Hán tự,76,損,訓: そこーなう そこーねる そん / 音: ソン,TITLE_IN_PDF
+N2-kanji-0188,N2,kanji,N2 Junbi Hán tự,76,拡,音: カク,TITLE_IN_PDF
+N2-kanji-0189,N2,kanji,N2 Junbi Hán tự,77,縮,訓: ちぢーまる ちぢーめる / 音: しゅく,TITLE_IN_PDF
+N2-kanji-0190,N2,kanji,N2 Junbi Hán tự,77,焦,訓: こーげる こーがす こーがれる / 音: ショウ,TITLE_IN_PDF
+N2-kanji-0191,N2,kanji,N2 Junbi Hán tự,78,刑,音: ケイ,TITLE_IN_PDF
+N2-kanji-0192,N2,kanji,N2 Junbi Hán tự,78,捜,訓: さがーす / 音: ソウ,TITLE_IN_PDF
+N2-kanji-0193,N2,kanji,N2 Junbi Hán tự,78,裁,訓: さばーく / 音: サイ,TITLE_IN_PDF
+N2-kanji-0194,N2,kanji,N2 Junbi Hán tự,79,削,訓: けずーる / 音: サク,TITLE_IN_PDF
+N2-kanji-0195,N2,kanji,N2 Junbi Hán tự,80,戻,訓: もどーる もどーす,TITLE_IN_PDF
+N2-kanji-0196,N2,kanji,N2 Junbi Hán tự,80,換,訓: かーわる かーえる / 音: カン,TITLE_IN_PDF
+N2-kanji-0197,N2,kanji,N2 Junbi Hán tự,80,替,訓: かーえる かーわる,TITLE_IN_PDF
+N2-kanji-0198,N2,kanji,N2 Junbi Hán tự,81,抽,音: チュウ,TITLE_IN_PDF
+N2-kanji-0199,N2,kanji,N2 Junbi Hán tự,82,略,音: リャク,TITLE_IN_PDF
+N2-kanji-0200,N2,kanji,N2 Junbi Hán tự,82,充,訓: あーてる / 音: ジュウ,TITLE_IN_PDF
+N2-kanji-0201,N2,kanji,N2 Junbi Hán tự,82,除,訓: のぞーく / 音: ジョ ジ,TITLE_IN_PDF
+N2-kanji-0202,N2,kanji,N2 Junbi Hán tự,83,余,訓: あまーる あまーす / 音: ヨ,TITLE_IN_PDF
+N2-kanji-0203,N2,kanji,N2 Junbi Hán tự,84,誘,訓: さそーう / 音: ユウ,TITLE_IN_PDF
+N2-kanji-0204,N2,kanji,N2 Junbi Hán tự,84,勧,訓: すすーめる / 音: カン,TITLE_IN_PDF
+N2-kanji-0205,N2,kanji,N2 Junbi Hán tự,84,寄,訓: よーる よーせる / 音: キ,TITLE_IN_PDF
+N2-kanji-0206,N2,kanji,N2 Junbi Hán tự,85,迷,訓: まよーう / 音: メイ,TITLE_IN_PDF
+N2-kanji-0207,N2,kanji,N2 Junbi Hán tự,85,占,訓: うらなーう しーめる / 音: セン,TITLE_IN_PDF
+N2-kanji-0208,N2,kanji,N2 Junbi Hán tự,86,印,訓: しるし / 音: イン,TITLE_IN_PDF
+N2-kanji-0209,N2,kanji,N2 Junbi Hán tự,86,与,訓: あたーえる / 音: ヨ,TITLE_IN_PDF
+N2-kanji-0210,N2,kanji,N2 Junbi Hán tự,86,齢,音: レイ,TITLE_IN_PDF
+N2-kanji-0211,N2,kanji,N2 Junbi Hán tự,87,籍,音: セキ,TITLE_IN_PDF
+N2-kanji-0212,N2,kanji,N2 Junbi Hán tự,87,際,音: サイ キワ ギワ,TITLE_IN_PDF
+N2-kanji-0213,N2,kanji,N2 Junbi Hán tự,88,毒,音: ドク,TITLE_IN_PDF
+N2-kanji-0214,N2,kanji,N2 Junbi Hán tự,88,殺,訓: ころーす / 音: サツ,TITLE_IN_PDF
+N2-kanji-0215,N2,kanji,N2 Junbi Hán tự,88,暴,音: ボウ バク,TITLE_IN_PDF
+N2-kanji-0216,N2,kanji,N2 Junbi Hán tự,89,恐,訓: おそーろしい / 音: キョウ,TITLE_IN_PDF
+N2-kanji-0217,N2,kanji,N2 Junbi Hán tự,89,嫌,訓: きらーい いや / 音: ケン ゲン,TITLE_IN_PDF
+N2-kanji-0218,N2,kanji,N2 Junbi Hán tự,90,緊,音: キン,TITLE_IN_PDF
+N2-kanji-0219,N2,kanji,N2 Junbi Hán tự,90,破,訓: やぶーれる / 音: ハ,TITLE_IN_PDF
+N2-kanji-0220,N2,kanji,N2 Junbi Hán tự,90,別,訓: わかーれる / 音: ベツ,TITLE_IN_PDF
+N2-kanji-0221,N2,kanji,N2 Junbi Hán tự,91,離,音:,TITLE_IN_PDF
+N2-kanji-0222,N2,kanji,N2 Junbi Hán tự,91,叫,訓: さけーぶ,TITLE_IN_PDF
+N2-kanji-0223,N2,kanji,N2 Junbi Hán tự,92,誤,訓: あやまーる / 音: ゴ,TITLE_IN_PDF
+N2-kanji-0224,N2,kanji,N2 Junbi Hán tự,92,謝,訓: あやまーる / 音: シャ,TITLE_IN_PDF
+N2-kanji-0225,N2,kanji,N2 Junbi Hán tự,92,励,訓: はげーます はげーむ / 音: レイ,TITLE_IN_PDF
+N2-kanji-0226,N2,kanji,N2 Junbi Hán tự,93,冗,音: ジョウ,TITLE_IN_PDF
+N2-kanji-0227,N2,kanji,N2 Junbi Hán tự,93,握,訓: にぎーる / 音: アク,TITLE_IN_PDF
+N2-kanji-0228,N2,kanji,N2 Junbi Hán tự,93,絶,訓: たーえる たーつ / 音: ゼツ,TITLE_IN_PDF
+N2-kanji-0229,N2,kanji,N2 Junbi Hán tự,94,片,訓: かた / 音: ヘン,TITLE_IN_PDF
+N2-kanji-0230,N2,kanji,N2 Junbi Hán tự,94,裏,訓: うら / 音: リ,TITLE_IN_PDF
+N2-kanji-0231,N2,kanji,N2 Junbi Hán tự,94,幅,訓: はば / 音: フク プク,TITLE_IN_PDF
+N2-kanji-0232,N2,kanji,N2 Junbi Hán tự,95,版,音: ハン,TITLE_IN_PDF
+N2-kanji-0233,N2,kanji,N2 Junbi Hán tự,96,刷,訓: すーる / 音: サツ,TITLE_IN_PDF
+N2-kanji-0234,N2,kanji,N2 Junbi Hán tự,96,枠,訓: わく,TITLE_IN_PDF
+N2-kanji-0235,N2,kanji,N2 Junbi Hán tự,96,縦,訓: たて / 音: ジュウ,TITLE_IN_PDF
+N2-kanji-0236,N2,kanji,N2 Junbi Hán tự,97,斜,訓: ななーめ / 音: シャ,TITLE_IN_PDF
+N2-kanji-0237,N2,kanji,N2 Junbi Hán tự,97,端,訓: はし / 音: タン,TITLE_IN_PDF
+N2-kanji-0238,N2,kanji,N2 Junbi Hán tự,98,掘,訓: ほーる / 音: クツ,TITLE_IN_PDF
+N2-kanji-0239,N2,kanji,N2 Junbi Hán tự,98,埋,訓: うーめる / 音: マイ,TITLE_IN_PDF
+N2-kanji-0240,N2,kanji,N2 Junbi Hán tự,98,泥,訓: どろ / 音: デイ,TITLE_IN_PDF
+N2-kanji-0241,N2,kanji,N2 Junbi Hán tự,99,炭,訓: すみ / 音: タン,TITLE_IN_PDF
+N2-kanji-0242,N2,kanji,N2 Junbi Hán tự,99,鉱,音: コウ,TITLE_IN_PDF
+N2-kanji-0243,N2,kanji,N2 Junbi Hán tự,99,銅,音: ドウ,TITLE_IN_PDF
+N2-kanji-0244,N2,kanji,N2 Junbi Hán tự,100,純,音: ジュン,TITLE_IN_PDF
+N2-kanji-0245,N2,kanji,N2 Junbi Hán tự,100,快,訓: こころよーい / 音: カイ,TITLE_IN_PDF
+N2-kanji-0246,N2,kanji,N2 Junbi Hán tự,100,甘,訓: あまーい あまーえる,TITLE_IN_PDF
+N2-kanji-0247,N2,kanji,N2 Junbi Hán tự,101,薄,訓: うすーい うすーめる / 音: ハク,TITLE_IN_PDF
+N2-kanji-0248,N2,kanji,N2 Junbi Hán tự,102,硬,訓: かたーい / 音: コウ,TITLE_IN_PDF
+N2-kanji-0249,N2,kanji,N2 Junbi Hán tự,102,鋭,訓: するどーい / 音: エイ,TITLE_IN_PDF
+N2-kanji-0250,N2,kanji,N2 Junbi Hán tự,102,鈍,訓: にぶーい にび / 音: ドン,TITLE_IN_PDF
+N2-kanji-0251,N2,kanji,N2 Junbi Hán tự,103,詳,訓: くわーしい / 音: ショウ,TITLE_IN_PDF
+N2-kanji-0252,N2,kanji,N2 Junbi Hán tự,103,簡,音: カン,TITLE_IN_PDF
+N2-kanji-0253,N2,kanji,N2 Junbi Hán tự,104,潔,訓: いさぎよーい / 音: ケツ,TITLE_IN_PDF
+N2-kanji-0254,N2,kanji,N2 Junbi Hán tự,104,頑,訓: かたく / 音: ガン,TITLE_IN_PDF
+N2-kanji-0255,N2,kanji,N2 Junbi Hán tự,104,勇,訓: いさーましい / 音: ユウ,TITLE_IN_PDF
+N2-kanji-0256,N2,kanji,N2 Junbi Hán tự,105,賢,訓: かしこーい / 音: ケン,TITLE_IN_PDF
+N2-kanji-0257,N2,kanji,N2 Junbi Hán tự,105,珍,訓: めずらーしい / 音: チン,TITLE_IN_PDF
+N2-kanji-0258,N2,kanji,N2 Junbi Hán tự,106,宇,音: ウ,TITLE_IN_PDF
+N2-kanji-0259,N2,kanji,N2 Junbi Hán tự,106,宙,音: チュウ,TITLE_IN_PDF
+N2-kanji-0260,N2,kanji,N2 Junbi Hán tự,106,環,音: カン,TITLE_IN_PDF
+N2-kanji-0261,N2,kanji,N2 Junbi Hán tự,107,境,訓: さかい / 音: キョウ ケイ,TITLE_IN_PDF
+N2-kanji-0262,N2,kanji,N2 Junbi Hán tự,107,極,訓: きわーめる / 音: キョク,TITLE_IN_PDF
+N2-kanji-0263,N2,kanji,N2 Junbi Hán tự,107,昇,訓: のぼーる / 音: ショウ,TITLE_IN_PDF
+N2-kanji-0264,N2,kanji,N2 Junbi Hán tự,108,乾,訓: かわーく / 音: カン,TITLE_IN_PDF
+N2-kanji-0265,N2,kanji,N2 Junbi Hán tự,108,燥,音:,TITLE_IN_PDF
+N2-kanji-0266,N2,kanji,N2 Junbi Hán tự,108,湿,訓: しめーる / 音: シツ,TITLE_IN_PDF
+N2-kanji-0267,N2,kanji,N2 Junbi Hán tự,109,涼,訓: すずーしい / 音: リョウ,TITLE_IN_PDF
+N2-kanji-0268,N2,kanji,N2 Junbi Hán tự,109,雷,訓: かみなり / 音: ライ,TITLE_IN_PDF
+N2-kanji-0269,N2,kanji,N2 Junbi Hán tự,109,嵐,訓: あらし,TITLE_IN_PDF
+N2-kanji-0270,N2,kanji,N2 Junbi Hán tự,110,漁,音: ギョ リョウ,TITLE_IN_PDF
+N2-kanji-0271,N2,kanji,N2 Junbi Hán tự,110,航,音: コウ,TITLE_IN_PDF
+N2-kanji-0272,N2,kanji,N2 Junbi Hán tự,110,融,音: ユウ,TITLE_IN_PDF
+N2-kanji-0273,N2,kanji,N2 Junbi Hán tự,111,層,音: ソウ,TITLE_IN_PDF
+N2-kanji-0274,N2,kanji,N2 Junbi Hán tự,111,砂,訓: すな / 音: サ シャ,TITLE_IN_PDF
+N2-kanji-0275,N2,kanji,N2 Junbi Hán tự,112,災,音: サイ,TITLE_IN_PDF
+N2-kanji-0276,N2,kanji,N2 Junbi Hán tự,112,害,音: ガイ,TITLE_IN_PDF
+N2-kanji-0277,N2,kanji,N2 Junbi Hán tự,112,防,訓: ふせーぐ / 音: ボウ,TITLE_IN_PDF
+N2-kanji-0278,N2,kanji,N2 Junbi Hán tự,113,影,訓: かげ / 音: エイ,TITLE_IN_PDF
+N2-kanji-0279,N2,kanji,N2 Junbi Hán tự,113,響,訓: ひびーく / 音: キョウ,TITLE_IN_PDF
+N2-kanji-0280,N2,kanji,N2 Junbi Hán tự,114,被,訓: かぶーる / 音: ヒ,TITLE_IN_PDF
+N2-kanji-0281,N2,kanji,N2 Junbi Hán tự,114,壊,訓: こわーす / 音: カイ,TITLE_IN_PDF
+N2-kanji-0282,N2,kanji,N2 Junbi Hán tự,114,傾,訓: かたむーく / 音: ケイ,TITLE_IN_PDF
+N2-kanji-0283,N2,kanji,N2 Junbi Hán tự,115,崩,訓: くずーれる / 音: ホウ,TITLE_IN_PDF
+N2-kanji-0284,N2,kanji,N2 Junbi Hán tự,116,洪,音: コウ,TITLE_IN_PDF
+N2-kanji-0285,N2,kanji,N2 Junbi Hán tự,116,津,訓: つ,TITLE_IN_PDF
+N2-kanji-0286,N2,kanji,N2 Junbi Hán tự,116,荒,訓: あれーる / 音: コウ,TITLE_IN_PDF
+N2-kanji-0287,N2,kanji,N2 Junbi Hán tự,117,激,訓: げーしい / 音: ゲキ,TITLE_IN_PDF
+N2-kanji-0288,N2,kanji,N2 Junbi Hán tự,118,尊,訓: とうとーぶ とうとーい / 音: ソン,TITLE_IN_PDF
+N2-kanji-0289,N2,kanji,N2 Junbi Hán tự,118,敬,訓: うやまーう / 音: ケイ,TITLE_IN_PDF
+N2-kanji-0290,N2,kanji,N2 Junbi Hán tự,118,参,訓: まいーる / 音: サン,TITLE_IN_PDF
+N2-kanji-0291,N2,kanji,N2 Junbi Hán tự,119,致,訓: いたーす / 音: チ,TITLE_IN_PDF
+N2-kanji-0292,N2,kanji,N2 Junbi Hán tự,119,召,訓: めーす,TITLE_IN_PDF
+N2-kanji-0293,N2,kanji,N2 Junbi Hán tự,120,拝,訓: おがーむ / 音: ハイ,TITLE_IN_PDF
+N2-kanji-0294,N2,kanji,N2 Junbi Hán tự,120,了,音: リョウ,TITLE_IN_PDF
+N2-kanji-0295,N2,kanji,N2 Junbi Hán tự,120,承,訓: うけたまわーる / 音: ショウ,TITLE_IN_PDF
+N2-kanji-0296,N2,kanji,N2 Junbi Hán tự,121,伺,訓: うかがーう,TITLE_IN_PDF
+N2-kanji-0297,N2,kanji,N2 Junbi Hán tự,121,頂,訓: いただーく / 音: チョウ,TITLE_IN_PDF
+N2-kanji-0298,N2,kanji,N2 Junbi Hán tự,122,照,訓: てーらす てーれる / 音: ショウ,TITLE_IN_PDF
+N2-kanji-0299,N2,kanji,N2 Junbi Hán tự,122,貨,音: カ,TITLE_IN_PDF
+N2-kanji-0300,N2,kanji,N2 Junbi Hán tự,122,振,訓: ふーる / 音: シン,TITLE_IN_PDF
+N2-kanji-0301,N2,kanji,N2 Junbi Hán tự,123,判,音: ハン バン パン,TITLE_IN_PDF
+N2-kanji-0302,N2,kanji,N2 Junbi Hán tự,124,劇,音: ゲキ,TITLE_IN_PDF
+N2-kanji-0303,N2,kanji,N2 Junbi Hán tự,124,舞,訓: まーう まい / 音: ブ,TITLE_IN_PDF
+N2-kanji-0304,N2,kanji,N2 Junbi Hán tự,124,堂,音: ドウ,TITLE_IN_PDF
+N2-kanji-0305,N2,kanji,N2 Junbi Hán tự,125,展,音: テン,TITLE_IN_PDF
+N2-kanji-0306,N2,kanji,N2 Junbi Hán tự,126,跡,訓: あと / 音: セキ,TITLE_IN_PDF
+N2-kanji-0307,N2,kanji,N2 Junbi Hán tự,126,祈,訓: いのーる / 音: キ,TITLE_IN_PDF
+N2-kanji-0308,N2,kanji,N2 Junbi Hán tự,126,恵,訓: めぐーむ / 音: ケイ エ,TITLE_IN_PDF
+N2-kanji-0309,N2,kanji,N2 Junbi Hán tự,127,至,訓: いたーる / 音: シ,TITLE_IN_PDF
+N2-kanji-0310,N2,kanji,N2 Junbi Hán tự,128,警,音: ケイ,TITLE_IN_PDF
+N2-kanji-0311,N2,kanji,N2 Junbi Hán tự,128,署,音: ショ,TITLE_IN_PDF
+N2-kanji-0312,N2,kanji,N2 Junbi Hán tự,128,乱,訓: みだーれる みだーす / 音: ラン,TITLE_IN_PDF
+N2-kanji-0313,N2,kanji,N2 Junbi Hán tự,129,扱,訓: あつかーう,TITLE_IN_PDF
+N2-kanji-0314,N2,kanji,N2 Junbi Hán tự,129,及,訓: およーぶ / 音: キュウ,TITLE_IN_PDF
+N2-kanji-0315,N2,kanji,N2 Junbi Hán tự,130,講,音: コウ,TITLE_IN_PDF
+N2-kanji-0316,N2,kanji,N2 Junbi Hán tự,130,義,音: ギ,TITLE_IN_PDF
+N2-kanji-0317,N2,kanji,N2 Junbi Hán tự,130,導,訓: みちびーく / 音: ドウ,TITLE_IN_PDF
+N2-kanji-0318,N2,kanji,N2 Junbi Hán tự,131,専,訓: もっぱーら / 音: セン,TITLE_IN_PDF
+N2-kanji-0319,N2,kanji,N2 Junbi Hán tự,131,限,訓: かぎーる / 音: ゲン,TITLE_IN_PDF
+N2-kanji-0320,N2,kanji,N2 Junbi Hán tự,131,修,音: シュウ,TITLE_IN_PDF
+N2-kanji-0321,N2,kanji,N2 Junbi Hán tự,132,述,訓: のーべる / 音: ジュツ,TITLE_IN_PDF
+N2-kanji-0322,N2,kanji,N2 Junbi Hán tự,132,将,音: ショウ,TITLE_IN_PDF
+N2-kanji-0323,N2,kanji,N2 Junbi Hán tự,132,博,音: ハク バク,TITLE_IN_PDF
+N2-kanji-0324,N2,kanji,N2 Junbi Hán tự,133,策,音: サク,TITLE_IN_PDF
+N2-kanji-0325,N2,kanji,N2 Junbi Hán tự,133,基,訓: もと / 音: キ,TITLE_IN_PDF
+N2-kanji-0326,N2,kanji,N2 Junbi Hán tự,134,句,音: ク,TITLE_IN_PDF
+N2-kanji-0327,N2,kanji,N2 Junbi Hán tự,134,詞,音: シ,TITLE_IN_PDF
+N2-kanji-0328,N2,kanji,N2 Junbi Hán tự,134,覧,音: ラン,TITLE_IN_PDF
+N2-kanji-0329,N2,kanji,N2 Junbi Hán tự,135,簿,音: ボ,TITLE_IN_PDF
+N2-kanji-0330,N2,kanji,N2 Junbi Hán tự,135,塾,音: ジュク,TITLE_IN_PDF
+N2-kanji-0331,N2,kanji,N2 Junbi Hán tự,136,党,音: トウ,TITLE_IN_PDF
+N2-kanji-0332,N2,kanji,N2 Junbi Hán tự,136,民,音: ミン,TITLE_IN_PDF
+N2-kanji-0333,N2,kanji,N2 Junbi Hán tự,136,挙,訓: あーげる / 音: キョ,TITLE_IN_PDF
+N2-kanji-0334,N2,kanji,N2 Junbi Hán tự,137,委,訓: ゆだーねる / 音: イ,TITLE_IN_PDF
+N2-kanji-0335,N2,kanji,N2 Junbi Hán tự,138,権,音: ケン,TITLE_IN_PDF
+N2-kanji-0336,N2,kanji,N2 Junbi Hán tự,138,票,音: ヒョウ,TITLE_IN_PDF
+N2-kanji-0337,N2,kanji,N2 Junbi Hán tự,138,統,音: トウ,TITLE_IN_PDF
+N2-kanji-0338,N2,kanji,N2 Junbi Hán tự,139,序,音: ジョ,TITLE_IN_PDF
+N2-kanji-0339,N2,kanji,N2 Junbi Hán tự,139,批,音: ヒ,TITLE_IN_PDF
+N2-kanji-0340,N2,kanji,N2 Junbi Hán tự,140,条,音: ジョウ,TITLE_IN_PDF
+N2-kanji-0341,N2,kanji,N2 Junbi Hán tự,140,司,音: シ,TITLE_IN_PDF
+N2-kanji-0342,N2,kanji,N2 Junbi Hán tự,140,省,訓: はぶーく かえりーみる / 音: ショウ セイ,TITLE_IN_PDF
+N2-kanji-0343,N2,kanji,N2 Junbi Hán tự,141,庁,音: チョウ,TITLE_IN_PDF
+N2-kanji-0344,N2,kanji,N2 Junbi Hán tự,142,敵,音: テキ,TITLE_IN_PDF
+N2-kanji-0345,N2,kanji,N2 Junbi Hán tự,142,領,音: リョウ,TITLE_IN_PDF
+N2-kanji-0346,N2,kanji,N2 Junbi Hán tự,142,侵,訓: おかーす / 音: シン,TITLE_IN_PDF
+N2-kanji-0347,N2,kanji,N2 Junbi Hán tự,143,銃,訓: つつ / 音: ジュウ,TITLE_IN_PDF
+N2-kanji-0348,N2,kanji,N2 Junbi Hán tự,144,護,音: ゴ,TITLE_IN_PDF
+N2-kanji-0349,N2,kanji,N2 Junbi Hán tự,144,衛,音: エイ,TITLE_IN_PDF
+N2-kanji-0350,N2,kanji,N2 Junbi Hán tự,144,屈,音: クツ,TITLE_IN_PDF
+N2-kanji-0351,N2,kanji,N2 Junbi Hán tự,145,却,音: キャク,TITLE_IN_PDF
+N2-kanji-0352,N2,kanji,N2 Junbi Hán tự,146,攻,訓: せーめる / 音: コウ,TITLE_IN_PDF
+N2-kanji-0353,N2,kanji,N2 Junbi Hán tự,146,撃,訓: うーつ / 音: ゲキ,TITLE_IN_PDF
+N2-kanji-0354,N2,kanji,N2 Junbi Hán tự,146,爆,音: バク,TITLE_IN_PDF
+N2-kanji-0355,N2,kanji,N2 Junbi Hán tự,147,討,音: トウ,TITLE_IN_PDF
+N2-kanji-0356,N2,kanji,N2 Junbi Hán tự,147,射,音: シャ,TITLE_IN_PDF
+N2-kanji-0357,N2,kanji,N2 Junbi Hán tự,147,武,音: ブ,TITLE_IN_PDF
+N2-kanji-0358,N2,kanji,N2 Junbi Hán tự,148,模,音: ボ モ,TITLE_IN_PDF
+N2-kanji-0359,N2,kanji,N2 Junbi Hán tự,148,範,音: ハン,TITLE_IN_PDF
+N2-kanji-0360,N2,kanji,N2 Junbi Hán tự,148,幼,訓: おさなーい / 音: ヨウ,TITLE_IN_PDF
+N2-kanji-0361,N2,kanji,N2 Junbi Hán tự,149,稚,音: チ,TITLE_IN_PDF
+N2-kanji-0362,N2,kanji,N2 Junbi Hán tự,149,継,訓: つーぐ / 音: ケイ,TITLE_IN_PDF
+N2-kanji-0363,N2,kanji,N2 Junbi Hán tự,150,恥,訓: はじ はーずかしい,TITLE_IN_PDF
+N2-kanji-0364,N2,kanji,N2 Junbi Hán tự,150,旬,音: シュン ジュン,TITLE_IN_PDF
+N2-kanji-0365,N2,kanji,N2 Junbi Hán tự,150,補,訓: おぎなーう / 音: ホ,TITLE_IN_PDF
+N2-kanji-0366,N2,kanji,N2 Junbi Hán tự,151,隠,訓: かくーれる かくーす / 音: イン,TITLE_IN_PDF
+N2-kanji-0367,N2,kanji,N2 Junbi Hán tự,151,劣,訓: おとーる / 音: レツ,TITLE_IN_PDF
+N2-kanji-0368,N2,kanji,N2 Junbi Hán tự,151,継,訓: つーぐ / 音: ケイ,TITLE_IN_PDF
+N2-kanji-0369,N2,kanji,N2 Junbi Hán tự,152,伴,訓: ともなーう / 音: ハン バン,TITLE_IN_PDF
+N2-kanji-0370,N2,kanji,N2 Junbi Hán tự,152,絞,訓: しまーる しめーる しぼーる / 音: コウ,TITLE_IN_PDF
+N2-kanji-0371,N2,kanji,N2 Junbi Hán tự,152,憎,訓: にくーい にくーむ / 音: ゾウ,TITLE_IN_PDF
+N2-kanji-0372,N2,kanji,N2 Junbi Hán tự,153,率,訓: ひきーいる / 音: ソツ リツ,TITLE_IN_PDF
+N2-kanji-0373,N2,kanji,N2 Junbi Hán tự,153,垂,訓: たーれる / 音: スイ,TITLE_IN_PDF
+N2-kanji-0374,N2,kanji,N2 Junbi Hán tự,154,拠,音: キョ コ,TITLE_IN_PDF
+N2-kanji-0375,N2,kanji,N2 Junbi Hán tự,154,抵,音: テイ,TITLE_IN_PDF
+N2-kanji-0376,N2,kanji,N2 Junbi Hán tự,154,墓,訓: はか / 音: ボ,TITLE_IN_PDF
+N2-kanji-0377,N2,kanji,N2 Junbi Hán tự,155,揚,訓: あげーる / 音: ヨウ,TITLE_IN_PDF
+N2-kanji-0378,N2,kanji,N2 Junbi Hán tự,155,偉,訓: えらーい / 音: イ,TITLE_IN_PDF
+N2-kanji-0379,N2,kanji,N2 Junbi Hán tự,156,請,訓: うーける / 音: セイ,TITLE_IN_PDF
+N2-kanji-0380,N2,kanji,N2 Junbi Hán tự,156,属,音: ゾク,TITLE_IN_PDF
+N2-kanji-0381,N2,kanji,N2 Junbi Hán tự,156,免,訓: まぬがーれる / 音: メン,TITLE_IN_PDF
+N2-kanji-0382,N2,kanji,N2 Junbi Hán tự,157,剣,音: ケン,TITLE_IN_PDF
+N2-kanji-0383,N2,kanji,N2 Junbi Hán tự,157,辞,訓: やーめる / 音: ジ,TITLE_IN_PDF
+N2-kanji-0384,N2,kanji,N2 Junbi Hán tự,157,適,音: テキ,TITLE_IN_PDF
+N2-kanji-0385,N2,kanji,N2 Junbi Hán tự,158,儀,音: ギ,TITLE_IN_PDF
+N2-kanji-0386,N2,kanji,N2 Junbi Hán tự,158,施,訓: ほどこーす / 音: セ シ,TITLE_IN_PDF
+N2-kanji-0387,N2,kanji,N2 Junbi Hán tự,158,推,訓: おーす / 音: スイ,TITLE_IN_PDF
+N2-kanji-0388,N2,kanji,N2 Junbi Hán tự,159,副,音: フク,TITLE_IN_PDF
+N2-kanji-0389,N2,kanji,N2 Junbi Hán tự,159,滴,音: テキ,TITLE_IN_PDF
+N2-kanji-0390,N2,kanji,N2 Junbi Hán tự,160,密,訓: ひそーか / 音: ミツ,TITLE_IN_PDF
+N2-kanji-0391,N2,kanji,N2 Junbi Hán tự,160,陽,訓: ひ / 音: ヨウ,TITLE_IN_PDF
+N2-kanji-0392,N2,kanji,N2 Junbi Hán tự,160,乏,音: ボウ,TITLE_IN_PDF
+N2-kanji-0393,N2,kanji,N2 Junbi Hán tự,161,築,訓: きずーく / 音: チク,TITLE_IN_PDF
+N2-kanji-0394,N2,kanji,N2 Junbi Hán tự,161,識,音: シキ,TITLE_IN_PDF
+N2-kanji-0395,N2,kanji,N2 Junbi Hán tự,161,擦,訓: こすーる / 音: サツ,TITLE_IN_PDF
+N3-vocab-0001,N3,vocab,N3 Junbi Từ vựng,8,男性,だんせい,TITLE_IN_PDF
+N3-vocab-0002,N3,vocab,N3 Junbi Từ vựng,8,女性,じょせい,TITLE_IN_PDF
+N3-vocab-0003,N3,vocab,N3 Junbi Từ vựng,8,高齢,こうれい,TITLE_IN_PDF
+N3-vocab-0004,N3,vocab,N3 Junbi Từ vựng,9,年上,としうえ,TITLE_IN_PDF
+N3-vocab-0005,N3,vocab,N3 Junbi Từ vựng,9,目上,めうえ,TITLE_IN_PDF
+N3-vocab-0006,N3,vocab,N3 Junbi Từ vựng,9,先輩・後輩,せんぱいこうはい,TITLE_IN_RAW_ONLY
+N3-vocab-0007,N3,vocab,N3 Junbi Từ vựng,9,上司,じょうし,TITLE_IN_PDF
+N3-vocab-0008,N3,vocab,N3 Junbi Từ vựng,10,相手,あいて,TITLE_IN_PDF
+N3-vocab-0009,N3,vocab,N3 Junbi Từ vựng,10,知り合い,しあい,TITLE_IN_PDF
+N3-vocab-0010,N3,vocab,N3 Junbi Từ vựng,10,友人,ゆうじん,TITLE_IN_PDF
+N3-vocab-0011,N3,vocab,N3 Junbi Từ vựng,11,仲,なか,TITLE_IN_PDF
+N3-vocab-0012,N3,vocab,N3 Junbi Từ vựng,11,生年月日,せいねんがっぴ,TITLE_IN_PDF
+N3-vocab-0013,N3,vocab,N3 Junbi Từ vựng,11,誕生,たんじょう,TITLE_IN_PDF
+N3-vocab-0014,N3,vocab,N3 Junbi Từ vựng,11,年,とし,TITLE_IN_PDF
+N3-vocab-0015,N3,vocab,N3 Junbi Từ vựng,12,出身,しゅっしん,TITLE_IN_PDF
+N3-vocab-0016,N3,vocab,N3 Junbi Từ vựng,12,故郷,こきょう,TITLE_IN_PDF
+N3-vocab-0017,N3,vocab,N3 Junbi Từ vựng,12,成長,せいちょう,TITLE_IN_PDF
+N3-vocab-0018,N3,vocab,N3 Junbi Từ vựng,13,成人,せいじん,TITLE_IN_PDF
+N3-vocab-0019,N3,vocab,N3 Junbi Từ vựng,13,合格,ごうかく,TITLE_IN_PDF
+N3-vocab-0020,N3,vocab,N3 Junbi Từ vựng,14,進学,しんがく,TITLE_IN_PDF
+N3-vocab-0021,N3,vocab,N3 Junbi Từ vựng,14,退学,たいがく,TITLE_IN_PDF
+N3-vocab-0022,N3,vocab,N3 Junbi Từ vựng,14,就職,しゅうしょく,TITLE_IN_PDF
+N3-vocab-0023,N3,vocab,N3 Junbi Từ vựng,15,退職,たいしょく,TITLE_IN_PDF
+N3-vocab-0024,N3,vocab,N3 Junbi Từ vựng,15,失業,しつぎょう,TITLE_IN_PDF
+N3-vocab-0025,N3,vocab,N3 Junbi Từ vựng,15,残業,ざんぎょう,TITLE_IN_PDF
+N3-vocab-0026,N3,vocab,N3 Junbi Từ vựng,16,生活,せいかつ,TITLE_IN_PDF
+N3-vocab-0027,N3,vocab,N3 Junbi Từ vựng,16,通勤,つうきん,TITLE_IN_PDF
+N3-vocab-0028,N3,vocab,N3 Junbi Từ vựng,16,学歴,がくれき,TITLE_IN_PDF
+N3-vocab-0029,N3,vocab,N3 Junbi Từ vựng,17,給料,きゅうりょう,TITLE_IN_PDF
+N3-vocab-0030,N3,vocab,N3 Junbi Từ vựng,17,面接,めんせつ,TITLE_IN_PDF
+N3-vocab-0031,N3,vocab,N3 Junbi Từ vựng,17,休憩,きゅうけい,TITLE_IN_PDF
+N3-vocab-0032,N3,vocab,N3 Junbi Từ vựng,17,観光,かんこう,TITLE_IN_PDF
+N3-vocab-0033,N3,vocab,N3 Junbi Từ vựng,17,帰国,きこく,TITLE_IN_PDF
+N3-vocab-0034,N3,vocab,N3 Junbi Từ vựng,18,帰省,きせい,TITLE_IN_PDF
+N3-vocab-0035,N3,vocab,N3 Junbi Từ vựng,18,帰宅,きたく,TITLE_IN_PDF
+N3-vocab-0036,N3,vocab,N3 Junbi Từ vựng,18,参加,さんか,TITLE_IN_PDF
+N3-vocab-0037,N3,vocab,N3 Junbi Từ vựng,18,出席・欠席,しゅっせきけっせき,TITLE_IN_RAW_ONLY
+N3-vocab-0038,N3,vocab,N3 Junbi Từ vựng,18,遅刻,ちこく,TITLE_IN_PDF
+N3-vocab-0039,N3,vocab,N3 Junbi Từ vựng,19,化粧,けしょう,TITLE_IN_PDF
+N3-vocab-0040,N3,vocab,N3 Junbi Từ vựng,19,計算,けいさん,TITLE_IN_PDF
+N3-vocab-0041,N3,vocab,N3 Junbi Từ vựng,20,計画,けいかく,TITLE_IN_PDF
+N3-vocab-0042,N3,vocab,N3 Junbi Từ vựng,20,成功・失敗,せいこうしっぱい,TITLE_IN_RAW_ONLY
+N3-vocab-0043,N3,vocab,N3 Junbi Từ vựng,20,準備,じゅんび,TITLE_IN_PDF
+N3-vocab-0044,N3,vocab,N3 Junbi Từ vựng,21,整理,せいり,TITLE_IN_PDF
+N3-vocab-0045,N3,vocab,N3 Junbi Từ vựng,21,注文,ちゅうもん,TITLE_IN_PDF
+N3-vocab-0046,N3,vocab,N3 Junbi Từ vựng,21,貯金,ちょきん,TITLE_IN_PDF
+N3-vocab-0047,N3,vocab,N3 Junbi Từ vựng,21,徹夜,てつや,TITLE_IN_PDF
+N3-vocab-0048,N3,vocab,N3 Junbi Từ vựng,22,引っ越し,ひこし,TITLE_IN_RAW_ONLY
+N3-vocab-0049,N3,vocab,N3 Junbi Từ vựng,22,身長,しんちょう,TITLE_IN_PDF
+N3-vocab-0050,N3,vocab,N3 Junbi Từ vựng,22,体重,たいじゅう,TITLE_IN_PDF
+N3-vocab-0051,N3,vocab,N3 Junbi Từ vựng,23,けが,,TITLE_IN_PDF
+N3-vocab-0052,N3,vocab,N3 Junbi Từ vựng,23,会,かい,TITLE_IN_PDF
+N3-vocab-0053,N3,vocab,N3 Junbi Từ vựng,23,趣味,しゅみ,TITLE_IN_PDF
+N3-vocab-0054,N3,vocab,N3 Junbi Từ vựng,23,興味,きょうみ,TITLE_IN_PDF
+N3-vocab-0055,N3,vocab,N3 Junbi Từ vựng,24,思い出,おもで,TITLE_IN_PDF
+N3-vocab-0056,N3,vocab,N3 Junbi Từ vựng,24,冗談,じょうだん,TITLE_IN_PDF
+N3-vocab-0057,N3,vocab,N3 Junbi Từ vựng,24,目的,もくてき,TITLE_IN_PDF
+N3-vocab-0058,N3,vocab,N3 Junbi Từ vựng,25,約束,やくそく,TITLE_IN_PDF
+N3-vocab-0059,N3,vocab,N3 Junbi Từ vựng,25,おしゃべり,,TITLE_IN_PDF
+N3-vocab-0060,N3,vocab,N3 Junbi Từ vựng,25,遠慮,えんりょ,TITLE_IN_PDF
+N3-vocab-0061,N3,vocab,N3 Junbi Từ vựng,26,我慢,がまん,TITLE_IN_PDF
+N3-vocab-0062,N3,vocab,N3 Junbi Từ vựng,26,迷惑,めいわく,TITLE_IN_PDF
+N3-vocab-0063,N3,vocab,N3 Junbi Từ vựng,26,希望,きぼう,TITLE_IN_PDF
+N3-vocab-0064,N3,vocab,N3 Junbi Từ vựng,27,夢,ゆめ,TITLE_IN_PDF
+N3-vocab-0065,N3,vocab,N3 Junbi Từ vựng,27,賛成,さんせい,TITLE_IN_PDF
+N3-vocab-0066,N3,vocab,N3 Junbi Từ vựng,27,反対,はんたい,TITLE_IN_PDF
+N3-vocab-0067,N3,vocab,N3 Junbi Từ vựng,28,想像,そうぞう,TITLE_IN_PDF
+N3-vocab-0068,N3,vocab,N3 Junbi Từ vựng,28,努力,どりょく,TITLE_IN_PDF
+N3-vocab-0069,N3,vocab,N3 Junbi Từ vựng,28,太陽,たいよう,TITLE_IN_PDF
+N3-vocab-0070,N3,vocab,N3 Junbi Từ vựng,29,地球,ちきゅう,TITLE_IN_PDF
+N3-vocab-0071,N3,vocab,N3 Junbi Từ vựng,29,温度,おんど,TITLE_IN_PDF
+N3-vocab-0072,N3,vocab,N3 Junbi Từ vựng,29,湿度,しつど,TITLE_IN_PDF
+N3-vocab-0073,N3,vocab,N3 Junbi Từ vựng,29,湿気,しっけ,TITLE_IN_PDF
+N3-vocab-0074,N3,vocab,N3 Junbi Từ vựng,30,梅雨,つゆ,TITLE_IN_PDF
+N3-vocab-0075,N3,vocab,N3 Junbi Từ vựng,30,かび,,TITLE_IN_PDF
+N3-vocab-0076,N3,vocab,N3 Junbi Từ vựng,30,暖房,だんぼう,TITLE_IN_PDF
+N3-vocab-0077,N3,vocab,N3 Junbi Từ vựng,30,皮,かわ,TITLE_IN_PDF
+N3-vocab-0078,N3,vocab,N3 Junbi Từ vựng,31,缶,かん,TITLE_IN_PDF
+N3-vocab-0079,N3,vocab,N3 Junbi Từ vựng,31,画面,がめん,TITLE_IN_PDF
+N3-vocab-0080,N3,vocab,N3 Junbi Từ vựng,31,番組,ばんぐみ,TITLE_IN_PDF
+N3-vocab-0081,N3,vocab,N3 Junbi Từ vựng,32,記事,きじ,TITLE_IN_PDF
+N3-vocab-0082,N3,vocab,N3 Junbi Từ vựng,32,近所,きんじょ,TITLE_IN_PDF
+N3-vocab-0083,N3,vocab,N3 Junbi Từ vựng,33,警察,けいさつ,TITLE_IN_PDF
+N3-vocab-0084,N3,vocab,N3 Junbi Từ vựng,33,犯人,はんにん,TITLE_IN_PDF
+N3-vocab-0085,N3,vocab,N3 Junbi Từ vựng,33,小銭,こぜに,TITLE_IN_PDF
+N3-vocab-0086,N3,vocab,N3 Junbi Từ vựng,34,ごちそう,,TITLE_IN_PDF
+N3-vocab-0087,N3,vocab,N3 Junbi Từ vựng,34,作者,さくしゃ,TITLE_IN_PDF
+N3-vocab-0088,N3,vocab,N3 Junbi Từ vựng,34,作品,さくひん,TITLE_IN_PDF
+N3-vocab-0089,N3,vocab,N3 Junbi Từ vựng,35,制服,せいふく,TITLE_IN_PDF
+N3-vocab-0090,N3,vocab,N3 Junbi Từ vựng,35,洗剤,せんざい,TITLE_IN_PDF
+N3-vocab-0091,N3,vocab,N3 Junbi Từ vựng,35,底,そこ,TITLE_IN_PDF
+N3-vocab-0092,N3,vocab,N3 Junbi Từ vựng,36,地下,ちか,TITLE_IN_PDF
+N3-vocab-0093,N3,vocab,N3 Junbi Từ vựng,36,寺,てら,TITLE_IN_PDF
+N3-vocab-0094,N3,vocab,N3 Junbi Từ vựng,36,高速道路,こうそくどうろ,TITLE_IN_PDF
+N3-vocab-0095,N3,vocab,N3 Junbi Từ vựng,37,坂,さか,TITLE_IN_PDF
+N3-vocab-0096,N3,vocab,N3 Junbi Từ vựng,37,煙,けむり,TITLE_IN_PDF
+N3-vocab-0097,N3,vocab,N3 Junbi Từ vựng,37,灰,はい,TITLE_IN_PDF
+N3-vocab-0098,N3,vocab,N3 Junbi Từ vựng,38,判,はん,TITLE_IN_PDF
+N3-vocab-0099,N3,vocab,N3 Junbi Từ vựng,38,名刺,めいし,TITLE_IN_PDF
+N3-vocab-0100,N3,vocab,N3 Junbi Từ vựng,38,免許,めんきょ,TITLE_IN_PDF
+N3-vocab-0101,N3,vocab,N3 Junbi Từ vựng,39,多く,おおく,TITLE_IN_PDF
+N3-vocab-0102,N3,vocab,N3 Junbi Từ vựng,39,前半・後半,ぜんはんこうはん,TITLE_IN_RAW_ONLY
+N3-vocab-0103,N3,vocab,N3 Junbi Từ vựng,39,最高,さいこう,TITLE_IN_PDF
+N3-vocab-0104,N3,vocab,N3 Junbi Từ vựng,40,最低,さいてい,TITLE_IN_PDF
+N3-vocab-0105,N3,vocab,N3 Junbi Từ vựng,40,最初,さいしょ,TITLE_IN_PDF
+N3-vocab-0106,N3,vocab,N3 Junbi Từ vựng,40,最後,さいご,TITLE_IN_PDF
+N3-vocab-0107,N3,vocab,N3 Junbi Từ vựng,40,自動,じどう,TITLE_IN_PDF
+N3-vocab-0108,N3,vocab,N3 Junbi Từ vựng,41,種類,しゅるい,TITLE_IN_PDF
+N3-vocab-0109,N3,vocab,N3 Junbi Từ vựng,41,性格,せいかく,TITLE_IN_PDF
+N3-vocab-0110,N3,vocab,N3 Junbi Từ vựng,41,性質,せいしつ,TITLE_IN_PDF
+N3-vocab-0111,N3,vocab,N3 Junbi Từ vựng,42,順番,じゅんばん,TITLE_IN_PDF
+N3-vocab-0112,N3,vocab,N3 Junbi Từ vựng,42,番,ばん,TITLE_IN_PDF
+N3-vocab-0113,N3,vocab,N3 Junbi Từ vựng,42,方法,ほうほう,TITLE_IN_PDF
+N3-vocab-0114,N3,vocab,N3 Junbi Từ vựng,42,製品,せいひん,TITLE_IN_PDF
+N3-vocab-0115,N3,vocab,N3 Junbi Từ vựng,43,値上がり,ねあがり,TITLE_IN_PDF
+N3-vocab-0116,N3,vocab,N3 Junbi Từ vựng,43,生,なま,TITLE_IN_PDF
+N3-vocab-0117,N3,vocab,N3 Junbi Từ vựng,44,渇く,かわく,TITLE_IN_RAW_ONLY
+N3-vocab-0118,N3,vocab,N3 Junbi Từ vựng,44,かぐ,,TITLE_IN_PDF
+N3-vocab-0119,N3,vocab,N3 Junbi Từ vựng,44,叩く,たたく,TITLE_IN_PDF
+N3-vocab-0120,N3,vocab,N3 Junbi Từ vựng,45,殴る,なぐる,TITLE_IN_RAW_ONLY
+N3-vocab-0121,N3,vocab,N3 Junbi Từ vựng,45,ける,,TITLE_IN_PDF
+N3-vocab-0122,N3,vocab,N3 Junbi Từ vựng,45,抱く,だく,TITLE_IN_PDF
+N3-vocab-0123,N3,vocab,N3 Junbi Từ vựng,45,(が)倒れる,たおれる,TITLE_IN_RAW_ONLY
+N3-vocab-0124,N3,vocab,N3 Junbi Từ vựng,45,(を)倒す,たおす,TITLE_IN_RAW_ONLY
+N3-vocab-0125,N3,vocab,N3 Junbi Từ vựng,46,(が)起きる,おきる,TITLE_IN_RAW_ONLY
+N3-vocab-0126,N3,vocab,N3 Junbi Từ vựng,46,(を)起こす,おこす,TITLE_IN_PDF
+N3-vocab-0127,N3,vocab,N3 Junbi Từ vựng,46,尋ねる,たずねる,TITLE_IN_RAW_ONLY
+N3-vocab-0128,N3,vocab,N3 Junbi Từ vựng,47,呼ぶ,よぶ,TITLE_IN_PDF
+N3-vocab-0129,N3,vocab,N3 Junbi Từ vựng,47,叫ぶ声,さけこえ,TITLE_IN_PDF
+N3-vocab-0130,N3,vocab,N3 Junbi Từ vựng,47,黙る,だまる,TITLE_IN_RAW_ONLY
+N3-vocab-0131,N3,vocab,N3 Junbi Từ vựng,48,飼う,かう,TITLE_IN_RAW_ONLY
+N3-vocab-0132,N3,vocab,N3 Junbi Từ vựng,48,数える,かぞえる,TITLE_IN_PDF
+N3-vocab-0133,N3,vocab,N3 Junbi Từ vựng,48,(が)乾く,かわく,TITLE_IN_PDF
+N3-vocab-0134,N3,vocab,N3 Junbi Từ vựng,48,(を)乾かす,かわかす,TITLE_IN_RAW_ONLY
+N3-vocab-0135,N3,vocab,N3 Junbi Từ vựng,49,畳む,たたむ,TITLE_IN_PDF
+N3-vocab-0136,N3,vocab,N3 Junbi Từ vựng,49,誘う,さそう,TITLE_IN_RAW_ONLY
+N3-vocab-0137,N3,vocab,N3 Junbi Từ vựng,50,(に・を)おごる,,TITLE_IN_PDF
+N3-vocab-0138,N3,vocab,N3 Junbi Từ vựng,50,(を)預かる,あずかる,TITLE_IN_PDF
+N3-vocab-0139,N3,vocab,N3 Junbi Từ vựng,50,(を)預ける,あずける,TITLE_IN_PDF
+N3-vocab-0140,N3,vocab,N3 Junbi Từ vựng,51,(が)決まる,きまる,TITLE_IN_RAW_ONLY
+N3-vocab-0141,N3,vocab,N3 Junbi Từ vựng,51,(を)決める,きめる,TITLE_IN_RAW_ONLY
+N3-vocab-0142,N3,vocab,N3 Junbi Từ vựng,51,(が)写る,うつる,TITLE_IN_PDF
+N3-vocab-0143,N3,vocab,N3 Junbi Từ vựng,51,(を)写す,うつす,TITLE_IN_RAW_ONLY
+N3-vocab-0144,N3,vocab,N3 Junbi Từ vựng,52,(を)思い出す,おもだす,TITLE_IN_PDF
+N3-vocab-0145,N3,vocab,N3 Junbi Từ vựng,52,(を)教わる,おそわる,TITLE_IN_RAW_ONLY
+N3-vocab-0146,N3,vocab,N3 Junbi Từ vựng,52,(を)申し込む,もうこむ,TITLE_IN_PDF
+N3-vocab-0147,N3,vocab,N3 Junbi Từ vựng,53,(を) 断る,ことわる,TITLE_IN_RAW_ONLY
+N3-vocab-0148,N3,vocab,N3 Junbi Từ vựng,53,(が)見つかる,みつかる,TITLE_IN_RAW_ONLY
+N3-vocab-0149,N3,vocab,N3 Junbi Từ vựng,53,(を)見つける,みつける,TITLE_IN_RAW_ONLY
+N3-vocab-0150,N3,vocab,N3 Junbi Từ vựng,53,(が)捕まる,つかまる,TITLE_IN_RAW_ONLY
+N3-vocab-0151,N3,vocab,N3 Junbi Từ vựng,54,(が)捕まえる,つかまえる,TITLE_IN_PDF
+N3-vocab-0152,N3,vocab,N3 Junbi Từ vựng,54,(が)乗る,のる,TITLE_IN_RAW_ONLY
+N3-vocab-0153,N3,vocab,N3 Junbi Từ vựng,54,(を)乗せる,のせる,TITLE_IN_RAW_ONLY
+N3-vocab-0154,N3,vocab,N3 Junbi Từ vựng,54,(が)降りる,おりる,TITLE_IN_PDF
+N3-vocab-0155,N3,vocab,N3 Junbi Từ vựng,55,(を)降ろす,おろす,TITLE_IN_PDF
+N3-vocab-0156,N3,vocab,N3 Junbi Từ vựng,56,(が)直る,なおる,TITLE_IN_RAW_ONLY
+N3-vocab-0157,N3,vocab,N3 Junbi Từ vựng,56,(を)直す,なおす,TITLE_IN_PDF
+N3-vocab-0158,N3,vocab,N3 Junbi Từ vựng,57,(が)治る,なおる,TITLE_IN_PDF
+N3-vocab-0159,N3,vocab,N3 Junbi Từ vựng,57,(を)治す,なおす,TITLE_IN_PDF
+N3-vocab-0160,N3,vocab,N3 Junbi Từ vựng,57,(が)亡くなる,なくなる,TITLE_IN_RAW_ONLY
+N3-vocab-0161,N3,vocab,N3 Junbi Từ vựng,58,(を)亡くす,なくす,TITLE_IN_RAW_ONLY
+N3-vocab-0162,N3,vocab,N3 Junbi Từ vựng,58,(が)生まれる,うまれる,TITLE_IN_PDF
+N3-vocab-0163,N3,vocab,N3 Junbi Từ vựng,58,(を)産む,うむ,TITLE_IN_PDF
+N3-vocab-0164,N3,vocab,N3 Junbi Từ vựng,59,(が)出会う,であう,TITLE_IN_RAW_ONLY
+N3-vocab-0165,N3,vocab,N3 Junbi Từ vựng,59,(を)尋ねる,たずねる,TITLE_IN_RAW_ONLY
+N3-vocab-0166,N3,vocab,N3 Junbi Từ vựng,60,(が)付き合う,つあう,TITLE_IN_RAW_ONLY
+N3-vocab-0167,N3,vocab,N3 Junbi Từ vựng,60,(が)効く,きく,TITLE_IN_PDF
+N3-vocab-0168,N3,vocab,N3 Junbi Từ vựng,60,(が)はやる,,TITLE_IN_PDF
+N3-vocab-0169,N3,vocab,N3 Junbi Từ vựng,61,(が)経つ,たつ,TITLE_IN_RAW_ONLY
+N3-vocab-0170,N3,vocab,N3 Junbi Từ vựng,61,間に合う,(が/に)まあう,TITLE_IN_RAW_ONLY
+N3-vocab-0171,N3,vocab,N3 Junbi Từ vựng,61,間に合わせる,(を/に)まあわせる,TITLE_IN_PDF
+N3-vocab-0172,N3,vocab,N3 Junbi Từ vựng,62,(が)通う,かよう,TITLE_IN_PDF
+N3-vocab-0173,N3,vocab,N3 Junbi Từ vựng,62,(が)混む,こむ,TITLE_IN_PDF
+N3-vocab-0174,N3,vocab,N3 Junbi Từ vựng,62,(が)すれ違う,ちがう,TITLE_IN_PDF
+N3-vocab-0175,N3,vocab,N3 Junbi Từ vựng,63,(が)掛かる,かかる,TITLE_IN_PDF
+N3-vocab-0176,N3,vocab,N3 Junbi Từ vựng,63,(を)掛ける,かける,TITLE_IN_PDF
+N3-vocab-0177,N3,vocab,N3 Junbi Từ vựng,64,(が)動く,うごく,TITLE_IN_RAW_ONLY
+N3-vocab-0178,N3,vocab,N3 Junbi Từ vựng,65,(を)動かす,うごかす,TITLE_IN_PDF
+N3-vocab-0179,N3,vocab,N3 Junbi Từ vựng,65,(が)離れる,はなれる,TITLE_IN_RAW_ONLY
+N3-vocab-0180,N3,vocab,N3 Junbi Từ vựng,65,(を)離す,はなす,TITLE_IN_RAW_ONLY
+N3-vocab-0181,N3,vocab,N3 Junbi Từ vựng,66,(が)ぶつかる,,TITLE_IN_PDF
+N3-vocab-0182,N3,vocab,N3 Junbi Từ vựng,66,(を)ぶつける,,TITLE_IN_PDF
+N3-vocab-0183,N3,vocab,N3 Junbi Từ vựng,66,(が)こぼれる,,TITLE_IN_PDF
+N3-vocab-0184,N3,vocab,N3 Junbi Từ vựng,67,(を)こぼす,,TITLE_IN_PDF
+N3-vocab-0185,N3,vocab,N3 Junbi Từ vựng,67,(を)ふく,,TITLE_IN_PDF
+N3-vocab-0186,N3,vocab,N3 Junbi Từ vựng,67,(が)片付く,かたづく,TITLE_IN_RAW_ONLY
+N3-vocab-0187,N3,vocab,N3 Junbi Từ vựng,67,(を)片付ける,かたづける,TITLE_IN_PDF
+N3-vocab-0188,N3,vocab,N3 Junbi Từ vựng,68,(を)包む,つつむ,TITLE_IN_PDF
+N3-vocab-0189,N3,vocab,N3 Junbi Từ vựng,68,(を)張る,はる,TITLE_IN_PDF
+N3-vocab-0190,N3,vocab,N3 Junbi Từ vựng,68,(が)無くなる,なくなる,TITLE_IN_PDF
+N3-vocab-0191,N3,vocab,N3 Junbi Từ vựng,68,(を)無くす,なくす,TITLE_IN_PDF
+N3-vocab-0192,N3,vocab,N3 Junbi Từ vựng,69,(が)足りる,たりる,TITLE_IN_RAW_ONLY
+N3-vocab-0193,N3,vocab,N3 Junbi Từ vựng,69,(が)残る,のこる,TITLE_IN_RAW_ONLY
+N3-vocab-0194,N3,vocab,N3 Junbi Từ vựng,69,(を)残す,のこす,TITLE_IN_PDF
+N3-vocab-0195,N3,vocab,N3 Junbi Từ vựng,69,(が)腐る,くさる,TITLE_IN_PDF
+N3-vocab-0196,N3,vocab,N3 Junbi Từ vựng,70,(が)むける,,TITLE_IN_PDF
+N3-vocab-0197,N3,vocab,N3 Junbi Từ vựng,70,(を)剥く,むく,TITLE_IN_RAW_ONLY
+N3-vocab-0198,N3,vocab,N3 Junbi Từ vựng,71,(が)滑る,すべる,TITLE_IN_PDF
+N3-vocab-0199,N3,vocab,N3 Junbi Từ vựng,71,(が)積もる,つもる,TITLE_IN_RAW_ONLY
+N3-vocab-0200,N3,vocab,N3 Junbi Từ vựng,72,(を)積む,つむ,TITLE_IN_PDF
+N3-vocab-0201,N3,vocab,N3 Junbi Từ vựng,72,(が)空く,あく,TITLE_IN_RAW_ONLY
+N3-vocab-0202,N3,vocab,N3 Junbi Từ vựng,72,(を)空ける,あける,TITLE_IN_PDF
+N3-vocab-0203,N3,vocab,N3 Junbi Từ vựng,73,(が)下がる,さがる,TITLE_IN_PDF
+N3-vocab-0204,N3,vocab,N3 Junbi Từ vựng,73,(を)下げる,さげる,TITLE_IN_RAW_ONLY
+N3-vocab-0205,N3,vocab,N3 Junbi Từ vựng,73,(が)冷える,ひえる,TITLE_IN_RAW_ONLY
+N3-vocab-0206,N3,vocab,N3 Junbi Từ vựng,73,(を)冷やす,ひやす,TITLE_IN_PDF
+N3-vocab-0207,N3,vocab,N3 Junbi Từ vựng,74,(が)冷める,さめる,TITLE_IN_RAW_ONLY
+N3-vocab-0208,N3,vocab,N3 Junbi Từ vựng,74,(を)冷ます,さます,TITLE_IN_RAW_ONLY
+N3-vocab-0209,N3,vocab,N3 Junbi Từ vựng,74,(が)燃える,もえる,TITLE_IN_PDF
+N3-vocab-0210,N3,vocab,N3 Junbi Từ vựng,74,(を)燃やす,もやす,TITLE_IN_PDF
+N3-vocab-0211,N3,vocab,N3 Junbi Từ vựng,75,(を)沸く,わく,TITLE_IN_PDF
+N3-vocab-0212,N3,vocab,N3 Junbi Từ vựng,75,(を)沸かす,わかす,TITLE_IN_PDF
+N3-vocab-0213,N3,vocab,N3 Junbi Từ vựng,75,(が)鳴る,なる,TITLE_IN_RAW_ONLY
+N3-vocab-0214,N3,vocab,N3 Junbi Từ vựng,76,(を)鳴らす,ならす,TITLE_IN_PDF
+N3-vocab-0215,N3,vocab,N3 Junbi Từ vựng,76,(が)役立つ,やくだつ,TITLE_IN_RAW_ONLY
+N3-vocab-0216,N3,vocab,N3 Junbi Từ vựng,76,(を)役立てる,やくだてる,TITLE_IN_RAW_ONLY
+N3-vocab-0217,N3,vocab,N3 Junbi Từ vựng,77,飾り,かざり,TITLE_IN_PDF
+N3-vocab-0218,N3,vocab,N3 Junbi Từ vựng,77,遊び,あそび,TITLE_IN_PDF
+N3-vocab-0219,N3,vocab,N3 Junbi Từ vựng,77,集まり,あつまり,TITLE_IN_PDF
+N3-vocab-0220,N3,vocab,N3 Junbi Từ vựng,78,教え,おしえ,TITLE_IN_PDF
+N3-vocab-0221,N3,vocab,N3 Junbi Từ vựng,78,踊り,おどり,TITLE_IN_PDF
+N3-vocab-0222,N3,vocab,N3 Junbi Từ vựng,78,思い,おもい,TITLE_IN_PDF
+N3-vocab-0223,N3,vocab,N3 Junbi Từ vựng,78,考え,かんがえ,TITLE_IN_PDF
+N3-vocab-0224,N3,vocab,N3 Junbi Từ vựng,79,片付け,かたづけ,TITLE_IN_PDF
+N3-vocab-0225,N3,vocab,N3 Junbi Từ vựng,79,手伝い,てつだい,TITLE_IN_PDF
+N3-vocab-0226,N3,vocab,N3 Junbi Từ vựng,79,働き,はたらき,TITLE_IN_PDF
+N3-vocab-0227,N3,vocab,N3 Junbi Từ vựng,79,決まり,きまり,TITLE_IN_PDF
+N3-vocab-0228,N3,vocab,N3 Junbi Từ vựng,80,騒ぎ,さわぎ,TITLE_IN_PDF
+N3-vocab-0229,N3,vocab,N3 Junbi Từ vựng,80,知らせ,しらせ,TITLE_IN_PDF
+N3-vocab-0230,N3,vocab,N3 Junbi Từ vựng,80,頼み・願い,たのねがい,TITLE_IN_RAW_ONLY
+N3-vocab-0231,N3,vocab,N3 Junbi Từ vựng,81,疲れ,つかれ,TITLE_IN_PDF
+N3-vocab-0232,N3,vocab,N3 Junbi Từ vựng,81,違い,ちがい,TITLE_IN_PDF
+N3-vocab-0233,N3,vocab,N3 Junbi Từ vựng,81,始め,はじめ,TITLE_IN_PDF
+N3-vocab-0234,N3,vocab,N3 Junbi Từ vựng,81,続き,つづき,TITLE_IN_PDF
+N3-vocab-0235,N3,vocab,N3 Junbi Từ vựng,81,暮れ,くれ,TITLE_IN_PDF
+N3-vocab-0236,N3,vocab,N3 Junbi Từ vựng,82,行き,いき,TITLE_IN_PDF
+N3-vocab-0237,N3,vocab,N3 Junbi Từ vựng,82,帰り,かえり,TITLE_IN_PDF
+N3-vocab-0238,N3,vocab,N3 Junbi Từ vựng,83,急ぎ,いそぎ,TITLE_IN_PDF
+N3-vocab-0239,N3,vocab,N3 Junbi Từ vựng,83,遅れ,おくれ,TITLE_IN_PDF
+N3-vocab-0240,N3,vocab,N3 Junbi Từ vựng,83,貸し,かし,TITLE_IN_PDF
+N3-vocab-0241,N3,vocab,N3 Junbi Từ vựng,83,借り,かり,TITLE_IN_PDF
+N3-vocab-0242,N3,vocab,N3 Junbi Từ vựng,84,勝ち,かち,TITLE_IN_PDF
+N3-vocab-0243,N3,vocab,N3 Junbi Từ vựng,84,負け,まけ,TITLE_IN_PDF
+N3-vocab-0244,N3,vocab,N3 Junbi Từ vựng,84,迎え,むかえ,TITLE_IN_PDF
+N3-vocab-0245,N3,vocab,N3 Junbi Từ vựng,84,始まり,はじまり,TITLE_IN_PDF
+N3-vocab-0246,N3,vocab,N3 Junbi Từ vựng,85,終わり,おわり,TITLE_IN_PDF
+N3-vocab-0247,N3,vocab,N3 Junbi Từ vựng,85,戻り,もどり,TITLE_IN_PDF
+N3-vocab-0248,N3,vocab,N3 Junbi Từ vựng,85,別れ,わかれ,TITLE_IN_PDF
+N3-vocab-0249,N3,vocab,N3 Junbi Từ vựng,85,喜び,よろこび,TITLE_IN_PDF
+N3-vocab-0250,N3,vocab,N3 Junbi Từ vựng,85,楽しみ,たのしみ,TITLE_IN_PDF
+N3-vocab-0251,N3,vocab,N3 Junbi Từ vựng,86,笑い,わらい,TITLE_IN_PDF
+N3-vocab-0252,N3,vocab,N3 Junbi Từ vựng,86,驚き,おどろき,TITLE_IN_PDF
+N3-vocab-0253,N3,vocab,N3 Junbi Từ vựng,86,怒り,,TITLE_IN_PDF
+N3-vocab-0254,N3,vocab,N3 Junbi Từ vựng,86,悲しみ,かなしみ,TITLE_IN_PDF
+N3-vocab-0255,N3,vocab,N3 Junbi Từ vựng,87,幸せな,しあわせな,TITLE_IN_PDF
+N3-vocab-0256,N3,vocab,N3 Junbi Từ vựng,87,得意な,とくいな,TITLE_IN_PDF
+N3-vocab-0257,N3,vocab,N3 Junbi Từ vựng,88,苦手な,にがてな,TITLE_IN_PDF
+N3-vocab-0258,N3,vocab,N3 Junbi Từ vựng,88,熱心な,ねっしんな,TITLE_IN_PDF
+N3-vocab-0259,N3,vocab,N3 Junbi Từ vựng,88,夢中な,むちゅうな,TITLE_IN_RAW_ONLY
+N3-vocab-0260,N3,vocab,N3 Junbi Từ vựng,89,退屈な,たいくつな,TITLE_IN_PDF
+N3-vocab-0261,N3,vocab,N3 Junbi Từ vựng,89,健康な,けんこうな,TITLE_IN_PDF
+N3-vocab-0262,N3,vocab,N3 Junbi Từ vựng,90,苦しい,くるしい,TITLE_IN_PDF
+N3-vocab-0263,N3,vocab,N3 Junbi Từ vựng,90,平気な,へいきな,TITLE_IN_PDF
+N3-vocab-0264,N3,vocab,N3 Junbi Từ vựng,91,悔しい,くやしい,TITLE_IN_PDF
+N3-vocab-0265,N3,vocab,N3 Junbi Từ vựng,91,うらやましい,,TITLE_IN_PDF
+N3-vocab-0266,N3,vocab,N3 Junbi Từ vựng,91,かゆう,,TITLE_IN_PDF
+N3-vocab-0267,N3,vocab,N3 Junbi Từ vựng,91,おとなしい,,TITLE_IN_PDF
+N3-vocab-0268,N3,vocab,N3 Junbi Từ vựng,92,我慢強い,がまんづよい,TITLE_IN_PDF
+N3-vocab-0269,N3,vocab,N3 Junbi Từ vựng,92,正直な,しょうじきな,TITLE_IN_PDF
+N3-vocab-0270,N3,vocab,N3 Junbi Từ vựng,92,けちな,,TITLE_IN_PDF
+N3-vocab-0271,N3,vocab,N3 Junbi Từ vựng,93,わがままな,,TITLE_IN_PDF
+N3-vocab-0272,N3,vocab,N3 Junbi Từ vựng,93,積極的な,せっきょくてきな,TITLE_IN_PDF
+N3-vocab-0273,N3,vocab,N3 Junbi Từ vựng,93,消極的な,しょうきょくてきな,TITLE_IN_PDF
+N3-vocab-0274,N3,vocab,N3 Junbi Từ vựng,94,満足な,まんぞくな,TITLE_IN_PDF
+N3-vocab-0275,N3,vocab,N3 Junbi Từ vựng,94,不満な,ふまんな,TITLE_IN_RAW_ONLY
+N3-vocab-0276,N3,vocab,N3 Junbi Từ vựng,94,不安な,ふあんな,TITLE_IN_PDF
+N3-vocab-0277,N3,vocab,N3 Junbi Từ vựng,95,大変な,たいへんな,TITLE_IN_PDF
+N3-vocab-0278,N3,vocab,N3 Junbi Từ vựng,95,無理な,むりな,TITLE_IN_PDF
+N3-vocab-0279,N3,vocab,N3 Junbi Từ vựng,96,不注意な,ふちゅういな,TITLE_IN_PDF
+N3-vocab-0280,N3,vocab,N3 Junbi Từ vựng,96,楽な,らくな,TITLE_IN_PDF
+N3-vocab-0281,N3,vocab,N3 Junbi Từ vựng,97,面倒な,めんどうな,TITLE_IN_RAW_ONLY
+N3-vocab-0282,N3,vocab,N3 Junbi Từ vựng,97,失礼な,しつれいな,TITLE_IN_PDF
+N3-vocab-0283,N3,vocab,N3 Junbi Từ vựng,97,当然だ,とうぜんだ,TITLE_IN_PDF
+N3-vocab-0284,N3,vocab,N3 Junbi Từ vựng,98,意外な,いがいな,TITLE_IN_PDF
+N3-vocab-0285,N3,vocab,N3 Junbi Từ vựng,98,結構な,けっこうな,TITLE_IN_RAW_ONLY
+N3-vocab-0286,N3,vocab,N3 Junbi Từ vựng,98,派手な,はでな,TITLE_IN_RAW_ONLY
+N3-vocab-0287,N3,vocab,N3 Junbi Từ vựng,99,地味な,じみな,TITLE_IN_RAW_ONLY
+N3-vocab-0288,N3,vocab,N3 Junbi Từ vựng,99,おしゃれな,,TITLE_IN_PDF
+N3-vocab-0289,N3,vocab,N3 Junbi Từ vựng,99,変な,へんな,TITLE_IN_PDF
+N3-vocab-0290,N3,vocab,N3 Junbi Từ vựng,99,不思議な,ふしぎな,TITLE_IN_RAW_ONLY
+N3-vocab-0291,N3,vocab,N3 Junbi Từ vựng,100,ましな,,TITLE_IN_PDF
+N3-vocab-0292,N3,vocab,N3 Junbi Từ vựng,100,むだな,,TITLE_IN_PDF
+N3-vocab-0293,N3,vocab,N3 Junbi Từ vựng,100,自由な,じゆうな,TITLE_IN_PDF
+N3-vocab-0294,N3,vocab,N3 Junbi Từ vựng,101,不自由な,ふじゆうな,TITLE_IN_PDF
+N3-vocab-0295,N3,vocab,N3 Junbi Từ vựng,102,(が) 暖まる・,あたたまる・,TITLE_IN_RAW_ONLY
+N3-vocab-0296,N3,vocab,N3 Junbi Từ vựng,102,(を) 暖める・,あたためる・,TITLE_IN_PDF
+N3-vocab-0297,N3,vocab,N3 Junbi Từ vựng,103,(が)高まる,たかまる,TITLE_IN_PDF
+N3-vocab-0298,N3,vocab,N3 Junbi Từ vựng,103,(を)高める,たかめる,TITLE_IN_PDF
+N3-vocab-0299,N3,vocab,N3 Junbi Từ vựng,103,(が)強まる,つよまる,TITLE_IN_PDF
+N3-vocab-0300,N3,vocab,N3 Junbi Từ vựng,104,(を)強める,つよめる,TITLE_IN_PDF
+N3-vocab-0301,N3,vocab,N3 Junbi Từ vựng,104,(が)弱まる,よわまる,TITLE_IN_PDF
+N3-vocab-0302,N3,vocab,N3 Junbi Từ vựng,104,(を)弱める,よわめる,TITLE_IN_PDF
+N3-vocab-0303,N3,vocab,N3 Junbi Từ vựng,104,(が)広まる,ひろまる,TITLE_IN_RAW_ONLY
+N3-vocab-0304,N3,vocab,N3 Junbi Từ vựng,105,(を)広める,ひろめる,TITLE_IN_PDF
+N3-vocab-0305,N3,vocab,N3 Junbi Từ vựng,105,(が)深まる,ふかまる,TITLE_IN_PDF
+N3-vocab-0306,N3,vocab,N3 Junbi Từ vựng,105,(を)深める,ふかめる,TITLE_IN_RAW_ONLY
+N3-vocab-0307,N3,vocab,N3 Junbi Từ vựng,106,世話,せわ,TITLE_IN_PDF
+N3-vocab-0308,N3,vocab,N3 Junbi Từ vựng,106,家庭,かてい,TITLE_IN_PDF
+N3-vocab-0309,N3,vocab,N3 Junbi Từ vựng,107,協力,きょうりょく,TITLE_IN_PDF
+N3-vocab-0310,N3,vocab,N3 Junbi Từ vựng,107,感謝,かんしゃ,TITLE_IN_PDF
+N3-vocab-0311,N3,vocab,N3 Junbi Từ vựng,107,(お)礼,れい,TITLE_IN_PDF
+N3-vocab-0312,N3,vocab,N3 Junbi Từ vựng,108,(お)詫び,わび,TITLE_IN_RAW_ONLY
+N3-vocab-0313,N3,vocab,N3 Junbi Từ vựng,108,(お) 辞儀,じぎ,TITLE_IN_PDF
+N3-vocab-0314,N3,vocab,N3 Junbi Từ vựng,108,握手,あくしゅ,TITLE_IN_PDF
+N3-vocab-0315,N3,vocab,N3 Junbi Từ vựng,108,意地悪,いじわる,TITLE_IN_PDF
+N3-vocab-0316,N3,vocab,N3 Junbi Từ vựng,108,いたずら,,TITLE_IN_PDF
+N3-vocab-0317,N3,vocab,N3 Junbi Từ vựng,109,節約,せつやく,TITLE_IN_PDF
+N3-vocab-0318,N3,vocab,N3 Junbi Từ vựng,109,経営,けいえい,TITLE_IN_PDF
+N3-vocab-0319,N3,vocab,N3 Junbi Từ vựng,109,反省,はんせい,TITLE_IN_PDF
+N3-vocab-0320,N3,vocab,N3 Junbi Từ vựng,110,実行,じっこう,TITLE_IN_PDF
+N3-vocab-0321,N3,vocab,N3 Junbi Từ vựng,110,進歩,しんぽ,TITLE_IN_PDF
+N3-vocab-0322,N3,vocab,N3 Junbi Từ vựng,110,変化,へんか,TITLE_IN_PDF
+N3-vocab-0323,N3,vocab,N3 Junbi Từ vựng,110,発達,はったつ,TITLE_IN_PDF
+N3-vocab-0324,N3,vocab,N3 Junbi Từ vựng,111,体力,たいりょく,TITLE_IN_PDF
+N3-vocab-0325,N3,vocab,N3 Junbi Từ vựng,111,出場,しゅつじょう,TITLE_IN_PDF
+N3-vocab-0326,N3,vocab,N3 Junbi Từ vựng,111,活躍,かつやく,TITLE_IN_PDF
+N3-vocab-0327,N3,vocab,N3 Junbi Từ vựng,112,競争,きょうそう,TITLE_IN_PDF
+N3-vocab-0328,N3,vocab,N3 Junbi Từ vựng,112,(を)応援,おうえん,TITLE_IN_PDF
+N3-vocab-0329,N3,vocab,N3 Junbi Từ vựng,112,拍手,はくしゅ,TITLE_IN_PDF
+N3-vocab-0330,N3,vocab,N3 Junbi Từ vựng,113,人気,にんき,TITLE_IN_PDF
+N3-vocab-0331,N3,vocab,N3 Junbi Từ vựng,113,うわさ,,TITLE_IN_PDF
+N3-vocab-0332,N3,vocab,N3 Junbi Từ vựng,113,情報,じょうほう,TITLE_IN_PDF
+N3-vocab-0333,N3,vocab,N3 Junbi Từ vựng,113,(を)交換,こうかん,TITLE_IN_PDF
+N3-vocab-0334,N3,vocab,N3 Junbi Từ vựng,114,流行,りゅうこう,TITLE_IN_PDF
+N3-vocab-0335,N3,vocab,N3 Junbi Từ vựng,114,(を)宣伝,せんでん,TITLE_IN_PDF
+N3-vocab-0336,N3,vocab,N3 Junbi Từ vựng,114,広告,こうこく,TITLE_IN_PDF
+N3-vocab-0337,N3,vocab,N3 Junbi Từ vựng,115,(に)注目,ちゅうもく,TITLE_IN_PDF
+N3-vocab-0338,N3,vocab,N3 Junbi Từ vựng,115,(を)通訳,つうやく,TITLE_IN_PDF
+N3-vocab-0339,N3,vocab,N3 Junbi Từ vựng,115,(を)翻訳,ほんやく,TITLE_IN_PDF
+N3-vocab-0340,N3,vocab,N3 Junbi Từ vựng,115,(に)伝言,でんごん,TITLE_IN_PDF
+N3-vocab-0341,N3,vocab,N3 Junbi Từ vựng,115,(を)報告,ほうこく,TITLE_IN_PDF
+N3-vocab-0342,N3,vocab,N3 Junbi Từ vựng,116,(を)録画,ろくが,TITLE_IN_PDF
+N3-vocab-0343,N3,vocab,N3 Junbi Từ vựng,116,混雑,こんざつ,TITLE_IN_PDF
+N3-vocab-0344,N3,vocab,N3 Junbi Từ vựng,116,渋滞,じゅうたい,TITLE_IN_PDF
+N3-vocab-0345,N3,vocab,N3 Junbi Từ vựng,116,衝突,しょうとつ,TITLE_IN_PDF
+N3-vocab-0346,N3,vocab,N3 Junbi Từ vựng,116,被害,ひがい,TITLE_IN_PDF
+N3-vocab-0347,N3,vocab,N3 Junbi Từ vựng,117,事故,じこ,TITLE_IN_PDF
+N3-vocab-0348,N3,vocab,N3 Junbi Từ vựng,117,事件,じけん,TITLE_IN_PDF
+N3-vocab-0349,N3,vocab,N3 Junbi Từ vựng,118,故障,こしょう,TITLE_IN_PDF
+N3-vocab-0350,N3,vocab,N3 Junbi Từ vựng,118,修理,しゅうり,TITLE_IN_PDF
+N3-vocab-0351,N3,vocab,N3 Junbi Từ vựng,118,停電,ていでん,TITLE_IN_PDF
+N3-vocab-0352,N3,vocab,N3 Junbi Từ vựng,119,調子,ちょうし,TITLE_IN_PDF
+N3-vocab-0353,N3,vocab,N3 Junbi Từ vựng,119,緊張,きんちょう,TITLE_IN_PDF
+N3-vocab-0354,N3,vocab,N3 Junbi Từ vựng,119,自信,じしん,TITLE_IN_PDF
+N3-vocab-0355,N3,vocab,N3 Junbi Từ vựng,120,自慢,じまん,TITLE_IN_PDF
+N3-vocab-0356,N3,vocab,N3 Junbi Từ vựng,120,感心,かんしん,TITLE_IN_PDF
+N3-vocab-0357,N3,vocab,N3 Junbi Từ vựng,120,感動,かんどう,TITLE_IN_PDF
+N3-vocab-0358,N3,vocab,N3 Junbi Từ vựng,120,興奮,こうふん,TITLE_IN_PDF
+N3-vocab-0359,N3,vocab,N3 Junbi Từ vựng,121,感想,かんそう,TITLE_IN_PDF
+N3-vocab-0360,N3,vocab,N3 Junbi Từ vựng,121,予想,よそう,TITLE_IN_PDF
+N3-vocab-0361,N3,vocab,N3 Junbi Từ vựng,121,専門,せんもん,TITLE_IN_PDF
+N3-vocab-0362,N3,vocab,N3 Junbi Từ vựng,122,研究,けんきゅう,TITLE_IN_PDF
+N3-vocab-0363,N3,vocab,N3 Junbi Từ vựng,122,調査,ちょうさ,TITLE_IN_PDF
+N3-vocab-0364,N3,vocab,N3 Junbi Từ vựng,122,原因,げんいん,TITLE_IN_PDF
+N3-vocab-0365,N3,vocab,N3 Junbi Từ vựng,123,結果,けっか,TITLE_IN_PDF
+N3-vocab-0366,N3,vocab,N3 Junbi Từ vựng,123,解決,かいけつ,TITLE_IN_PDF
+N3-vocab-0367,N3,vocab,N3 Junbi Từ vựng,124,(を)確認,かくにん,TITLE_IN_PDF
+N3-vocab-0368,N3,vocab,N3 Junbi Từ vựng,124,(を)利用,りよう,TITLE_IN_PDF
+N3-vocab-0369,N3,vocab,N3 Junbi Từ vựng,125,(を)理解,りかい,TITLE_IN_PDF
+N3-vocab-0370,N3,vocab,N3 Junbi Từ vựng,125,(を)発見,はっけん,TITLE_IN_PDF
+N3-vocab-0371,N3,vocab,N3 Junbi Từ vựng,125,(を)発明,はつめい,TITLE_IN_PDF
+N3-vocab-0372,N3,vocab,N3 Junbi Từ vựng,126,関係,かんけい,TITLE_IN_PDF
+N3-vocab-0373,N3,vocab,N3 Junbi Từ vựng,126,団体,だんたい,TITLE_IN_PDF
+N3-vocab-0374,N3,vocab,N3 Junbi Từ vựng,127,選挙,せんきょ,TITLE_IN_PDF
+N3-vocab-0375,N3,vocab,N3 Junbi Từ vựng,127,税金,ぜいきん,TITLE_IN_PDF
+N3-vocab-0376,N3,vocab,N3 Junbi Từ vựng,127,責任,せきにん,TITLE_IN_PDF
+N3-vocab-0377,N3,vocab,N3 Junbi Từ vựng,128,書類,しょるい,TITLE_IN_PDF
+N3-vocab-0378,N3,vocab,N3 Junbi Từ vựng,128,題名,だいめい,TITLE_IN_PDF
+N3-vocab-0379,N3,vocab,N3 Junbi Từ vựng,128,条件,じょうけん,TITLE_IN_PDF
+N3-vocab-0380,N3,vocab,N3 Junbi Từ vựng,128,締め切り,しきり,TITLE_IN_PDF
+N3-vocab-0381,N3,vocab,N3 Junbi Từ vựng,129,期間,きかん,TITLE_IN_PDF
+N3-vocab-0382,N3,vocab,N3 Junbi Từ vựng,129,倍,ばい,TITLE_IN_PDF
+N3-vocab-0383,N3,vocab,N3 Junbi Từ vựng,129,くじ,,TITLE_IN_PDF
+N3-vocab-0384,N3,vocab,N3 Junbi Từ vựng,129,近道,ちかみち,TITLE_IN_PDF
+N3-vocab-0385,N3,vocab,N3 Junbi Từ vựng,130,中心,ちゅうしん,TITLE_IN_PDF
+N3-vocab-0386,N3,vocab,N3 Junbi Từ vựng,130,この辺り,あたり,TITLE_IN_PDF
+N3-vocab-0387,N3,vocab,N3 Junbi Từ vựng,131,周り・回り,まわり,CHECK_MANUALLY
+N3-vocab-0388,N3,vocab,N3 Junbi Từ vựng,131,穴,あな,TITLE_IN_PDF
+N3-vocab-0389,N3,vocab,N3 Junbi Từ vựng,132,列,れつ,TITLE_IN_PDF
+N3-vocab-0390,N3,vocab,N3 Junbi Từ vựng,132,幅,はば,TITLE_IN_PDF
+N3-vocab-0391,N3,vocab,N3 Junbi Từ vựng,132,範囲,はんい,TITLE_IN_PDF
+N3-vocab-0392,N3,vocab,N3 Junbi Từ vựng,133,内容,ないよう,TITLE_IN_PDF
+N3-vocab-0393,N3,vocab,N3 Junbi Từ vựng,133,中身,なかみ,TITLE_IN_PDF
+N3-vocab-0394,N3,vocab,N3 Junbi Từ vựng,133,特徴,とくちょう,TITLE_IN_PDF
+N3-vocab-0395,N3,vocab,N3 Junbi Từ vựng,134,普通,ふつう,TITLE_IN_PDF
+N3-vocab-0396,N3,vocab,N3 Junbi Từ vựng,134,当たり前,あまえ,TITLE_IN_RAW_ONLY
+N3-vocab-0397,N3,vocab,N3 Junbi Từ vựng,134,偽札,にせさつ,TITLE_IN_PDF
+N3-vocab-0398,N3,vocab,N3 Junbi Từ vựng,135,別,べつ,TITLE_IN_PDF
+N3-vocab-0399,N3,vocab,N3 Junbi Từ vựng,135,国籍,こくせき,TITLE_IN_PDF
+N3-vocab-0400,N3,vocab,N3 Junbi Từ vựng,135,東洋,とうよう,TITLE_IN_PDF
+N3-vocab-0401,N3,vocab,N3 Junbi Từ vựng,135,西洋,せいよう,TITLE_IN_PDF
+N3-vocab-0402,N3,vocab,N3 Junbi Từ vựng,136,国際,こくさい,TITLE_IN_PDF
+N3-vocab-0403,N3,vocab,N3 Junbi Từ vựng,136,自然,しぜん,TITLE_IN_PDF
+N3-vocab-0404,N3,vocab,N3 Junbi Từ vựng,137,景色,けしき,TITLE_IN_PDF
+N3-vocab-0405,N3,vocab,N3 Junbi Từ vựng,137,宗教,しゅうきょう,TITLE_IN_PDF
+N3-vocab-0406,N3,vocab,N3 Junbi Từ vựng,137,(を)愛する,あいする,TITLE_IN_RAW_ONLY
+N3-vocab-0407,N3,vocab,N3 Junbi Từ vựng,138,(が)届く,とどく,TITLE_IN_RAW_ONLY
+N3-vocab-0408,N3,vocab,N3 Junbi Từ vựng,138,(に)届ける,とどける,TITLE_IN_RAW_ONLY
+N3-vocab-0409,N3,vocab,N3 Junbi Từ vựng,139,かく,,TITLE_IN_PDF
+N3-vocab-0410,N3,vocab,N3 Junbi Từ vựng,139,(を)つかむ,,TITLE_IN_PDF
+N3-vocab-0411,N3,vocab,N3 Junbi Từ vựng,139,握る,にぎる,TITLE_IN_RAW_ONLY
+N3-vocab-0412,N3,vocab,N3 Junbi Từ vựng,140,押さえる,おさえる,TITLE_IN_RAW_ONLY
+N3-vocab-0413,N3,vocab,N3 Junbi Từ vựng,140,(が)近づく,ちかづく,TITLE_IN_RAW_ONLY
+N3-vocab-0414,N3,vocab,N3 Junbi Từ vựng,140,(を)近づける,ちかづける,TITLE_IN_RAW_ONLY
+N3-vocab-0415,N3,vocab,N3 Junbi Từ vựng,141,(が)合う,あう,TITLE_IN_PDF
+N3-vocab-0416,N3,vocab,N3 Junbi Từ vựng,141,(を)合わせる,あわせる,TITLE_IN_PDF
+N3-vocab-0417,N3,vocab,N3 Junbi Từ vựng,142,(が)当たる,あたる,TITLE_IN_PDF
+N3-vocab-0418,N3,vocab,N3 Junbi Từ vựng,142,(を)当てる,あてる,TITLE_IN_PDF
+N3-vocab-0419,N3,vocab,N3 Junbi Từ vựng,143,(を)比べて,くらべて,TITLE_IN_PDF
+N3-vocab-0420,N3,vocab,N3 Junbi Từ vựng,143,(が)似合う,にあう,TITLE_IN_PDF
+N3-vocab-0421,N3,vocab,N3 Junbi Từ vựng,143,(が)似る,にる,TITLE_IN_RAW_ONLY
+N3-vocab-0422,N3,vocab,N3 Junbi Từ vựng,143,(を)似せる,にせる,TITLE_IN_RAW_ONLY
+N3-vocab-0423,N3,vocab,N3 Junbi Từ vựng,144,(が)分かれる,わかれる,TITLE_IN_RAW_ONLY
+N3-vocab-0424,N3,vocab,N3 Junbi Từ vựng,144,(を)分ける,わける,TITLE_IN_PDF
+N3-vocab-0425,N3,vocab,N3 Junbi Từ vựng,144,(を)足す,たす,TITLE_IN_RAW_ONLY
+N3-vocab-0426,N3,vocab,N3 Junbi Từ vựng,145,(を)引く,ひく,TITLE_IN_PDF
+N3-vocab-0427,N3,vocab,N3 Junbi Từ vựng,146,(が)増える,ふえる,TITLE_IN_PDF
+N3-vocab-0428,N3,vocab,N3 Junbi Từ vựng,146,(を)増やす,ふやす,TITLE_IN_PDF
+N3-vocab-0429,N3,vocab,N3 Junbi Từ vựng,146,(が)減る,へる,TITLE_IN_PDF
+N3-vocab-0430,N3,vocab,N3 Junbi Từ vựng,147,(を)減らす,へらす,TITLE_IN_PDF
+N3-vocab-0431,N3,vocab,N3 Junbi Từ vựng,147,(が・を)変わる,かわる,TITLE_IN_RAW_ONLY
+N3-vocab-0432,N3,vocab,N3 Junbi Từ vựng,147,(が・を)かわる,,TITLE_IN_PDF
+N3-vocab-0433,N3,vocab,N3 Junbi Từ vựng,148,(が)返る,かえる,TITLE_IN_RAW_ONLY
+N3-vocab-0434,N3,vocab,N3 Junbi Từ vựng,148,(を)返す,かえす,TITLE_IN_RAW_ONLY
+N3-vocab-0435,N3,vocab,N3 Junbi Từ vựng,148,(に・を)譲る,ゆずる,TITLE_IN_RAW_ONLY
+N3-vocab-0436,N3,vocab,N3 Junbi Từ vựng,149,(が)助かる,たすかる,TITLE_IN_RAW_ONLY
+N3-vocab-0437,N3,vocab,N3 Junbi Từ vựng,149,(を)助ける,たすける,TITLE_IN_RAW_ONLY
+N3-vocab-0438,N3,vocab,N3 Junbi Từ vựng,149,(を)いじめる,,TITLE_IN_PDF
+N3-vocab-0439,N3,vocab,N3 Junbi Từ vựng,150,(を)だます,,TITLE_IN_PDF
+N3-vocab-0440,N3,vocab,N3 Junbi Từ vựng,150,(を)盗む,ぬすむ,TITLE_IN_RAW_ONLY
+N3-vocab-0441,N3,vocab,N3 Junbi Từ vựng,150,(が)刺さる,ささる,TITLE_IN_RAW_ONLY
+N3-vocab-0442,N3,vocab,N3 Junbi Từ vựng,150,(を)刺す,さす,TITLE_IN_RAW_ONLY
+N3-vocab-0443,N3,vocab,N3 Junbi Từ vựng,150,(を)殺す,ころす,TITLE_IN_RAW_ONLY
+N3-vocab-0444,N3,vocab,N3 Junbi Từ vựng,151,(が)隠れる,かくれる,TITLE_IN_RAW_ONLY
+N3-vocab-0445,N3,vocab,N3 Junbi Từ vựng,151,(を)隠す,かくす,TITLE_IN_RAW_ONLY
+N3-vocab-0446,N3,vocab,N3 Junbi Từ vựng,152,(が)埋まる,うまる,TITLE_IN_RAW_ONLY
+N3-vocab-0447,N3,vocab,N3 Junbi Từ vựng,152,(を)埋める,うめる,TITLE_IN_RAW_ONLY
+N3-vocab-0448,N3,vocab,N3 Junbi Từ vựng,153,(を)囲む,かこむ,TITLE_IN_RAW_ONLY
+N3-vocab-0449,N3,vocab,N3 Junbi Từ vựng,153,(が)詰まる,つまる,TITLE_IN_PDF
+N3-vocab-0450,N3,vocab,N3 Junbi Từ vựng,153,(を)詰める,つめる,TITLE_IN_RAW_ONLY
+N3-vocab-0451,N3,vocab,N3 Junbi Từ vựng,154,(が・を)開く,ひらく,TITLE_IN_RAW_ONLY
+N3-vocab-0452,N3,vocab,N3 Junbi Từ vựng,154,(が・を)閉じる,と,TITLE_IN_RAW_ONLY
+N3-vocab-0453,N3,vocab,N3 Junbi Từ vựng,155,(が)飛ぶ,とぶ,TITLE_IN_PDF
+N3-vocab-0454,N3,vocab,N3 Junbi Từ vựng,155,(を)飛ばす,とばす,TITLE_IN_PDF
+N3-vocab-0455,N3,vocab,N3 Junbi Từ vựng,155,(を)振る,ふる,TITLE_IN_RAW_ONLY
+N3-vocab-0456,N3,vocab,N3 Junbi Từ vựng,156,(を)めくる,,TITLE_IN_PDF
+N3-vocab-0457,N3,vocab,N3 Junbi Từ vựng,156,(を)見かける,みかける,TITLE_IN_RAW_ONLY
+N3-vocab-0458,N3,vocab,N3 Junbi Từ vựng,156,(を)確かめる,たしかめる,TITLE_IN_RAW_ONLY
+N3-vocab-0459,N3,vocab,N3 Junbi Từ vựng,157,(を)試す,ためす,TITLE_IN_RAW_ONLY
+N3-vocab-0460,N3,vocab,N3 Junbi Từ vựng,157,(を)繰り返す,くかえす,TITLE_IN_RAW_ONLY
+N3-vocab-0461,N3,vocab,N3 Junbi Từ vựng,157,(を)訳す,やくす,TITLE_IN_PDF
+N3-vocab-0462,N3,vocab,N3 Junbi Từ vựng,157,(を) 行う,おこなう,TITLE_IN_PDF
+N3-vocab-0463,N3,vocab,N3 Junbi Từ vựng,158,(が・を)間違う,まちがう,TITLE_IN_RAW_ONLY
+N3-vocab-0464,N3,vocab,N3 Junbi Từ vựng,158,(を)間違える,まちがえる,TITLE_IN_RAW_ONLY
+N3-vocab-0465,N3,vocab,N3 Junbi Từ vựng,159,(を)許す,ゆるす,TITLE_IN_RAW_ONLY
+N3-vocab-0466,N3,vocab,N3 Junbi Từ vựng,159,(を)慣れる,なれる,TITLE_IN_RAW_ONLY
+N3-vocab-0467,N3,vocab,N3 Junbi Từ vựng,160,(が)慣らす,ならす,TITLE_IN_RAW_ONLY
+N3-vocab-0468,N3,vocab,N3 Junbi Từ vựng,160,(が)立つ,たつ,TITLE_IN_RAW_ONLY
+N3-vocab-0469,N3,vocab,N3 Junbi Từ vựng,160,(を)立てる,たてる,TITLE_IN_PDF
+N3-vocab-0470,N3,vocab,N3 Junbi Từ vựng,160,(が)建つ,たつ,TITLE_IN_RAW_ONLY
+N3-vocab-0471,N3,vocab,N3 Junbi Từ vựng,161,(を)建てる,たてる,TITLE_IN_PDF
+N3-vocab-0472,N3,vocab,N3 Junbi Từ vựng,161,(が)育つ,そだつ,TITLE_IN_PDF
+N3-vocab-0473,N3,vocab,N3 Junbi Từ vựng,161,(を)育てる,そだてる,TITLE_IN_PDF
+N3-vocab-0474,N3,vocab,N3 Junbi Từ vựng,162,(が)生える,はえる,TITLE_IN_PDF
+N3-vocab-0475,N3,vocab,N3 Junbi Từ vựng,162,(を)生やす,はやす,TITLE_IN_RAW_ONLY
+N3-vocab-0476,N3,vocab,N3 Junbi Từ vựng,162,(が)汚れる,よごれる,TITLE_IN_RAW_ONLY
+N3-vocab-0477,N3,vocab,N3 Junbi Từ vựng,162,(を)汚す,よごす,TITLE_IN_RAW_ONLY
+N3-vocab-0478,N3,vocab,N3 Junbi Từ vựng,163,(が)壊れる,こわれる,TITLE_IN_PDF
+N3-vocab-0479,N3,vocab,N3 Junbi Từ vựng,163,(を)壊す,こわす,TITLE_IN_RAW_ONLY
+N3-vocab-0480,N3,vocab,N3 Junbi Từ vựng,163,(が)割れる,われる,CHECK_MANUALLY
+N3-vocab-0481,N3,vocab,N3 Junbi Từ vựng,163,(を)割る,わる,TITLE_IN_RAW_ONLY
+N3-vocab-0482,N3,vocab,N3 Junbi Từ vựng,164,(が)折れる,おれる,TITLE_IN_RAW_ONLY
+N3-vocab-0483,N3,vocab,N3 Junbi Từ vựng,164,(を)折る,おる,TITLE_IN_RAW_ONLY
+N3-vocab-0484,N3,vocab,N3 Junbi Từ vựng,164,(が)破れる,やぶれる,TITLE_IN_PDF
+N3-vocab-0485,N3,vocab,N3 Junbi Từ vựng,164,(を)破る,やぶる,TITLE_IN_PDF
+N3-vocab-0486,N3,vocab,N3 Junbi Từ vựng,165,(が)曲がる,まがる,TITLE_IN_RAW_ONLY
+N3-vocab-0487,N3,vocab,N3 Junbi Từ vựng,165,(を)曲げる,まげる,TITLE_IN_PDF
+N3-vocab-0488,N3,vocab,N3 Junbi Từ vựng,166,(が)外れる,はずれる,TITLE_IN_PDF
+N3-vocab-0489,N3,vocab,N3 Junbi Từ vựng,166,(が)揺れる,ゆれる,TITLE_IN_RAW_ONLY
+N3-vocab-0490,N3,vocab,N3 Junbi Từ vựng,167,(を)揺らす,ゆらす,TITLE_IN_RAW_ONLY
+N3-vocab-0491,N3,vocab,N3 Junbi Từ vựng,167,(が)流れる,ながれる,TITLE_IN_PDF
+N3-vocab-0492,N3,vocab,N3 Junbi Từ vựng,167,(が)濡れる,ぬれる,TITLE_IN_RAW_ONLY
+N3-vocab-0493,N3,vocab,N3 Junbi Từ vựng,168,迷う,まよう,TITLE_IN_PDF
+N3-vocab-0494,N3,vocab,N3 Junbi Từ vựng,168,(に)悩む,なやむ,TITLE_IN_RAW_ONLY
+N3-vocab-0495,N3,vocab,N3 Junbi Từ vựng,168,(が)慌てる,あわてる,TITLE_IN_RAW_ONLY
+N3-vocab-0496,N3,vocab,N3 Junbi Từ vựng,169,が覚める,さめる,TITLE_IN_RAW_ONLY
+N3-vocab-0497,N3,vocab,N3 Junbi Từ vựng,169,眠る,ねむる,TITLE_IN_PDF
+N3-vocab-0498,N3,vocab,N3 Junbi Từ vựng,169,(を)祈る,いのる,TITLE_IN_RAW_ONLY
+N3-vocab-0499,N3,vocab,N3 Junbi Từ vựng,170,(を)祝う,いわう,TITLE_IN_RAW_ONLY
+N3-vocab-0500,N3,vocab,N3 Junbi Từ vựng,170,(を)感じる,かんじる,TITLE_IN_PDF
+N3-vocab-0501,N3,vocab,N3 Junbi Từ vựng,171,クラスメート,,TITLE_IN_PDF
+N3-vocab-0502,N3,vocab,N3 Junbi Từ vựng,171,グループ,,TITLE_IN_PDF
+N3-vocab-0503,N3,vocab,N3 Junbi Từ vựng,171,チーム,,TITLE_IN_PDF
+N3-vocab-0504,N3,vocab,N3 Junbi Từ vựng,172,プロ,,TITLE_IN_PDF
+N3-vocab-0505,N3,vocab,N3 Junbi Từ vựng,172,アマ,,TITLE_IN_PDF
+N3-vocab-0506,N3,vocab,N3 Junbi Từ vựng,172,トレーニング,,TITLE_IN_PDF
+N3-vocab-0507,N3,vocab,N3 Junbi Từ vựng,172,マッサージ,,TITLE_IN_PDF
+N3-vocab-0508,N3,vocab,N3 Junbi Từ vựng,173,アドバイス,,TITLE_IN_PDF
+N3-vocab-0509,N3,vocab,N3 Junbi Từ vựng,173,アイデア・,,TITLE_IN_PDF
+N3-vocab-0510,N3,vocab,N3 Junbi Từ vựng,174,トップ,,TITLE_IN_PDF
+N3-vocab-0511,N3,vocab,N3 Junbi Từ vựng,174,スピード,,TITLE_IN_PDF
+N3-vocab-0512,N3,vocab,N3 Junbi Từ vựng,175,ラッシュ,,TITLE_IN_PDF
+N3-vocab-0513,N3,vocab,N3 Junbi Từ vựng,175,バイク,,TITLE_IN_PDF
+N3-vocab-0514,N3,vocab,N3 Junbi Từ vựng,175,ヘルメット,,TITLE_IN_PDF
+N3-vocab-0515,N3,vocab,N3 Junbi Từ vựng,175,コンタクト,,TITLE_IN_PDF
+N3-vocab-0516,N3,vocab,N3 Junbi Từ vựng,176,ガラス,,TITLE_IN_PDF
+N3-vocab-0517,N3,vocab,N3 Junbi Từ vựng,176,プラスチック,,TITLE_IN_PDF
+N3-vocab-0518,N3,vocab,N3 Junbi Từ vựng,176,ベランダ,,TITLE_IN_PDF
+N3-vocab-0519,N3,vocab,N3 Junbi Từ vựng,176,ペット,,TITLE_IN_PDF
+N3-vocab-0520,N3,vocab,N3 Junbi Từ vựng,176,ベンチ,,TITLE_IN_PDF
+N3-vocab-0521,N3,vocab,N3 Junbi Từ vựng,177,デザイン,,TITLE_IN_PDF
+N3-vocab-0522,N3,vocab,N3 Junbi Từ vựng,177,バーゲン/セール,,TITLE_IN_PDF
+N3-vocab-0523,N3,vocab,N3 Junbi Từ vựng,178,パート,,TITLE_IN_PDF
+N3-vocab-0524,N3,vocab,N3 Junbi Từ vựng,178,コンビニ,,TITLE_IN_PDF
+N3-vocab-0525,N3,vocab,N3 Junbi Từ vựng,178,レジ,,TITLE_IN_PDF
+N3-vocab-0526,N3,vocab,N3 Junbi Từ vựng,179,レシート,,TITLE_IN_PDF
+N3-vocab-0527,N3,vocab,N3 Junbi Từ vựng,179,インスタント,,TITLE_IN_PDF
+N3-vocab-0528,N3,vocab,N3 Junbi Từ vựng,179,ファストフード,,TITLE_IN_PDF
+N3-vocab-0529,N3,vocab,N3 Junbi Từ vựng,180,フルーツ,,TITLE_IN_PDF
+N3-vocab-0530,N3,vocab,N3 Junbi Từ vựng,180,デザート,,TITLE_IN_PDF
+N3-vocab-0531,N3,vocab,N3 Junbi Từ vựng,180,インターネット,,TITLE_IN_PDF
+N3-vocab-0532,N3,vocab,N3 Junbi Từ vựng,181,チャイム,,TITLE_IN_PDF
+N3-vocab-0533,N3,vocab,N3 Junbi Từ vựng,181,アナウンス,,TITLE_IN_PDF
+N3-vocab-0534,N3,vocab,N3 Junbi Từ vựng,181,メッセージ,,TITLE_IN_PDF
+N3-vocab-0535,N3,vocab,N3 Junbi Từ vựng,182,パンフレット,,TITLE_IN_PDF
+N3-vocab-0536,N3,vocab,N3 Junbi Từ vựng,182,カード,,TITLE_IN_PDF
+N3-vocab-0537,N3,vocab,N3 Junbi Từ vựng,182,インタビュー,,TITLE_IN_PDF
+N3-vocab-0538,N3,vocab,N3 Junbi Từ vựng,182,アンケット,,TITLE_IN_PDF
+N3-vocab-0539,N3,vocab,N3 Junbi Từ vựng,183,データ,,TITLE_IN_PDF
+N3-vocab-0540,N3,vocab,N3 Junbi Từ vựng,183,パーセント,,TITLE_IN_PDF
+N3-vocab-0541,N3,vocab,N3 Junbi Từ vựng,184,濃い,こい,TITLE_IN_PDF
+N3-vocab-0542,N3,vocab,N3 Junbi Từ vựng,184,薄い,うすい,TITLE_IN_PDF
+N3-vocab-0543,N3,vocab,N3 Junbi Từ vựng,184,酸っぱい,すっぱい,TITLE_IN_RAW_ONLY
+N3-vocab-0544,N3,vocab,N3 Junbi Từ vựng,185,臭い,くさい,TITLE_IN_PDF
+N3-vocab-0545,N3,vocab,N3 Junbi Từ vựng,185,おかしい,,TITLE_IN_PDF
+N3-vocab-0546,N3,vocab,N3 Junbi Từ vựng,186,かっこいい,,TITLE_IN_PDF
+N3-vocab-0547,N3,vocab,N3 Junbi Từ vựng,186,うまい,,TITLE_IN_PDF
+N3-vocab-0548,N3,vocab,N3 Junbi Từ vựng,186,親しい,したしい,TITLE_IN_RAW_ONLY
+N3-vocab-0549,N3,vocab,N3 Junbi Từ vựng,187,詳しい,くわしい,TITLE_IN_RAW_ONLY
+N3-vocab-0550,N3,vocab,N3 Junbi Từ vựng,187,細かい,こまかい,TITLE_IN_PDF
+N3-vocab-0551,N3,vocab,N3 Junbi Từ vựng,187,浅い,あさい,TITLE_IN_PDF
+N3-vocab-0552,N3,vocab,N3 Junbi Từ vựng,188,かたい,,TITLE_IN_PDF
+N3-vocab-0553,N3,vocab,N3 Junbi Từ vựng,188,ぬるい,,TITLE_IN_PDF
+N3-vocab-0554,N3,vocab,N3 Junbi Từ vựng,189,まぶしい,,TITLE_IN_PDF
+N3-vocab-0555,N3,vocab,N3 Junbi Từ vựng,189,蒸し暑い,むあつい,TITLE_IN_PDF
+N3-vocab-0556,N3,vocab,N3 Junbi Từ vựng,189,清潔(な),せいけつ(な),TITLE_IN_RAW_ONLY
+N3-vocab-0557,N3,vocab,N3 Junbi Từ vựng,189,新鮮(な),しんせん(な),TITLE_IN_RAW_ONLY
+N3-vocab-0558,N3,vocab,N3 Junbi Từ vựng,190,豊か(な),ゆたか(な),TITLE_IN_RAW_ONLY
+N3-vocab-0559,N3,vocab,N3 Junbi Từ vựng,190,立派(な),りっぱ(な),TITLE_IN_RAW_ONLY
+N3-vocab-0560,N3,vocab,N3 Junbi Từ vựng,190,正確(な),せいかく,CHECK_MANUALLY
+N3-vocab-0561,N3,vocab,N3 Junbi Từ vựng,191,確かな,たしかな,TITLE_IN_PDF
+N3-vocab-0562,N3,vocab,N3 Junbi Từ vựng,191,重要な,じゅうような,TITLE_IN_PDF
+N3-vocab-0563,N3,vocab,N3 Junbi Từ vựng,192,必要な,ひつような,TITLE_IN_RAW_ONLY
+N3-vocab-0564,N3,vocab,N3 Junbi Từ vựng,192,もったいない,,TITLE_IN_PDF
+N3-vocab-0565,N3,vocab,N3 Junbi Từ vựng,193,すごい,,TITLE_IN_PDF
+N3-vocab-0566,N3,vocab,N3 Junbi Từ vựng,193,ひどい,,TITLE_IN_PDF
+N3-vocab-0567,N3,vocab,N3 Junbi Từ vựng,193,激しい,はげしい,TITLE_IN_RAW_ONLY
+N3-vocab-0568,N3,vocab,N3 Junbi Từ vựng,194,そっくりな,,TITLE_IN_PDF
+N3-vocab-0569,N3,vocab,N3 Junbi Từ vựng,194,急な,きゅうな,TITLE_IN_PDF
+N3-vocab-0570,N3,vocab,N3 Junbi Từ vựng,194,適当な,てきとうな,TITLE_IN_PDF
+N3-vocab-0571,N3,vocab,N3 Junbi Từ vựng,195,特別な,とくべつな,TITLE_IN_PDF
+N3-vocab-0572,N3,vocab,N3 Junbi Từ vựng,195,完全な,かんぜんな,TITLE_IN_PDF
+N3-vocab-0573,N3,vocab,N3 Junbi Từ vựng,196,盛んな,さかんな,TITLE_IN_PDF
+N3-vocab-0574,N3,vocab,N3 Junbi Từ vựng,196,さまざまな,,TITLE_IN_PDF
+N3-vocab-0575,N3,vocab,N3 Junbi Từ vựng,196,可能な,かのうな,TITLE_IN_RAW_ONLY
+N3-vocab-0576,N3,vocab,N3 Junbi Từ vựng,197,不可能な,ふかのうな,TITLE_IN_RAW_ONLY
+N3-vocab-0577,N3,vocab,N3 Junbi Từ vựng,197,基本的な,きほんてきな,TITLE_IN_PDF
+N3-vocab-0578,N3,vocab,N3 Junbi Từ vựng,197,国際的な,こくさいてきな,TITLE_IN_PDF
+N3-vocab-0579,N3,vocab,N3 Junbi Từ vựng,198,ばらばらな,,TITLE_IN_PDF
+N3-vocab-0580,N3,vocab,N3 Junbi Từ vựng,198,ぼろぼろな,,TITLE_IN_PDF
+N3-vocab-0581,N3,vocab,N3 Junbi Từ vựng,199,非常に,ひじょうに,TITLE_IN_PDF
+N3-vocab-0582,N3,vocab,N3 Junbi Từ vựng,199,大変,たいへん,TITLE_IN_PDF
+N3-vocab-0583,N3,vocab,N3 Junbi Từ vựng,200,ほとんど,,TITLE_IN_PDF
+N3-vocab-0584,N3,vocab,N3 Junbi Từ vựng,200,大体,だいたい,TITLE_IN_PDF
+N3-vocab-0585,N3,vocab,N3 Junbi Từ vựng,201,かなり,,TITLE_IN_PDF
+N3-vocab-0586,N3,vocab,N3 Junbi Từ vựng,201,ずいぶん,,TITLE_IN_PDF
+N3-vocab-0587,N3,vocab,N3 Junbi Từ vựng,201,けっこう,,TITLE_IN_PDF
+N3-vocab-0588,N3,vocab,N3 Junbi Từ vựng,202,大分,だいぶ,TITLE_IN_PDF
+N3-vocab-0589,N3,vocab,N3 Junbi Từ vựng,202,もっと,,TITLE_IN_PDF
+N3-vocab-0590,N3,vocab,N3 Junbi Từ vựng,202,すっかり,,TITLE_IN_PDF
+N3-vocab-0591,N3,vocab,N3 Junbi Từ vựng,203,一杯,いっぱい,TITLE_IN_PDF
+N3-vocab-0592,N3,vocab,N3 Junbi Từ vựng,203,ぎりぎり,,TITLE_IN_PDF
+N3-vocab-0593,N3,vocab,N3 Junbi Từ vựng,204,ぴったり,,TITLE_IN_PDF
+N3-vocab-0594,N3,vocab,N3 Junbi Từ vựng,204,たいてい,,TITLE_IN_PDF
+N3-vocab-0595,N3,vocab,N3 Junbi Từ vựng,205,同時に,どうじに,TITLE_IN_PDF
+N3-vocab-0596,N3,vocab,N3 Junbi Từ vựng,205,前もって,まえもって,TITLE_IN_PDF
+N3-vocab-0597,N3,vocab,N3 Junbi Từ vựng,205,すぐ(に),,TITLE_IN_PDF
+N3-vocab-0598,N3,vocab,N3 Junbi Từ vựng,205,もうすぐ,,TITLE_IN_PDF
+N3-vocab-0599,N3,vocab,N3 Junbi Từ vựng,206,突然,とつぜん,TITLE_IN_PDF
+N3-vocab-0600,N3,vocab,N3 Junbi Từ vựng,206,あっと言う間(に),いま(に),TITLE_IN_RAW_ONLY
+N3-vocab-0601,N3,vocab,N3 Junbi Từ vựng,206,いつの間にか,まにか,TITLE_IN_PDF
+N3-vocab-0602,N3,vocab,N3 Junbi Từ vựng,206,しばらく,,TITLE_IN_PDF
+N3-vocab-0603,N3,vocab,N3 Junbi Từ vựng,207,ずっと,,TITLE_IN_PDF
+N3-vocab-0604,N3,vocab,N3 Junbi Từ vựng,207,相変わらず,あいかわらず,TITLE_IN_RAW_ONLY
+N3-vocab-0605,N3,vocab,N3 Junbi Từ vựng,208,次々に/と,つぎつぎに/と,TITLE_IN_RAW_ONLY
+N3-vocab-0606,N3,vocab,N3 Junbi Từ vựng,208,どんどん,,TITLE_IN_PDF
+N3-vocab-0607,N3,vocab,N3 Junbi Từ vựng,208,ますます,,TITLE_IN_PDF
+N3-vocab-0608,N3,vocab,N3 Junbi Từ vựng,209,やっと+た,,TITLE_IN_PDF
+N3-vocab-0609,N3,vocab,N3 Junbi Từ vựng,209,とうとう~た,,TITLE_IN_PDF
+N3-vocab-0610,N3,vocab,N3 Junbi Từ vựng,210,ついに,,TITLE_IN_PDF
+N3-vocab-0611,N3,vocab,N3 Junbi Từ vựng,210,もちろん,,TITLE_IN_PDF
+N3-vocab-0612,N3,vocab,N3 Junbi Từ vựng,211,やはり,,TITLE_IN_PDF
+N3-vocab-0613,N3,vocab,N3 Junbi Từ vựng,211,きっと,,TITLE_IN_PDF
+N3-vocab-0614,N3,vocab,N3 Junbi Từ vựng,212,ぜひ,,TITLE_IN_PDF
+N3-vocab-0615,N3,vocab,N3 Junbi Từ vựng,212,なるべく,,TITLE_IN_PDF
+N3-vocab-0616,N3,vocab,N3 Junbi Từ vựng,212,案外,あんがい,TITLE_IN_PDF
+N3-vocab-0617,N3,vocab,N3 Junbi Từ vựng,213,もしかすると/,,TITLE_IN_PDF
+N3-vocab-0618,N3,vocab,N3 Junbi Từ vựng,213,まさか,,TITLE_IN_PDF
+N3-vocab-0619,N3,vocab,N3 Junbi Từ vựng,213,うっかり,,TITLE_IN_PDF
+N3-vocab-0620,N3,vocab,N3 Junbi Từ vựng,213,つい,,TITLE_IN_PDF
+N3-vocab-0621,N3,vocab,N3 Junbi Từ vựng,214,思わず,おもわず,TITLE_IN_PDF
+N3-vocab-0622,N3,vocab,N3 Junbi Từ vựng,214,ほっとする,,TITLE_IN_PDF
+N3-vocab-0623,N3,vocab,N3 Junbi Từ vựng,214,いらいら,,TITLE_IN_PDF
+N3-vocab-0624,N3,vocab,N3 Junbi Từ vựng,215,のんびり,,TITLE_IN_PDF
+N3-vocab-0625,N3,vocab,N3 Junbi Từ vựng,215,実は,じつは,TITLE_IN_PDF
+N3-vocab-0626,N3,vocab,N3 Junbi Từ vựng,215,読書,どくしょ,TITLE_IN_PDF
+N3-vocab-0627,N3,vocab,N3 Junbi Từ vựng,216,演奏,えんそう,TITLE_IN_PDF
+N3-vocab-0628,N3,vocab,N3 Junbi Từ vựng,216,芸術,げいじゅつ,TITLE_IN_PDF
+N3-vocab-0629,N3,vocab,N3 Junbi Từ vựng,216,検査,けんさ,TITLE_IN_PDF
+N3-vocab-0630,N3,vocab,N3 Junbi Từ vựng,216,血液,けつえき,TITLE_IN_PDF
+N3-vocab-0631,N3,vocab,N3 Junbi Từ vựng,217,治療,ちりょう,TITLE_IN_PDF
+N3-vocab-0632,N3,vocab,N3 Junbi Từ vựng,217,症状,しょうじょう,TITLE_IN_PDF
+N3-vocab-0633,N3,vocab,N3 Junbi Từ vựng,217,予防,よぼう,TITLE_IN_PDF
+N3-vocab-0634,N3,vocab,N3 Junbi Từ vựng,218,栄養,えいよう,TITLE_IN_PDF
+N3-vocab-0635,N3,vocab,N3 Junbi Từ vựng,218,手術,しゅじゅつ,TITLE_IN_PDF
+N3-vocab-0636,N3,vocab,N3 Junbi Từ vựng,218,死亡,しぼう,TITLE_IN_PDF
+N3-vocab-0637,N3,vocab,N3 Junbi Từ vựng,219,命,いのち,TITLE_IN_PDF
+N3-vocab-0638,N3,vocab,N3 Junbi Từ vựng,219,一生,いっしょう,TITLE_IN_PDF
+N3-vocab-0639,N3,vocab,N3 Junbi Từ vựng,219,誤解,ごかい,TITLE_IN_PDF
+N3-vocab-0640,N3,vocab,N3 Junbi Từ vựng,219,後悔,こうかい,TITLE_IN_PDF
+N3-vocab-0641,N3,vocab,N3 Junbi Từ vựng,220,訳,わけ,TITLE_IN_PDF
+N3-vocab-0642,N3,vocab,N3 Junbi Từ vựng,221,態度,たいど,TITLE_IN_PDF
+N3-vocab-0643,N3,vocab,N3 Junbi Từ vựng,221,癖,くせ,TITLE_IN_PDF
+N3-vocab-0644,N3,vocab,N3 Junbi Từ vựng,221,礼儀,れいぎ,TITLE_IN_PDF
+N3-vocab-0645,N3,vocab,N3 Junbi Từ vựng,222,文句,もんく,TITLE_IN_PDF
+N3-vocab-0646,N3,vocab,N3 Junbi Từ vựng,222,表情,ひょうじょう,TITLE_IN_PDF
+N3-vocab-0647,N3,vocab,N3 Junbi Từ vựng,222,表面,ひょうめん,TITLE_IN_PDF
+N3-vocab-0648,N3,vocab,N3 Junbi Từ vựng,223,禁煙する,きんえんする,TITLE_IN_PDF
+N3-vocab-0649,N3,vocab,N3 Junbi Từ vựng,223,禁止する,きんしする,TITLE_IN_PDF
+N3-vocab-0650,N3,vocab,N3 Junbi Từ vựng,223,完成,かんせい,TITLE_IN_PDF
+N3-vocab-0651,N3,vocab,N3 Junbi Từ vựng,224,課題,かだい,TITLE_IN_PDF
+N3-vocab-0652,N3,vocab,N3 Junbi Từ vựng,224,例外,れいがい,TITLE_IN_PDF
+N3-vocab-0653,N3,vocab,N3 Junbi Từ vựng,224,基本,きほん,TITLE_IN_PDF
+N3-vocab-0654,N3,vocab,N3 Junbi Từ vựng,225,記録,きろく,TITLE_IN_PDF
+N3-vocab-0655,N3,vocab,N3 Junbi Từ vựng,225,状態,じょうたい,TITLE_IN_PDF
+N3-vocab-0656,N3,vocab,N3 Junbi Từ vựng,226,出来事,できごと,TITLE_IN_RAW_ONLY
+N3-vocab-0657,N3,vocab,N3 Junbi Từ vựng,226,場面,ばめん,TITLE_IN_PDF
+N3-vocab-0658,N3,vocab,N3 Junbi Từ vựng,226,機会,きかい,TITLE_IN_PDF
+N3-vocab-0659,N3,vocab,N3 Junbi Từ vựng,227,距離,きょり,TITLE_IN_PDF
+N3-vocab-0660,N3,vocab,N3 Junbi Từ vựng,227,提案,ていあん,TITLE_IN_PDF
+N3-vocab-0661,N3,vocab,N3 Junbi Từ vựng,228,(を)やり取り,とり,TITLE_IN_RAW_ONLY
+N3-vocab-0662,N3,vocab,N3 Junbi Từ vựng,228,知識,ちしき,TITLE_IN_PDF
+N3-vocab-0663,N3,vocab,N3 Junbi Từ vựng,229,実力,じつりょく,TITLE_IN_PDF
+N3-vocab-0664,N3,vocab,N3 Junbi Từ vựng,229,手段,しゅだん,TITLE_IN_PDF
+N3-vocab-0665,N3,vocab,N3 Junbi Từ vựng,230,代表,だいひょう,TITLE_IN_PDF
+N3-vocab-0666,N3,vocab,N3 Junbi Từ vựng,230,影響,えいきょう,TITLE_IN_PDF
+N3-vocab-0667,N3,vocab,N3 Junbi Từ vựng,231,効果,こうか,TITLE_IN_PDF
+N3-vocab-0668,N3,vocab,N3 Junbi Từ vựng,231,印象,いんしょう,TITLE_IN_PDF
+N3-vocab-0669,N3,vocab,N3 Junbi Từ vựng,232,印,しるし,TITLE_IN_PDF
+N3-vocab-0670,N3,vocab,N3 Junbi Từ vựng,232,合図,あいず,TITLE_IN_PDF
+N3-vocab-0671,N3,vocab,N3 Junbi Từ vựng,232,共通,きょうつう,TITLE_IN_PDF
+N3-vocab-0672,N3,vocab,N3 Junbi Từ vựng,233,強調,きょうちょう,TITLE_IN_PDF
+N3-vocab-0673,N3,vocab,N3 Junbi Từ vựng,233,省略,しょうりゃく,TITLE_IN_PDF
+N3-vocab-0674,N3,vocab,N3 Junbi Từ vựng,233,挑戦,ちょうせん,TITLE_IN_PDF
+N3-vocab-0675,N3,vocab,N3 Junbi Từ vựng,234,やる気,き,TITLE_IN_PDF
+N3-vocab-0676,N3,vocab,N3 Junbi Từ vựng,234,勇気,ゆうき,TITLE_IN_PDF
+N3-vocab-0677,N3,vocab,N3 Junbi Từ vựng,234,資格,しかく,TITLE_IN_PDF
+N3-vocab-0678,N3,vocab,N3 Junbi Từ vựng,235,申請する,しんせいする,TITLE_IN_PDF
+N3-vocab-0679,N3,vocab,N3 Junbi Từ vựng,235,本人,ほんにん,TITLE_IN_PDF
+N3-vocab-0680,N3,vocab,N3 Junbi Từ vựng,235,契約,けいやく,TITLE_IN_PDF
+N3-vocab-0681,N3,vocab,N3 Junbi Từ vựng,236,証明,しょうめい,TITLE_IN_PDF
+N3-vocab-0682,N3,vocab,N3 Junbi Từ vựng,236,変更,へんこう,TITLE_IN_PDF
+N3-vocab-0683,N3,vocab,N3 Junbi Từ vựng,237,保存,ほぞん,TITLE_IN_PDF
+N3-vocab-0684,N3,vocab,N3 Junbi Từ vựng,237,保護,ほご,TITLE_IN_PDF
+N3-vocab-0685,N3,vocab,N3 Junbi Từ vựng,238,環境,かんきょう,TITLE_IN_PDF
+N3-vocab-0686,N3,vocab,N3 Junbi Từ vựng,238,資源,しげん,TITLE_IN_PDF
+N3-vocab-0687,N3,vocab,N3 Junbi Từ vựng,239,不足,ふそく,TITLE_IN_PDF
+N3-vocab-0688,N3,vocab,N3 Junbi Từ vựng,239,平均,へいきん,TITLE_IN_PDF
+N3-vocab-0689,N3,vocab,N3 Junbi Từ vựng,240,割合,わりあい,TITLE_IN_PDF
+N3-vocab-0690,N3,vocab,N3 Junbi Từ vựng,240,商売,しょうばい,TITLE_IN_PDF
+N3-vocab-0691,N3,vocab,N3 Junbi Từ vựng,240,商品,しょうひん,TITLE_IN_PDF
+N3-vocab-0692,N3,vocab,N3 Junbi Từ vựng,241,質,しつ,TITLE_IN_PDF
+N3-vocab-0693,N3,vocab,N3 Junbi Từ vựng,241,型,かた,TITLE_IN_PDF
+N3-vocab-0694,N3,vocab,N3 Junbi Từ vựng,241,生産,せいさん,TITLE_IN_PDF
+N3-vocab-0695,N3,vocab,N3 Junbi Từ vựng,242,消費,しょうひ,TITLE_IN_PDF
+N3-vocab-0696,N3,vocab,N3 Junbi Từ vựng,242,物価,ぶっか,TITLE_IN_PDF
+N3-vocab-0697,N3,vocab,N3 Junbi Từ vựng,243,倒産,とうさん,TITLE_IN_PDF
+N3-vocab-0698,N3,vocab,N3 Junbi Từ vựng,243,携帯,けいたい,TITLE_IN_PDF
+N3-vocab-0699,N3,vocab,N3 Junbi Từ vựng,243,現代,げんだい,TITLE_IN_PDF
+N3-vocab-0700,N3,vocab,N3 Junbi Từ vựng,243,世紀,せいき,TITLE_IN_PDF
+N3-vocab-0701,N3,vocab,N3 Junbi Từ vựng,244,文化,ぶんか,TITLE_IN_PDF
+N3-vocab-0702,N3,vocab,N3 Junbi Từ vựng,244,都市,とし,TITLE_IN_PDF
+N3-vocab-0703,N3,vocab,N3 Junbi Từ vựng,245,地方,ちほう,TITLE_IN_PDF
+N3-vocab-0704,N3,vocab,N3 Junbi Từ vựng,245,戦争,せんそう,TITLE_IN_PDF
+N3-vocab-0705,N3,vocab,N3 Junbi Từ vựng,246,平和,へいわ,TITLE_IN_PDF
+N3-vocab-0706,N3,vocab,N3 Junbi Từ vựng,246,(が)上る,のぼる,TITLE_IN_PDF
+N3-vocab-0707,N3,vocab,N3 Junbi Từ vựng,246,(が)下る,くだる,TITLE_IN_RAW_ONLY
+N3-vocab-0708,N3,vocab,N3 Junbi Từ vựng,247,(が)進む,すすむ,TITLE_IN_PDF
+N3-vocab-0709,N3,vocab,N3 Junbi Từ vựng,248,(が)通る,とおる,TITLE_IN_PDF
+N3-vocab-0710,N3,vocab,N3 Junbi Từ vựng,249,越える,こえる,TITLE_IN_PDF
+N3-vocab-0711,N3,vocab,N3 Junbi Từ vựng,249,(が)過ぎる,すぎる,TITLE_IN_PDF
+N3-vocab-0712,N3,vocab,N3 Junbi Từ vựng,249,(を)過ごす,すごす,TITLE_IN_PDF
+N3-vocab-0713,N3,vocab,N3 Junbi Từ vựng,250,意味1,,TITLE_IN_PDF
+N3-vocab-0714,N3,vocab,N3 Junbi Từ vựng,250,(が)移る,うつる,TITLE_IN_PDF
+N3-vocab-0715,N3,vocab,N3 Junbi Từ vựng,250,(を)連れる,つれる,TITLE_IN_RAW_ONLY
+N3-vocab-0716,N3,vocab,N3 Junbi Từ vựng,250,寄る,よる,TITLE_IN_PDF
+N3-vocab-0717,N3,vocab,N3 Junbi Từ vựng,251,(を)寄せる,よせる,CHECK_MANUALLY
+N3-vocab-0718,N3,vocab,N3 Junbi Từ vựng,251,(に・を)与える,あたえる,TITLE_IN_RAW_ONLY
+N3-vocab-0719,N3,vocab,N3 Junbi Từ vựng,252,(を)得る,える,TITLE_IN_PDF
+N3-vocab-0720,N3,vocab,N3 Junbi Từ vựng,252,(が)向く,むく,TITLE_IN_RAW_ONLY
+N3-vocab-0721,N3,vocab,N3 Junbi Từ vựng,253,向け,むけ,TITLE_IN_PDF
+N3-vocab-0722,N3,vocab,N3 Junbi Từ vựng,253,勧める,すすめる,TITLE_IN_PDF
+N3-vocab-0723,N3,vocab,N3 Junbi Từ vựng,253,薦める,すすめる,TITLE_IN_RAW_ONLY
+N3-vocab-0724,N3,vocab,N3 Junbi Từ vựng,254,(を・に) 任,まかせる,TITLE_IN_PDF
+N3-vocab-0725,N3,vocab,N3 Junbi Từ vựng,254,(を)守る,まもる,TITLE_IN_PDF
+N3-vocab-0726,N3,vocab,N3 Junbi Từ vựng,254,(を)争う,あらそう,CHECK_MANUALLY
+N3-vocab-0727,N3,vocab,N3 Junbi Từ vựng,255,(を)望む,のぞむ,TITLE_IN_PDF
+N3-vocab-0728,N3,vocab,N3 Junbi Từ vựng,256,(を)信じる,しんじる,TITLE_IN_PDF
+N3-vocab-0729,N3,vocab,N3 Junbi Từ vựng,256,(が)通じる,つうじる,TITLE_IN_PDF
+N3-vocab-0730,N3,vocab,N3 Junbi Từ vựng,257,(が)飽きる,あきる,TITLE_IN_RAW_ONLY
+N3-vocab-0731,N3,vocab,N3 Junbi Từ vựng,257,(を)思いつく,おもいつく,TITLE_IN_PDF
+N3-vocab-0732,N3,vocab,N3 Junbi Từ vựng,257,(を)思いやる,,TITLE_IN_PDF
+N3-vocab-0733,N3,vocab,N3 Junbi Từ vựng,258,(が) 熱中する,ねっちゅうする,TITLE_IN_RAW_ONLY
+N3-vocab-0734,N3,vocab,N3 Junbi Từ vựng,258,(を)暮らす,くらす,TITLE_IN_PDF
+N3-vocab-0735,N3,vocab,N3 Junbi Từ vựng,258,(を)巻く,まく,TITLE_IN_PDF
+N3-vocab-0736,N3,vocab,N3 Junbi Từ vựng,259,(を)結ぶ,むすぶ,TITLE_IN_PDF
+N3-vocab-0737,N3,vocab,N3 Junbi Từ vựng,259,(が)済む,すむ,TITLE_IN_PDF
+N3-vocab-0738,N3,vocab,N3 Junbi Từ vựng,260,出来る,できる,TITLE_IN_RAW_ONLY
+N3-vocab-0739,N3,vocab,N3 Junbi Từ vựng,261,(が)切れる,きれる,TITLE_IN_PDF
+N3-vocab-0740,N3,vocab,N3 Junbi Từ vựng,261,(を)切らす,きらす,TITLE_IN_RAW_ONLY
+N3-vocab-0741,N3,vocab,N3 Junbi Từ vựng,261,(が)伝わる,つたわる,TITLE_IN_PDF
+N3-vocab-0742,N3,vocab,N3 Junbi Từ vựng,262,(が)続く,つづく,TITLE_IN_PDF
+N3-vocab-0743,N3,vocab,N3 Junbi Từ vựng,262,(を)続ける,つづける,TITLE_IN_RAW_ONLY
+N3-vocab-0744,N3,vocab,N3 Junbi Từ vựng,263,(が)つながる,,TITLE_IN_PDF
+N3-vocab-0745,N3,vocab,N3 Junbi Từ vựng,263,(を)つなぐ,,TITLE_IN_PDF
+N3-vocab-0746,N3,vocab,N3 Junbi Từ vựng,264,(を)つなげる,,TITLE_IN_PDF
+N3-vocab-0747,N3,vocab,N3 Junbi Từ vựng,264,(が)伸びる,のびる,TITLE_IN_PDF
+N3-vocab-0748,N3,vocab,N3 Junbi Từ vựng,265,(が)延びる,のびる,TITLE_IN_PDF
+N3-vocab-0749,N3,vocab,N3 Junbi Từ vựng,266,(が)重なる,かさなる,TITLE_IN_PDF
+N3-vocab-0750,N3,vocab,N3 Junbi Từ vựng,266,(が)広がる,ひろがる,TITLE_IN_RAW_ONLY
+N3-vocab-0751,N3,vocab,N3 Junbi Từ vựng,267,(を)広げる,ひろげる,TITLE_IN_PDF
+N3-vocab-0752,N3,vocab,N3 Junbi Từ vựng,267,(が)載る,のる,CHECK_MANUALLY
+N3-vocab-0753,N3,vocab,N3 Junbi Từ vựng,268,(が)そろう,,TITLE_IN_PDF
+N3-vocab-0754,N3,vocab,N3 Junbi Từ vựng,269,そろえる,,TITLE_IN_PDF
+N3-vocab-0755,N3,vocab,N3 Junbi Từ vựng,269,(が)まとまる,,TITLE_IN_PDF
+N3-vocab-0756,N3,vocab,N3 Junbi Từ vựng,269,(を)まとめる,,TITLE_IN_PDF
+N3-vocab-0757,N3,vocab,N3 Junbi Từ vựng,270,(が)付く,つく,TITLE_IN_PDF
+N3-vocab-0758,N3,vocab,N3 Junbi Từ vựng,271,(を)付ける,つける,TITLE_IN_PDF
+N3-vocab-0759,N3,vocab,N3 Junbi Từ vựng,271,(が)溜まる,たまる,TITLE_IN_PDF
+N3-vocab-0760,N3,vocab,N3 Junbi Từ vựng,271,交じる,まじる,TITLE_IN_RAW_ONLY
+N3-vocab-0761,N3,vocab,N3 Junbi Từ vựng,272,まざる,,TITLE_IN_PDF
+N3-vocab-0762,N3,vocab,N3 Junbi Từ vựng,272,(を)まぜる,,TITLE_IN_PDF
+N3-vocab-0763,N3,vocab,N3 Junbi Từ vựng,272,(を)解く,とく,TITLE_IN_PDF
+N3-vocab-0764,N3,vocab,N3 Junbi Từ vựng,273,(を)溶かす,とかす,TITLE_IN_PDF
+N3-vocab-0765,N3,vocab,N3 Junbi Từ vựng,273,(を)含む,ふくむ,TITLE_IN_RAW_ONLY
+N3-vocab-0766,N3,vocab,N3 Junbi Từ vựng,273,(を)含める,ふくめる,TITLE_IN_PDF
+N3-vocab-0767,N3,vocab,N3 Junbi Từ vựng,273,(が)抜ける,ぬける,TITLE_IN_PDF
+N3-vocab-0768,N3,vocab,N3 Junbi Từ vựng,274,(を)抜く,ぬく,TITLE_IN_PDF
+N3-vocab-0769,N3,vocab,N3 Junbi Từ vựng,274,(が)現れる,あらわれる,CHECK_MANUALLY
+N3-vocab-0770,N3,vocab,N3 Junbi Từ vựng,274,(を)現す,あらわす,CHECK_MANUALLY
+N3-vocab-0771,N3,vocab,N3 Junbi Từ vựng,274,(が) 現れる,あらわれる,TITLE_IN_RAW_ONLY
+N3-vocab-0772,N3,vocab,N3 Junbi Từ vựng,275,(を) 表す,あらわす,TITLE_IN_PDF
+N3-vocab-0773,N3,vocab,N3 Junbi Từ vựng,275,(が)散る,ちる,TITLE_IN_PDF
+N3-vocab-0774,N3,vocab,N3 Junbi Từ vựng,275,(が)明ける,あける,TITLE_IN_RAW_ONLY
+N3-vocab-0775,N3,vocab,N3 Junbi Từ vựng,275,(が・を)差す,さす,TITLE_IN_RAW_ONLY
+N3-vocab-0776,N3,vocab,N3 Junbi Từ vựng,276,パートナー,,TITLE_IN_PDF
+N3-vocab-0777,N3,vocab,N3 Junbi Từ vựng,276,リーダー,,TITLE_IN_PDF
+N3-vocab-0778,N3,vocab,N3 Junbi Từ vựng,277,ボランティア,,TITLE_IN_PDF
+N3-vocab-0779,N3,vocab,N3 Junbi Từ vựng,277,コミュニケーション,,TITLE_IN_PDF
+N3-vocab-0780,N3,vocab,N3 Junbi Từ vựng,277,ユーモア,,TITLE_IN_PDF
+N3-vocab-0781,N3,vocab,N3 Junbi Từ vựng,278,ショック,,TITLE_IN_PDF
+N3-vocab-0782,N3,vocab,N3 Junbi Từ vựng,278,ストレス,,TITLE_IN_PDF
+N3-vocab-0783,N3,vocab,N3 Junbi Từ vựng,279,バランス,,TITLE_IN_PDF
+N3-vocab-0784,N3,vocab,N3 Junbi Từ vựng,279,レベル,,TITLE_IN_PDF
+N3-vocab-0785,N3,vocab,N3 Junbi Từ vựng,279,アップ,,TITLE_IN_PDF
+N3-vocab-0786,N3,vocab,N3 Junbi Từ vựng,280,ダウン,,TITLE_IN_PDF
+N3-vocab-0787,N3,vocab,N3 Junbi Từ vựng,280,プラス,,TITLE_IN_PDF
+N3-vocab-0788,N3,vocab,N3 Junbi Từ vựng,280,イメージ,,TITLE_IN_PDF
+N3-vocab-0789,N3,vocab,N3 Junbi Từ vựng,281,コンテスト,,TITLE_IN_PDF
+N3-vocab-0790,N3,vocab,N3 Junbi Từ vựng,281,マスコミ,,TITLE_IN_PDF
+N3-vocab-0791,N3,vocab,N3 Junbi Từ vựng,281,プライバシー,,TITLE_IN_PDF
+N3-vocab-0792,N3,vocab,N3 Junbi Từ vựng,281,オフィス,,TITLE_IN_PDF
+N3-vocab-0793,N3,vocab,N3 Junbi Từ vựng,282,ルール,,TITLE_IN_PDF
+N3-vocab-0794,N3,vocab,N3 Junbi Từ vựng,282,マナー,,TITLE_IN_PDF
+N3-vocab-0795,N3,vocab,N3 Junbi Từ vựng,283,ミス,,TITLE_IN_PDF
+N3-vocab-0796,N3,vocab,N3 Junbi Từ vựng,284,スケジュール,,TITLE_IN_PDF
+N3-vocab-0797,N3,vocab,N3 Junbi Từ vựng,284,タイトル,,TITLE_IN_PDF
+N3-vocab-0798,N3,vocab,N3 Junbi Từ vựng,284,テーマ,,TITLE_IN_PDF
+N3-vocab-0799,N3,vocab,N3 Junbi Từ vựng,285,ストーリー,,TITLE_IN_PDF
+N3-vocab-0800,N3,vocab,N3 Junbi Từ vựng,285,ヒット,,TITLE_IN_PDF
+N3-vocab-0801,N3,vocab,N3 Junbi Từ vựng,285,ブランド,,TITLE_IN_PDF
+N3-vocab-0802,N3,vocab,N3 Junbi Từ vựng,286,レンタル,,TITLE_IN_PDF
+N3-vocab-0803,N3,vocab,N3 Junbi Từ vựng,286,リサイクル,,TITLE_IN_PDF
+N3-vocab-0804,N3,vocab,N3 Junbi Từ vựng,286,ラベル,,TITLE_IN_PDF
+N3-vocab-0805,N3,vocab,N3 Junbi Từ vựng,287,タイプ,,TITLE_IN_PDF
+N3-vocab-0806,N3,vocab,N3 Junbi Từ vựng,287,スタイル,,TITLE_IN_PDF
+N3-vocab-0807,N3,vocab,N3 Junbi Từ vựng,287,セット,,TITLE_IN_PDF
+N3-vocab-0808,N3,vocab,N3 Junbi Từ vựng,288,ウイルス,,TITLE_IN_PDF
+N3-vocab-0809,N3,vocab,N3 Junbi Từ vựng,288,ロボット,,TITLE_IN_PDF
+N3-vocab-0810,N3,vocab,N3 Junbi Từ vựng,288,エネルギー,,TITLE_IN_PDF
+N3-vocab-0811,N3,vocab,N3 Junbi Từ vựng,289,デジタル,,TITLE_IN_PDF
+N3-vocab-0812,N3,vocab,N3 Junbi Từ vựng,289,マイク,,TITLE_IN_PDF
+N3-vocab-0813,N3,vocab,N3 Junbi Từ vựng,289,ブレーキ,,TITLE_IN_PDF
+N3-vocab-0814,N3,vocab,N3 Junbi Từ vựng,289,ペンキ,,TITLE_IN_PDF
+N3-vocab-0815,N3,vocab,N3 Junbi Từ vựng,290,(が)炊ける,たける,TITLE_IN_RAW_ONLY
+N3-vocab-0816,N3,vocab,N3 Junbi Từ vựng,290,(が)煮える,にえる,TITLE_IN_RAW_ONLY
+N3-vocab-0817,N3,vocab,N3 Junbi Từ vựng,291,(を)炒める,いためる,TITLE_IN_RAW_ONLY
+N3-vocab-0818,N3,vocab,N3 Junbi Từ vựng,291,(が)焼ける,やける,TITLE_IN_RAW_ONLY
+N3-vocab-0819,N3,vocab,N3 Junbi Từ vựng,291,(を)ゆでる,,TITLE_IN_PDF
+N3-vocab-0820,N3,vocab,N3 Junbi Từ vựng,291,(を)揚げる,あげる,TITLE_IN_RAW_ONLY
+N3-vocab-0821,N3,vocab,N3 Junbi Từ vựng,292,(を)蒸す,むす,TITLE_IN_PDF
+N3-vocab-0822,N3,vocab,N3 Junbi Từ vựng,292,ぐっすり,,TITLE_IN_PDF
+N3-vocab-0823,N3,vocab,N3 Junbi Từ vựng,292,きちんと,,TITLE_IN_PDF
+N3-vocab-0824,N3,vocab,N3 Junbi Từ vựng,292,しっかり,,TITLE_IN_PDF
+N3-vocab-0825,N3,vocab,N3 Junbi Từ vựng,293,はっきり,,TITLE_IN_PDF
+N3-vocab-0826,N3,vocab,N3 Junbi Từ vựng,293,じっと,,TITLE_IN_PDF
+N3-vocab-0827,N3,vocab,N3 Junbi Từ vựng,293,そっと,,TITLE_IN_PDF
+N3-vocab-0828,N3,vocab,N3 Junbi Từ vựng,294,別々に,べつべつに,CHECK_MANUALLY
+N3-vocab-0829,N3,vocab,N3 Junbi Từ vựng,294,それぞれ,,TITLE_IN_PDF
+N3-vocab-0830,N3,vocab,N3 Junbi Từ vựng,294,互いに,たがいに,TITLE_IN_PDF
+N3-vocab-0831,N3,vocab,N3 Junbi Từ vựng,294,直接,ちょくせつ,TITLE_IN_PDF
+N3-vocab-0832,N3,vocab,N3 Junbi Từ vựng,295,本当に,ほんとうに,TITLE_IN_PDF
+N3-vocab-0833,N3,vocab,N3 Junbi Từ vựng,295,必ず,かならず,TITLE_IN_PDF
+N3-vocab-0834,N3,vocab,N3 Junbi Từ vựng,295,絶対(に),ぜったい(に),TITLE_IN_PDF
+N3-vocab-0835,N3,vocab,N3 Junbi Từ vựng,296,特に,とくに,TITLE_IN_PDF
+N3-vocab-0836,N3,vocab,N3 Junbi Từ vựng,296,ただ,,TITLE_IN_PDF
+N3-vocab-0837,N3,vocab,N3 Junbi Từ vựng,297,少なくとも,すくなくとも,TITLE_IN_PDF
+N3-vocab-0838,N3,vocab,N3 Junbi Từ vựng,297,決して,けっして,TITLE_IN_PDF
+N3-vocab-0839,N3,vocab,N3 Junbi Từ vựng,298,少しも,すこしも,TITLE_IN_PDF
+N3-vocab-0840,N3,vocab,N3 Junbi Từ vựng,298,ちっとも,,TITLE_IN_PDF
+N3-vocab-0841,N3,vocab,N3 Junbi Từ vựng,298,全く,まったく,TITLE_IN_PDF
+N3-vocab-0842,N3,vocab,N3 Junbi Từ vựng,298,とても,,TITLE_IN_PDF
+N3-vocab-0843,N3,vocab,N3 Junbi Từ vựng,299,どんなに,,TITLE_IN_PDF
+N3-vocab-0844,N3,vocab,N3 Junbi Từ vựng,299,どうしても,,TITLE_IN_PDF
+N3-vocab-0845,N3,vocab,N3 Junbi Từ vựng,299,まるで,,TITLE_IN_PDF
+N3-vocab-0846,N3,vocab,N3 Junbi Từ vựng,300,一体(何),いったい,TITLE_IN_RAW_ONLY
+N3-vocab-0847,N3,vocab,N3 Junbi Từ vựng,300,別に,べつに,TITLE_IN_PDF
+N3-vocab-0848,N3,vocab,N3 Junbi Từ vựng,300,たった,,TITLE_IN_PDF
+N3-vocab-0849,N3,vocab,N3 Junbi Từ vựng,301,ほんの,,TITLE_IN_PDF
+N3-vocab-0850,N3,vocab,N3 Junbi Từ vựng,301,それで,,TITLE_IN_PDF
+N3-vocab-0851,N3,vocab,N3 Junbi Từ vựng,302,そこで,,TITLE_IN_PDF
+N3-vocab-0852,N3,vocab,N3 Junbi Từ vựng,302,A そのうえ、B,,TITLE_IN_PDF
+N3-vocab-0853,N3,vocab,N3 Junbi Từ vựng,302,また,,TITLE_IN_PDF
+N3-vocab-0854,N3,vocab,N3 Junbi Từ vựng,303,または,,TITLE_IN_PDF
+N3-vocab-0855,N3,vocab,N3 Junbi Từ vựng,303,A それともB?,,TITLE_IN_PDF
+N3-vocab-0856,N3,vocab,N3 Junbi Từ vựng,303,つまり,,TITLE_IN_PDF
+N3-kanji-0001,N3,kanji,N3 Junbi Hán tự,5,仕,音:シ,TITLE_IN_PDF
+N3-kanji-0002,N3,kanji,N3 Junbi Hán tự,5,任,音:ニン / 訓:まか・せる,TITLE_IN_PDF
+N3-kanji-0003,N3,kanji,N3 Junbi Hán tự,6,信,音:シン,TITLE_IN_PDF
+N3-kanji-0004,N3,kanji,N3 Junbi Hán tự,6,伸,訓:の・びる,TITLE_IN_PDF
+N3-kanji-0005,N3,kanji,N3 Junbi Hán tự,6,代,音:だい / 訓:か・わる,TITLE_IN_PDF
+N3-kanji-0006,N3,kanji,N3 Junbi Hán tự,7,付,音:フ / 訓:つ・ける,TITLE_IN_PDF
+N3-kanji-0007,N3,kanji,N3 Junbi Hán tự,7,件,音:ケン,TITLE_IN_PDF
+N3-kanji-0008,N3,kanji,N3 Junbi Hán tự,7,位,音:イ,TITLE_IN_PDF
+N3-kanji-0009,N3,kanji,N3 Junbi Hán tự,8,倍,音:バイ,TITLE_IN_PDF
+N3-kanji-0010,N3,kanji,N3 Junbi Hán tự,8,保,音:ホ / 訓:たも・つ,TITLE_IN_PDF
+N3-kanji-0011,N3,kanji,N3 Junbi Hán tự,8,個,音:コ,TITLE_IN_PDF
+N3-kanji-0012,N3,kanji,N3 Junbi Hán tự,9,仲,音:チュウ / 訓:なか,TITLE_IN_PDF
+N3-kanji-0013,N3,kanji,N3 Junbi Hán tự,10,借,音:シャク / 訓:か・りる,TITLE_IN_PDF
+N3-kanji-0014,N3,kanji,N3 Junbi Hán tự,10,供,音:キョウ / 訓:とも,TITLE_IN_PDF
+N3-kanji-0015,N3,kanji,N3 Junbi Hán tự,10,他,音:タ / 訓:ほか,TITLE_IN_PDF
+N3-kanji-0016,N3,kanji,N3 Junbi Hán tự,11,候,音:コウ,TITLE_IN_PDF
+N3-kanji-0017,N3,kanji,N3 Junbi Hán tự,11,価,音:カ,TITLE_IN_PDF
+N3-kanji-0018,N3,kanji,N3 Junbi Hán tự,11,便,音:ベン/ビン,TITLE_IN_PDF
+N3-kanji-0019,N3,kanji,N3 Junbi Hán tự,12,停,音:テイ,TITLE_IN_PDF
+N3-kanji-0020,N3,kanji,N3 Junbi Hán tự,12,係,音:ケイ / 訓:かか・り,TITLE_IN_PDF
+N3-kanji-0021,N3,kanji,N3 Junbi Hán tự,12,優,音:ユウ,TITLE_IN_PDF
+N3-kanji-0022,N3,kanji,N3 Junbi Hán tự,13,徒,音:ト,TITLE_IN_PDF
+N3-kanji-0023,N3,kanji,N3 Junbi Hán tự,13,術,音:ジュツ,TITLE_IN_PDF
+N3-kanji-0024,N3,kanji,N3 Junbi Hán tự,14,得,音:トク / 訓:え・る,TITLE_IN_PDF
+N3-kanji-0025,N3,kanji,N3 Junbi Hán tự,14,役,音:ヤク,TITLE_IN_PDF
+N3-kanji-0026,N3,kanji,N3 Junbi Hán tự,14,投,音:トウ / 訓:な・げる,TITLE_IN_PDF
+N3-kanji-0027,N3,kanji,N3 Junbi Hán tự,15,般,音:ハン,TITLE_IN_PDF
+N3-kanji-0028,N3,kanji,N3 Junbi Hán tự,15,段,音:ダン,TITLE_IN_PDF
+N3-kanji-0029,N3,kanji,N3 Junbi Hán tự,15,直,音:チョク / 訓:なお・る,TITLE_IN_PDF
+N3-kanji-0030,N3,kanji,N3 Junbi Hán tự,16,値,音:チ / 訓:ね,TITLE_IN_PDF
+N3-kanji-0031,N3,kanji,N3 Junbi Hán tự,16,植,音:ショク / 訓:う・える,TITLE_IN_PDF
+N3-kanji-0032,N3,kanji,N3 Junbi Hán tự,16,置,音:チ / 訓:お・く,TITLE_IN_PDF
+N3-kanji-0033,N3,kanji,N3 Junbi Hán tự,17,拾,訓:ひろ・う,TITLE_IN_PDF
+N3-kanji-0034,N3,kanji,N3 Junbi Hán tự,17,捨,訓:す・てる,TITLE_IN_PDF
+N3-kanji-0035,N3,kanji,N3 Junbi Hán tự,18,押,訓:お・す,TITLE_IN_PDF
+N3-kanji-0036,N3,kanji,N3 Junbi Hán tự,18,指,音:シ / 訓:ゆび,TITLE_IN_PDF
+N3-kanji-0037,N3,kanji,N3 Junbi Hán tự,18,探,音:タン / 訓:さが・す,TITLE_IN_PDF
+N3-kanji-0038,N3,kanji,N3 Junbi Hán tự,18,打,訓:う・つ,TITLE_IN_PDF
+N3-kanji-0039,N3,kanji,N3 Junbi Hán tự,19,折,音:セツ / 訓:お・る,TITLE_IN_PDF
+N3-kanji-0040,N3,kanji,N3 Junbi Hán tự,19,払,訓:はら・う,TITLE_IN_PDF
+N3-kanji-0041,N3,kanji,N3 Junbi Hán tự,19,担,音:タン,TITLE_IN_PDF
+N3-kanji-0042,N3,kanji,N3 Junbi Hán tự,20,接,音:セツ,TITLE_IN_PDF
+N3-kanji-0043,N3,kanji,N3 Junbi Hán tự,20,授,音:ジュ,TITLE_IN_PDF
+N3-kanji-0044,N3,kanji,N3 Junbi Hán tự,21,息,音:ソク / 訓:いき、むす,TITLE_IN_PDF
+N3-kanji-0045,N3,kanji,N3 Junbi Hán tự,22,意,音:イ,TITLE_IN_PDF
+N3-kanji-0046,N3,kanji,N3 Junbi Hán tự,22,億,音:オク,TITLE_IN_PDF
+N3-kanji-0047,N3,kanji,N3 Junbi Hán tự,22,念,音:ネン,TITLE_IN_PDF
+N3-kanji-0048,N3,kanji,N3 Junbi Hán tự,22,悪,音:アク / 訓:わる・い,TITLE_IN_PDF
+N3-kanji-0049,N3,kanji,N3 Junbi Hán tự,23,恋,音:レン / 訓:こい,TITLE_IN_PDF
+N3-kanji-0050,N3,kanji,N3 Junbi Hán tự,23,変,音:ヘン / 訓:か・える,TITLE_IN_PDF
+N3-kanji-0051,N3,kanji,N3 Junbi Hán tự,23,怒,音:ド / 訓:おこ・る,TITLE_IN_PDF
+N3-kanji-0052,N3,kanji,N3 Junbi Hán tự,24,努,音:ド / 訓:つと・める,TITLE_IN_PDF
+N3-kanji-0053,N3,kanji,N3 Junbi Hán tự,24,愛,音:アイ,TITLE_IN_PDF
+N3-kanji-0054,N3,kanji,N3 Junbi Hán tự,25,悲,音:ヒ / 訓:かな・しい,TITLE_IN_PDF
+N3-kanji-0055,N3,kanji,N3 Junbi Hán tự,26,罪,音:ザイ / 訓:つみ,TITLE_IN_PDF
+N3-kanji-0056,N3,kanji,N3 Junbi Hán tự,26,性,音:セイ,TITLE_IN_PDF
+N3-kanji-0057,N3,kanji,N3 Junbi Hán tự,26,悩,音:ノウ / 訓:なや・む,TITLE_IN_PDF
+N3-kanji-0058,N3,kanji,N3 Junbi Hán tự,27,情,音:ジョウ,TITLE_IN_PDF
+N3-kanji-0059,N3,kanji,N3 Junbi Hán tự,27,精,音:セイ,TITLE_IN_PDF
+N3-kanji-0060,N3,kanji,N3 Junbi Hán tự,27,支,音:シ / 訓:ささ・える,TITLE_IN_PDF
+N3-kanji-0061,N3,kanji,N3 Junbi Hán tự,27,技,音:ギ,TITLE_IN_PDF
+N3-kanji-0062,N3,kanji,N3 Junbi Hán tự,28,席,音:セキ,TITLE_IN_PDF
+N3-kanji-0063,N3,kanji,N3 Junbi Hán tự,28,度,音:ド / 訓:たび,TITLE_IN_PDF
+N3-kanji-0064,N3,kanji,N3 Junbi Hán tự,28,渡,訓:わた・る,TITLE_IN_PDF
+N3-kanji-0065,N3,kanji,N3 Junbi Hán tự,29,辛,訓:つら・い,TITLE_IN_PDF
+N3-kanji-0066,N3,kanji,N3 Junbi Hán tự,30,幸,音:コウ / 訓:しあわ・せ,TITLE_IN_PDF
+N3-kanji-0067,N3,kanji,N3 Junbi Hán tự,30,報,音:ホウ,TITLE_IN_PDF
+N3-kanji-0068,N3,kanji,N3 Junbi Hán tự,30,洗,音:セン / 訓:あら・う,TITLE_IN_PDF
+N3-kanji-0069,N3,kanji,N3 Junbi Hán tự,31,汚,音:オ / 訓:よご・す,TITLE_IN_PDF
+N3-kanji-0070,N3,kanji,N3 Junbi Hán tự,31,活,音:カツ,TITLE_IN_PDF
+N3-kanji-0071,N3,kanji,N3 Junbi Hán tự,31,液,音:エキ,TITLE_IN_PDF
+N3-kanji-0072,N3,kanji,N3 Junbi Hán tự,32,流,音:リュウ / 訓:なが・れる,TITLE_IN_PDF
+N3-kanji-0073,N3,kanji,N3 Junbi Hán tự,32,涙,訓:なみだ,TITLE_IN_PDF
+N3-kanji-0074,N3,kanji,N3 Junbi Hán tự,32,深,音:シン / 訓:ふか・い,TITLE_IN_PDF
+N3-kanji-0075,N3,kanji,N3 Junbi Hán tự,33,泊,音:ハク / 訓:と・まる,TITLE_IN_PDF
+N3-kanji-0076,N3,kanji,N3 Junbi Hán tự,34,消,音:ショウ / 訓:き・える,TITLE_IN_PDF
+N3-kanji-0077,N3,kanji,N3 Junbi Hán tự,34,法,音:ホウ,TITLE_IN_PDF
+N3-kanji-0078,N3,kanji,N3 Junbi Hán tự,35,決,音:ケツ / 訓:き・まる,TITLE_IN_PDF
+N3-kanji-0079,N3,kanji,N3 Junbi Hán tự,35,浅,音:セン / 訓:あさ・い,TITLE_IN_PDF
+N3-kanji-0080,N3,kanji,N3 Junbi Hán tự,35,満,音:マン / 訓:み・たす,TITLE_IN_PDF
+N3-kanji-0081,N3,kanji,N3 Junbi Hán tự,36,演,音:エン,TITLE_IN_PDF
+N3-kanji-0082,N3,kanji,N3 Junbi Hán tự,36,混,音:コン / 訓:こ・む,TITLE_IN_PDF
+N3-kanji-0083,N3,kanji,N3 Junbi Hán tự,36,湿,音:シツ / 訓:しめ・る,TITLE_IN_PDF
+N3-kanji-0084,N3,kanji,N3 Junbi Hán tự,37,温,音:オン / 訓:あたた・かい,TITLE_IN_PDF
+N3-kanji-0085,N3,kanji,N3 Junbi Hán tự,37,塩,音:エン / 訓:しお,TITLE_IN_PDF
+N3-kanji-0086,N3,kanji,N3 Junbi Hán tự,38,賃,音:チン,TITLE_IN_PDF
+N3-kanji-0087,N3,kanji,N3 Junbi Hán tự,39,貸,音:タイ / 訓:か・す,TITLE_IN_PDF
+N3-kanji-0088,N3,kanji,N3 Junbi Hán tự,39,費,音:ヒ / 訓:(を)つい・やす,TITLE_IN_PDF
+N3-kanji-0089,N3,kanji,N3 Junbi Hán tự,39,員,音:イン,TITLE_IN_PDF
+N3-kanji-0090,N3,kanji,N3 Junbi Hán tự,40,貧,音:ヒン / 訓:まず・しい,TITLE_IN_PDF
+N3-kanji-0091,N3,kanji,N3 Junbi Hán tự,40,賛,音:サン,TITLE_IN_PDF
+N3-kanji-0092,N3,kanji,N3 Junbi Hán tự,40,財,音:サイ,TITLE_IN_PDF
+N3-kanji-0093,N3,kanji,N3 Junbi Hán tự,41,貯,音:チョ / 訓:(を)た・める,TITLE_IN_PDF
+N3-kanji-0094,N3,kanji,N3 Junbi Hán tự,41,敗,音:ハイ / 訓:やぶ・れる,TITLE_IN_PDF
+N3-kanji-0095,N3,kanji,N3 Junbi Hán tự,41,販,音:ハン,TITLE_IN_PDF
+N3-kanji-0096,N3,kanji,N3 Junbi Hán tự,42,責,音:セキ / 訓:(を)せ・める,TITLE_IN_PDF
+N3-kanji-0097,N3,kanji,N3 Junbi Hán tự,42,績,音:セキ,TITLE_IN_PDF
+N3-kanji-0098,N3,kanji,N3 Junbi Hán tự,43,積,音:セキ / 訓:(を)つ・む,TITLE_IN_PDF
+N3-kanji-0099,N3,kanji,N3 Junbi Hán tự,43,改,音:カイ / 訓:あらた・める,TITLE_IN_PDF
+N3-kanji-0100,N3,kanji,N3 Junbi Hán tự,43,配,音:ハイ / 訓:くば・る,TITLE_IN_PDF
+N3-kanji-0101,N3,kanji,N3 Junbi Hán tự,44,記,音:キ,TITLE_IN_PDF
+N3-kanji-0102,N3,kanji,N3 Junbi Hán tự,44,反,音:ハン,TITLE_IN_PDF
+N3-kanji-0103,N3,kanji,N3 Junbi Hán tự,44,坂,訓:さか,TITLE_IN_PDF
+N3-kanji-0104,N3,kanji,N3 Junbi Hán tự,45,返,音:ヘン / 訓:(を)かえ・す,TITLE_IN_PDF
+N3-kanji-0105,N3,kanji,N3 Junbi Hán tự,45,仮,音:カ/ケ / 訓:かり,TITLE_IN_PDF
+N3-kanji-0106,N3,kanji,N3 Junbi Hán tự,46,杯,音:ハイ,TITLE_IN_PDF
+N3-kanji-0107,N3,kanji,N3 Junbi Hán tự,46,札,音:サツ / 訓:ふだ,TITLE_IN_PDF
+N3-kanji-0108,N3,kanji,N3 Junbi Hán tự,47,材,音:ザイ,TITLE_IN_PDF
+N3-kanji-0109,N3,kanji,N3 Junbi Hán tự,47,枚,音:マイ,TITLE_IN_PDF
+N3-kanji-0110,N3,kanji,N3 Junbi Hán tự,47,機,音:キ,TITLE_IN_PDF
+N3-kanji-0111,N3,kanji,N3 Junbi Hán tự,48,横,音:オウ / 訓:よこ,TITLE_IN_PDF
+N3-kanji-0112,N3,kanji,N3 Junbi Hán tự,48,根,音:コン / 訓:ね,TITLE_IN_PDF
+N3-kanji-0113,N3,kanji,N3 Junbi Hán tự,48,橋,音:キョウ / 訓:はし,TITLE_IN_PDF
+N3-kanji-0114,N3,kanji,N3 Junbi Hán tự,49,相,音:ソウ / 訓:あい,TITLE_IN_PDF
+N3-kanji-0115,N3,kanji,N3 Junbi Hán tự,49,想,音:ソウ,TITLE_IN_PDF
+N3-kanji-0116,N3,kanji,N3 Junbi Hán tự,49,箱,訓:はこ,TITLE_IN_PDF
+N3-kanji-0117,N3,kanji,N3 Junbi Hán tự,50,科,音:カ,TITLE_IN_PDF
+N3-kanji-0118,N3,kanji,N3 Junbi Hán tự,50,秒,音:ビョウ,TITLE_IN_PDF
+N3-kanji-0119,N3,kanji,N3 Junbi Hán tự,51,移,音:イ / 訓:うつ・る,TITLE_IN_PDF
+N3-kanji-0120,N3,kanji,N3 Junbi Hán tự,51,種,音:シュ / 訓:たね,TITLE_IN_PDF
+N3-kanji-0121,N3,kanji,N3 Junbi Hán tự,51,税,音:ゼイ,TITLE_IN_PDF
+N3-kanji-0122,N3,kanji,N3 Junbi Hán tự,52,説,音:セツ,TITLE_IN_PDF
+N3-kanji-0123,N3,kanji,N3 Junbi Hán tự,52,協,音:キョウ,TITLE_IN_PDF
+N3-kanji-0124,N3,kanji,N3 Junbi Hán tự,52,加,音:カ / 訓:くわ・える,TITLE_IN_PDF
+N3-kanji-0125,N3,kanji,N3 Junbi Hán tự,53,助,音:ジョ / 訓:たす・ける,TITLE_IN_PDF
+N3-kanji-0126,N3,kanji,N3 Junbi Hán tự,53,効,音:コウ / 訓:き・く,TITLE_IN_PDF
+N3-kanji-0127,N3,kanji,N3 Junbi Hán tự,53,勤,音:キン / 訓:つと・める,TITLE_IN_PDF
+N3-kanji-0128,N3,kanji,N3 Junbi Hán tự,54,吐,訓:は・く,TITLE_IN_PDF
+N3-kanji-0129,N3,kanji,N3 Junbi Hán tự,54,呼,音:コ / 訓:よ・ぶ,TITLE_IN_PDF
+N3-kanji-0130,N3,kanji,N3 Junbi Hán tự,55,和,音:ワ / 訓:なご・やか,TITLE_IN_PDF
+N3-kanji-0131,N3,kanji,N3 Junbi Hán tự,55,知,音:チ / 訓:し・る,TITLE_IN_PDF
+N3-kanji-0132,N3,kanji,N3 Junbi Hán tự,55,否,音:ヒ,TITLE_IN_PDF
+N3-kanji-0133,N3,kanji,N3 Junbi Hán tự,56,喜,訓:よろこ・ぶ,TITLE_IN_PDF
+N3-kanji-0134,N3,kanji,N3 Junbi Hán tự,56,告,音:コク / 訓:つ・げる,TITLE_IN_PDF
+N3-kanji-0135,N3,kanji,N3 Junbi Hán tự,56,造,音:ゾウ / 訓:をつく・る,TITLE_IN_PDF
+N3-kanji-0136,N3,kanji,N3 Junbi Hán tự,57,吸,音:キュウ / 訓:をす・う,TITLE_IN_PDF
+N3-kanji-0137,N3,kanji,N3 Junbi Hán tự,57,級,音:キュウ,TITLE_IN_PDF
+N3-kanji-0138,N3,kanji,N3 Junbi Hán tự,58,組,音:ソ / 訓:く・む,TITLE_IN_PDF
+N3-kanji-0139,N3,kanji,N3 Junbi Hán tự,58,練,音:レン / 訓:ね・る,TITLE_IN_PDF
+N3-kanji-0140,N3,kanji,N3 Junbi Hán tự,59,経,音:ケイ,TITLE_IN_PDF
+N3-kanji-0141,N3,kanji,N3 Junbi Hán tự,59,泉,音:セン / 訓:いずみ,TITLE_IN_PDF
+N3-kanji-0142,N3,kanji,N3 Junbi Hán tự,59,線,音:セン,TITLE_IN_PDF
+N3-kanji-0143,N3,kanji,N3 Junbi Hán tự,60,紹,音:ショウ,TITLE_IN_PDF
+N3-kanji-0144,N3,kanji,N3 Junbi Hán tự,60,給,音:キュウ,TITLE_IN_PDF
+N3-kanji-0145,N3,kanji,N3 Junbi Hán tự,60,結,音:ケツ / 訓:むす・ぶ,TITLE_IN_PDF
+N3-kanji-0146,N3,kanji,N3 Junbi Hán tự,61,約,音:ヤク,TITLE_IN_PDF
+N3-kanji-0147,N3,kanji,N3 Junbi Hán tự,61,続,音:ゾク / 訓:つづ・く,TITLE_IN_PDF
+N3-kanji-0148,N3,kanji,N3 Junbi Hán tự,62,込,訓:こ・む,TITLE_IN_PDF
+N3-kanji-0149,N3,kanji,N3 Junbi Hán tự,63,遊,音:ユウ / 訓:あそ・ぶ,TITLE_IN_PDF
+N3-kanji-0150,N3,kanji,N3 Junbi Hán tự,63,過,音:カ / 訓:す・ぎる,TITLE_IN_PDF
+N3-kanji-0151,N3,kanji,N3 Junbi Hán tự,63,違,音:イ / 訓:ちが・う,TITLE_IN_PDF
+N3-kanji-0152,N3,kanji,N3 Junbi Hán tự,64,逆,音:ギャク / 訓:さか,TITLE_IN_PDF
+N3-kanji-0153,N3,kanji,N3 Junbi Hán tự,64,迎,音:ゲイ / 訓:をむか・える,TITLE_IN_PDF
+N3-kanji-0154,N3,kanji,N3 Junbi Hán tự,64,退,音:タイ,TITLE_IN_PDF
+N3-kanji-0155,N3,kanji,N3 Junbi Hán tự,65,選,音:セン / 訓:えら・ぶ,TITLE_IN_PDF
+N3-kanji-0156,N3,kanji,N3 Junbi Hán tự,65,緑,音:リョク / 訓:みどり,TITLE_IN_PDF
+N3-kanji-0157,N3,kanji,N3 Junbi Hán tự,65,録,音:ロク,TITLE_IN_PDF
+N3-kanji-0158,N3,kanji,N3 Junbi Hán tự,66,訓,音：クン / キン,TITLE_IN_PDF
+N3-kanji-0159,N3,kanji,N3 Junbi Hán tự,66,調,音:チョウ / 訓:しら・べる,TITLE_IN_PDF
+N3-kanji-0160,N3,kanji,N3 Junbi Hán tự,67,談,音:ダン,TITLE_IN_PDF
+N3-kanji-0161,N3,kanji,N3 Junbi Hán tự,67,訳,音:ヤク / 訓:わけ,TITLE_IN_PDF
+N3-kanji-0162,N3,kanji,N3 Junbi Hán tự,67,誌,音:シ,TITLE_IN_PDF
+N3-kanji-0163,N3,kanji,N3 Junbi Hán tự,67,議,音:ギ,TITLE_IN_PDF
+N3-kanji-0164,N3,kanji,N3 Junbi Hán tự,68,認,音:ニン / 訓:みと・める,TITLE_IN_PDF
+N3-kanji-0165,N3,kanji,N3 Junbi Hán tự,68,確,音:カク / 訓:たし・か,TITLE_IN_PDF
+N3-kanji-0166,N3,kanji,N3 Junbi Hán tự,68,進,音:シン / 訓:すす・む,TITLE_IN_PDF
+N3-kanji-0167,N3,kanji,N3 Junbi Hán tự,69,集,音:シュウ / 訓:あつ・まる,TITLE_IN_PDF
+N3-kanji-0168,N3,kanji,N3 Junbi Hán tự,69,雑,音:ザツ,TITLE_IN_PDF
+N3-kanji-0169,N3,kanji,N3 Junbi Hán tự,70,完,音:カン,TITLE_IN_PDF
+N3-kanji-0170,N3,kanji,N3 Junbi Hán tự,70,空,音:クウ / 訓:そら,TITLE_IN_PDF
+N3-kanji-0171,N3,kanji,N3 Junbi Hán tự,71,守,音:シュ / 訓:まも・る,TITLE_IN_PDF
+N3-kanji-0172,N3,kanji,N3 Junbi Hán tự,71,実,音:ジツ / 訓:みの・る,TITLE_IN_PDF
+N3-kanji-0173,N3,kanji,N3 Junbi Hán tự,71,突,音:トツ,TITLE_IN_PDF
+N3-kanji-0174,N3,kanji,N3 Junbi Hán tự,71,宅,音:タク,TITLE_IN_PDF
+N3-kanji-0175,N3,kanji,N3 Junbi Hán tự,72,定,音:テイ / 訓:さだ・める,TITLE_IN_PDF
+N3-kanji-0176,N3,kanji,N3 Junbi Hán tự,72,官,音:カン,TITLE_IN_PDF
+N3-kanji-0177,N3,kanji,N3 Junbi Hán tự,72,追,音:ツイ / 訓:お・う,TITLE_IN_PDF
+N3-kanji-0178,N3,kanji,N3 Junbi Hán tự,73,師,音:シ / 訓:いくさ,TITLE_IN_PDF
+N3-kanji-0179,N3,kanji,N3 Junbi Hán tự,73,容,音:ヨウ,TITLE_IN_PDF
+N3-kanji-0180,N3,kanji,N3 Junbi Hán tự,73,浴,音:ヨク / 訓:あ・びる,TITLE_IN_PDF
+N3-kanji-0181,N3,kanji,N3 Junbi Hán tự,74,者,音:シャ / 訓:もの,TITLE_IN_PDF
+N3-kanji-0182,N3,kanji,N3 Junbi Hán tự,74,老,音:ロウ,TITLE_IN_PDF
+N3-kanji-0183,N3,kanji,N3 Junbi Hán tự,75,考,音:コウ / 訓:かんが・える,TITLE_IN_PDF
+N3-kanji-0184,N3,kanji,N3 Junbi Hán tự,75,主,音:シュ / 訓:ぬし,TITLE_IN_PDF
+N3-kanji-0185,N3,kanji,N3 Junbi Hán tự,75,注,音:チュウ / 訓:そそ・ぐ,TITLE_IN_PDF
+N3-kanji-0186,N3,kanji,N3 Junbi Hán tự,76,柱,音:チュウ / 訓:はしら,TITLE_IN_PDF
+N3-kanji-0187,N3,kanji,N3 Junbi Hán tự,76,駐,音:チュウ,TITLE_IN_PDF
+N3-kanji-0188,N3,kanji,N3 Junbi Hán tự,76,規,音:キ,TITLE_IN_PDF
+N3-kanji-0189,N3,kanji,N3 Junbi Hán tự,77,現,音:ゲン / 訓:あらわ・す,TITLE_IN_PDF
+N3-kanji-0190,N3,kanji,N3 Junbi Hán tự,77,覚,音:カク / 訓:おぼ・える,TITLE_IN_PDF
+N3-kanji-0191,N3,kanji,N3 Junbi Hán tự,77,観,音:カン / 訓:み・る,TITLE_IN_PDF
+N3-kanji-0192,N3,kanji,N3 Junbi Hán tự,78,門,音:モン / 訓:かど,TITLE_IN_PDF
+N3-kanji-0193,N3,kanji,N3 Junbi Hán tự,78,簡,音:カン,TITLE_IN_PDF
+N3-kanji-0194,N3,kanji,N3 Junbi Hán tự,79,関,音:カン / 訓:かか・わる,TITLE_IN_PDF
+N3-kanji-0195,N3,kanji,N3 Junbi Hán tự,79,眠,音:ミン / 訓:ねむ・る,TITLE_IN_PDF
+N3-kanji-0196,N3,kanji,N3 Junbi Hán tự,80,暖,音:ダン / 訓:あたた・かい,TITLE_IN_PDF
+N3-kanji-0197,N3,kanji,N3 Junbi Hán tự,80,複,音:フク,TITLE_IN_PDF
+N3-kanji-0198,N3,kanji,N3 Junbi Hán tự,80,復,音:フク / 訓:また,TITLE_IN_PDF
+N3-kanji-0199,N3,kanji,N3 Junbi Hán tự,81,腹,音:フク / 訓:はら,TITLE_IN_PDF
+N3-kanji-0200,N3,kanji,N3 Junbi Hán tự,81,腕,音:ワン / 訓:うで,TITLE_IN_PDF
+N3-kanji-0201,N3,kanji,N3 Junbi Hán tự,82,布,音:フ / 訓:ぬの,TITLE_IN_PDF
+N3-kanji-0202,N3,kanji,N3 Junbi Hán tự,82,怖,音:フ / 訓:こわ・い,TITLE_IN_PDF
+N3-kanji-0203,N3,kanji,N3 Junbi Hán tự,83,希,音:キ,TITLE_IN_PDF
+N3-kanji-0204,N3,kanji,N3 Junbi Hán tự,83,厚,音:コウ(N2) / 訓:あつ・い,TITLE_IN_PDF
+N3-kanji-0205,N3,kanji,N3 Junbi Hán tự,83,原,音:ゲン / 訓:はら,TITLE_IN_PDF
+N3-kanji-0206,N3,kanji,N3 Junbi Hán tự,84,圧,音:アツ / 訓:お・す,TITLE_IN_PDF
+N3-kanji-0207,N3,kanji,N3 Junbi Hán tự,84,成,音:セイ / 訓:な・る,TITLE_IN_PDF
+N3-kanji-0208,N3,kanji,N3 Junbi Hán tự,84,感,音:カン,TITLE_IN_PDF
+N3-kanji-0209,N3,kanji,N3 Junbi Hán tự,85,減,音:ゲン / 訓:へ・る,TITLE_IN_PDF
+N3-kanji-0210,N3,kanji,N3 Junbi Hán tự,85,越,音:エツ / 訓:こ・す,TITLE_IN_PDF
+N3-kanji-0211,N3,kanji,N3 Junbi Hán tự,86,超,音:チョウ / 訓:こ・える,TITLE_IN_PDF
+N3-kanji-0212,N3,kanji,N3 Junbi Hán tự,87,内,音:ナイ / 訓:うち,TITLE_IN_PDF
+N3-kanji-0213,N3,kanji,N3 Junbi Hán tự,88,向,音:コウ / 訓:む・く,TITLE_IN_PDF
+N3-kanji-0214,N3,kanji,N3 Junbi Hán tự,88,困,音:コン / 訓:こま・る,TITLE_IN_PDF
+N3-kanji-0215,N3,kanji,N3 Junbi Hán tự,88,因,音:イン,TITLE_IN_PDF
+N3-kanji-0216,N3,kanji,N3 Junbi Hán tự,89,回,音:カイ / 訓:まわ・る,TITLE_IN_PDF
+N3-kanji-0217,N3,kanji,N3 Junbi Hán tự,89,団,音:ダン,TITLE_IN_PDF
+N3-kanji-0218,N3,kanji,N3 Junbi Hán tự,89,固,音:コ / 訓:(を)かた・める,TITLE_IN_PDF
+N3-kanji-0219,N3,kanji,N3 Junbi Hán tự,90,個,音:コ,TITLE_IN_PDF
+N3-kanji-0220,N3,kanji,N3 Junbi Hán tự,90,図,音:ズ/ト / 訓:(を)はか・る(N2),TITLE_IN_PDF
+N3-kanji-0221,N3,kanji,N3 Junbi Hán tự,90,歯,音:シ / 訓:は,TITLE_IN_PDF
+N3-kanji-0222,N3,kanji,N3 Junbi Hán tự,91,亡,音:ボウ / 訓:な・い,TITLE_IN_PDF
+N3-kanji-0223,N3,kanji,N3 Junbi Hán tự,91,忘,音:ボウ / 訓:わす・れる,TITLE_IN_PDF
+N3-kanji-0224,N3,kanji,N3 Junbi Hán tự,92,忙,音:ボウ / 訓:いそが・しい,TITLE_IN_PDF
+N3-kanji-0225,N3,kanji,N3 Junbi Hán tự,92,望,音:ボウ / 訓:のぞ・む,TITLE_IN_PDF
+N3-kanji-0226,N3,kanji,N3 Junbi Hán tự,92,豆,音:トウ/ズ / 訓:まめ,TITLE_IN_PDF
+N3-kanji-0227,N3,kanji,N3 Junbi Hán tự,93,短,音:タン / 訓:みじか・い,TITLE_IN_PDF
+N3-kanji-0228,N3,kanji,N3 Junbi Hán tự,93,登,音:トウ / 訓:のぼ・る,TITLE_IN_PDF
+N3-kanji-0229,N3,kanji,N3 Junbi Hán tự,93,豊,音:ホウ / 訓:ゆた・か,TITLE_IN_PDF
+N3-kanji-0230,N3,kanji,N3 Junbi Hán tự,94,農,音:ノウ,TITLE_IN_PDF
+N3-kanji-0231,N3,kanji,N3 Junbi Hán tự,94,濃,音:ノウ / 訓:こ・い,TITLE_IN_PDF
+N3-kanji-0232,N3,kanji,N3 Junbi Hán tự,95,座,音:ザ / 訓:すわ・る,TITLE_IN_PDF
+N3-kanji-0233,N3,kanji,N3 Junbi Hán tự,95,庭,音:テイ / 訓:にわ,TITLE_IN_PDF
+N3-kanji-0234,N3,kanji,N3 Junbi Hán tự,96,痛,音:ツウ / 訓:いた・い,TITLE_IN_PDF
+N3-kanji-0235,N3,kanji,N3 Junbi Hán tự,96,疲,音:ヒ / 訓:つか・れる,TITLE_IN_PDF
+N3-kanji-0236,N3,kanji,N3 Junbi Hán tự,96,彼,音:ヒ / 訓:かれ,TITLE_IN_PDF
+N3-kanji-0237,N3,kanji,N3 Junbi Hán tự,97,波,音:ハ / 訓:なみ,TITLE_IN_PDF
+N3-kanji-0238,N3,kanji,N3 Junbi Hán tự,97,皿,訓:さら,TITLE_IN_PDF
+N3-kanji-0239,N3,kanji,N3 Junbi Hán tự,97,血,音:ケツ / 訓:ち,TITLE_IN_PDF
+N3-kanji-0240,N3,kanji,N3 Junbi Hán tự,98,冊,音:サツ,TITLE_IN_PDF
+N3-kanji-0241,N3,kanji,N3 Junbi Hán tự,98,曲,音:キョク / 訓:ま・がる,TITLE_IN_PDF
+N3-kanji-0242,N3,kanji,N3 Junbi Hán tự,99,無,音:ム,TITLE_IN_PDF
+N3-kanji-0243,N3,kanji,N3 Junbi Hán tự,99,然,音:ゼン,TITLE_IN_PDF
+N3-kanji-0244,N3,kanji,N3 Junbi Hán tự,100,燃,音:ネン / 訓:がもーえる,TITLE_IN_PDF
+N3-kanji-0245,N3,kanji,N3 Junbi Hán tự,100,熱,音:ネツ / 訓:あつ・い,TITLE_IN_PDF
+N3-kanji-0246,N3,kanji,N3 Junbi Hán tự,100,焼,音:ショウ / 訓:や・く,TITLE_IN_PDF
+N3-kanji-0247,N3,kanji,N3 Junbi Hán tự,101,干,訓:ほ・す,TITLE_IN_PDF
+N3-kanji-0248,N3,kanji,N3 Junbi Hán tự,101,刊,音:カン,TITLE_IN_PDF
+N3-kanji-0249,N3,kanji,N3 Junbi Hán tự,101,汗,音:カン(N1) / 訓:あせ,TITLE_IN_PDF
+N3-kanji-0250,N3,kanji,N3 Junbi Hán tự,102,平,音:ヘイ / 訓:ひら・たい(N2),TITLE_IN_PDF
+N3-kanji-0251,N3,kanji,N3 Junbi Hán tự,103,欠,音:ケツ / 訓:か・く,TITLE_IN_PDF
+N3-kanji-0252,N3,kanji,N3 Junbi Hán tự,104,次,音:ジ / 訓:つ・ぐ,TITLE_IN_PDF
+N3-kanji-0253,N3,kanji,N3 Junbi Hán tự,104,姿,音:シ / 訓:すがた,TITLE_IN_PDF
+N3-kanji-0254,N3,kanji,N3 Junbi Hán tự,104,欲,音:ヨク / 訓:ほ・しい,TITLE_IN_PDF
+N3-kanji-0255,N3,kanji,N3 Junbi Hán tự,105,吹,訓:ふ・く,TITLE_IN_PDF
+N3-kanji-0256,N3,kanji,N3 Junbi Hán tự,105,頭,音:トウ / 訓:あたま,TITLE_IN_PDF
+N3-kanji-0257,N3,kanji,N3 Junbi Hán tự,105,順,音:ジュン,TITLE_IN_PDF
+N3-kanji-0258,N3,kanji,N3 Junbi Hán tự,106,願,音:ガン / 訓:ねが・う,TITLE_IN_PDF
+N3-kanji-0259,N3,kanji,N3 Junbi Hán tự,106,類,音:ルイ,TITLE_IN_PDF
+N3-kanji-0260,N3,kanji,N3 Junbi Hán tự,106,数,音:スウ / 訓:かず,TITLE_IN_PDF
+N3-kanji-0261,N3,kanji,N3 Junbi Hán tự,106,断,音:ダン / 訓:ことわ・る,TITLE_IN_PDF
+N3-kanji-0262,N3,kanji,N3 Junbi Hán tự,107,以,音:イ,TITLE_IN_PDF
+N3-kanji-0263,N3,kanji,N3 Junbi Hán tự,108,似,音:ジ(N2) / 訓:に・る,TITLE_IN_PDF
+N3-kanji-0264,N3,kanji,N3 Junbi Hán tự,108,建,音:ケン / 訓:をた・てる,TITLE_IN_PDF
+N3-kanji-0265,N3,kanji,N3 Junbi Hán tự,108,健,音:ケン / 訓:すこ・やか(N2),TITLE_IN_PDF
+N3-kanji-0266,N3,kanji,N3 Junbi Hán tự,109,律,音:リツ,TITLE_IN_PDF
+N3-kanji-0267,N3,kanji,N3 Junbi Hán tự,109,卒,音:ソツ,TITLE_IN_PDF
+N3-kanji-0268,N3,kanji,N3 Junbi Hán tự,109,式,音:シキ,TITLE_IN_PDF
+N3-kanji-0269,N3,kanji,N3 Junbi Hán tự,109,未,音:ミ,TITLE_IN_PDF
+N3-kanji-0270,N3,kanji,N3 Junbi Hán tự,110,夫,音:フ/フウ / 訓:おっと,TITLE_IN_PDF
+N3-kanji-0271,N3,kanji,N3 Junbi Hán tự,110,失,音:シツ / 訓:うしな・う,TITLE_IN_PDF
+N3-kanji-0272,N3,kanji,N3 Junbi Hán tự,111,連,音:レン / 訓:つ・れる,TITLE_IN_PDF
+N3-kanji-0273,N3,kanji,N3 Junbi Hán tự,112,運,音:ウン / 訓:はこ・ぶ,TITLE_IN_PDF
+N3-kanji-0274,N3,kanji,N3 Junbi Hán tự,112,軍,音:グン,TITLE_IN_PDF
+N3-kanji-0275,N3,kanji,N3 Junbi Hán tự,112,庫,音:コ,TITLE_IN_PDF
+N3-kanji-0276,N3,kanji,N3 Junbi Hán tự,113,軽,音:ケイ / 訓:かる・い,TITLE_IN_PDF
+N3-kanji-0277,N3,kanji,N3 Junbi Hán tự,113,輸,音:ユ,TITLE_IN_PDF
+N3-kanji-0278,N3,kanji,N3 Junbi Hán tự,113,乗,音:ジョウ / 訓:の・る,TITLE_IN_PDF
+N3-kanji-0279,N3,kanji,N3 Junbi Hán tự,114,郵,音:ユウ,TITLE_IN_PDF
+N3-kanji-0280,N3,kanji,N3 Junbi Hán tự,114,身,音:シン / 訓:み,TITLE_IN_PDF
+N3-kanji-0281,N3,kanji,N3 Junbi Hán tự,114,生,音:セイ / 訓:い・きる,TITLE_IN_PDF
+N3-kanji-0282,N3,kanji,N3 Junbi Hán tự,115,検,音:ケン,TITLE_IN_PDF
+N3-kanji-0283,N3,kanji,N3 Junbi Hán tự,116,険,音:ケン / 訓:けわ・しい,TITLE_IN_PDF
+N3-kanji-0284,N3,kanji,N3 Junbi Hán tự,116,案,音:アン,TITLE_IN_PDF
+N3-kanji-0285,N3,kanji,N3 Junbi Hán tự,116,室,音:シツ,TITLE_IN_PDF
+N3-kanji-0286,N3,kanji,N3 Junbi Hán tự,117,屋,音:オク / 訓:や,TITLE_IN_PDF
+N3-kanji-0287,N3,kanji,N3 Junbi Hán tự,117,角,音:カク / 訓:かど,TITLE_IN_PDF
+N3-kanji-0288,N3,kanji,N3 Junbi Hán tự,117,触,音:ショク / 訓:ふ・れる,TITLE_IN_PDF
+N3-kanji-0289,N3,kanji,N3 Junbi Hán tự,118,解,音:カイ / 訓:と・く,TITLE_IN_PDF
+N3-kanji-0290,N3,kanji,N3 Junbi Hán tự,118,苦,音:ク / 訓:くる・しい,TITLE_IN_PDF
+N3-kanji-0291,N3,kanji,N3 Junbi Hán tự,118,葉,音:ヨウ / 訓:は,TITLE_IN_PDF
+N3-kanji-0292,N3,kanji,N3 Junbi Hán tự,119,兆,音:チョウ / 訓:きざ・し,TITLE_IN_PDF
+N3-kanji-0293,N3,kanji,N3 Junbi Hán tự,120,逃,音:トウ / 訓:に・げる,TITLE_IN_PDF
+N3-kanji-0294,N3,kanji,N3 Junbi Hán tự,120,求,音:キュウ / 訓:もと・める,TITLE_IN_PDF
+N3-kanji-0295,N3,kanji,N3 Junbi Hán tự,121,球,音:キュウ / 訓:たま,TITLE_IN_PDF
+N3-kanji-0296,N3,kanji,N3 Junbi Hán tự,121,象,音:ショウ,TITLE_IN_PDF
+N3-kanji-0297,N3,kanji,N3 Junbi Hán tự,122,像,音:ゾウ,TITLE_IN_PDF
+N3-kanji-0298,N3,kanji,N3 Junbi Hán tự,122,部,音:ブ / 訓:へ,TITLE_IN_PDF
+N3-kanji-0299,N3,kanji,N3 Junbi Hán tự,122,都,音:ト / 訓:みやこ (N1),TITLE_IN_PDF
+N3-kanji-0300,N3,kanji,N3 Junbi Hán tự,123,婦,音:フ,TITLE_IN_PDF
+N3-kanji-0301,N3,kanji,N3 Junbi Hán tự,123,婚,音:コン,TITLE_IN_PDF
+N3-kanji-0302,N3,kanji,N3 Junbi Hán tự,124,初,音:ショ / 訓:はじ・める,TITLE_IN_PDF
+N3-kanji-0303,N3,kanji,N3 Junbi Hán tự,124,券,音:ケン,TITLE_IN_PDF
+N3-kanji-0304,N3,kanji,N3 Junbi Hán tự,125,測,音:ソク / 訓:はか・る,TITLE_IN_PDF
+N3-kanji-0305,N3,kanji,N3 Junbi Hán tự,125,側,音:ソク / 訓:かわ,TITLE_IN_PDF
+N3-kanji-0306,N3,kanji,N3 Junbi Hán tự,125,割,訓:わ・る,TITLE_IN_PDF
+N3-kanji-0307,N3,kanji,N3 Junbi Hán tự,126,型,音:ケイ / 訓:かた,TITLE_IN_PDF
+N3-kanji-0308,N3,kanji,N3 Junbi Hán tự,126,刻,音:コク / 訓:きざ・む,TITLE_IN_PDF
+N3-kanji-0309,N3,kanji,N3 Junbi Hán tự,126,制,音:セイ,TITLE_IN_PDF
+N3-kanji-0310,N3,kanji,N3 Junbi Hán tự,127,製,音:セイ,TITLE_IN_PDF
+N3-kanji-0311,N3,kanji,N3 Junbi Hán tự,127,到,音:トウ / 訓:いた・る(N2),TITLE_IN_PDF
+N3-kanji-0312,N3,kanji,N3 Junbi Hán tự,127,倒,音:トウ / 訓:たお・れる,TITLE_IN_PDF
+N3-kanji-0313,N3,kanji,N3 Junbi Hán tự,128,予,音:ヨ / 訓:あらかじ・め(N2),TITLE_IN_PDF
+N3-kanji-0314,N3,kanji,N3 Junbi Hán tự,129,預,音:ヨ / 訓:あず・ける,TITLE_IN_PDF
+N3-kanji-0315,N3,kanji,N3 Junbi Hán tự,129,例,音:レイ / 訓:たと・える,TITLE_IN_PDF
+N3-kanji-0316,N3,kanji,N3 Junbi Hán tự,129,残,音:ザン / 訓:がのこ・る,TITLE_IN_PDF
+N3-kanji-0317,N3,kanji,N3 Junbi Hán tự,130,独,音:ドク,TITLE_IN_PDF
+N3-kanji-0318,N3,kanji,N3 Junbi Hán tự,130,各,音:カク / 訓:おのおの (N2),TITLE_IN_PDF
+N3-kanji-0319,N3,kanji,N3 Junbi Hán tự,130,格,音:カク,TITLE_IN_PDF
+N3-kanji-0320,N3,kanji,N3 Junbi Hán tự,131,落,音:ラク / 訓:お・ちる,TITLE_IN_PDF
+N3-kanji-0321,N3,kanji,N3 Junbi Hán tự,131,路,音:ロ,TITLE_IN_PDF
+N3-kanji-0322,N3,kanji,N3 Junbi Hán tự,132,祝,音:シュク / 訓:(を)いわ・う,TITLE_IN_PDF
+N3-kanji-0323,N3,kanji,N3 Junbi Hán tự,133,福,音:フク,TITLE_IN_PDF
+N3-kanji-0324,N3,kanji,N3 Junbi Hán tự,133,礼,音:レイ,TITLE_IN_PDF
+N3-kanji-0325,N3,kanji,N3 Junbi Hán tự,133,神,音:シン / 訓:かみ,TITLE_IN_PDF
+N3-kanji-0326,N3,kanji,N3 Junbi Hán tự,134,単,音:タン,TITLE_IN_PDF
+N3-kanji-0327,N3,kanji,N3 Junbi Hán tự,134,常,音:ジョウ / 訓:つね,TITLE_IN_PDF
+N3-kanji-0328,N3,kanji,N3 Junbi Hán tự,134,営,音:エイ / 訓:いとな・む(N2),TITLE_IN_PDF
+N3-kanji-0329,N3,kanji,N3 Junbi Hán tự,135,示,音:ジ / 訓:しめ・す(N2),TITLE_IN_PDF
+N3-kanji-0330,N3,kanji,N3 Junbi Hán tự,135,祭,音:サイ / 訓:まつ・り,TITLE_IN_PDF
+N3-kanji-0331,N3,kanji,N3 Junbi Hán tự,135,察,音:サツ,TITLE_IN_PDF
+N3-kanji-0332,N3,kanji,N3 Junbi Hán tự,136,禁,音:キン,TITLE_IN_PDF
+N3-kanji-0333,N3,kanji,N3 Junbi Hán tự,136,表,音:ヒョウ / 訓:あらわ・す,TITLE_IN_PDF
+N3-kanji-0334,N3,kanji,N3 Junbi Hán tự,137,由,音:ユ,TITLE_IN_PDF
+N3-kanji-0335,N3,kanji,N3 Junbi Hán tự,137,申,音:シン / 訓:もう・す,TITLE_IN_PDF
+N3-kanji-0336,N3,kanji,N3 Junbi Hán tự,138,留,音:リュウ/ル,TITLE_IN_PDF
+N3-kanji-0337,N3,kanji,N3 Junbi Hán tự,138,番,音:バン / 訓:つが・い,TITLE_IN_PDF
+N3-kanji-0338,N3,kanji,N3 Junbi Hán tự,138,理,音:リ,TITLE_IN_PDF
+N3-kanji-0339,N3,kanji,N3 Junbi Hán tự,139,面,音:メン / 訓:おも,TITLE_IN_PDF
+N3-kanji-0340,N3,kanji,N3 Junbi Hán tự,139,可,音:カ,TITLE_IN_PDF
+N3-kanji-0341,N3,kanji,N3 Junbi Hán tự,139,包,音:ホウ / 訓:つつ・む,TITLE_IN_PDF
+N3-kanji-0342,N3,kanji,N3 Junbi Hán tự,140,商,音:ショウ / 訓:あきな・う,TITLE_IN_PDF
+N3-kanji-0343,N3,kanji,N3 Junbi Hán tự,140,章,音:ショウ,TITLE_IN_PDF
+N3-kanji-0344,N3,kanji,N3 Junbi Hán tự,140,整,音:セイ / 訓:ととの・える(N2),TITLE_IN_PDF
+N3-kanji-0345,N3,kanji,N3 Junbi Hán tự,141,算,音:サン,TITLE_IN_PDF
+N3-kanji-0346,N3,kanji,N3 Junbi Hán tự,142,等,音:トウ / 訓:など,TITLE_IN_PDF
+N3-kanji-0347,N3,kanji,N3 Junbi Hán tự,142,命,音:メイ / 訓:いのち,TITLE_IN_PDF
+N3-kanji-0348,N3,kanji,N3 Junbi Hán tự,142,令,音:レイ,TITLE_IN_PDF
+N3-kanji-0349,N3,kanji,N3 Junbi Hán tự,143,冷,音:レイ / 訓:つめ・たい,TITLE_IN_PDF
+N3-kanji-0350,N3,kanji,N3 Junbi Hán tự,143,要,音:ヨウ / 訓:い・る,TITLE_IN_PDF
+N3-kanji-0351,N3,kanji,N3 Junbi Hán tự,143,煙,音:エン / 訓:けむり,TITLE_IN_PDF
+N3-kanji-0352,N3,kanji,N3 Junbi Hán tự,144,伝,音:デン / 訓:つた・わる,TITLE_IN_PDF
+N3-kanji-0353,N3,kanji,N3 Junbi Hán tự,144,転,音:テン / 訓:(で)ころ・ぶ,TITLE_IN_PDF
+N3-kanji-0354,N3,kanji,N3 Junbi Hán tự,144,芸,音:ゲイ,TITLE_IN_PDF
+N3-kanji-0355,N3,kanji,N3 Junbi Hán tự,145,最,音:サイ / 訓:もっと・も,TITLE_IN_PDF
+N3-kanji-0356,N3,kanji,N3 Junbi Hán tự,146,撮,音:サツ / 訓:と・る,TITLE_IN_PDF
+N3-kanji-0357,N3,kanji,N3 Junbi Hán tự,146,具,音:グ,TITLE_IN_PDF
+N3-kanji-0358,N3,kanji,N3 Junbi Hán tự,146,共,音:キョウ / 訓:とも,TITLE_IN_PDF
+N3-kanji-0359,N3,kanji,N3 Junbi Hán tự,147,期,音:キ,TITLE_IN_PDF
+N3-kanji-0360,N3,kanji,N3 Junbi Hán tự,147,岩,音:ガン / 訓:いわ,TITLE_IN_PDF
+N3-kanji-0361,N3,kanji,N3 Junbi Hán tự,147,張,音:チョウ / 訓:は・る,TITLE_IN_PDF
+N3-kanji-0362,N3,kanji,N3 Junbi Hán tự,148,疑,音:ギ / 訓:うたが・う,TITLE_IN_PDF
+N3-kanji-0363,N3,kanji,N3 Junbi Hán tự,148,飛,音:ヒ / 訓:と・ぶ,TITLE_IN_PDF
+N3-kanji-0364,N3,kanji,N3 Junbi Hán tự,148,器,音:キ / 訓:うつわ,TITLE_IN_PDF
