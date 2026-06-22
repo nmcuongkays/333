@@ -1,11 +1,11 @@
-# Nihongo Memory Coach - Mazii selection fixed
+# Nihongo Memory Coach - Dark UI & Confusion Tab Fix
 
-Bản này bám theo file index.html người dùng đính kèm và khôi phục chức năng bôi đen chữ Nhật để hiện nút/nút nổi mở Mazii.
+Bản này bám theo file index hiện tại, giữ nguyên các tính năng cũ và sửa/nâng cấp:
 
-Cách dùng:
-1. Upload `index.html` lên GitHub Pages, ghi đè file cũ.
-2. Trên iPhone, mở lại trang và refresh.
-3. Bôi đen một từ/cụm tiếng Nhật. Nút `🔍 Mở Mazii` sẽ hiện ở góc dưới.
-4. Bấm nút đó để mở app Mazii. Không tự fallback sang Mazii web.
+- Sửa lỗi giao diện tối: các nút xám không bị mất chữ nữa.
+- Giữ Mazii app-only và chức năng bôi đen chữ để mở Mazii.
+- Tối ưu tab Dễ nhầm: chia nhóm cặp quan trọng, cùng cách đọc, cùng Kanji đầu.
+- Mỗi nhóm có nghĩa ngắn, mẹo phân biệt, nút Học nhóm và Quiz nhóm.
+- Quiz nhóm dễ nhầm ưu tiên hỏi trong nhóm nhưng vẫn có đủ đáp án nhiễu sạch.
 
-Nếu iPhone vẫn thấy giao diện cũ, hãy đóng Safari tab cũ và mở lại URL GitHub Pages, hoặc xóa cache trang.
+Upload `index.html` lên GitHub Pages để dùng.

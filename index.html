@@ -8,7 +8,7 @@
   <meta name="apple-mobile-web-app-title" content="Nihongo Coach" />
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <meta name="format-detection" content="telephone=no" />
-  <title>Nihongo Memory Coach - Mazii Selection Fixed</title>
+  <title>Nihongo Memory Coach - Stable + Mazii Fixed</title>
   <style>
 :root{
   --bg:#f5f7fb; --panel:#ffffff; --ink:#1f2937; --muted:#6b7280;
@@ -202,6 +202,55 @@ input,select,textarea{min-height:44px}
 .mazii-fab.show{display:inline-flex}
 .mazii-note{font-size:13px;color:var(--muted);margin-top:8px}
 @media(max-width:480px){.mazii-menu{left:10px!important;right:10px!important;top:auto!important;bottom:calc(72px + env(safe-area-inset-bottom));max-width:none}.mazii-menu-word{font-size:22px}}
+
+.quiz-feedback-card{margin-top:12px;border:1px solid var(--line);border-radius:14px;padding:12px;background:rgba(15,159,143,.07)}
+.quiz-feedback-card.wrong{background:rgba(239,68,68,.08)}
+.quiz-feedback-title{font-weight:900;margin-bottom:6px}
+.quiz-answer-detail{display:grid;gap:4px;font-size:calc(15px * var(--learn-font-scale));line-height:1.55}
+.quiz-answer-detail .jp-mini{font-size:calc(24px * var(--learn-font-scale));font-weight:900;font-family:"Noto Sans JP","Yu Gothic",system-ui,sans-serif}
+
+
+/* Dark mode contrast fix + improved confusion tab */
+button{color:#1f2937;}
+button.primary,button.success,button.danger,.primary,.success,.danger{color:#fff;}
+button.ghost{color:inherit;}
+[data-theme="dark"] button:not(.primary):not(.success):not(.danger):not(.ghost):not(.nav):not(.quiz-option):not(.lookup-word):not(.mazii-fab){
+  background:#1f2937;color:var(--ink);border:1px solid var(--line);
+}
+[data-theme="dark"] .toolbar button:not(.primary):not(.success):not(.danger):not(.ghost){background:#1f2937;color:var(--ink);border:1px solid var(--line)}
+[data-theme="dark"] .quiz-option{color:var(--ink);background:var(--panel);}
+[data-theme="dark"] .quiz-option.correct{background:rgba(22,163,74,.22);color:var(--ink)}
+[data-theme="dark"] .quiz-option.wrong{background:rgba(239,68,68,.22);color:var(--ink)}
+[data-theme="dark"] .ghost{color:var(--ink);border-color:var(--line)}
+[data-theme="dark"] .app-header .ghost{color:#fff;border-color:rgba(255,255,255,.45)}
+[data-theme="dark"] .pdf-label{color:var(--ink)}
+[data-theme="dark"] .pdf-hv{color:#cbd5e1}
+[data-theme="dark"] .pdf-line.example{background:rgba(16,185,129,.12)}
+[data-theme="dark"] .pdf-line.point{background:rgba(245,158,11,.12)}
+[data-theme="dark"] .pdf-line.usage{background:rgba(99,102,241,.16)}
+[data-theme="dark"] .pdf-line.related{background:rgba(20,184,166,.12)}
+[data-theme="dark"] .pdf-buoi:before{background:rgba(16,185,129,.15);color:#5eead4;border-color:rgba(94,234,212,.25)}
+.confusion-intro{display:grid;gap:10px;margin:12px 0 14px}
+.confusion-summary{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.confusion-summary .stat-mini{border:1px solid var(--line);border-radius:14px;padding:10px 12px;background:rgba(148,163,184,.08)}
+.confusion-summary .stat-mini b{display:block;font-size:22px;line-height:1.1}.confusion-summary .stat-mini span{font-size:12px;color:var(--muted)}
+.confusion-filter{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:8px 0 14px}
+.confusion-filter select{padding:10px 12px;border:1px solid var(--line);border-radius:12px;background:var(--panel);min-height:44px}
+.confusion-group{position:relative;overflow:hidden}
+.confusion-group.manual{border-left:5px solid var(--primary)}
+.confusion-group.reading{border-left:5px solid #8b5cf6}
+.confusion-group.kanji{border-left:5px solid var(--warn)}
+.confusion-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:10px}
+.confusion-heading{min-width:0}.confusion-badge{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);border-radius:999px;padding:3px 9px;font-size:12px;font-weight:850;color:var(--muted);background:rgba(148,163,184,.08);margin-bottom:6px}
+.confusion-heading b{display:block;font-size:20px;line-height:1.25}.confusion-note{margin:4px 0 0;color:var(--muted);font-size:13px}
+.confusion-actions{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}.confusion-actions button{white-space:nowrap}
+.confusion-card-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin-top:10px}
+.confusion-item{border:1px solid var(--line);border-radius:14px;padding:11px 12px;background:rgba(148,163,184,.06)}
+.confusion-jp{font-family:"Noto Sans JP","Yu Gothic",system-ui,sans-serif;font-size:28px;font-weight:950;line-height:1.15}.confusion-reading{font-size:13px;color:var(--primary);font-weight:850;margin-top:2px}.confusion-meaning{font-size:13px;color:var(--ink);margin-top:6px;line-height:1.45}
+.confusion-tip{margin-top:10px;border:1px dashed var(--line);border-radius:12px;padding:9px 10px;background:rgba(15,159,143,.06);font-size:13px;color:var(--muted)}
+.confusion-tip b{color:var(--ink)}
+[data-theme="dark"] .confusion-item{background:rgba(148,163,184,.09)}
+@media(max-width:760px){.confusion-summary{grid-template-columns:repeat(2,minmax(0,1fr))}.confusion-head{flex-direction:column}.confusion-actions{width:100%;display:grid;grid-template-columns:1fr 1fr}.confusion-actions button{width:100%}.confusion-card-grid{grid-template-columns:1fr}.confusion-jp{font-size:30px}}
 
 </style>
 </head>
@@ -498,7 +547,7 @@ function makeSearchText(c){ return [c.title,c.reading,c.hanviet,c.meaning_vi,c.r
 function bindShell(){
   $all('.nav').forEach(btn => btn.addEventListener('click', () => {
     app.view = btn.dataset.view;
-    if(app.view !== 'quiz') app.quizForcedDeck = null;
+    if(app.view !== 'quiz'){ app.quizForcedDeck = null; app.quizQuestionDeck = null; }
     app.page = 1;
     $all('.nav').forEach(b=>b.classList.remove('active'));
     btn.classList.add('active');
@@ -699,6 +748,7 @@ function renderDashboard(){
       <div class="toolbar">
         <button id="startReview">Chỉ review (${f.due})</button>
         <button id="startNew">Chỉ học mới ${Math.min(t.remainingNew || app.state.settings.newPerDay, app.state.settings.sessionSize || 25)} thẻ</button>
+        <button id="startSetup">Tạo phiên theo thiết lập</button>
         <button id="goQuiz">Quiz nhanh</button>
         <button id="goDrive">Drive Mode</button>
       </div>
@@ -712,6 +762,7 @@ function renderDashboard(){
   $('#startSmartToday').onclick=()=>{ app.view='study'; activateNav('study'); renderStudy(); startSmartStudy(); };
   $('#startReview').onclick=()=>{ app.view='study'; activateNav('study'); renderStudy(); startStudy('review', {limit: app.state.settings.sessionSize || 25}); };
   $('#startNew').onclick=()=>{ app.view='study'; activateNav('study'); renderStudy(); startTodayGoalSession(); };
+  $('#startSetup').onclick=()=>{ app.view='study'; activateNav('study'); renderStudy(); startStudyFromSetup(); };
   $('#goQuiz').onclick=()=>{ app.view='quiz'; activateNav('quiz'); renderQuiz(); };
   $('#goDrive').onclick=()=>{ app.view='drive'; activateNav('drive'); renderDrive(); };
   const b=$('#backupNow'); if(b) b.onclick=()=>{ app.state.lastBackupAt=Date.now(); saveState(); exportProgress(); };
@@ -1073,7 +1124,8 @@ function nextQuiz(){
   const mode=$('#quizMode')?.value || 'jp_to_meaning';
   const baseDeck=(app.quizForcedDeck && app.quizForcedDeck.length ? app.quizForcedDeck : filteredCards());
   const deck=baseDeck.filter(c=>quizValidCard(c, mode)).slice();
-  const built=buildQuizQuestion(deck, mode);
+  const questionDeck=(app.quizQuestionDeck && app.quizQuestionDeck.length) ? app.quizQuestionDeck : deck;
+  const built=buildQuizQuestion(deck, mode, questionDeck);
   if(!built){
     $('#quizArea').innerHTML='<div class="warning">Chưa đủ 4 đáp án sạch và cùng nhóm để tạo quiz. Hãy đổi bộ lọc, đổi kiểu câu hỏi, hoặc chọn riêng N2/N3 - từ vựng/Kanji.</div>';
     return;
@@ -1143,10 +1195,11 @@ function pickDistractors(card, deck, mode, answer){
   }
   return out;
 }
-function buildQuizQuestion(deck, mode){
+function buildQuizQuestion(deck, mode, questionDeck=deck){
   const valid=deck.filter(c=>quizValidCard(c, mode));
-  if(valid.length<4) return null;
-  for(const card of shuffle(valid)){
+  const qValid=questionDeck.filter(c=>quizValidCard(c, mode));
+  if(valid.length<4 || qValid.length<1) return null;
+  for(const card of shuffle(qValid)){
     const answer=normQuizText(quizAnswer(card, mode));
     const distractors=pickDistractors(card, valid, mode, answer);
     if(distractors.length>=3) return {card, mode, answer, options:shuffle([answer, ...distractors.slice(0,3)])};
@@ -1306,52 +1359,128 @@ function renderMistakes(){
 }
 
 
-function similarityKey(c){
-  const r=String(c.reading||'').replace(/音[:：]|訓[:：]|\s|\/.*$/g,'').trim();
-  if(r) return 'read:'+r;
-  return '';
+
+function normalizedReading(c){
+  return String(c.reading||'').replace(/音[:：]|訓[:：]/g,'').replace(/[\s、，,／/].*$/,'').trim();
 }
-function manualConfusionGroups(){
-  const pairs=[['機械','機会'],['改善','改正'],['解消','回復'],['以内','以外'],['以上','以下'],['預かる','預ける'],['決まる','決める'],['倒れる','倒す'],['起きる','起こす'],['見つかる','見つける'],['捕まる','捕まえる'],['乗る','乗せる'],['写る','写す']];
-  const groups=[];
-  for(const pair of pairs){
-    const cards=pair.map(w=>app.cards.find(c=>c.title===w)).filter(Boolean);
-    if(cards.length>=2) groups.push({key:'manual:'+pair.join('/'), label:pair.join(' / '), cards});
-  }
-  return groups;
+function uniqueCards(cards){
+  const seen=new Set(), out=[];
+  for(const c of cards||[]){ if(!c || seen.has(c.id)) continue; seen.add(c.id); out.push(c); }
+  return out;
 }
-function confusionGroups(){
+function titleMap(){
+  const m=new Map();
+  for(const c of app.cards){ if(!m.has(c.title)) m.set(c.title, c); }
+  return m;
+}
+function cardMeaningShort(c, max=54){ return compactText(c.meaning_vi || c.hanviet || 'chưa có nghĩa ngắn', max); }
+function confusionTip(cards){ return uniqueCards(cards).map(c=>`${esc(c.title)}＝${esc(cardMeaningShort(c,38))}`).join(' ／ '); }
+function addConfusionGroup(out, cfg, allowed){
+  const tm=titleMap();
+  let cards=(cfg.words||[]).map(w=>tm.get(w)).filter(Boolean);
+  if(allowed) cards=cards.filter(c=>allowed.has(c.id));
+  cards=uniqueCards(cards);
+  if(cards.length<2) return;
+  out.push({key:cfg.key || 'manual:'+cards.map(c=>c.title).join('/'), type:cfg.type || 'manual', label:cfg.label || cards.map(c=>c.title).join(' / '), note:cfg.note || 'Nhóm/cặp thường dễ nhầm. Hãy nhớ bằng nghĩa, chữ Kanji và ví dụ.', cards, priority:cfg.priority || 100});
+}
+function manualConfusionGroups(allowed){
+  const out=[];
+  const groups=[
+    {words:['機械','機会'], note:'Cùng đọc きかい: 機械 = máy móc, 機会 = cơ hội/thời cơ.', priority:1},
+    {words:['避難','非難','批判'], note:'ひなん dễ nhầm: 避難 = sơ tán, 非難/批判 = chỉ trích/phê phán.', priority:2},
+    {words:['改善','改正','改造','改訂'], note:'Cùng chữ 改. 改善 = cải thiện, 改正 = sửa luật/quy định, 改造 = cải tạo, 改訂 = sửa bản in/tài liệu.', priority:3},
+    {words:['解消','回復','解散','解約','解放'], note:'Các từ có cảm giác “giải/xóa/khôi phục” nhưng dùng trong tình huống khác nhau.', priority:4},
+    {words:['上昇','向上','上達','増大','増加'], note:'Đều liên quan tăng lên. 上昇 = tăng cao, 向上 = nâng cao, 上達 = giỏi lên, 増大/増加 = tăng số lượng/quy mô.', priority:5},
+    {words:['提示','提供','提案'], note:'Cùng chữ 提. 提示 = xuất trình/đưa ra cho xem, 提供 = cung cấp, 提案 = đề xuất.', priority:6},
+    {words:['予想','予測','予報'], note:'予想 = dự đoán cá nhân, 予測 = dự đoán dựa dữ liệu, 予報 = dự báo như thời tiết.', priority:7},
+    {words:['評判','評価','批評','批判'], note:'評判 = tiếng/đánh giá xã hội, 評価 = đánh giá giá trị, 批評 = bình luận, 批判 = phê phán.', priority:8},
+    {words:['外見','容姿','格好','特徴','特色'], note:'Đều mô tả vẻ ngoài/đặc điểm. Nên nhớ bằng tình huống dùng.', priority:9},
+    {words:['範囲','分野','区分','分別','分類'], note:'範囲 = phạm vi, 分野 = lĩnh vực, 区分/分類/分別 = phân chia/phân loại.', priority:10},
+    {words:['対応','対比','対等'], note:'Cùng chữ 対. 対応 = xử lý/ứng phó, 対比 = so sánh đối chiếu, 対等 = ngang hàng.', priority:11},
+    {words:['信頼','信用','信仰'], note:'Cùng 信. 信頼 = tin cậy chủ quan, 信用 = tín nhiệm có căn cứ, 信仰 = tín ngưỡng.', priority:12},
+    {words:['体格','体型'], note:'体格 = khung xương/cơ bắp vóc người, 体型 = dáng người mập/gầy.', priority:13},
+    {words:['点検','整備','修理'], note:'点検 = kiểm tra, 整備 = bảo dưỡng/chỉnh sẵn dùng, 修理 = sửa chỗ hỏng.', priority:14},
+    {words:['以内','以外','以上','以下'], note:'Cặp giới hạn JLPT: 以内 trong phạm vi, 以外 ngoài ra, 以上 từ mức đó trở lên, 以下 từ mức đó trở xuống.', priority:15},
+    {words:['預かる','預ける'], note:'Tự động/tác động: 預かる = nhận giữ, 預ける = gửi nhờ giữ.', priority:16},
+    {words:['決まる','決める'], note:'Tự động/tác động: 決まる = được quyết định, 決める = quyết định.', priority:17},
+    {words:['倒れる','倒す'], note:'Tự động/tác động: 倒れる = đổ/ngã, 倒す = làm đổ/đánh bại.', priority:18},
+    {words:['起きる','起こす'], note:'Tự động/tác động: 起きる = thức dậy/xảy ra, 起こす = đánh thức/gây ra.', priority:19},
+    {words:['見つかる','見つける'], note:'Tự động/tác động: 見つかる = được tìm thấy, 見つける = tìm thấy.', priority:20},
+    {words:['捕まる','捕まえる'], note:'Tự động/tác động: 捕まる = bị bắt/được bắt, 捕まえる = bắt.', priority:21},
+    {words:['乗る','乗せる'], note:'Tự động/tác động: 乗る = lên xe/cưỡi, 乗せる = cho lên xe/chở.', priority:22},
+    {words:['写る','写す'], note:'Tự động/tác động: 写る = hiện trong ảnh, 写す = chụp/sao chép.', priority:23}
+  ];
+  groups.forEach(g=>addConfusionGroup(out, {...g,type:'manual'}, allowed));
+  return out;
+}
+function sameReadingGroups(baseCards){
   const map=new Map();
-  for(const c of filteredCards()){
-    const key=similarityKey(c);
-    if(!key) continue;
-    if(!map.has(key)) map.set(key, []);
-    map.get(key).push(c);
+  for(const c of baseCards){
+    const r=normalizedReading(c); if(!r || r.length<2) continue;
+    if(!map.has(r)) map.set(r, []); map.get(r).push(c);
   }
-  const auto=[...map.entries()].filter(([k,v])=>v.length>=2).map(([k,cards])=>({key:k,label:k.replace('read:','同じ読み: '),cards:cards.slice(0,8)}));
-  const manual=manualConfusionGroups().filter(g=>g.cards.some(c=>filteredCards().includes(c)));
-  const seen=new Set();
-  return [...manual,...auto].filter(g=>{ const sig=g.cards.map(c=>c.id).sort().join('|'); if(seen.has(sig)) return false; seen.add(sig); return true; }).slice(0,80);
+  const out=[];
+  for(const [r,cards] of map.entries()){
+    const uniqByTitle=[], seenTitle=new Set();
+    for(const c of uniqueCards(cards)){ if(seenTitle.has(c.title)) continue; seenTitle.add(c.title); uniqByTitle.push(c); }
+    if(uniqByTitle.length>=2) out.push({key:'read:'+r,type:'reading',label:`同じ読み「${r}」`,note:`Cùng cách đọc ${r}. Nên phân biệt bằng Kanji và nghĩa tiếng Việt.`,cards:uniqByTitle.slice(0,8),priority:200});
+  }
+  return out;
+}
+function sameKanjiHeadGroups(baseCards){
+  const useful=new Set(['改','解','予','対','視','定','移','収','発','上','増','選','特','信','支','評','避','非','批','効','提','分','修','保']);
+  const map=new Map();
+  for(const c of baseCards){
+    if(c.kind!=='vocab') continue;
+    const m=String(c.title||'').match(/^[一-龯々]/); if(!m || !useful.has(m[0])) continue;
+    if(!map.has(m[0])) map.set(m[0], []); map.get(m[0]).push(c);
+  }
+  const out=[];
+  for(const [k,cards] of map.entries()){
+    const uniq=[], seen=new Set();
+    for(const c of uniqueCards(cards).sort((a,b)=>(a.global_number||0)-(b.global_number||0))){ if(seen.has(c.title)) continue; seen.add(c.title); uniq.push(c); }
+    if(uniq.length>=3) out.push({key:'kanji:'+k,type:'kanji',label:`Cùng chữ đầu「${k}」`,note:`Các từ cùng chữ ${k} dễ nhìn giống nhau. Hãy nhớ chữ thứ hai và tình huống dùng.`,cards:uniq.slice(0,8),priority:300});
+  }
+  return out;
+}
+function selectedConfusionType(){ return $('#confusionType')?.value || 'all'; }
+function confusionGroups(){
+  const base=filteredCards(), allowed=new Set(base.map(c=>c.id)), seen=new Set();
+  let groups=[...manualConfusionGroups(allowed), ...sameReadingGroups(base), ...sameKanjiHeadGroups(base)].filter(g=>g.cards.length>=2).sort((a,b)=>(a.priority||999)-(b.priority||999));
+  groups=groups.filter(g=>{ const sig=g.cards.map(c=>c.title).sort().join('|') + ':' + g.type; if(seen.has(sig)) return false; seen.add(sig); return true; });
+  const type=selectedConfusionType(); if(type!=='all') groups=groups.filter(g=>g.type===type);
+  return groups.slice(0,100);
+}
+function confusionTypeLabel(type){ return {manual:'cặp quan trọng',reading:'cùng cách đọc',kanji:'cùng Kanji đầu'}[type] || 'dễ nhầm'; }
+function renderConfusionGroup(g){
+  return `<div class="confusion-group ${esc(g.type)}"><div class="confusion-head"><div class="confusion-heading"><span class="confusion-badge">${esc(confusionTypeLabel(g.type))}</span><b>${esc(g.label)}</b><p class="confusion-note">${esc(g.note)}</p></div><div class="confusion-actions"><button class="primary" data-confuse-quiz="${attr(g.key)}">Quiz nhóm</button><button data-confuse="${attr(g.key)}">Học nhóm</button></div></div><div class="confusion-card-grid">${g.cards.map(c=>`<div class="confusion-item"><div class="confusion-jp" data-lookup="${attr(c.title)}">${esc(c.title)}</div>${c.reading?`<div class="confusion-reading">${esc(c.reading)}</div>`:''}<div class="confusion-meaning">${esc(cardMeaningShort(c,72))}</div></div>`).join('')}</div><div class="confusion-tip"><b>Mẹo nhớ nhanh:</b> ${confusionTip(g.cards)}</div></div>`;
 }
 function renderConfusions(){
   const groups=confusionGroups();
-  $('#view').innerHTML=`<section class="panel">
-    <h2>Từ dễ nhầm</h2>
-    <p class="muted">App tự gom các từ cùng cách đọc hoặc các cặp dễ nhầm. Dùng phần này để luyện phân biệt, đặc biệt hữu ích cho JLPT.</p>
-    <div class="toolbar"><button id="confusionQuiz" class="primary">Quiz từ dễ nhầm</button><button id="confusionStudy">Học nhóm dễ nhầm</button></div>
-    ${groups.length?groups.map(g=>`<div class="confusion-group"><div class="confusion-title"><b>${esc(g.label)}</b><button data-confuse="${esc(g.key)}">Luyện nhóm này</button></div><div class="confusion-words">${g.cards.map(c=>`<span class="word-chip" data-lookup="${attr(c.title)}">${esc(c.title)}</span>`).join('')}</div><p class="small muted">${g.cards.map(c=>`${esc(c.title)} = ${esc(compactText(c.meaning_vi||c.hanviet||'',42))}`).join(' ／ ')}</p></div>`).join(''):'<div class="warning">Chưa tìm thấy nhóm dễ nhầm trong bộ lọc hiện tại. Hãy bỏ bộ lọc hoặc chọn tất cả.</div>'}
-  </section>`;
-  $('#confusionQuiz').onclick=()=>startConfusionQuiz();
-  $('#confusionStudy').onclick=()=>{ const deck=orderedCards(groups.flatMap(g=>g.cards)); app.view='study'; activateNav('study'); app.currentStudy={mode:'single',deck,index:0}; renderStudy(); renderStudyCard(); };
+  const base=filteredCards();
+  const allGroups=[...manualConfusionGroups(new Set(base.map(c=>c.id))), ...sameReadingGroups(base), ...sameKanjiHeadGroups(base)];
+  const counts={manual:allGroups.filter(g=>g.type==='manual').length, reading:allGroups.filter(g=>g.type==='reading').length, kanji:allGroups.filter(g=>g.type==='kanji').length};
+  $('#view').innerHTML=`<section class="panel"><h2>Từ dễ nhầm</h2><div class="confusion-intro"><p class="muted">Phần này đã được tối ưu để không chỉ liệt kê từ. App chia nhóm theo <b>cặp quan trọng</b>, <b>cùng cách đọc</b>, và <b>cùng chữ Kanji đầu</b>, kèm mẹo phân biệt nhanh.</p><div class="confusion-summary"><div class="stat-mini"><b>${counts.manual}</b><span>Cặp quan trọng</span></div><div class="stat-mini"><b>${counts.reading}</b><span>Cùng cách đọc</span></div><div class="stat-mini"><b>${counts.kanji}</b><span>Cùng Kanji đầu</span></div><div class="stat-mini"><b>${groups.length}</b><span>Đang hiển thị</span></div></div></div><div class="confusion-filter"><button id="confusionQuiz" class="primary">Quiz tất cả nhóm đang hiện</button><button id="confusionStudy">Học tất cả nhóm đang hiện</button><select id="confusionType" aria-label="Lọc nhóm dễ nhầm"><option value="all" ${selectedConfusionType()==='all'?'selected':''}>Tất cả nhóm</option><option value="manual" ${selectedConfusionType()==='manual'?'selected':''}>Chỉ cặp quan trọng</option><option value="reading" ${selectedConfusionType()==='reading'?'selected':''}>Chỉ cùng cách đọc</option><option value="kanji" ${selectedConfusionType()==='kanji'?'selected':''}>Chỉ cùng Kanji đầu</option></select></div>${groups.length?groups.map(renderConfusionGroup).join(''):'<div class="warning">Chưa tìm thấy nhóm dễ nhầm trong bộ lọc hiện tại. Hãy bỏ bộ lọc hoặc chọn tất cả.</div>'}</section>`;
+  $('#confusionType').onchange=()=>renderConfusions();
+  $('#confusionQuiz').onclick=()=>startConfusionQuiz(groups.flatMap(g=>g.cards));
+  $('#confusionStudy').onclick=()=>{ const deck=orderedCards(uniqueCards(groups.flatMap(g=>g.cards))); app.view='study'; activateNav('study'); app.currentStudy={mode:'single',deck,index:0}; renderStudy(); renderStudyCard(); };
   $all('[data-confuse]').forEach(btn=>btn.onclick=()=>{ const g=groups.find(x=>x.key===btn.dataset.confuse); if(!g) return; app.currentStudy={mode:'single',deck:orderedCards(g.cards),index:0}; app.view='study'; activateNav('study'); renderStudy(); renderStudyCard(); });
+  $all('[data-confuse-quiz]').forEach(btn=>btn.onclick=()=>{ const g=groups.find(x=>x.key===btn.dataset.confuse); if(!g) return; startConfusionQuiz(g.cards); });
 }
-function startConfusionQuiz(){
-  const deck=confusionGroups().flatMap(g=>g.cards);
-  if(deck.length<4){ alert('Chưa đủ dữ liệu để quiz nhóm dễ nhầm.'); return; }
-  app.quizForcedDeck=deck;
+function expandConfusionDeckForQuiz(focusCards){
+  const focus=uniqueCards(focusCards||confusionGroups().flatMap(g=>g.cards));
+  const pool=filteredCards().filter(c=>focus.some(f=>f.level===c.level && f.kind===c.kind));
+  return uniqueCards([...focus, ...shuffle(pool)]).slice(0,80);
+}
+function startConfusionQuiz(cards){
+  const focus=uniqueCards(cards || confusionGroups().flatMap(g=>g.cards));
+  if(focus.length<2){ alert('Chưa đủ dữ liệu để quiz nhóm dễ nhầm.'); return; }
+  app.quizQuestionDeck=focus;
+  app.quizForcedDeck=expandConfusionDeckForQuiz(focus);
   app.view='quiz'; activateNav('quiz'); renderQuiz();
   setTimeout(()=>{ const m=$('#quizMode'); if(m) m.value='jp_to_meaning'; nextQuiz(); },0);
 }
+
 
 function renderSettings(){
   const s=app.state.settings;
