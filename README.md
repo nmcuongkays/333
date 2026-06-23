@@ -1,9 +1,7 @@
-# Nihongo Memory Coach - Search Fix
+# Nihongo Memory Coach - Restored + Search Fixed
 
-Fixes:
-- Quick search now normalizes Japanese full/half width, Vietnamese accents, and uppercase/lowercase.
-- Typing in the search box automatically opens the library results view.
-- Search results are sorted by relevance: title/reading/meaning first, raw PDF matches lower.
-- Reapplied display/data fixes from prior audit and removed exact duplicate rows from the N2 duplicated lesson section.
+Bản này khôi phục các chức năng bị mất từ bản đầy đủ trước đó và giữ bản sửa tìm kiếm.
 
-Use `index.html` for GitHub Pages.
+- Khôi phục Mazii selection/menu, tab Dễ nhầm, Drive mode nâng cấp, backup reminder, học thông minh, cỡ chữ, dark mode.
+- Tìm kiếm hỗ trợ tiếng Việt có dấu/không dấu, Kanji, hiragana; tự chuyển sang Danh sách khi gõ từ khóa.
+- Dữ liệu audit/fix trước đó được giữ theo bản final-audit.

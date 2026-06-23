@@ -1,1 +1,391 @@
-﻿id,reason,title,reading,meaning_vi,raw_sample
+﻿id,issue,title,reading,kana_in_title,meaning,page
+N2-vocab-0003,short_kana_title_check,おしゃべり,,,Nói chuyện/ Hoạt ngôn,2
+N2-vocab-0005,short_kana_title_check,きっかけ,,,Nguyên cớ,3
+N2-vocab-0048,short_kana_title_check,ふもと,,,Chân núi,16
+N2-vocab-0094,short_kana_title_check,じたばた,,,"Vùng vẫy, vật lộn",31
+N2-vocab-0109,short_kana_title_check,あこがれ,,,"Ao ước, ngưỡng mộ",35
+N2-vocab-0113,short_kana_title_check,かかりつけ,,,"__cá nhân, gia đình",36
+N2-vocab-0197,reading_may_miss_okurigana,やる気,き,やる,Hứng thú,61
+N2-vocab-0229,short_kana_title_check,いたずら,,,Trò nghịch ngợm,71
+N2-vocab-0283,short_kana_title_check,でたらめ,,,,88
+N2-vocab-0290,short_kana_title_check,あちこち,,,"Khắp nơi, khắp chốn",90
+N2-vocab-0291,short_kana_title_check,あらすじ,,,"Tóm tắt, cốt truyện",91
+N2-vocab-0349,short_kana_title_check,しわ,,,Nếp nhăn,109
+N2-vocab-0356,short_kana_title_check,おじぎ,,,Cúi chào,112
+N2-vocab-0377,reading_may_miss_okurigana,た目,みめ,た,"Vẻ bề ngoài, dáng vẻ",119
+N2-vocab-0431,short_kana_title_check,つまずく,,,"Vấp, ngã",137
+N2-vocab-0437,short_kana_title_check,にごる,,,Đục/Ngả màu,139
+N2-vocab-0438,short_kana_title_check,つぶす,,,Đập bẹp/ Giết thời gian/ Phá sản,139
+N2-vocab-0439,short_kana_title_check,ささやく,,,"Thì thầm, xì xào/ Bàn tán, đồn đại",139
+N2-vocab-0441,short_kana_title_check,さびる,,,"Gỉ, mai một",141
+N2-vocab-0448,short_kana_title_check,うなずく,,,Gật đầu,143
+N2-vocab-0450,short_kana_title_check,めくる,,,"Lật lên, giở/ Vén, xắn",143
+N2-vocab-0451,short_kana_title_check,いじる,,,"Chạm, vuốt/ Chỉnh sửa, thay đổi/ Trêu đùa/ Táy máy",144
+N2-vocab-0466,short_kana_title_check,とらえる,,,"Bắt, bắt giữ/ Nắm bắt, chiếm lấy",150
+N2-vocab-0475,short_kana_title_check,しびれる,,,"Tê, tê liệt/ Tê liệt, si mê",153
+N2-vocab-0476,short_kana_title_check,まく,,,Gieo hạt/ Gieo (nguyên nhân),153
+N2-vocab-0486,short_kana_title_check,けなす,,,"Gièm pha, chê bai",157
+N2-vocab-0497,short_kana_title_check,くるむ,,,"Cuộn, túm, gói, bọc",161
+N2-vocab-0507,short_kana_title_check,あきれる,,,"Ngạc nhiên, sốc",165
+N2-vocab-0538,short_kana_title_check,ためらう,,,"Do dự, lưỡng lự",177
+N2-vocab-0539,short_kana_title_check,かじる,,,"Cắn, gặm nhấm/ Học một chút",177
+N2-vocab-0541,short_kana_title_check,はがす,,,"Bóc ra, mở ra/ Tách ra",178
+N2-vocab-0542,short_kana_title_check,つかむ,,,Có trong tay,178
+N2-vocab-0543,short_kana_title_check,かわいがる,,,"Nâng niu, yêu thương Cưng chiều",179
+N2-vocab-0546,short_kana_title_check,しゃがむ,,,Ngồi xổm,179
+N2-vocab-0548,short_kana_title_check,ふざける,,,Đùa cợt,180
+N2-vocab-0549,short_kana_title_check,なぐさめる,,,"An ủi, động viên",180
+N2-vocab-0563,short_kana_title_check,ずれる,,,"1. Bị chệch, lệch 2. Khác thường",187
+N2-vocab-0575,short_kana_title_check,むかつく,,,Phụ thuộc,192
+N2-vocab-0584,reading_may_miss_okurigana,引き止める,ひとめる,きめる,"Kéo lại, níu kéo",195
+N2-vocab-0631,short_kana_title_check,やかましい,,,Ồn ào,209
+N2-vocab-0635,short_kana_title_check,たくましい,,,Mạnh mẽ,210
+N2-vocab-0637,short_kana_title_check,ずるい,,,"Ranh mãnh, quỷ quyệt",210
+N2-vocab-0638,short_kana_title_check,そそっかしい,,,"Hấp tấp, vội vàng",211
+N2-vocab-0639,short_kana_title_check,くどい,,,"Dài dòng, lắm lời",211
+N2-vocab-0643,short_kana_title_check,ずうずうしい,,,"Trơ trẽn, vô liêm sỉ",212
+N2-vocab-0652,short_kana_title_check,くだらない,,,"Vô nghĩa, tầm phào",215
+N2-vocab-0653,short_kana_title_check,すまない,,,Xin lỗi,215
+N2-vocab-0655,short_kana_title_check,みっともない,,,"Đáng xấu hổ, khó coi",216
+N2-vocab-0658,short_kana_title_check,またとない,,,Duy nhất,216
+N2-vocab-0695,short_kana_title_check,わずか,,,Chỉ một chút,229
+N2-vocab-0701,short_kana_title_check,ありがち,,,"Hay xảy ra, phổ biến",230
+N2-vocab-0702,short_kana_title_check,あやふや,,,"Không rõ ràng, mơ hồ",231
+N2-vocab-0714,short_kana_title_check,そっくり,,,"Chính xác, giống như",234
+N2-vocab-0723,short_kana_title_check,めでたい,,,"Vui vẻ, hạnh phúc",237
+N2-vocab-0724,short_kana_title_check,ばかばかしい,,,"Tào lao, vô bổ",238
+N2-vocab-0731,short_kana_title_check,さすが,,,Quả là,240
+N2-vocab-0737,short_kana_title_check,いよいよ,,,Cuối cùng thì...,242
+N2-vocab-0738,short_kana_title_check,とうとう,,,"Cuối cùng, sau cùng",242
+N2-vocab-0740,short_kana_title_check,たびたび,,,Thường xuyên lặp lại (nhiều lần),243
+N2-vocab-0741,short_kana_title_check,ぶかぶか,,,Rộng thùng thình,243
+N2-vocab-0742,short_kana_title_check,ぼんやり,,,"Mờ ảo, không rõ",244
+N2-vocab-0743,short_kana_title_check,ほぼ,,,"Gần như, hầu hết",244
+N2-vocab-0744,short_kana_title_check,せめて,,,Ít nhất thì,245
+N2-vocab-0746,short_kana_title_check,くたくた,,,"Mệt mỏi, phờ phạc",245
+N2-vocab-0747,short_kana_title_check,わずかに,,,"Hơi, chỉ",245
+N2-vocab-0748,short_kana_title_check,いきなり,,,Đột ngột,246
+N2-vocab-0749,short_kana_title_check,とっくに,,,Thời gian dài trước đây,246
+N2-vocab-0750,short_kana_title_check,ごろごろ,,,"1. Thong thả, thư thái 2. (Vật to lăn) Lông lốc",246
+N2-vocab-0753,short_kana_title_check,そうとう,,,"Rất, khá là",247
+N2-vocab-0754,short_kana_title_check,かさかさ,,,(Da) Khô ráp,247
+N2-vocab-0755,short_kana_title_check,さっさと,,,"Nhanh chóng, khẩn trương",248
+N2-vocab-0758,short_kana_title_check,あいにく,,,"Không may, thật đáng tiếc",248
+N2-vocab-0763,short_kana_title_check,たちまち,,,"Ngay lập tức, đột nhiên",250
+N2-vocab-0764,short_kana_title_check,こつこつ,,,"Chăm chỉ, từng chút một 例文",251
+N2-vocab-0766,short_kana_title_check,うとうと,,,"Lơ mơ, mơ màng",251
+N2-vocab-0767,short_kana_title_check,たまに,,,"Thi thoảng, đôi khi",251
+N2-vocab-0768,short_kana_title_check,たまたま,,,"Tình cờ, ngẫu nhiên",252
+N2-vocab-0769,short_kana_title_check,びっしょり,,,"Ướt sũng, sũng nước",252
+N2-vocab-0770,short_kana_title_check,おそらく,,,"Có lẽ, e rằng",252
+N2-vocab-0771,short_kana_title_check,やや,,,"Một chút, một ít",252
+N2-vocab-0772,short_kana_title_check,かつて,,,"Đã từng, trước kia",253
+N2-vocab-0774,short_kana_title_check,じかに,,,Trực tiếp,253
+N2-vocab-0775,short_kana_title_check,ぐったり,,,Mệt mỏi rã rời,254
+N2-vocab-0777,short_kana_title_check,ひそひそ,,,"Khe khẽ, thì thầm, rón rén",254
+N2-vocab-0781,short_kana_title_check,きっぱり,,,"Dứt khoát, thẳng thừng",255
+N2-vocab-0784,short_kana_title_check,ごちゃごちゃ,,,Xáo trộn lung tung,256
+N2-vocab-0786,short_kana_title_check,ぎっしり,,,"Lèn chặt, đầy ắp",257
+N2-vocab-0787,short_kana_title_check,ぐるぐる,,,Vòng vòng,257
+N2-vocab-0791,short_kana_title_check,まもなく,,,"Sắp, chốc lát",258
+N2-vocab-0792,short_kana_title_check,ぐんぐん,,,"Nhanh chóng, mau lẹ",259
+N2-vocab-0793,short_kana_title_check,ふんわり,,,"Mềm mại, bồng bềnh",259
+N2-vocab-0794,short_kana_title_check,うっすら,,,"Hơi, mờ nhạt",259
+N2-vocab-0795,short_kana_title_check,しっとり,,,"Ẩm ướt, ẩm",260
+N2-vocab-0796,short_kana_title_check,どうりで,,,"Hèn chi, thảo nào",260
+N2-vocab-0797,short_kana_title_check,ゆらゆら,,,"Lắc lư, phất phơ",260
+N2-vocab-0798,short_kana_title_check,さらさら,,,"1. Mềm mại, mượt mà 2. Róc rách",260
+N2-vocab-0799,short_kana_title_check,すらすら,,,"Trươn tru, trôi chảy",261
+N2-vocab-0805,short_kana_title_check,ばっさり,,,"Kiên quyết, quyết liệt, hoàn toàn",263
+N2-vocab-0806,short_kana_title_check,ぎざぎざ,,,Hình răng cưa,263
+N2-vocab-0807,short_kana_title_check,いちいち,,,"Từng cái một, chi li",263
+N2-vocab-0808,short_kana_title_check,きょろきょろ,,,Bồn chồn,264
+N2-vocab-0810,short_kana_title_check,どうせ,,,Đằng nào thì,264
+N2-vocab-0811,short_kana_title_check,それぞれ,,,"Lần lượt mỗi, từng",264
+N2-vocab-0812,short_kana_title_check,がっしり,,,"Chắc chắn, chắc nịch",265
+N2-vocab-0813,short_kana_title_check,うっかり,,,"Lơ đễnh, lỡ",265
+N2-vocab-0814,short_kana_title_check,ほんの,,,"Chỉ, chỉ là",265
+N2-vocab-0815,short_kana_title_check,あらゆる,,,"Mọi, tất cả",265
+N2-vocab-0816,short_kana_title_check,いずれ,,,"1. Sớm muộn... 2. Cái nào cũng, bất kỳ",266
+N2-vocab-0821,short_kana_title_check,ようやく,,,Cuối cùng,267
+N2-vocab-0822,short_kana_title_check,いわゆる,,,Cái gọi là...,268
+N2-vocab-0826,short_kana_title_check,せいぜい,,,"1. Tối đa, cùng lắm chỉ 2. Nhiều nhất có thể",269
+N2-vocab-0827,short_kana_title_check,とりあえず,,,Trước hết,269
+N2-vocab-0829,short_kana_title_check,にわかに,,,"Bỗng nhiên, đột ngột",270
+N2-vocab-0831,short_kana_title_check,しょっちゅう,,,"Thường xuyên, hay",270
+N2-vocab-0833,short_kana_title_check,あれこれ,,,Cái này cái kia,271
+N2-vocab-0834,short_kana_title_check,およそ,,,"Đại khái, khoảng",272
+N2-vocab-0835,short_kana_title_check,さらに,,,"Hơn nữa, ngoài ra",272
+N2-vocab-0838,short_kana_title_check,めったに,,,Hiếm khi,272
+N2-vocab-0839,short_kana_title_check,そのうち,,,Sớm muộn...,273
+N2-vocab-0840,short_kana_title_check,むしろ,,,Ngược lại/Thà...,273
+N2-vocab-0841,short_kana_title_check,かえって,,,Đánh giá/Có tiếng,273
+N2-vocab-0842,short_kana_title_check,なんだか,,,"Một ít, một chút, hơi hơi",274
+N2-vocab-0843,short_kana_title_check,やがて,,,"Chẳng mấy chốc, sắp sửa",274
+N2-vocab-0846,short_kana_title_check,ばったり,,,Bất ngờ (gặp ai đó) Đột nhiên (kết thúc),275
+N2-vocab-0847,short_kana_title_check,ひとまず,,,"Trong lúc này, tạm thời",275
+N2-vocab-0848,short_kana_title_check,しばしば,,,Thường xuyên,275
+N2-vocab-0849,short_kana_title_check,しーんと,,,Im như tờ,275
+N2-vocab-0850,short_kana_title_check,めっきり,,,(Thay đổi) đáng kể,276
+N2-vocab-0851,short_kana_title_check,なお,,,"1. Ngoài ra, thêm vào đó 2. Hơn nữa",276
+N2-vocab-0852,short_kana_title_check,ずらりと,,,(Xếp) thành một hàng,277
+N2-vocab-0853,short_kana_title_check,わざわざ,,,Cất công,277
+N2-vocab-0854,short_kana_title_check,わざと,,,"Cố ý, có mục đích",277
+N2-vocab-0855,short_kana_title_check,もしかすると,,,Có lẽ,278
+N2-vocab-0856,short_kana_title_check,すっと,,,Nhanh như chớp,278
+N2-vocab-0857,short_kana_title_check,どうやら,,,"Dường như, có vẻ như",278
+N2-vocab-0859,short_kana_title_check,まさに,,,"Đúng đắn, chính xác",279
+N2-vocab-0860,short_kana_title_check,しかも,,,Hơn nữa,279
+N2-vocab-0861,short_kana_title_check,にやにや,,,Cười toe toét,279
+N2-vocab-0862,short_kana_title_check,たった,,,Chỉ vẻn vẹn,281
+N2-vocab-0864,short_kana_title_check,ぐっと,,,Hết mình,281
+N2-vocab-0865,short_kana_title_check,どうしても,,,Bằng mọi giá,282
+N2-vocab-0866,short_kana_title_check,こっそり,,,"Vụng trộm, lén lút",282
+N2-vocab-0867,short_kana_title_check,ところで,,,"Thế còn, nhân tiện",282
+N2-vocab-0868,short_kana_title_check,フロント,,,"1. Phía trước 2. Quầy tiếp tân, lễ tân",282
+N2-vocab-0869,short_kana_title_check,リハビリ,,,Phục hồi chức năng,283
+N2-vocab-0870,short_kana_title_check,オーバー,,,1. Vượt quá dự tính,283
+N2-vocab-0871,short_kana_title_check,サイレン,,,Còi báo động,283
+N2-vocab-0872,short_kana_title_check,サイン,,,1. Chữ ký 2. Dấu hiệu,284
+N2-vocab-0873,short_kana_title_check,フレッシュ,,,"Tươi mới, tươi ngon",284
+N2-vocab-0874,short_kana_title_check,マイペース,,,My pace Theo ý riêng của mình,284
+N2-vocab-0875,short_kana_title_check,シーズン,,,"Mùa (bóng đá, du lịch)",285
+N2-vocab-0876,short_kana_title_check,レンタル,,,Sự cho thuê,285
+N2-vocab-0877,short_kana_title_check,ブーム,,,"Sự bùng nổ, thịnh hành",285
+N2-vocab-0878,short_kana_title_check,スムーズ,,,"Trôi chảy, trơn tru",285
+N2-vocab-0879,short_kana_title_check,プラン,,,Kế hoạch,285
+N2-vocab-0880,short_kana_title_check,パンク,,,Xịt lốp xe,286
+N2-vocab-0881,short_kana_title_check,リラックス,,,"Sự nghỉ ngơi, thư giãn",286
+N2-vocab-0882,short_kana_title_check,テンポ,,,Nhịp độ,287
+N2-vocab-0883,short_kana_title_check,アピール,,,Sự thu hút,287
+N2-vocab-0884,short_kana_title_check,アレンジ,,,,287
+N2-vocab-0885,short_kana_title_check,スペース,,,"Khoảng trống, không gian",288
+N2-vocab-0886,short_kana_title_check,テクニック,,,"Kỹ thuật, tiểu xảo",288
+N2-vocab-0887,short_kana_title_check,プレッシャー,,,"Áp lực, sức ép tâm lý",288
+N2-vocab-0888,short_kana_title_check,ハード,,,"Khó khăn, bận rộn",288
+N2-vocab-0889,short_kana_title_check,ターゲット,,,,288
+N2-vocab-0890,short_kana_title_check,ガイド,,,Hướng dẫn,289
+N2-vocab-0891,short_kana_title_check,シリーズ,,,"Series, sê-ri",289
+N2-vocab-0892,short_kana_title_check,クリア,,,"1. Rõ ràng 2. (Màu) trong suốt 3. Thắng (trò chơi, thể thao)",290
+N2-vocab-0893,short_kana_title_check,ストライキ,,,Đình công,290
+N2-vocab-0894,short_kana_title_check,ライバル,,,Đối thủ,291
+N2-vocab-0895,short_kana_title_check,ゲスト,,,Đánh giá/Có tiếng,291
+N2-vocab-0896,short_kana_title_check,エラー,,,Lỗi,291
+N2-vocab-0897,short_kana_title_check,インストール,,,Lắp đặt/Cài đặt,291
+N2-vocab-0898,short_kana_title_check,チャージ,,,"Nạp (tiền), sạc (pin)",291
+N2-vocab-0900,short_kana_title_check,インパクト,,,"Ấn tượng, tác động",292
+N2-vocab-0901,short_kana_title_check,ペンキ,,,"Sơn, vôi màu",292
+N2-vocab-0902,short_kana_title_check,ダム,,,Con đập,293
+N2-vocab-0903,short_kana_title_check,セロテープ,,,Băng dính,293
+N2-vocab-0904,short_kana_title_check,リポーター,,,Phóng viên,293
+N2-vocab-0905,short_kana_title_check,ムード,,,Tâm trạng,294
+N2-vocab-0906,short_kana_title_check,タイヤ,,,Lốp xe,294
+N2-vocab-0907,short_kana_title_check,ダウン,,,"Đi xuống, giảm Mệt, kiệt sức",294
+N2-vocab-0908,short_kana_title_check,インテリア,,,Nội thất,294
+N2-vocab-0909,short_kana_title_check,カルシウム,,,Can xi,294
+N2-vocab-0910,short_kana_title_check,スタッフ,,,Nhân viên,295
+N2-vocab-0911,short_kana_title_check,ダメージ,,,"Sự phá huỷ, phá hoại",295
+N2-vocab-0913,short_kana_title_check,コスト,,,Giá cả,296
+N2-vocab-0914,short_kana_title_check,プラスチック,,,Nhựa,296
+N2-vocab-0915,short_kana_title_check,レンズ,,,"Mắt kính, thấu kính",296
+N2-vocab-0916,short_kana_title_check,ライトアップ,,,Chiếu sáng,297
+N2-vocab-0917,short_kana_title_check,マッチ,,,Diêm Trận đấu Phù hợp,297
+N2-vocab-0918,short_kana_title_check,ノーマル,,,Bình thường,297
+N2-vocab-0919,short_kana_title_check,ルーズ,,,Lỏng lẻo,297
+N2-vocab-0920,short_kana_title_check,ストレス,,,"Căng thẳng, áp lực",298
+N2-vocab-0921,short_kana_title_check,カット,,,Cắt,298
+N2-vocab-0922,short_kana_title_check,コントロール,,,"Kiểm soát, quản lý",299
+N2-vocab-0923,short_kana_title_check,アイデア,,,Ý tưởng,299
+N2-vocab-0924,short_kana_title_check,チャンス,,,Cơ hội,299
+N2-vocab-0925,short_kana_title_check,スケジュール,,,"Thời khoá biểu, lịch trình 例文",299
+N2-vocab-0926,short_kana_title_check,システム,,,Hệ thống,300
+N2-vocab-0927,short_kana_title_check,モニター,,,"1. Màn hình 2. Người khảo sát chất lượng sản phẩm 3. Giám sát, quan sát",300
+N2-vocab-0928,short_kana_title_check,ベテラン,,,"Người kỳ cựu, có kinh nghiệm",300
+N2-vocab-0929,short_kana_title_check,コメント,,,Bình luận,301
+N2-vocab-0930,short_kana_title_check,パターン,,,"Hoa văn, hình mẫu",301
+N2-vocab-0931,short_kana_title_check,キャンパス,,,Khuôn viên,301
+N2-vocab-0932,short_kana_title_check,フォント,,,Phông chữ,302
+N2-vocab-0933,short_kana_title_check,デモ,,,1. Biểu tình 2. Thử nghiệm,302
+N2-vocab-0934,short_kana_title_check,テロ,,,"Khủng bố, kẻ khủng bố",302
+N2-vocab-0935,short_kana_title_check,エコ,,,Sinh thái,303
+N2-vocab-0936,short_kana_title_check,センス,,,Có khiếu thẩm mỹ,303
+N2-vocab-0937,short_kana_title_check,フリーサイズ,,,Free size,303
+N2-vocab-0938,short_kana_title_check,リズム,,,"Nhịp điệu, tiết tấu",303
+N2-vocab-0939,short_kana_title_check,ユニーク,,,"Duy nhất, độc đáo",303
+N2-vocab-0940,short_kana_title_check,ダウンロード,,,Tải xuống,304
+N2-vocab-0941,short_kana_title_check,イラスト,,,Hình minh họa,304
+N3-vocab-0051,short_kana_title_check,けが,,,Vết thương,23
+N3-vocab-0059,short_kana_title_check,おしゃべり,,,Nói chuyện,25
+N3-vocab-0075,short_kana_title_check,かび,,,Nấm mốc,30
+N3-vocab-0086,short_kana_title_check,ごちそう,,,Đồ thiết đãi,34
+N3-vocab-0118,short_kana_title_check,かぐ,,,"Ngửi, hít",44
+N3-vocab-0121,short_kana_title_check,ける,,,Đá,45
+N3-vocab-0144,reading_may_miss_okurigana,(を)思い出す,おもだす,いす,Nhớ lại/ Nhớ ra,52
+N3-vocab-0146,reading_may_miss_okurigana,(を)申し込む,もうこむ,しむ,1. Đăng ký 2. Cầu hôn,52
+N3-vocab-0166,reading_may_miss_okurigana,(が)付き合う,つあう,きう,1. Giao du/ Chơi với 2. Cùng làm/ Có hẹn với 3. Hẹn hò,60
+N3-vocab-0168,short_kana_title_check,(が)はやる,,,1. Lây/ Bùng phát 2. Thịnh hành,60
+N3-vocab-0174,reading_may_miss_okurigana,(が)すれ違う,ちがう,すれう,"1. Tránh nhau, đi lướt qua 2. Không hiểu nhau 3. Lệch (giờ, địa điểm)",62
+N3-vocab-0184,short_kana_title_check,(を)こぼす,,,"Làm đổ, vãi ra",67
+N3-vocab-0185,short_kana_title_check,(を)ふく,,,"Lau, chùi",67
+N3-vocab-0196,short_kana_title_check,(が)むける,,,"Bị bong, tróc",70
+N3-vocab-0230,reading_may_miss_okurigana,頼み・願い,たのねがい,みい,"1. Lời thỉnh cầu,",80
+N3-vocab-0265,short_kana_title_check,うらやましい,,,Ghen tị,91
+N3-vocab-0266,short_kana_title_check,かゆう,,,Ngứa,91
+N3-vocab-0267,short_kana_title_check,おとなしい,,,"1. Hiền lành, trầm tính 2. Ngoan, dễ bảo 3. Trầm, nhã nhặn",91
+N3-vocab-0270,short_kana_title_check,けちな,,,関:けちな、けちけちする:Keo kiệt Keo kiệt,92
+N3-vocab-0271,short_kana_title_check,わがままな,,,"Ích kỉ, ngoan cố",93
+N3-vocab-0288,short_kana_title_check,おしゃれな,,,"1. Diện, mốt 2. Thời thượng",99
+N3-vocab-0291,short_kana_title_check,ましな,,,"Tốt hơn, thích hợp hơn",100
+N3-vocab-0292,short_kana_title_check,むだな,,,Vô ích,100
+N3-vocab-0316,short_kana_title_check,いたずら,,,Nghịch ngợm,108
+N3-vocab-0331,short_kana_title_check,うわさ,,,Tin đồn,113
+N3-vocab-0383,short_kana_title_check,くじ,,,Xổ số,129
+N3-vocab-0409,short_kana_title_check,かく,,,"1. Gãi 2. Toát mồ hôi, ngáy 3. Xấu hổ",139
+N3-vocab-0410,short_kana_title_check,(を)つかむ,,,1. Tóm 2. Nắm bắt,139
+N3-vocab-0439,short_kana_title_check,(を)だます,,,Lừa gạt,150
+N3-vocab-0460,reading_may_miss_okurigana,(を)繰り返す,くかえす,りす,Lặp lại,157
+N3-vocab-0496,reading_may_miss_okurigana,が覚める,さめる,がめる,Tỉnh giấc,169
+N3-vocab-0501,short_kana_title_check,クラスメート,,,Bạn cùng lớp,171
+N3-vocab-0502,short_kana_title_check,グループ,,,Nhóm,171
+N3-vocab-0503,short_kana_title_check,チーム,,,Đội (team),171
+N3-vocab-0504,short_kana_title_check,プロ,,,Chuyên nghiệp,172
+N3-vocab-0505,short_kana_title_check,アマ,,,Nghiệp dư,172
+N3-vocab-0506,short_kana_title_check,トレーニング,,,Luyện tập,172
+N3-vocab-0507,short_kana_title_check,マッサージ,,,Xoa bóp (massage),172
+N3-vocab-0508,short_kana_title_check,アドバイス,,,・ A:「先輩!!可愛,173
+N3-vocab-0509,short_kana_title_check,アイデア・,,,Ý tưởng,173
+N3-vocab-0510,short_kana_title_check,トップ,,,"1. Đứng đầu (top) 合:トップバッター (Người mở màn, mở đầu) 2. Nổi bật, quan trọng",174
+N3-vocab-0511,short_kana_title_check,スピード,,,Tốc độ,174
+N3-vocab-0512,short_kana_title_check,ラッシュ,,,Cao điểm,175
+N3-vocab-0513,short_kana_title_check,バイク,,,Xe máy,175
+N3-vocab-0514,short_kana_title_check,ヘルメット,,,蓮:ヘルメットをかぶる (Đội mũ bảo hiểm) Mũ bảo hiểm,175
+N3-vocab-0515,short_kana_title_check,コンタクト,,,Kính áp tròng,175
+N3-vocab-0516,short_kana_title_check,ガラス,,,"Thuỷ tinh, kính 合:窓ガラス (Kính cửa sổ)",176
+N3-vocab-0517,short_kana_title_check,プラスチック,,,関:ビニール (Ni lông) Nhựa,176
+N3-vocab-0518,short_kana_title_check,ベランダ,,,Ban công,176
+N3-vocab-0519,short_kana_title_check,ペット,,,"合:ペットショップ:Cửa hàng bán đồ cho thú cưng Thú cưng, động vật cảnh",176
+N3-vocab-0520,short_kana_title_check,ベンチ,,,Ghế (ghế dài),176
+N3-vocab-0521,short_kana_title_check,デザイン,,,Thiết kế,177
+N3-vocab-0523,short_kana_title_check,パート,,,1.Làm bán thời gian 2. Một phần,178
+N3-vocab-0524,short_kana_title_check,コンビニ,,,Cửa hàng tiện lợi,178
+N3-vocab-0525,short_kana_title_check,レジ,,,1. Máy tính tiền 2. Nhân viên thu ngân 3. Quầy thu ngân,178
+N3-vocab-0526,short_kana_title_check,レシート,,,Hoá đơn,179
+N3-vocab-0527,short_kana_title_check,インスタント,,,"Ăn liền, có sẵn",179
+N3-vocab-0529,short_kana_title_check,フルーツ,,,Trái cây,180
+N3-vocab-0530,short_kana_title_check,デザート,,,Món tráng miệng,180
+N3-vocab-0532,short_kana_title_check,チャイム,,,Chuông,181
+N3-vocab-0533,short_kana_title_check,アナウンス,,,関:アナウンサー:Phát thanh viên Thông báo,181
+N3-vocab-0534,short_kana_title_check,メッセージ,,,1. Lời nhắn 2. Thông điệp,181
+N3-vocab-0535,short_kana_title_check,パンフレット,,,"Sách mỏng 関:チラシ:Tờ rơi (kẹp vào báo, quảng cáo mua hàng) (để giới thiệu)",182
+N3-vocab-0536,short_kana_title_check,カード,,,Thẻ,182
+N3-vocab-0537,short_kana_title_check,インタビュー,,,Phỏng vấn,182
+N3-vocab-0538,short_kana_title_check,アンケット,,,Phiếu điều tra,182
+N3-vocab-0539,short_kana_title_check,データ,,,Dữ liệu,183
+N3-vocab-0540,short_kana_title_check,パーセント,,,Phần trăm,183
+N3-vocab-0545,short_kana_title_check,おかしい,,,"1. Lạ, buồn cười 2. Lạ, không bình thường",185
+N3-vocab-0546,short_kana_title_check,かっこいい,,,"Đẹp trai, ngầu, phong cách, bảnh",186
+N3-vocab-0547,short_kana_title_check,うまい,,,"1. Giỏi 2. Ngon 3. Thuận lợi, suôn sẻ",186
+N3-vocab-0552,short_kana_title_check,かたい,,,"1. Cứng 2. Chắc chắn, chặt 3. Nghiêm ngặt, nghiêm khắc",188
+N3-vocab-0554,short_kana_title_check,まぶしい,,,1. Chói 2. Rạng ngời,189
+N3-vocab-0564,short_kana_title_check,もったいない,,,"Tiếc, lãng phí",192
+N3-vocab-0565,short_kana_title_check,すごい,,,"合:すごく + 〜:Cực kỳ, khủng khiếp",193
+N3-vocab-0566,short_kana_title_check,ひどい,,,合:ひどい目にあう:Một ngày tồi tệ,193
+N3-vocab-0568,short_kana_title_check,そっくりな,,,Giống hệt,194
+N3-vocab-0574,short_kana_title_check,さまざまな,,,"Nhiều, đa dạng",196
+N3-vocab-0579,short_kana_title_check,ばらばらな,,,1. Rời rạc 2. Xa,198
+N3-vocab-0580,short_kana_title_check,ぼろぼろな,,,"Rách nát, te tua",198
+N3-vocab-0583,short_kana_title_check,ほとんど,,,蓮:ほとんどの + N,200
+N3-vocab-0585,short_kana_title_check,かなり,,,"Rất, cực kỳ",201
+N3-vocab-0586,short_kana_title_check,ずいぶん,,,・ A:けがの具,201
+N3-vocab-0587,short_kana_title_check,けっこう,,,1. Rất (hơn mức dự đoán) 2. Kha khá (hơn mức dự đoán),201
+N3-vocab-0589,short_kana_title_check,もっと,,,1. Hơn 2. Hơn nữa,202
+N3-vocab-0590,short_kana_title_check,すっかり,,,"Toàn bộ, hết 合:すっかり〜なる(変化):Hoàn toàn",202
+N3-vocab-0592,short_kana_title_check,ぎりぎり,,,"Sát giờ, sát nút",203
+N3-vocab-0593,short_kana_title_check,ぴったり,,,"1. Vừa vặn, đúng 2. Chặt, hoàn toàn 3. Vừa, vừa vặn",204
+N3-vocab-0594,short_kana_title_check,たいてい,,,"1. Thường, hay 2. Hầu hết",204
+N3-vocab-0597,short_kana_title_check,すぐ(に),,,Ngay lập tức 合:すぐ + 近く:Gần ngay,205
+N3-vocab-0598,short_kana_title_check,もうすぐ,,,Sắp,205
+N3-vocab-0600,reading_may_miss_okurigana,あっと言う間(に),いま(に),あっとう,"Loáng một cái/ Trong nháy mắt, trong khoảnh khắc",206
+N3-vocab-0601,reading_may_miss_okurigana,いつの間にか,まにか,いつのにか,Lúc nào không biết,206
+N3-vocab-0602,short_kana_title_check,しばらく,,,Một chút,206
+N3-vocab-0603,short_kana_title_check,ずっと,,,1. 〜Hẳn 2. Rất,207
+N3-vocab-0606,short_kana_title_check,どんどん,,,"Nhanh, dồn dập 類:ドンドン:Tiếng gõ cửa",208
+N3-vocab-0607,short_kana_title_check,ますます,,,Ngày càng,208
+N3-vocab-0608,short_kana_title_check,やっと+た,,,1. Cuối cùng cũng đã... 2. Chật vật,209
+N3-vocab-0609,short_kana_title_check,とうとう~た,,,Cuối cùng cũng đã ~ 蓮:とうとう〜ない:Cuối cùng...cũng không,209
+N3-vocab-0610,short_kana_title_check,ついに,,,1. Cuối cùng...cũng đã 2. Cuối cùng,210
+N3-vocab-0611,short_kana_title_check,もちろん,,,・ A:「あしたの夜 Đương nhiên,210
+N3-vocab-0612,short_kana_title_check,やはり,,,・ A:「Shin 先生が犯,211
+N3-vocab-0613,short_kana_title_check,きっと,,,"Chắc chắn, nhất định",211
+N3-vocab-0614,short_kana_title_check,ぜひ,,,Nhất định,212
+N3-vocab-0615,short_kana_title_check,なるべく,,,Cố gắng hết mức có thể,212
+N3-vocab-0618,short_kana_title_check,まさか,,,"合:まさか〜ない:Không thể ngờ, không đời nào Không đời nào",213
+N3-vocab-0619,short_kana_title_check,うっかり,,,Lơ đễnh,213
+N3-vocab-0620,short_kana_title_check,つい,,,"Vô ý, lỡ",213
+N3-vocab-0622,short_kana_title_check,ほっとする,,,"Yên tâm, thở phào nhẹ nhõm",214
+N3-vocab-0623,short_kana_title_check,いらいら,,,Khó chịu,214
+N3-vocab-0624,short_kana_title_check,のんびり,,,1. Thư thả 2. Thong thả,215
+N3-vocab-0745,short_kana_title_check,(を)つなぐ,,,"Nối, kết nối",263
+N3-vocab-0753,short_kana_title_check,(が)そろう,,,1. Tập trung (đầy đủ) 2. Đồng bộ (tông xoẹt tông) 3. Thống nhất,268
+N3-vocab-0754,short_kana_title_check,そろえる,,,"1. Sắp xếp, để ngay ngắn 2. Tập trung (sẵn sàng, đầy đủ)",269
+N3-vocab-0761,short_kana_title_check,まざる,,,"1. AB が交ざる: Trộn A, B với nhau",272
+N3-vocab-0762,short_kana_title_check,(を)まぜる,,,1.交ぜる:trộn lẫn (không tan),272
+N3-vocab-0776,short_kana_title_check,パートナー,,,"1. Đối tác 2. Bạn đời, người cộng sự",276
+N3-vocab-0777,short_kana_title_check,リーダー,,,Thủ lĩnh,276
+N3-vocab-0778,short_kana_title_check,ボランティア,,,Tình nguyện,277
+N3-vocab-0780,short_kana_title_check,ユーモア,,,Hài hước,277
+N3-vocab-0781,short_kana_title_check,ショック,,,Cú sốc,278
+N3-vocab-0782,short_kana_title_check,ストレス,,,"Xì trét, căng thẳng, áp lực",278
+N3-vocab-0783,short_kana_title_check,バランス,,,Sự cân bằng,279
+N3-vocab-0784,short_kana_title_check,レベル,,,"Trình độ, mức độ",279
+N3-vocab-0785,short_kana_title_check,アップ,,,1. Tăng 2. (Chụp) cận cảnh/ Đăng lên,279
+N3-vocab-0786,short_kana_title_check,ダウン,,,1. Giảm xuống,280
+N3-vocab-0787,short_kana_title_check,プラス,,,1. Cộng thêm 2. Lãi 3. Điểm cộng,280
+N3-vocab-0788,short_kana_title_check,イメージ,,,"1. Hình dung, tưởng tượng 2. Hình ảnh",280
+N3-vocab-0789,short_kana_title_check,コンテスト,,,Cuộc thi,281
+N3-vocab-0790,short_kana_title_check,マスコミ,,,Phương tiện truyền thông,281
+N3-vocab-0791,short_kana_title_check,プライバシー,,,Sự riêng tư 蓮:プライバシーを犯す(N2),281
+N3-vocab-0792,short_kana_title_check,オフィス,,,Văn phòng,281
+N3-vocab-0793,short_kana_title_check,ルール,,,Quy tắc,282
+N3-vocab-0794,short_kana_title_check,マナー,,,"Lễ nghi, cách cư xử",282
+N3-vocab-0795,short_kana_title_check,ミス,,,"Lỗi, sai lầm",283
+N3-vocab-0796,short_kana_title_check,スケジュール,,,"1. Thời khoá biểu, lịch trình 2. Kế hoạch",284
+N3-vocab-0797,short_kana_title_check,タイトル,,,"Tiêu đề, đầu đề",284
+N3-vocab-0798,short_kana_title_check,テーマ,,,"Chủ đề, đề tài",284
+N3-vocab-0799,short_kana_title_check,ストーリー,,,Cốt truyện,285
+N3-vocab-0800,short_kana_title_check,ヒット,,,"Đỉnh cao, được yêu thích",285
+N3-vocab-0801,short_kana_title_check,ブランド,,,"Nhãn hiệu, thương hiệu",285
+N3-vocab-0802,short_kana_title_check,レンタル,,,・ 今日は帰りにDVD をレンタルして帰ろう。,286
+N3-vocab-0803,short_kana_title_check,リサイクル,,,"Tái sử dụng, tái chế",286
+N3-vocab-0804,short_kana_title_check,ラベル,,,Nhãn mác,286
+N3-vocab-0805,short_kana_title_check,タイプ,,,"1. Kiểu, loại (người) 2. Kiểu, loại (vật) 3. Tuýp, gu",287
+N3-vocab-0806,short_kana_title_check,スタイル,,,"Dáng, phong cách",287
+N3-vocab-0807,short_kana_title_check,セット,,,"1. Bộ, set 2. Thiết lập",287
+N3-vocab-0808,short_kana_title_check,ウイルス,,,合:インフルエンザウイルス (Virus cúm) 1. Virus (cúm) 2. Virus (máy tính),288
+N3-vocab-0809,short_kana_title_check,ロボット,,,Robot,288
+N3-vocab-0810,short_kana_title_check,エネルギー,,,Năng lượng,288
+N3-vocab-0811,short_kana_title_check,デジタル,,,Kỹ thuật số,289
+N3-vocab-0812,short_kana_title_check,マイク,,,"関:スピーカー (Loa) Mic, micro",289
+N3-vocab-0813,short_kana_title_check,ブレーキ,,,"1. Phanh xe 2. Phanh, hãm lại",289
+N3-vocab-0814,short_kana_title_check,ペンキ,,,"Sơn, vôi màu",289
+N3-vocab-0819,short_kana_title_check,(を)ゆでる,,,Luộc,291
+N3-vocab-0822,short_kana_title_check,ぐっすり,,,Ngủ say,292
+N3-vocab-0823,short_kana_title_check,きちんと,,,"Nghiêm chỉnh, chỉnh tề",292
+N3-vocab-0824,short_kana_title_check,しっかり,,,"1. Rõ ràng, cẩn thận, đâu ra đấy 2. Chặt, chắc chắn 3. Tỉnh",292
+N3-vocab-0825,short_kana_title_check,はっきり,,,※ 意見、態度+はっきり:Đi kèm với ý kiến và thái độ Rõ,293
+N3-vocab-0826,short_kana_title_check,じっと,,,"1. Chăm chú, suốt, mãi 2. Yên, ở yên 1 chỗ",293
+N3-vocab-0827,short_kana_title_check,そっと,,,"Nhẹ nhàng, rón rén",293
+N3-vocab-0829,short_kana_title_check,それぞれ,,,"Lần lượt mỗi, từng",294
+N3-vocab-0836,short_kana_title_check,ただ,,,"Chỉ, chỉ toàn",296
+N3-vocab-0840,short_kana_title_check,ちっとも,,,・ A:「あの二人、付,298
+N3-vocab-0842,short_kana_title_check,とても,,,Rất,298
+N3-vocab-0843,short_kana_title_check,どんなに,,,※ どんなに~ても/でも:Dù ~ đi nữa Rất nhiều (cảm xúc),299
+N3-vocab-0844,short_kana_title_check,どうしても,,,1. Kiểu gì thì kiểu (bất chấp lý do) ※ どうしても~ない:Dù ~ cũng không 2. Bất kể (ý chí mạnh),299
+N3-vocab-0845,short_kana_title_check,まるで,,,※ まるで~みたい:Giống như Giống như,299
+N3-vocab-0848,short_kana_title_check,たった,,,Chỉ vẻn vẹn,300
+N3-vocab-0849,short_kana_title_check,ほんの,,,"Chỉ, chỉ là + Số từ số ít",301
+N3-vocab-0850,short_kana_title_check,それで,,,1. Vì vậy (lý do khách quan),301
+N3-vocab-0851,short_kana_title_check,そこで,,,"Do vậy, vì thế",302
+N3-vocab-0853,short_kana_title_check,また,,,"Ngoài ra, mặt khác",302
+N3-vocab-0854,short_kana_title_check,または,,,Hoặc,303
+N3-vocab-0856,short_kana_title_check,つまり,,,"・ A:「この仕事は、知識 Tóm lại là, nghĩa là",303

@@ -1,0 +1,12 @@
+{
+  "base_funcs": 140,
+  "bad_current_funcs": 74,
+  "fixed_funcs": 144,
+  "base_ids": 67,
+  "bad_current_ids": 45,
+  "fixed_ids": 67,
+  "missing_after_restore_funcs": [],
+  "missing_after_restore_ids": [],
+  "restored_functions_count": 70,
+  "restored_ids_count": 22
+}
