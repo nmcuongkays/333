@@ -198,7 +198,7 @@ input,select,textarea{min-height:44px}
 .mazii-menu.show{display:block}
 .mazii-menu-word{font-size:24px;font-weight:900;margin:2px 4px 8px;word-break:break-all}
 .mazii-menu-actions{display:grid;grid-template-columns:1fr 1fr;gap:8px}.mazii-menu-actions button,.mazii-menu-actions a{width:100%;min-height:44px;display:inline-flex;align-items:center;justify-content:center;text-decoration:none;border-radius:12px;padding:10px 14px}
-.mazii-fab{position:fixed;right:14px;bottom:calc(14px + env(safe-area-inset-bottom));z-index:99998;border-radius:999px;background:var(--primary);color:#fff;box-shadow:0 12px 30px rgba(15,23,42,.22);display:none;align-items:center;gap:6px;padding:10px 14px;font-weight:850;border:0;text-decoration:none}
+.mazii-fab{position:fixed;right:14px;bottom:calc(14px + env(safe-area-inset-bottom));z-index:2147483000;border-radius:999px;background:var(--primary);color:#fff;box-shadow:0 12px 30px rgba(15,23,42,.22);display:none;align-items:center;gap:6px;padding:10px 14px;font-weight:850;border:0;text-decoration:none}
 .mazii-fab.show{display:inline-flex}
 .mazii-note{font-size:13px;color:var(--muted);margin-top:8px}
 @media(max-width:480px){.mazii-menu{left:10px!important;right:10px!important;top:auto!important;bottom:calc(72px + env(safe-area-inset-bottom));max-width:none}.mazii-menu-word{font-size:22px}}
@@ -468,12 +468,13 @@ function migrateState(state){
     history: state.history || []
   };
 }
-function saveState(){ localStorage.setItem(LS_KEY, JSON.stringify(app.state)); }
+function saveState(){ try{ localStorage.setItem(LS_KEY, JSON.stringify(app.state)); }catch(e){ console.warn('Không lưu được localStorage:', e && e.message ? e.message : e); } }
 function $(sel, root=document){ return root.querySelector(sel); }
 function $all(sel, root=document){ return Array.from(root.querySelectorAll(sel)); }
 function esc(s=''){ return String(s).replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c])); }
 
 function attr(s=''){ return esc(s); }
+function escapeRegExp(s=''){ return String(s).replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
 function hasJapaneseText(s){ return /[一-龯々ぁ-んァ-ヶー]/.test(String(s||'')); }
 function cleanLookupText(text){
   const raw=String(text||'').replace(/\s+/g,' ').trim();
@@ -565,6 +566,7 @@ function updateMaziiFab(){
     fab.style.display='';
   }
 }
+function scheduleMaziiFabUpdate(delay=120){ setTimeout(updateMaziiFab, delay); }
 function bindMaziiLookup(){
   ensureMaziiUi();
   document.addEventListener('click', e=>{
@@ -578,9 +580,12 @@ function bindMaziiLookup(){
     }
     if(!e.target.closest('#maziiMenu')) hideMaziiMenu();
   }, true);
-  document.addEventListener('selectionchange', ()=>setTimeout(updateMaziiFab, 80));
-  document.addEventListener('mouseup', ()=>setTimeout(updateMaziiFab, 80));
-  document.addEventListener('touchend', ()=>setTimeout(updateMaziiFab, 220), {passive:true});
+  document.addEventListener('selectionchange', ()=>scheduleMaziiFabUpdate(80));
+  document.addEventListener('mouseup', ()=>scheduleMaziiFabUpdate(80));
+  document.addEventListener('keyup', ()=>scheduleMaziiFabUpdate(80));
+  document.addEventListener('touchstart', ()=>scheduleMaziiFabUpdate(260), {passive:true});
+  document.addEventListener('touchend', ()=>scheduleMaziiFabUpdate(260), {passive:true});
+  document.addEventListener('touchcancel', ()=>scheduleMaziiFabUpdate(260), {passive:true});
 }
 
 function fmtDate(ts){ if(!ts) return 'Chưa học'; return new Date(ts).toLocaleString('vi-VN'); }
@@ -1044,7 +1049,7 @@ function renderStudyCard(){
   $('.reveal', area).onclick=()=>revealCurrentCard(area);
   $('.skip-card', area).onclick=()=>skipCurrentCard();
   bindStudyGestures(area);
-  $all('[data-rate]', area).forEach(btn=>btn.onclick=()=>rateCard(card, btn.dataset.rate));
+  $all('[data-rate]', area).forEach(btn=>btn.onclick=(e)=>{ e.preventDefault(); if(btn.dataset.busy==='1') return; btn.dataset.busy='1'; rateCard(card, btn.dataset.rate); });
   bindFontScaleControls(area);
 }
 function revealCurrentCard(area=document){
@@ -1061,8 +1066,13 @@ function skipCurrentCard(){
 }
 function bindStudyGestures(area){
   let sx=0, sy=0, lastTap=0;
-  area.ontouchstart=e=>{ if(e.touches && e.touches[0]){ sx=e.touches[0].clientX; sy=e.touches[0].clientY; } };
+  const isInteractive = (target) => !!(target && target.closest && target.closest('button,a,input,select,textarea,label,.rating,.rating-explain,.mazii-menu,.mazii-fab,.lookup-word,.word-chip,details,summary'));
+  area.ontouchstart=e=>{
+    if(isInteractive(e.target)) return;
+    if(e.touches && e.touches[0]){ sx=e.touches[0].clientX; sy=e.touches[0].clientY; }
+  };
   area.ontouchend=e=>{
+    if(isInteractive(e.target)) return;
     const t=Date.now();
     if(t-lastTap<320){ revealCurrentCard(area); lastTap=0; return; }
     lastTap=t;

@@ -1,0 +1,37 @@
+Nihongo Memory Coach - Function Audit Report
+
+Base used:
+- Returned to the stable PDF layout/search-study version.
+
+Fixed/verified:
+1. Hôm nay thông minh
+   - Bắt đầu học hôm nay now opens full-screen study directly.
+2. Học / Review
+   - Restored Bắt đầu học hôm nay, Tạo phiên theo thiết lập, Review, New, All.
+   - If search keyword exists, Học / Review starts the search result deck.
+3. Rating buttons
+   - Chưa nhớ / Mơ hồ / Nhớ được / Nhớ chắc no longer conflict with mobile swipe/double-tap gestures.
+   - Click is debounced to avoid double submit.
+4. Mazii
+   - Dynamic Mazii UI is created on startup.
+   - Selection floating button has high z-index and touch fallback listeners.
+   - App-only mode remains; no web fallback.
+5. Search
+   - Keeps normalized search: Kanji, hiragana, Vietnamese with/without accents.
+   - Search result sorting prioritizes title/reading/meaning over raw PDF.
+6. PDF display
+   - Keeps the PDF-like layout fix.
+   - Keeps example reading lines.
+7. Other tabs
+   - Quiz, Drive Mode, Danh sách, Từ yếu, Dễ nhầm, Cài đặt preserved.
+8. Syntax
+   - node --check passed.
+
+Manual browser tests performed in Chromium mobile viewport using the patched HTML:
+- Dashboard loaded: OK
+- Smart study opens focus screen: OK
+- Reveal answer shows rating buttons: OK
+- Rating advances card: OK
+- Search 蒸し暑い finds card: OK
+- Search then Học / Review opens search deck: OK
+- Mazii FAB appears after selecting Japanese text: OK
