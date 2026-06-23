@@ -1,0 +1,20 @@
+﻿id,title,action,details
+N2-vocab-0227,異文化,patched,Meaning was blank; PDF entry itself has no example.
+N2-vocab-0239,思考,patched,Meaning was blank; fixed from raw context.
+N2-vocab-0246,日差し,patched,Example continued on the next PDF page; added it.
+N2-vocab-0283,でたらめ,patched,Meaning was blank; fixed from raw context.
+N2-vocab-0645,連絡先を教えて頂けますでしょうか,patched,Rebuilt from the phrase extracted inside the 厚かましい example.
+N2-vocab-0884,アレンジ,patched,Example continued on the next PDF page; added it.
+N2-vocab-0889,ターゲット,patched,Examples continued on the next PDF page; added them.
+N3-vocab-0662,知識,patched,Meaning was blank; fixed from raw context.
+N3-vocab-0713,意味1,removed_broken_card,PDF section marker was extracted as a fake card.
+N2-vocab-0131,評価,removed_duplicate,Duplicate N2 vocab 121-130 repeated in source extraction.
+N2-vocab-0132,診断,removed_duplicate,Duplicate N2 vocab 121-130 repeated in source extraction.
+N2-vocab-0133,権利,removed_duplicate,Duplicate N2 vocab 121-130 repeated in source extraction.
+N2-vocab-0134,増大,removed_duplicate,Duplicate N2 vocab 121-130 repeated in source extraction.
+N2-vocab-0135,上達,removed_duplicate,Duplicate N2 vocab 121-130 repeated in source extraction.
+N2-vocab-0136,視察,removed_duplicate,Duplicate N2 vocab 121-130 repeated in source extraction.
+N2-vocab-0137,削除,removed_duplicate,Duplicate N2 vocab 121-130 repeated in source extraction.
+N2-vocab-0138,減量,removed_duplicate,Duplicate N2 vocab 121-130 repeated in source extraction.
+N2-vocab-0139,整備,removed_duplicate,Duplicate N2 vocab 121-130 repeated in source extraction.
+N2-vocab-0140,視線,removed_duplicate,Duplicate N2 vocab 121-130 repeated in source extraction.

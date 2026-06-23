@@ -1,0 +1,16 @@
+Example coverage audit for Nihongo Memory Coach
+
+Base file: index.html
+Output file: index_example_coverage_fixed.html
+Initial cards in base: 2556
+Cards after cleanup: 2545
+Fixed/removed items: 19
+Cards with example/phrase: 2544
+Cards missing examples after fix: 1
+Vocabulary cards missing Vietnamese meaning after fix: 0
+Duplicate key groups after fix: 0
+
+Remaining missing examples:
+- N2-vocab-0227 異文化 (N2 vocab, page 70): PDF/app data has no example marker.
+
+JavaScript syntax check: OK
