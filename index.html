@@ -8,7 +8,7 @@
   <meta name="apple-mobile-web-app-title" content="Nihongo Coach" />
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <meta name="format-detection" content="telephone=no" />
-  <title>Nihongo Memory Coach - no-folder PDF - Restored + Search Fixed</title>
+  <title>Nihongo Memory Coach - mobile PDF exact page fix</title>
   <style>
 :root{
   --bg:#f5f7fb; --panel:#ffffff; --ink:#1f2937; --muted:#6b7280;
@@ -315,6 +315,24 @@ button.ghost{color:inherit;}
 .pdf-inline-viewer.show{display:block}
 .pdf-inline-viewer iframe{width:100%;height:min(72vh,760px);border:0;background:#fff}
 @media(max-width:640px){.pdf-source-actions{display:grid;grid-template-columns:1fr}.pdf-source-actions button,.pdf-source-actions a{width:100%}.pdf-inline-viewer iframe{height:68vh}}
+
+
+
+/* Mobile-safe exact PDF page viewer (PDF.js, no Safari #page dependence) */
+.pdf-exact-hint{display:inline-flex;align-items:center;gap:6px;font-size:12px;color:var(--muted);line-height:1.35}
+.pdf-canvas-wrap{display:grid;place-items:center;gap:10px;padding:10px;background:#f8fafc;overflow:auto;max-height:75vh}
+[data-theme="dark"] .pdf-canvas-wrap{background:#020617}
+.pdf-canvas-wrap canvas{max-width:100%;height:auto;border:1px solid var(--line);border-radius:10px;background:white;box-shadow:0 10px 28px rgba(15,23,42,.12)}
+.pdf-loader,.pdf-error{padding:16px;border-radius:12px;background:rgba(15,159,143,.08);font-weight:800;color:var(--ink)}
+.pdf-error{background:rgba(239,68,68,.10);color:#b91c1c}
+.pdf-exact-modal{position:fixed;inset:0;background:rgba(15,23,42,.72);z-index:99999;display:none;align-items:stretch;justify-content:center;padding:12px}
+.pdf-exact-modal.show{display:flex}
+.pdf-exact-panel{width:min(1100px,100%);height:100%;background:var(--bg);border:1px solid var(--line);border-radius:18px;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 22px 60px rgba(0,0,0,.35)}
+.pdf-exact-head{display:flex;gap:8px;align-items:center;justify-content:space-between;padding:10px 12px;border-bottom:1px solid var(--line);background:var(--panel)}
+.pdf-exact-title{font-weight:900;line-height:1.35}.pdf-exact-actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.pdf-exact-body{flex:1;min-height:0;overflow:auto;background:#f8fafc}
+[data-theme="dark"] .pdf-exact-body{background:#020617}
+body.pdf-modal-open{overflow:hidden}
+@media(max-width:640px){.pdf-exact-modal{padding:0}.pdf-exact-panel{border-radius:0}.pdf-exact-head{align-items:flex-start}.pdf-exact-actions button{min-height:42px}.pdf-canvas-wrap{max-height:none;min-height:100%;padding:8px}.pdf-source-actions{grid-template-columns:1fr}.pdf-exact-hint{display:block}}
 
 </style>
 </head>
@@ -1317,6 +1335,11 @@ function vocabPdfLikeHtml(c){
 // --- Source PDF viewer (GitHub-safe split PDF chunks; each file <25MB) ---
 const SOURCE_PDF_BY_SOURCE = {"N2 Junbi Từ vựng":"1775549413-n2-junbi-tuvung-tonghop-07042026.pdf","N3 Junbi Từ vựng":"N3 Junbi - Từ vựng - bản hoàn thiện.pdf","N2 Junbi Hán tự":"n2-junbi-kanji-tonghop.pdf","N3 Junbi Hán tự":"n3-junbi-kanji-tonghop-fixed.pdf"};
 const SOURCE_PDF_CHUNKS = {"1775549413-n2-junbi-tuvung-tonghop-07042026.pdf":[{"start":1,"end":25,"file":"1775549413-n2-junbi-tuvung-tonghop-07042026_p001-025.pdf","size":8468571},{"start":26,"end":50,"file":"1775549413-n2-junbi-tuvung-tonghop-07042026_p026-050.pdf","size":6640350},{"start":51,"end":75,"file":"1775549413-n2-junbi-tuvung-tonghop-07042026_p051-075.pdf","size":4330881},{"start":76,"end":100,"file":"1775549413-n2-junbi-tuvung-tonghop-07042026_p076-100.pdf","size":2047515},{"start":101,"end":125,"file":"1775549413-n2-junbi-tuvung-tonghop-07042026_p101-125.pdf","size":1577402},{"start":126,"end":150,"file":"1775549413-n2-junbi-tuvung-tonghop-07042026_p126-150.pdf","size":1720031},{"start":151,"end":175,"file":"1775549413-n2-junbi-tuvung-tonghop-07042026_p151-175.pdf","size":2472360},{"start":176,"end":200,"file":"1775549413-n2-junbi-tuvung-tonghop-07042026_p176-200.pdf","size":1286311},{"start":201,"end":225,"file":"1775549413-n2-junbi-tuvung-tonghop-07042026_p201-225.pdf","size":5944235},{"start":226,"end":250,"file":"1775549413-n2-junbi-tuvung-tonghop-07042026_p226-250.pdf","size":6631428},{"start":251,"end":275,"file":"1775549413-n2-junbi-tuvung-tonghop-07042026_p251-275.pdf","size":1322249},{"start":276,"end":300,"file":"1775549413-n2-junbi-tuvung-tonghop-07042026_p276-300.pdf","size":5787867},{"start":301,"end":304,"file":"1775549413-n2-junbi-tuvung-tonghop-07042026_p301-304.pdf","size":1448423}],"N3 Junbi - Từ vựng - bản hoàn thiện.pdf":[{"start":1,"end":25,"file":"N3 Junbi - Từ vựng - bản hoàn thiện_p001-025.pdf","size":18807749},{"start":26,"end":50,"file":"N3 Junbi - Từ vựng - bản hoàn thiện_p026-050.pdf","size":3871107},{"start":51,"end":75,"file":"N3 Junbi - Từ vựng - bản hoàn thiện_p051-075.pdf","size":3207906},{"start":76,"end":100,"file":"N3 Junbi - Từ vựng - bản hoàn thiện_p076-100.pdf","size":3818868},{"start":101,"end":125,"file":"N3 Junbi - Từ vựng - bản hoàn thiện_p101-125.pdf","size":4507660},{"start":126,"end":150,"file":"N3 Junbi - Từ vựng - bản hoàn thiện_p126-150.pdf","size":3430082},{"start":151,"end":175,"file":"N3 Junbi - Từ vựng - bản hoàn thiện_p151-175.pdf","size":3878788},{"start":176,"end":200,"file":"N3 Junbi - Từ vựng - bản hoàn thiện_p176-200.pdf","size":4434861},{"start":201,"end":225,"file":"N3 Junbi - Từ vựng - bản hoàn thiện_p201-225.pdf","size":3441265},{"start":226,"end":250,"file":"N3 Junbi - Từ vựng - bản hoàn thiện_p226-250.pdf","size":3550107},{"start":251,"end":275,"file":"N3 Junbi - Từ vựng - bản hoàn thiện_p251-275.pdf","size":3596429},{"start":276,"end":300,"file":"N3 Junbi - Từ vựng - bản hoàn thiện_p276-300.pdf","size":3579367},{"start":301,"end":304,"file":"N3 Junbi - Từ vựng - bản hoàn thiện_p301-304.pdf","size":14557076}],"n2-junbi-kanji-tonghop.pdf":[{"start":1,"end":5,"file":"n2-junbi-kanji-tonghop_p001-005.pdf","size":22714330},{"start":6,"end":25,"file":"n2-junbi-kanji-tonghop_p006-025.pdf","size":12821595},{"start":26,"end":50,"file":"n2-junbi-kanji-tonghop_p026-050.pdf","size":6416943},{"start":51,"end":75,"file":"n2-junbi-kanji-tonghop_p051-075.pdf","size":6082094},{"start":76,"end":100,"file":"n2-junbi-kanji-tonghop_p076-100.pdf","size":6609539},{"start":101,"end":125,"file":"n2-junbi-kanji-tonghop_p101-125.pdf","size":6200205},{"start":126,"end":150,"file":"n2-junbi-kanji-tonghop_p126-150.pdf","size":6323552},{"start":151,"end":161,"file":"n2-junbi-kanji-tonghop_p151-161.pdf","size":3405568}],"n3-junbi-kanji-tonghop-fixed.pdf":[{"start":1,"end":25,"file":"n3-junbi-kanji-tonghop-fixed_p001-025.pdf","size":19490808},{"start":26,"end":50,"file":"n3-junbi-kanji-tonghop-fixed_p026-050.pdf","size":4773932},{"start":51,"end":75,"file":"n3-junbi-kanji-tonghop-fixed_p051-075.pdf","size":4759234},{"start":76,"end":100,"file":"n3-junbi-kanji-tonghop-fixed_p076-100.pdf","size":4763856},{"start":101,"end":125,"file":"n3-junbi-kanji-tonghop-fixed_p101-125.pdf","size":4522549},{"start":126,"end":149,"file":"n3-junbi-kanji-tonghop-fixed_p126-149.pdf","size":17723765}]};
+function pdfAssetUrl(file, base='pdfs/'){
+  const encoded = encodeURIComponent(String(file||'')).replace(/%2F/g,'/');
+  return String(base||'') + encoded;
+}
+function jsArg(value){ return JSON.stringify(String(value==null?'':value)); }
 function pdfSourceInfoForCard(card){
   if(!card) return null;
   const original = SOURCE_PDF_BY_SOURCE[card.source] || '';
@@ -1325,17 +1348,21 @@ function pdfSourceInfoForCard(card){
   const chunk = SOURCE_PDF_CHUNKS[original].find(x=>page>=x.start && page<=x.end);
   if(!chunk) return null;
   const pageInChunk = page - chunk.start + 1;
-  const url = encodeURIComponent(chunk.file).replace(/%2F/g,'/') + '#page=' + pageInChunk;
-  return {original, page, chunk, pageInChunk, url};
+  const nativeUrl = pdfAssetUrl(chunk.file,'pdfs/') + '#page=' + pageInChunk;
+  return {original, page, chunk, pageInChunk, nativeUrl};
 }
 function pdfSourceButtonsHtml(card){
   const info = pdfSourceInfoForCard(card);
   if(!info) return '';
   const id = 'pdfViewer_' + String(card.id||'').replace(/[^a-zA-Z0-9_-]/g,'_');
-  const safeId = esc(id);
-  const safeUrl = esc(info.url);
-  const note = `PDF gốc: trang ${info.page} / file nhỏ: ${info.chunk.file} trang ${info.pageInChunk}`;
-  return `<div class="pdf-source-actions"><a href="${safeUrl}" target="_blank" rel="noopener">📖 Mở trang PDF</a><button type="button" class="ghost-link" onclick="toggleInlinePdf('${safeId}','${safeUrl}',this)">🖼️ Hiện trang PDF</button><span class="small muted">${esc(note)}</span></div><div id="${safeId}" class="pdf-inline-viewer" data-url="${safeUrl}"></div>`;
+  const note = `PDF gốc: trang ${info.page} / file nhỏ: ${info.chunk.file} / trang trong file nhỏ: ${info.pageInChunk}`;
+  const title = `${card.title||''} · ${note}`;
+  return `<div class="pdf-source-actions">
+    <button type="button" onclick='openPdfExactViewer(${jsArg(info.chunk.file)}, ${Number(info.pageInChunk)}, ${Number(info.page)}, ${jsArg(title)})'>📖 Mở đúng trang PDF</button>
+    <button type="button" class="ghost-link" onclick='toggleInlinePdfExact(${jsArg(id)}, ${jsArg(info.chunk.file)}, ${Number(info.pageInChunk)}, ${Number(info.page)}, ${jsArg(title)}, this)'>🖼️ Hiện trang PDF trong app</button>
+    <a class="ghost-link" href="${esc(info.nativeUrl)}" target="_blank" rel="noopener">Mở bằng trình duyệt</a>
+    <span class="pdf-exact-hint">📱 Trên điện thoại hãy dùng nút “Mở đúng trang PDF”; nút trình duyệt có thể sai trang do Safari bỏ qua #page.</span>
+  </div><div id="${esc(id)}" class="pdf-inline-viewer" data-file="${esc(info.chunk.file)}" data-page="${esc(info.pageInChunk)}"></div>`;
 }
 function toggleInlinePdf(id, url, btn){
   const box = document.getElementById(id);
@@ -1350,6 +1377,110 @@ function toggleInlinePdf(id, url, btn){
   box.classList.add('show');
   if(btn) btn.textContent='Ẩn trang PDF';
 }
+let __pdfJsPromise=null;
+function ensurePdfJs(){
+  if(window.pdfjsLib){
+    if(window.pdfjsLib.GlobalWorkerOptions) window.pdfjsLib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+    return Promise.resolve(window.pdfjsLib);
+  }
+  if(__pdfJsPromise) return __pdfJsPromise;
+  __pdfJsPromise = new Promise((resolve,reject)=>{
+    const s=document.createElement('script');
+    s.src='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js';
+    s.onload=()=>{
+      if(window.pdfjsLib && window.pdfjsLib.GlobalWorkerOptions) window.pdfjsLib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+      window.pdfjsLib ? resolve(window.pdfjsLib) : reject(new Error('Không tải được PDF.js'));
+    };
+    s.onerror=()=>reject(new Error('Không tải được PDF.js. Hãy kiểm tra internet hoặc mở bằng trình duyệt.'));
+    document.head.appendChild(s);
+  });
+  return __pdfJsPromise;
+}
+async function loadPdfDocumentSmart(file){
+  const pdfjs = await ensurePdfJs();
+  const candidates=[pdfAssetUrl(file,'pdfs/'), pdfAssetUrl(file,'')];
+  let lastErr=null;
+  for(const url of candidates){
+    try{
+      const task = pdfjs.getDocument({url, disableAutoFetch:false, disableStream:false});
+      const doc = await task.promise;
+      return {doc,url};
+    }catch(err){ lastErr=err; }
+  }
+  throw lastErr || new Error('Không tìm thấy file PDF: '+file);
+}
+async function renderPdfExactPage(target, file, pageInFile, originalPage, title){
+  const box = (typeof target==='string') ? document.getElementById(target) : target;
+  if(!box) return;
+  const safeTitle = title || `Trang PDF ${originalPage||''}`;
+  box.innerHTML = `<div class="pdf-loader">Đang tải đúng trang PDF...<br><span class="small muted">${esc(safeTitle)}</span></div>`;
+  try{
+    const {doc,url}=await loadPdfDocumentSmart(file);
+    const pageNo = Math.max(1, Math.min(Number(pageInFile)||1, doc.numPages));
+    const page = await doc.getPage(pageNo);
+    const baseViewport = page.getViewport({scale:1});
+    const available = Math.max(280, Math.min(980, (box.clientWidth || window.innerWidth || 800) - 26));
+    const cssScale = Math.max(.55, Math.min(2.2, available / baseViewport.width));
+    const viewport = page.getViewport({scale:cssScale});
+    const dpr = Math.max(1, Math.min(2, window.devicePixelRatio || 1));
+    const canvas=document.createElement('canvas');
+    canvas.width=Math.floor(viewport.width*dpr);
+    canvas.height=Math.floor(viewport.height*dpr);
+    canvas.style.width=Math.floor(viewport.width)+'px';
+    canvas.style.height=Math.floor(viewport.height)+'px';
+    const ctx=canvas.getContext('2d');
+    ctx.setTransform(dpr,0,0,dpr,0,0);
+    box.innerHTML = `<div class="pdf-canvas-wrap"><div class="small muted">${esc(safeTitle)}<br>Đang hiển thị: ${esc(file)} · trang ${pageNo}/${doc.numPages}</div></div>`;
+    const wrap=box.querySelector('.pdf-canvas-wrap');
+    wrap.appendChild(canvas);
+    await page.render({canvasContext:ctx, viewport}).promise;
+    const native=document.createElement('a');
+    native.href=url+'#page='+pageNo;
+    native.target='_blank';
+    native.rel='noopener';
+    native.className='small';
+    native.textContent='Mở file PDF bằng trình duyệt';
+    wrap.appendChild(native);
+  }catch(err){
+    box.innerHTML = `<div class="pdf-error">Không mở được trang PDF trong app.<br>${esc(err && err.message ? err.message : err)}<br><span class="small muted">Hãy kiểm tra file PDF đã upload đúng tên, hoặc dùng nút “Mở bằng trình duyệt”.</span></div>`;
+  }
+}
+function toggleInlinePdfExact(id, file, pageInFile, originalPage, title, btn){
+  const box=document.getElementById(id);
+  if(!box) return;
+  if(box.classList.contains('show')){
+    box.classList.remove('show');
+    box.innerHTML='';
+    if(btn) btn.textContent='🖼️ Hiện trang PDF trong app';
+    return;
+  }
+  box.classList.add('show');
+  if(btn) btn.textContent='Ẩn trang PDF';
+  renderPdfExactPage(box, file, pageInFile, originalPage, title);
+}
+function openPdfExactViewer(file, pageInFile, originalPage, title){
+  let modal=document.getElementById('pdfExactModal');
+  if(!modal){
+    modal=document.createElement('div');
+    modal.id='pdfExactModal';
+    modal.className='pdf-exact-modal';
+    document.body.appendChild(modal);
+  }
+  modal.innerHTML=`<div class="pdf-exact-panel">
+    <div class="pdf-exact-head"><div class="pdf-exact-title">📖 ${esc(title||'Trang PDF gốc')}</div><div class="pdf-exact-actions"><button type="button" class="ghost" onclick="closePdfExactViewer()">Đóng</button></div></div>
+    <div class="pdf-exact-body" id="pdfExactBody"></div>
+  </div>`;
+  modal.classList.add('show');
+  document.body.classList.add('pdf-modal-open');
+  renderPdfExactPage(document.getElementById('pdfExactBody'), file, pageInFile, originalPage, title);
+}
+function closePdfExactViewer(){
+  const modal=document.getElementById('pdfExactModal');
+  if(modal){ modal.classList.remove('show'); modal.innerHTML=''; }
+  document.body.classList.remove('pdf-modal-open');
+}
+window.addEventListener('keydown', e=>{ if(e.key==='Escape') closePdfExactViewer(); });
+
 
 function kanjiPdfLikeHtml(c){
   const rawLines=rawLineList(c.raw);
