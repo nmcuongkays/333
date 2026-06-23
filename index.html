@@ -8,7 +8,7 @@
   <meta name="apple-mobile-web-app-title" content="Nihongo Coach" />
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <meta name="format-detection" content="telephone=no" />
-  <title>Nihongo Memory Coach - Restored + Search Fixed</title>
+  <title>Nihongo Memory Coach - no-folder PDF - Restored + Search Fixed</title>
   <style>
 :root{
   --bg:#f5f7fb; --panel:#ffffff; --ink:#1f2937; --muted:#6b7280;
@@ -1325,7 +1325,7 @@ function pdfSourceInfoForCard(card){
   const chunk = SOURCE_PDF_CHUNKS[original].find(x=>page>=x.start && page<=x.end);
   if(!chunk) return null;
   const pageInChunk = page - chunk.start + 1;
-  const url = 'pdfs/' + encodeURIComponent(chunk.file).replace(/%2F/g,'/') + '#page=' + pageInChunk;
+  const url = encodeURIComponent(chunk.file).replace(/%2F/g,'/') + '#page=' + pageInChunk;
   return {original, page, chunk, pageInChunk, url};
 }
 function pdfSourceButtonsHtml(card){
