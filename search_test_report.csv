@@ -1,0 +1,9 @@
+query,expected_top_result,result_count,status
+蒸し暑い,蒸し暑い,3,OK
+むしあつい,蒸し暑い,1,OK
+nóng nực,蒸し暑い,1,OK
+nong nuc,蒸し暑い,1,OK
+評判,評判,12,OK
+ひょうばん,評判,3,OK
+甘やかす,甘やかす,1,OK
+あまやかす,甘やかす,1,OK

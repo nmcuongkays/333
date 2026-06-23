@@ -1,97 +1,69 @@
-﻿id,type,before,after
-N2-vocab-0049,extra_manual,"{""title"": ""補足"", ""reading"": """", ""meaning_vi"": ""Bổ túc, bổ sung""}","{""title"": ""補足"", ""reading"": ""ほそく"", ""meaning_vi"": ""Bổ túc, bổ sung""}"
-N2-vocab-0050,extra_manual,"{""title"": ""催促"", ""reading"": """", ""meaning_vi"": ""Thúc giục, hối thúc""}","{""title"": ""催促"", ""reading"": ""さいそく"", ""meaning_vi"": ""Thúc giục, hối thúc""}"
-N2-vocab-0083,extra_manual,"{""title"": ""謝り"", ""reading"": """", ""meaning_vi"": ""Sai, nhầm, lỗi""}","{""title"": ""誤り"", ""reading"": ""あやまり"", ""meaning_vi"": ""Sai, nhầm, lỗi""}"
-N2-vocab-0107,extra_manual,"{""title"": ""初歩"", ""reading"": ""しょほ"", ""meaning_vi"": ""Đánh giá/Có tiếng""}","{""title"": ""初歩"", ""reading"": ""しょほ"", ""meaning_vi"": ""Sơ cấp, bước đầu""}"
-N2-vocab-0125,extra_manual,"{""title"": ""上達"", ""reading"": ""じょうたつ"", ""meaning_vi"": ""Đánh giá/Có tiếng""}","{""title"": ""上達"", ""reading"": ""じょうたつ"", ""meaning_vi"": ""Tiến bộ""}"
-N2-vocab-0126,extra_manual,"{""title"": ""視察"", ""reading"": ""しさつ"", ""meaning_vi"": ""Đánh giá/Có tiếng""}","{""title"": ""視察"", ""reading"": ""しさつ"", ""meaning_vi"": ""Thị sát""}"
-N2-vocab-0197,extra_manual,"{""title"": ""やる気"", ""reading"": ""き"", ""meaning_vi"": ""Hứng thú""}","{""title"": ""やる気"", ""reading"": ""やるき"", ""meaning_vi"": ""Hứng thú""}"
-N2-vocab-0313,extra_manual,"{""title"": ""皮膚"", ""reading"": ""ひふ"", ""meaning_vi"": ""Vươn ra/Sự tiến lên""}","{""title"": ""皮膚"", ""reading"": ""ひふ"", ""meaning_vi"": ""Da, làn da""}"
-N2-vocab-0344,extra_manual,"{""title"": ""生きがい"", ""reading"": """", ""meaning_vi"": ""Lẽ sống""}","{""title"": ""生きがい"", ""reading"": ""いきがい"", ""meaning_vi"": ""Lẽ sống""}"
-N2-vocab-0350,extra_manual,"{""title"": ""処分"", ""reading"": """", ""meaning_vi"": ""Sự tống khứ, bỏ đi/ Sự phạt, trừng phạt""}","{""title"": ""処分"", ""reading"": ""しょぶん"", ""meaning_vi"": ""Sự tống khứ, bỏ đi/ Sự phạt, trừng phạt""}"
-N2-vocab-0377,extra_manual,"{""title"": ""た目"", ""reading"": ""みめ"", ""meaning_vi"": ""Vẻ bề ngoài, dáng vẻ""}","{""title"": ""見た目"", ""reading"": ""みため"", ""meaning_vi"": ""Vẻ bề ngoài, dáng vẻ""}"
-N2-vocab-0423,extra_manual,"{""title"": ""叶う"", ""reading"": ""かのう"", ""meaning_vi"": ""Trở thành sự thực""}","{""title"": ""叶う"", ""reading"": ""かなう"", ""meaning_vi"": ""Trở thành sự thực""}"
-N2-vocab-0471,extra_manual,"{""title"": ""屈む"", ""reading"": ""かかむ"", ""meaning_vi"": ""Khom lưng, cúi gập người""}","{""title"": ""屈む"", ""reading"": ""かがむ"", ""meaning_vi"": ""Khom lưng, cúi gập người""}"
-N2-vocab-0545,extra_manual,"{""title"": ""ひっくり返す"", ""reading"": """", ""meaning_vi"": ""Đảo lộn, lật ngược""}","{""title"": ""ひっくり返す"", ""reading"": ""ひっくりかえす"", ""meaning_vi"": ""Đảo lộn, lật ngược""}"
-N2-vocab-0584,extra_manual,"{""title"": ""引き止める"", ""reading"": ""ひとめる"", ""meaning_vi"": ""Kéo lại, níu kéo""}","{""title"": ""引き止める"", ""reading"": ""ひきとめる"", ""meaning_vi"": ""Kéo lại, níu kéo""}"
-N2-vocab-0614,extra_manual,"{""title"": ""繰り返す"", ""reading"": ""くりかえす"", ""meaning_vi"": ""Đảm nhiệm, phụ trách""}","{""title"": ""繰り返す"", ""reading"": ""くりかえす"", ""meaning_vi"": ""Lặp lại""}"
-N2-vocab-0633,extra_manual,"{""title"": ""〜を騒がす"", ""reading"": """", ""meaning_vi"": ""Ồn ào, gây xôn xao dư luận""}","{""title"": ""〜を騒がす"", ""reading"": ""さわがす"", ""meaning_vi"": ""Ồn ào, gây xôn xao dư luận""}"
-N2-vocab-0645,extra_manual,"{""title"": ""連絡先を教えて頂けますでしょうか"", ""reading"": """", ""meaning_vi"": """"}","{""title"": ""連絡先を教えて頂けますでしょうか"", ""reading"": ""れんらくさきをおしえていただけますでしょうか"", ""meaning_vi"": """"}"
-N2-vocab-0830,extra_manual,"{""title"": ""再三"", ""reading"": """", ""meaning_vi"": ""TÁI TAM Dăm ba bận, vài lần""}","{""title"": ""再三"", ""reading"": ""さいさん"", ""meaning_vi"": ""TÁI TAM Dăm ba bận, vài lần""}"
-N2-vocab-0841,extra_manual,"{""title"": ""かえって"", ""reading"": """", ""meaning_vi"": ""Đánh giá/Có tiếng""}","{""title"": ""かえって"", ""reading"": """", ""meaning_vi"": ""Trái lại, ngược lại với dự đoán""}"
-N2-vocab-0858,extra_manual,"{""title"": ""未だに"", ""reading"": """", ""meaning_vi"": ""Ngay cả bây giờ""}","{""title"": ""未だに"", ""reading"": ""いまだに"", ""meaning_vi"": ""Ngay cả bây giờ""}"
-N2-vocab-0863,extra_manual,"{""title"": ""事前に"", ""reading"": """", ""meaning_vi"": ""Trước""}","{""title"": ""事前に"", ""reading"": ""じぜんに"", ""meaning_vi"": ""Trước""}"
-N2-vocab-0895,extra_manual,"{""title"": ""ゲスト"", ""reading"": """", ""meaning_vi"": ""Đánh giá/Có tiếng""}","{""title"": ""ゲスト"", ""reading"": """", ""meaning_vi"": ""Khách mời""}"
-N2-vocab-0899,extra_manual,"{""title"": ""評判"", ""reading"": ""ひょうばん"", ""meaning_vi"": ""1. Đánh giá/Có tiếng 2. Sự vào lưới, tới đích""}","{""title"": ""ゴール"", ""reading"": """", ""meaning_vi"": ""1. Đích, vạch đích 2. Bàn thắng 3. Mục tiêu cuối cùng""}"
-N3-vocab-0144,extra_manual,"{""title"": ""(を)思い出す"", ""reading"": ""おもだす"", ""meaning_vi"": ""Nhớ lại/ Nhớ ra""}","{""title"": ""(を)思い出す"", ""reading"": ""おもいだす"", ""meaning_vi"": ""Nhớ lại/ Nhớ ra""}"
-N3-vocab-0146,extra_manual,"{""title"": ""(を)申し込む"", ""reading"": ""もうこむ"", ""meaning_vi"": ""1. Đăng ký 2. Cầu hôn""}","{""title"": ""(を)申し込む"", ""reading"": ""もうしこむ"", ""meaning_vi"": ""1. Đăng ký 2. Cầu hôn""}"
-N3-vocab-0166,extra_manual,"{""title"": ""(が)付き合う"", ""reading"": ""つあう"", ""meaning_vi"": ""1. Giao du/ Chơi với 2. Cùng làm/ Có hẹn với 3. Hẹn hò""}","{""title"": ""(が)付き合う"", ""reading"": ""つきあう"", ""meaning_vi"": ""1. Giao du/ Chơi với 2. Cùng làm/ Có hẹn với 3. Hẹn hò""}"
-N3-vocab-0174,extra_manual,"{""title"": ""(が)すれ違う"", ""reading"": ""ちがう"", ""meaning_vi"": ""1. Tránh nhau, đi lướt qua 2. Không hiểu nhau 3. Lệch (giờ, địa điểm)""}","{""title"": ""(が)すれ違う"", ""reading"": ""すれちがう"", ""meaning_vi"": ""1. Tránh nhau, đi lướt qua 2. Không hiểu nhau 3. Lệch (giờ, địa điểm)""}"
-N3-vocab-0230,extra_manual,"{""title"": ""頼み・願い"", ""reading"": ""たのねがい"", ""meaning_vi"": ""1. Lời thỉnh cầu,""}","{""title"": ""頼み・願い"", ""reading"": ""たのみ・ねがい"", ""meaning_vi"": ""1. Lời thỉnh cầu,""}"
-N3-vocab-0253,extra_manual,"{""title"": ""怒り"", ""reading"": """", ""meaning_vi"": ""Tức giận""}","{""title"": ""怒り"", ""reading"": ""いかり"", ""meaning_vi"": ""Tức giận""}"
-N3-vocab-0311,extra_manual,"{""title"": ""(お)礼"", ""reading"": ""れい"", ""meaning_vi"": ""Cảm ơn""}","{""title"": ""(お)礼"", ""reading"": ""おれい"", ""meaning_vi"": ""Cảm ơn""}"
-N3-vocab-0312,extra_manual,"{""title"": ""(お)詫び"", ""reading"": ""わび"", ""meaning_vi"": ""Xin lỗi""}","{""title"": ""(お)詫び"", ""reading"": ""おわび"", ""meaning_vi"": ""Xin lỗi""}"
-N3-vocab-0313,extra_manual,"{""title"": ""(お) 辞儀"", ""reading"": ""じぎ"", ""meaning_vi"": ""Cúi chào""}","{""title"": ""(お) 辞儀"", ""reading"": ""おじぎ"", ""meaning_vi"": ""Cúi chào""}"
-N3-vocab-0460,extra_manual,"{""title"": ""(を)繰り返す"", ""reading"": ""くかえす"", ""meaning_vi"": ""Lặp lại""}","{""title"": ""(を)繰り返す"", ""reading"": ""くりかえす"", ""meaning_vi"": ""Lặp lại""}"
-N3-vocab-0560,extra_manual,"{""title"": ""正確(な)"", ""reading"": ""せいかく"", ""meaning_vi"": ""Chính xác""}","{""title"": ""正確(な)"", ""reading"": ""せいかく"", ""meaning_vi"": ""Chính xác""}"
-N3-vocab-0600,extra_manual,"{""title"": ""あっと言う間(に)"", ""reading"": ""いま(に)"", ""meaning_vi"": ""Loáng một cái/ Trong nháy mắt, trong khoảnh khắc""}","{""title"": ""あっと言う間(に)"", ""reading"": ""あっというま"", ""meaning_vi"": ""Loáng một cái/ Trong nháy mắt, trong khoảnh khắc""}"
-N3-vocab-0601,extra_manual,"{""title"": ""いつの間にか"", ""reading"": ""まにか"", ""meaning_vi"": ""Lúc nào không biết""}","{""title"": ""いつの間にか"", ""reading"": ""いつのまにか"", ""meaning_vi"": ""Lúc nào không biết""}"
-N3-vocab-0732,extra_manual,"{""title"": ""(を)思いやる"", ""reading"": """", ""meaning_vi"": ""Quan tâm (nghĩ cho người khác)""}","{""title"": ""(を)思いやる"", ""reading"": ""おもいやる"", ""meaning_vi"": ""Quan tâm (nghĩ cho người khác)""}"
-N3-vocab-0744,extra_manual,"{""title"": ""(が)つながる"", ""reading"": """", ""meaning_vi"": ""1. Nối, kết nối 2. (Kéo dài) liên tục 3. Kết nối (điện thoại, mạng)""}","{""title"": ""(が)つながる"", ""reading"": ""つながる"", ""meaning_vi"": ""1. Nối, kết nối 2. (Kéo dài) liên tục 3. Kết nối (điện thoại, mạng)""}"
-N3-vocab-0745,extra_manual,"{""title"": ""(を)つなぐ"", ""reading"": """", ""meaning_vi"": ""Nối, kết nối""}","{""title"": ""(を)つなぐ"", ""reading"": ""つなぐ"", ""meaning_vi"": ""Nối, kết nối""}"
-N3-vocab-0746,extra_manual,"{""title"": ""(を)つなげる"", ""reading"": """", ""meaning_vi"": ""Kết nối""}","{""title"": ""(を)つなげる"", ""reading"": ""つなげる"", ""meaning_vi"": ""Kết nối""}"
-N3-vocab-0753,extra_manual,"{""title"": ""(が)そろう"", ""reading"": """", ""meaning_vi"": ""1. Tập trung (đầy đủ) 2. Đồng bộ (tông xoẹt tông) 3. Thống nhất""}","{""title"": ""(が)そろう"", ""reading"": ""そろう"", ""meaning_vi"": ""1. Tập trung (đầy đủ) 2. Đồng bộ (tông xoẹt tông) 3. Thống nhất""}"
-N3-vocab-0754,extra_manual,"{""title"": ""そろえる"", ""reading"": """", ""meaning_vi"": ""1. Sắp xếp, để ngay ngắn 2. Tập trung (sẵn sàng, đầy đủ)""}","{""title"": ""そろえる"", ""reading"": ""そろえる"", ""meaning_vi"": ""1. Sắp xếp, để ngay ngắn 2. Tập trung (sẵn sàng, đầy đủ)""}"
-N3-vocab-0755,extra_manual,"{""title"": ""(が)まとまる"", ""reading"": """", ""meaning_vi"": ""Được thống nhất""}","{""title"": ""(が)まとまる"", ""reading"": ""まとまる"", ""meaning_vi"": ""Được thống nhất""}"
-N3-vocab-0756,extra_manual,"{""title"": ""(を)まとめる"", ""reading"": """", ""meaning_vi"": ""Tổng hợp, thống nhất, tập trung 名:まとめ (Tổng hợp)""}","{""title"": ""(を)まとめる"", ""reading"": ""まとめる"", ""meaning_vi"": ""Tổng hợp, thống nhất, tập trung 名:まとめ (Tổng hợp)""}"
-N3-vocab-0761,extra_manual,"{""title"": ""まざる"", ""reading"": """", ""meaning_vi"": ""1. AB が交ざる: Trộn A, B với nhau""}","{""title"": ""まざる"", ""reading"": ""まざる"", ""meaning_vi"": ""1. AB が交ざる: Trộn A, B với nhau""}"
-N3-vocab-0762,extra_manual,"{""title"": ""(を)まぜる"", ""reading"": """", ""meaning_vi"": ""1.交ぜる:trộn lẫn (không tan)""}","{""title"": ""(を)まぜる"", ""reading"": ""まぜる"", ""meaning_vi"": ""1.交ぜる:trộn lẫn (không tan)""}"
-N3-vocab-0713/N3-vocab-0714,special_pdf_split,意味1 / (が)移る bị gộp,(が)移る và (を)移す được tách lại
-N2-vocab-0049,data_changed,"{""title"": ""補足"", ""reading"": """", ""meaning_vi"": ""Bổ túc, bổ sung""}","{""title"": ""補足"", ""reading"": ""ほそく"", ""meaning_vi"": ""Bổ túc, bổ sung""}"
-N2-vocab-0050,data_changed,"{""title"": ""催促"", ""reading"": """", ""meaning_vi"": ""Thúc giục, hối thúc""}","{""title"": ""催促"", ""reading"": ""さいそく"", ""meaning_vi"": ""Thúc giục, hối thúc""}"
-N2-vocab-0083,data_changed,"{""title"": ""謝り"", ""reading"": """", ""meaning_vi"": ""Sai, nhầm, lỗi""}","{""title"": ""誤り"", ""reading"": ""あやまり"", ""meaning_vi"": ""Sai, nhầm, lỗi""}"
-N2-vocab-0107,data_changed,"{""title"": ""初歩"", ""reading"": ""しょほ"", ""meaning_vi"": ""Đánh giá/Có tiếng""}","{""title"": ""初歩"", ""reading"": ""しょほ"", ""meaning_vi"": ""Sơ cấp, bước đầu""}"
-N2-vocab-0125,data_changed,"{""title"": ""上達"", ""reading"": ""じょうたつ"", ""meaning_vi"": ""Đánh giá/Có tiếng""}","{""title"": ""上達"", ""reading"": ""じょうたつ"", ""meaning_vi"": ""Tiến bộ""}"
-N2-vocab-0126,data_changed,"{""title"": ""視察"", ""reading"": ""しさつ"", ""meaning_vi"": ""Đánh giá/Có tiếng""}","{""title"": ""視察"", ""reading"": ""しさつ"", ""meaning_vi"": ""Thị sát""}"
-N2-vocab-0197,data_changed,"{""title"": ""やる気"", ""reading"": ""き"", ""meaning_vi"": ""Hứng thú""}","{""title"": ""やる気"", ""reading"": ""やるき"", ""meaning_vi"": ""Hứng thú""}"
-N2-vocab-0313,data_changed,"{""title"": ""皮膚"", ""reading"": ""ひふ"", ""meaning_vi"": ""Vươn ra/Sự tiến lên""}","{""title"": ""皮膚"", ""reading"": ""ひふ"", ""meaning_vi"": ""Da, làn da""}"
-N2-vocab-0344,data_changed,"{""title"": ""生きがい"", ""reading"": """", ""meaning_vi"": ""Lẽ sống""}","{""title"": ""生きがい"", ""reading"": ""いきがい"", ""meaning_vi"": ""Lẽ sống""}"
-N2-vocab-0350,data_changed,"{""title"": ""処分"", ""reading"": """", ""meaning_vi"": ""Sự tống khứ, bỏ đi/ Sự phạt, trừng phạt""}","{""title"": ""処分"", ""reading"": ""しょぶん"", ""meaning_vi"": ""Sự tống khứ, bỏ đi/ Sự phạt, trừng phạt""}"
-N2-vocab-0377,data_changed,"{""title"": ""た目"", ""reading"": ""みめ"", ""meaning_vi"": ""Vẻ bề ngoài, dáng vẻ""}","{""title"": ""見た目"", ""reading"": ""みため"", ""meaning_vi"": ""Vẻ bề ngoài, dáng vẻ""}"
-N2-vocab-0423,data_changed,"{""title"": ""叶う"", ""reading"": ""かのう"", ""meaning_vi"": ""Trở thành sự thực""}","{""title"": ""叶う"", ""reading"": ""かなう"", ""meaning_vi"": ""Trở thành sự thực""}"
-N2-vocab-0471,data_changed,"{""title"": ""屈む"", ""reading"": ""かかむ"", ""meaning_vi"": ""Khom lưng, cúi gập người""}","{""title"": ""屈む"", ""reading"": ""かがむ"", ""meaning_vi"": ""Khom lưng, cúi gập người""}"
-N2-vocab-0545,data_changed,"{""title"": ""ひっくり返す"", ""reading"": """", ""meaning_vi"": ""Đảo lộn, lật ngược""}","{""title"": ""ひっくり返す"", ""reading"": ""ひっくりかえす"", ""meaning_vi"": ""Đảo lộn, lật ngược""}"
-N2-vocab-0584,data_changed,"{""title"": ""引き止める"", ""reading"": ""ひとめる"", ""meaning_vi"": ""Kéo lại, níu kéo""}","{""title"": ""引き止める"", ""reading"": ""ひきとめる"", ""meaning_vi"": ""Kéo lại, níu kéo""}"
-N2-vocab-0614,data_changed,"{""title"": ""繰り返す"", ""reading"": ""くりかえす"", ""meaning_vi"": ""Đảm nhiệm, phụ trách""}","{""title"": ""繰り返す"", ""reading"": ""くりかえす"", ""meaning_vi"": ""Lặp lại""}"
-N2-vocab-0633,data_changed,"{""title"": ""〜を騒がす"", ""reading"": """", ""meaning_vi"": ""Ồn ào, gây xôn xao dư luận""}","{""title"": ""〜を騒がす"", ""reading"": ""さわがす"", ""meaning_vi"": ""Ồn ào, gây xôn xao dư luận""}"
-N2-vocab-0645,data_changed,"{""title"": ""連絡先を教えて頂けますでしょうか"", ""reading"": """", ""meaning_vi"": """"}","{""title"": ""連絡先を教えて頂けますでしょうか"", ""reading"": ""れんらくさきをおしえていただけますでしょうか"", ""meaning_vi"": """"}"
-N2-vocab-0830,data_changed,"{""title"": ""再三"", ""reading"": """", ""meaning_vi"": ""TÁI TAM Dăm ba bận, vài lần""}","{""title"": ""再三"", ""reading"": ""さいさん"", ""meaning_vi"": ""TÁI TAM Dăm ba bận, vài lần""}"
-N2-vocab-0841,data_changed,"{""title"": ""かえって"", ""reading"": """", ""meaning_vi"": ""Đánh giá/Có tiếng""}","{""title"": ""かえって"", ""reading"": """", ""meaning_vi"": ""Trái lại, ngược lại với dự đoán""}"
-N2-vocab-0858,data_changed,"{""title"": ""未だに"", ""reading"": """", ""meaning_vi"": ""Ngay cả bây giờ""}","{""title"": ""未だに"", ""reading"": ""いまだに"", ""meaning_vi"": ""Ngay cả bây giờ""}"
-N2-vocab-0863,data_changed,"{""title"": ""事前に"", ""reading"": """", ""meaning_vi"": ""Trước""}","{""title"": ""事前に"", ""reading"": ""じぜんに"", ""meaning_vi"": ""Trước""}"
-N2-vocab-0895,data_changed,"{""title"": ""ゲスト"", ""reading"": """", ""meaning_vi"": ""Đánh giá/Có tiếng""}","{""title"": ""ゲスト"", ""reading"": """", ""meaning_vi"": ""Khách mời""}"
-N2-vocab-0899,data_changed,"{""title"": ""評判"", ""reading"": ""ひょうばん"", ""meaning_vi"": ""1. Đánh giá/Có tiếng 2. Sự vào lưới, tới đích""}","{""title"": ""ゴール"", ""reading"": """", ""meaning_vi"": ""1. Đích, vạch đích 2. Bàn thắng 3. Mục tiêu cuối cùng""}"
-N3-vocab-0144,data_changed,"{""title"": ""(を)思い出す"", ""reading"": ""おもだす"", ""meaning_vi"": ""Nhớ lại/ Nhớ ra""}","{""title"": ""(を)思い出す"", ""reading"": ""おもいだす"", ""meaning_vi"": ""Nhớ lại/ Nhớ ra""}"
-N3-vocab-0146,data_changed,"{""title"": ""(を)申し込む"", ""reading"": ""もうこむ"", ""meaning_vi"": ""1. Đăng ký 2. Cầu hôn""}","{""title"": ""(を)申し込む"", ""reading"": ""もうしこむ"", ""meaning_vi"": ""1. Đăng ký 2. Cầu hôn""}"
-N3-vocab-0166,data_changed,"{""title"": ""(が)付き合う"", ""reading"": ""つあう"", ""meaning_vi"": ""1. Giao du/ Chơi với 2. Cùng làm/ Có hẹn với 3. Hẹn hò""}","{""title"": ""(が)付き合う"", ""reading"": ""つきあう"", ""meaning_vi"": ""1. Giao du/ Chơi với 2. Cùng làm/ Có hẹn với 3. Hẹn hò""}"
-N3-vocab-0174,data_changed,"{""title"": ""(が)すれ違う"", ""reading"": ""ちがう"", ""meaning_vi"": ""1. Tránh nhau, đi lướt qua 2. Không hiểu nhau 3. Lệch (giờ, địa điểm)""}","{""title"": ""(が)すれ違う"", ""reading"": ""すれちがう"", ""meaning_vi"": ""1. Tránh nhau, đi lướt qua 2. Không hiểu nhau 3. Lệch (giờ, địa điểm)""}"
-N3-vocab-0230,data_changed,"{""title"": ""頼み・願い"", ""reading"": ""たのねがい"", ""meaning_vi"": ""1. Lời thỉnh cầu,""}","{""title"": ""頼み・願い"", ""reading"": ""たのみ・ねがい"", ""meaning_vi"": ""1. Lời thỉnh cầu,""}"
-N3-vocab-0253,data_changed,"{""title"": ""怒り"", ""reading"": """", ""meaning_vi"": ""Tức giận""}","{""title"": ""怒り"", ""reading"": ""いかり"", ""meaning_vi"": ""Tức giận""}"
-N3-vocab-0311,data_changed,"{""title"": ""(お)礼"", ""reading"": ""れい"", ""meaning_vi"": ""Cảm ơn""}","{""title"": ""(お)礼"", ""reading"": ""おれい"", ""meaning_vi"": ""Cảm ơn""}"
-N3-vocab-0312,data_changed,"{""title"": ""(お)詫び"", ""reading"": ""わび"", ""meaning_vi"": ""Xin lỗi""}","{""title"": ""(お)詫び"", ""reading"": ""おわび"", ""meaning_vi"": ""Xin lỗi""}"
-N3-vocab-0313,data_changed,"{""title"": ""(お) 辞儀"", ""reading"": ""じぎ"", ""meaning_vi"": ""Cúi chào""}","{""title"": ""(お) 辞儀"", ""reading"": ""おじぎ"", ""meaning_vi"": ""Cúi chào""}"
-N3-vocab-0460,data_changed,"{""title"": ""(を)繰り返す"", ""reading"": ""くかえす"", ""meaning_vi"": ""Lặp lại""}","{""title"": ""(を)繰り返す"", ""reading"": ""くりかえす"", ""meaning_vi"": ""Lặp lại""}"
-N3-vocab-0600,data_changed,"{""title"": ""あっと言う間(に)"", ""reading"": ""いま(に)"", ""meaning_vi"": ""Loáng một cái/ Trong nháy mắt, trong khoảnh khắc""}","{""title"": ""あっと言う間(に)"", ""reading"": ""あっというま"", ""meaning_vi"": ""Loáng một cái/ Trong nháy mắt, trong khoảnh khắc""}"
-N3-vocab-0601,data_changed,"{""title"": ""いつの間にか"", ""reading"": ""まにか"", ""meaning_vi"": ""Lúc nào không biết""}","{""title"": ""いつの間にか"", ""reading"": ""いつのまにか"", ""meaning_vi"": ""Lúc nào không biết""}"
-N3-vocab-0713,data_changed,"{""title"": ""意味1"", ""reading"": """", ""meaning_vi"": """"}","{""title"": ""(が)移る"", ""reading"": ""うつる"", ""meaning_vi"": ""1. Di chuyển 2. Bị lây, lây sang""}"
-N3-vocab-0714,data_changed,"{""title"": ""(が)移る"", ""reading"": ""うつる"", ""meaning_vi"": ""1. Di chuyển 2. Bị lây, lây sang""}","{""title"": ""(を)移す"", ""reading"": ""うつす"", ""meaning_vi"": ""1. Di chuyển 2. Làm lây sang""}"
-N3-vocab-0732,data_changed,"{""title"": ""(を)思いやる"", ""reading"": """", ""meaning_vi"": ""Quan tâm (nghĩ cho người khác)""}","{""title"": ""(を)思いやる"", ""reading"": ""おもいやる"", ""meaning_vi"": ""Quan tâm (nghĩ cho người khác)""}"
-N3-vocab-0744,data_changed,"{""title"": ""(が)つながる"", ""reading"": """", ""meaning_vi"": ""1. Nối, kết nối 2. (Kéo dài) liên tục 3. Kết nối (điện thoại, mạng)""}","{""title"": ""(が)つながる"", ""reading"": ""つながる"", ""meaning_vi"": ""1. Nối, kết nối 2. (Kéo dài) liên tục 3. Kết nối (điện thoại, mạng)""}"
-N3-vocab-0745,data_changed,"{""title"": ""(を)つなぐ"", ""reading"": """", ""meaning_vi"": ""Nối, kết nối""}","{""title"": ""(を)つなぐ"", ""reading"": ""つなぐ"", ""meaning_vi"": ""Nối, kết nối""}"
-N3-vocab-0746,data_changed,"{""title"": ""(を)つなげる"", ""reading"": """", ""meaning_vi"": ""Kết nối""}","{""title"": ""(を)つなげる"", ""reading"": ""つなげる"", ""meaning_vi"": ""Kết nối""}"
-N3-vocab-0753,data_changed,"{""title"": ""(が)そろう"", ""reading"": """", ""meaning_vi"": ""1. Tập trung (đầy đủ) 2. Đồng bộ (tông xoẹt tông) 3. Thống nhất""}","{""title"": ""(が)そろう"", ""reading"": ""そろう"", ""meaning_vi"": ""1. Tập trung (đầy đủ) 2. Đồng bộ (tông xoẹt tông) 3. Thống nhất""}"
-N3-vocab-0754,data_changed,"{""title"": ""そろえる"", ""reading"": """", ""meaning_vi"": ""1. Sắp xếp, để ngay ngắn 2. Tập trung (sẵn sàng, đầy đủ)""}","{""title"": ""そろえる"", ""reading"": ""そろえる"", ""meaning_vi"": ""1. Sắp xếp, để ngay ngắn 2. Tập trung (sẵn sàng, đầy đủ)""}"
-N3-vocab-0755,data_changed,"{""title"": ""(が)まとまる"", ""reading"": """", ""meaning_vi"": ""Được thống nhất""}","{""title"": ""(が)まとまる"", ""reading"": ""まとまる"", ""meaning_vi"": ""Được thống nhất""}"
-N3-vocab-0756,data_changed,"{""title"": ""(を)まとめる"", ""reading"": """", ""meaning_vi"": ""Tổng hợp, thống nhất, tập trung 名:まとめ (Tổng hợp)""}","{""title"": ""(を)まとめる"", ""reading"": ""まとめる"", ""meaning_vi"": ""Tổng hợp, thống nhất, tập trung 名:まとめ (Tổng hợp)""}"
-N3-vocab-0761,data_changed,"{""title"": ""まざる"", ""reading"": """", ""meaning_vi"": ""1. AB が交ざる: Trộn A, B với nhau""}","{""title"": ""まざる"", ""reading"": ""まざる"", ""meaning_vi"": ""1. AB が交ざる: Trộn A, B với nhau""}"
-N3-vocab-0762,data_changed,"{""title"": ""(を)まぜる"", ""reading"": """", ""meaning_vi"": ""1.交ぜる:trộn lẫn (không tan)""}","{""title"": ""(を)まぜる"", ""reading"": ""まぜる"", ""meaning_vi"": ""1.交ぜる:trộn lẫn (không tan)""}"
+﻿id,field,old,new,title_before,source,page
+N2-vocab-0233,title,した,舌,した,N2 Junbi Từ vựng,72
+N2-vocab-0233,reading,,した,舌,N2 Junbi Từ vựng,72
+N2-vocab-0368,title,: 自然にあるものを人間が作る,人工,: 自然にあるものを人間が作る,N2 Junbi Từ vựng,116
+N2-vocab-0435,title,する,面する,する,N2 Junbi Từ vựng,138
+N2-vocab-0435,reading,めん,めんする,面する,N2 Junbi Từ vựng,138
+N2-vocab-0436,title,やかす,甘やかす,やかす,N2 Junbi Từ vựng,138
+N2-vocab-0436,reading,あま,あまやかす,甘やかす,N2 Junbi Từ vựng,138
+N2-vocab-0440,title,じる,生じる,じる,N2 Junbi Từ vựng,140
+N2-vocab-0440,reading,しょう,しょうじる,生じる,N2 Junbi Từ vựng,140
+N2-vocab-0456,title,る,至る,る,N2 Junbi Từ vựng,146
+N2-vocab-0456,reading,いた,いたる,至る,N2 Junbi Từ vựng,146
+N2-vocab-0464,title,かす,欠かす,かす,N2 Junbi Từ vựng,149
+N2-vocab-0464,reading,か,かかす,欠かす,N2 Junbi Từ vựng,149
+N2-vocab-0474,title,かす,生かす,かす,N2 Junbi Từ vựng,153
+N2-vocab-0474,reading,い,いかす,生かす,N2 Junbi Từ vựng,153
+N2-vocab-0616,title,ごろ,手ごろ,ごろ,N2 Junbi Từ vựng,204
+N2-vocab-0616,reading,て,てごろ,手ごろ,N2 Junbi Từ vựng,204
+N3-vocab-0452,title,じる,(が・を)閉じる,じる,N3 Junbi Từ vựng,154
+N3-vocab-0452,reading,と,とじる,(が・を)閉じる,N3 Junbi Từ vựng,154
+N3-vocab-0724,title,(を・に) 任,(を・に)任せる,(を・に) 任,N3 Junbi Từ vựng,254
+N2-vocab-0285,reading,うあわせ,うちあわせ,打ち合わせ,N2 Junbi Từ vựng,89
+N2-vocab-0289,reading,あまえ,あたりまえ,当たり前,N2 Junbi Từ vựng,90
+N2-vocab-0409,reading,おもこみ,おもいこみ,思い込み,N2 Junbi Từ vựng,130
+N2-vocab-0537,reading,ちがう,すれちがう,すれ違う,N2 Junbi Từ vựng,176
+N2-vocab-0576,reading,よとめる,よびとめる,呼び止める,N2 Junbi Từ vựng,192
+N2-vocab-0578,reading,わこむ,わりこむ,割り込む,N2 Junbi Từ vựng,193
+N2-vocab-0579,reading,さつかえる,さしつかえる,差し支える,N2 Junbi Từ vựng,193
+N2-vocab-0580,reading,かしめる,かいしめる,買い占める,N2 Junbi Từ vựng,193
+N2-vocab-0581,reading,おもきる,おもいきる,思い切る,N2 Junbi Từ vựng,194
+N2-vocab-0582,reading,ふむく,ふりむく,振り向く,N2 Junbi Từ vựng,194
+N2-vocab-0585,reading,うけす,うちけす,打ち消す,N2 Junbi Từ vựng,195
+N2-vocab-0586,reading,とちる,とびちる,飛び散る,N2 Junbi Từ vựng,195
+N2-vocab-0587,reading,のつぐ,のりつぐ,乗り継ぐ,N2 Junbi Từ vựng,195
+N2-vocab-0588,reading,おこむ,おちこむ,落ち込む,N2 Junbi Từ vựng,196
+N2-vocab-0589,reading,ひかえす,ひきかえす,引き返す,N2 Junbi Từ vựng,196
+N2-vocab-0590,reading,うあける,うちあける,打ち明ける,N2 Junbi Từ vựng,196
+N2-vocab-0592,reading,つこむ,つめこむ,詰め込む,N2 Junbi Từ vựng,197
+N2-vocab-0594,reading,つこむ,つっこむ,突っ込む,N2 Junbi Từ vựng,198
+N2-vocab-0595,reading,つく,くっつく,くっ付く,N2 Junbi Từ vựng,198
+N2-vocab-0597,reading,もよる,もちよる,持ち寄る,N2 Junbi Từ vựng,199
+N2-vocab-0599,reading,つくわえる,つけくわえる,付け加える,N2 Junbi Từ vựng,199
+N2-vocab-0600,reading,いつく,いきつく,行き着く,N2 Junbi Từ vựng,199
+N2-vocab-0602,reading,とこえる,とびこえる,飛び越える,N2 Junbi Từ vựng,200
+N2-vocab-0604,reading,といれる,とりいれる,取り入れる,N2 Junbi Từ vựng,201
+N2-vocab-0605,reading,たあげる,たちあげる,立ち上げる,N2 Junbi Từ vựng,201
+N2-vocab-0606,reading,うあげる,うちあげる,打ち上げる,N2 Junbi Từ vựng,201
+N2-vocab-0607,reading,ひこむ,ひえこむ,冷え込む,N2 Junbi Từ vựng,201
+N2-vocab-0608,reading,とこわす,とりこわす,取り壊す,N2 Junbi Từ vựng,202
+N2-vocab-0609,reading,つかさねる,つみかさねる,積み重ねる,N2 Junbi Từ vựng,202
+N2-vocab-0610,reading,たかえる,たてかえる,建て替える,N2 Junbi Từ vựng,202
+N2-vocab-0611,reading,きかえる,きりかえる,切り替える,N2 Junbi Từ vựng,203
+N2-vocab-0612,reading,うもつ,うけもつ,受け持つ,N2 Junbi Từ vựng,203
+N2-vocab-0613,reading,とあげる,とりあげる,取り上げる,N2 Junbi Từ vựng,203
+N2-vocab-0614,reading,くかえす,くりかえす,繰り返す,N2 Junbi Từ vựng,204
+N2-vocab-0688,reading,かげん,いいかげん,いい加減,N2 Junbi Từ vựng,226
+N2-vocab-0757,reading,いいき,いきいき,生き生き,N2 Junbi Từ vựng,248
+N2-vocab-0759,reading,あんじょう,あんのじょう,案の定,N2 Junbi Từ vựng,249
+N3-vocab-0009,reading,しあい,しりあい,知り合い,N3 Junbi Từ vựng,10
+N3-vocab-0048,reading,ひこし,ひっこし,引っ越し,N3 Junbi Từ vựng,22
+N3-vocab-0055,reading,おもで,おもいで,思い出,N3 Junbi Từ vựng,24
+N3-vocab-0129,reading,さけこえ,さけぶこえ,叫ぶ声,N3 Junbi Từ vựng,47
+N3-vocab-0380,reading,しきり,しめきり,締め切り,N3 Junbi Từ vựng,128
+N3-vocab-0386,reading,あたり,このあたり,この辺り,N3 Junbi Từ vựng,130
+N3-vocab-0387,reading,まわまわり,まわり・まわり,周り・回り,N3 Junbi Từ vựng,131
+N3-vocab-0396,reading,あまえ,あたりまえ,当たり前,N3 Junbi Từ vựng,134
+N3-vocab-0555,reading,むあつい,むしあつい,蒸し暑い,N3 Junbi Từ vựng,189
+N3-vocab-0661,reading,とり,やりとり,(を)やり取り,N3 Junbi Từ vựng,228
+N3-vocab-0675,reading,き,やるき,やる気,N3 Junbi Từ vựng,234
