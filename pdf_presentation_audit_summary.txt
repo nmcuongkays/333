@@ -1,0 +1,8 @@
+PDF presentation audit / layout repair
+Total cards: 2556
+Vocab cards: 1797
+Kanji cards: 759
+JavaScript syntax: checked with node --check
+Renderer rule: Kanji cards put 音/訓 and mnemonic on the left, examples only on the right.
+Renderer rule: PDF furigana-only fragments are hidden from main examples.
+Renderer rule: raw text remains available in the collapsible raw section.

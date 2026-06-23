@@ -1,2 +1,1 @@
-Nihongo Memory Coach - example coverage fixed
-Upload index.html to GitHub Pages.
+Upload index.html to GitHub Pages. This build fixes PDF-like presentation for vocab/kanji cards and keeps existing functions.
