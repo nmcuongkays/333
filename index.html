@@ -8,7 +8,7 @@
   <meta name="apple-mobile-web-app-title" content="Nihongo Coach" />
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <meta name="format-detection" content="telephone=no" />
-  <title>Nihongo Memory Coach - mobile PDF exact page fix</title>
+  <title>Nihongo Memory Coach - Restored + Search Fixed</title>
   <style>
 :root{
   --bg:#f5f7fb; --panel:#ffffff; --ink:#1f2937; --muted:#6b7280;
@@ -331,6 +331,15 @@ button.ghost{color:inherit;}
 .pdf-exact-head{display:flex;gap:8px;align-items:center;justify-content:space-between;padding:10px 12px;border-bottom:1px solid var(--line);background:var(--panel)}
 .pdf-exact-title{font-weight:900;line-height:1.35}.pdf-exact-actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.pdf-exact-body{flex:1;min-height:0;overflow:auto;background:#f8fafc}
 [data-theme="dark"] .pdf-exact-body{background:#020617}
+
+/* Target-area zoom for exact PDF viewer */
+.pdf-canvas-tools{display:flex;gap:8px;flex-wrap:wrap;align-items:center;justify-content:center;padding:8px 10px;border-bottom:1px solid var(--line);background:var(--panel)}
+.pdf-canvas-tools button{min-height:36px;border-radius:10px;padding:7px 10px}
+.pdf-canvas-note{text-align:center;padding:7px 10px;color:var(--muted);font-size:12px;font-weight:750;line-height:1.45}
+.pdf-canvas-wrap.focused{justify-content:flex-start;place-items:start center;max-height:75vh;overflow:auto;-webkit-overflow-scrolling:touch}
+.pdf-canvas-wrap.focused canvas{max-width:none;touch-action:pan-x pan-y}
+.pdf-crop-badge{display:inline-flex;gap:6px;align-items:center;border:1px solid var(--line);border-radius:999px;padding:4px 9px;background:rgba(16,185,129,.10);font-weight:850;color:var(--ink)}
+@media(max-width:640px){.pdf-canvas-wrap.focused{max-height:none}.pdf-canvas-tools{justify-content:flex-start;overflow-x:auto}.pdf-canvas-tools button{white-space:nowrap}}
 body.pdf-modal-open{overflow:hidden}
 @media(max-width:640px){.pdf-exact-modal{padding:0}.pdf-exact-panel{border-radius:0}.pdf-exact-head{align-items:flex-start}.pdf-exact-actions button{min-height:42px}.pdf-canvas-wrap{max-height:none;min-height:100%;padding:8px}.pdf-source-actions{grid-template-columns:1fr}.pdf-exact-hint{display:block}}
 
@@ -1348,7 +1357,7 @@ function pdfSourceInfoForCard(card){
   const chunk = SOURCE_PDF_CHUNKS[original].find(x=>page>=x.start && page<=x.end);
   if(!chunk) return null;
   const pageInChunk = page - chunk.start + 1;
-  const nativeUrl = pdfAssetUrl(chunk.file,'pdfs/') + '#page=' + pageInChunk;
+  const nativeUrl = pdfAssetUrl(chunk.file) + '#page=' + pageInChunk;
   return {original, page, chunk, pageInChunk, nativeUrl};
 }
 function pdfSourceButtonsHtml(card){
@@ -1358,13 +1367,14 @@ function pdfSourceButtonsHtml(card){
   const note = `PDF gốc: trang ${info.page} / file nhỏ: ${info.chunk.file} / trang trong file nhỏ: ${info.pageInChunk}`;
   const title = `${card.title||''} · ${note}`;
   return `<div class="pdf-source-actions">
-    <button type="button" onclick='openPdfExactViewer(${jsArg(info.chunk.file)}, ${Number(info.pageInChunk)}, ${Number(info.page)}, ${jsArg(title)})'>📖 Mở đúng trang PDF</button>
-    <button type="button" class="ghost-link" onclick='toggleInlinePdfExact(${jsArg(id)}, ${jsArg(info.chunk.file)}, ${Number(info.pageInChunk)}, ${Number(info.page)}, ${jsArg(title)}, this)'>🖼️ Hiện trang PDF trong app</button>
+    <button type="button" onclick='openPdfExactViewer(${jsArg(info.chunk.file)}, ${Number(info.pageInChunk)}, ${Number(info.page)}, ${jsArg(title)}, ${jsArg(card.id||'')})'>🔎 Mở đúng vùng từ trong PDF</button>
+    <button type="button" class="ghost-link" onclick='toggleInlinePdfExact(${jsArg(id)}, ${jsArg(info.chunk.file)}, ${Number(info.pageInChunk)}, ${Number(info.page)}, ${jsArg(title)}, this, ${jsArg(card.id||'')})'>🖼️ Hiện vùng từ trong app</button>
     <a class="ghost-link" href="${esc(info.nativeUrl)}" target="_blank" rel="noopener">Mở bằng trình duyệt</a>
-    <span class="pdf-exact-hint">📱 Trên điện thoại hãy dùng nút “Mở đúng trang PDF”; nút trình duyệt có thể sai trang do Safari bỏ qua #page.</span>
-  </div><div id="${esc(id)}" class="pdf-inline-viewer" data-file="${esc(info.chunk.file)}" data-page="${esc(info.pageInChunk)}"></div>`;
+    <span class="pdf-exact-hint">📱 Nút 🔎 sẽ zoom gần khu vực của từ/Kanji; nút trình duyệt có thể sai trang do Safari bỏ qua #page.</span>
+  </div><div id="${esc(id)}" class="pdf-inline-viewer" data-file="${esc(info.chunk.file)}" data-page="${esc(info.pageInChunk)}" data-card-id="${esc(card.id||'')}"></div>`;
 }
 function toggleInlinePdf(id, url, btn){
+  // Legacy fallback kept for older buttons. New buttons use toggleInlinePdfExact().
   const box = document.getElementById(id);
   if(!box) return;
   if(box.classList.contains('show')){
@@ -1409,31 +1419,161 @@ async function loadPdfDocumentSmart(file){
   }
   throw lastErr || new Error('Không tìm thấy file PDF: '+file);
 }
-async function renderPdfExactPage(target, file, pageInFile, originalPage, title){
+function pdfCardById(cardId){
+  const id=String(cardId||'');
+  if(!id) return null;
+  return (app.cards||[]).find(c=>c.id===id) || (((window.STUDY_DATA||{}).cards||[]).find(c=>c.id===id)) || null;
+}
+function pdfNormText(v){
+  return String(v||'').normalize('NFKC').toLowerCase().replace(/[\s\u200B-\u200D\uFEFF]/g,'').replace(/[()（）［］\[\]「」『』・･\/\\_＿\-‐―]/g,'');
+}
+function pdfTitleVariants(card){
+  const out=[];
+  const push=v=>{ v=String(v||'').normalize('NFKC').trim(); if(v && !out.includes(v)) out.push(v); };
+  push(card && card.title);
+  push(String(card && card.title || '').replace(/[()（）]/g,''));
+  push(String(card && card.title || '').replace(/^\(.*?\)/,''));
+  push(card && card.reading);
+  push(card && card.hanviet);
+  if(card && card.global_number) push(String(card.global_number));
+  if(card && card.number) push(String(card.number));
+  return out.filter(x=>pdfNormText(x).length>0);
+}
+function samePdfPageCards(card){
+  if(!card) return [];
+  return (app.cards||[]).filter(c=>c && c.source===card.source && Number(c.page||0)===Number(card.page||0)).sort((a,b)=>(Number(a.global_number||0)-Number(b.global_number||0)) || String(a.id).localeCompare(String(b.id)));
+}
+function fallbackPdfFocusRect(baseViewport, card){
+  const w=baseViewport.width, h=baseViewport.height;
+  const cards=samePdfPageCards(card);
+  const idx=Math.max(0, cards.findIndex(c=>c.id===card.id));
+  const count=Math.max(1, cards.length || 1);
+  const top=h*(card && card.kind==='kanji' ? 0.06 : 0.08);
+  const bottom=h*0.055;
+  const usable=Math.max(h*0.5, h-top-bottom);
+  const rowH=usable/count;
+  const y=Math.max(0, Math.min(h-40, top + idx*rowH - rowH*0.06));
+  const bandH=Math.min(h-y, Math.max(rowH*1.15, h*(card && card.kind==='kanji' ? 0.22 : 0.20)));
+  return {x:0,y,w,h:bandH,method:'ước lượng theo thứ tự trên trang'};
+}
+async function findPdfTextFocusRect(page, baseViewport, card){
+  if(!card) return null;
+  let text;
+  try{ text=await page.getTextContent(); }catch(_){ return null; }
+  const terms=pdfTitleVariants(card).map(t=>({raw:t,n:pdfNormText(t)})).filter(t=>t.n.length>=1);
+  if(!terms.length) return null;
+  const pageCards=samePdfPageCards(card);
+  const fallback=fallbackPdfFocusRect(baseViewport, card);
+  const fallbackTop=fallback.y - fallback.h*.35;
+  const fallbackBottom=fallback.y + fallback.h*1.35;
+  const util=(window.pdfjsLib && window.pdfjsLib.Util) ? window.pdfjsLib.Util : null;
+  const candidates=[];
+  for(const item of (text.items||[])){
+    const raw=String(item.str||'').normalize('NFKC').trim();
+    if(!raw) continue;
+    const n=pdfNormText(raw);
+    if(!n) continue;
+    let score=0;
+    for(const t of terms){
+      if(!t.n) continue;
+      if(n===t.n) score=Math.max(score, t.raw===String(card.title||'') ? 120 : 80);
+      else if(n.includes(t.n) || t.n.includes(n)) score=Math.max(score, t.raw===String(card.title||'') ? 95 : 45);
+    }
+    if(!score) continue;
+    let x=0,y=0,fs=10,w=10,h=10;
+    try{
+      const tx=util ? util.transform(baseViewport.transform, item.transform) : item.transform;
+      x=tx[4]; y=tx[5];
+      fs=Math.max(6, Math.hypot(tx[2]||0, tx[3]||0) || Math.abs(tx[3]||0) || 10);
+      w=Math.max(8, (item.width||raw.length*fs*.6) * (baseViewport.scale||1));
+      h=Math.max(8, fs*1.15);
+      y=y-h;
+    }catch(_){ continue; }
+    const cy=y+h/2;
+    if(cy>=fallbackTop && cy<=fallbackBottom) score+=50;
+    else score-=35;
+    if(card.kind==='kanji' && raw===card.title) score+=fs*3;
+    if(raw===String(card.title||'').normalize('NFKC')) score+=40;
+    if(raw===String(card.global_number||'')) score-=15;
+    candidates.push({x,y,w,h,cy,score,raw,fs});
+  }
+  if(!candidates.length) return null;
+  candidates.sort((a,b)=>b.score-a.score || b.fs-a.fs);
+  const best=candidates[0];
+  const baseH=baseViewport.height, baseW=baseViewport.width;
+  let bandH=Math.max(baseH*(card.kind==='kanji'?0.24:0.22), best.h*9);
+  if(pageCards.length>1) bandH=Math.min(bandH, baseH/Math.max(2.2, pageCards.length*.85));
+  bandH=Math.max(110, Math.min(baseH*.45, bandH));
+  let y=Math.max(0, best.cy - bandH*.45);
+  if(y+bandH>baseH) y=baseH-bandH;
+  return {x:0,y,w:baseW,h:bandH,method:'tìm theo chữ trong PDF',match:best.raw};
+}
+async function getPdfFocusRect(page, baseViewport, card){
+  const fallback=card ? fallbackPdfFocusRect(baseViewport, card) : {x:0,y:0,w:baseViewport.width,h:baseViewport.height,method:'full'};
+  const textRect=await findPdfTextFocusRect(page, baseViewport, card);
+  return textRect || fallback;
+}
+function clampRect(r, viewport){
+  const w=viewport.width,h=viewport.height;
+  const x=Math.max(0, Math.min(w-1, r.x||0));
+  const y=Math.max(0, Math.min(h-1, r.y||0));
+  const rw=Math.max(30, Math.min(w-x, r.w||w));
+  const rh=Math.max(30, Math.min(h-y, r.h||h));
+  return {x,y,w:rw,h:rh,method:r.method,match:r.match};
+}
+async function renderPdfExactPage(target, file, pageInFile, originalPage, title, cardId, mode='focus', zoom){
   const box = (typeof target==='string') ? document.getElementById(target) : target;
   if(!box) return;
+  const card=pdfCardById(cardId);
+  const isFocus = mode !== 'full';
   const safeTitle = title || `Trang PDF ${originalPage||''}`;
-  box.innerHTML = `<div class="pdf-loader">Đang tải đúng trang PDF...<br><span class="small muted">${esc(safeTitle)}</span></div>`;
+  const z = Math.max(.9, Math.min(3.0, Number(zoom)|| (isFocus ? 1.75 : 1)));
+  box.innerHTML = `<div class="pdf-loader">Đang tải PDF...<br><span class="small muted">${esc(safeTitle)}</span></div>`;
   try{
     const {doc,url}=await loadPdfDocumentSmart(file);
     const pageNo = Math.max(1, Math.min(Number(pageInFile)||1, doc.numPages));
     const page = await doc.getPage(pageNo);
     const baseViewport = page.getViewport({scale:1});
-    const available = Math.max(280, Math.min(980, (box.clientWidth || window.innerWidth || 800) - 26));
-    const cssScale = Math.max(.55, Math.min(2.2, available / baseViewport.width));
+    let focusRect = {x:0,y:0,w:baseViewport.width,h:baseViewport.height,method:'full'};
+    if(isFocus) focusRect = clampRect(await getPdfFocusRect(page, baseViewport, card), baseViewport);
+    const available = Math.max(280, Math.min(980, (box.clientWidth || window.innerWidth || 800) - 28));
+    const fitScale = available / (isFocus ? focusRect.w : baseViewport.width);
+    const cssScale = Math.max(.45, Math.min(3.0, fitScale * z));
     const viewport = page.getViewport({scale:cssScale});
-    const dpr = Math.max(1, Math.min(2, window.devicePixelRatio || 1));
-    const canvas=document.createElement('canvas');
-    canvas.width=Math.floor(viewport.width*dpr);
-    canvas.height=Math.floor(viewport.height*dpr);
-    canvas.style.width=Math.floor(viewport.width)+'px';
-    canvas.style.height=Math.floor(viewport.height)+'px';
-    const ctx=canvas.getContext('2d');
-    ctx.setTransform(dpr,0,0,dpr,0,0);
-    box.innerHTML = `<div class="pdf-canvas-wrap"><div class="small muted">${esc(safeTitle)}<br>Đang hiển thị: ${esc(file)} · trang ${pageNo}/${doc.numPages}</div></div>`;
+    const dpr = Math.max(1, Math.min(isFocus?1.5:2, window.devicePixelRatio || 1));
+    const fullCanvas=document.createElement('canvas');
+    fullCanvas.width=Math.floor(viewport.width*dpr);
+    fullCanvas.height=Math.floor(viewport.height*dpr);
+    const fullCtx=fullCanvas.getContext('2d');
+    fullCtx.setTransform(dpr,0,0,dpr,0,0);
+    await page.render({canvasContext:fullCtx, viewport}).promise;
+    let canvas=fullCanvas;
+    if(isFocus){
+      const sx=Math.floor(focusRect.x*cssScale*dpr), sy=Math.floor(focusRect.y*cssScale*dpr);
+      const sw=Math.max(1, Math.floor(focusRect.w*cssScale*dpr)), sh=Math.max(1, Math.floor(focusRect.h*cssScale*dpr));
+      const crop=document.createElement('canvas');
+      crop.width=Math.min(sw, fullCanvas.width-sx);
+      crop.height=Math.min(sh, fullCanvas.height-sy);
+      crop.getContext('2d').drawImage(fullCanvas, sx, sy, crop.width, crop.height, 0, 0, crop.width, crop.height);
+      crop.style.width=Math.floor(crop.width/dpr)+'px';
+      crop.style.height=Math.floor(crop.height/dpr)+'px';
+      canvas=crop;
+    }else{
+      canvas.style.width=Math.floor(viewport.width)+'px';
+      canvas.style.height=Math.floor(viewport.height)+'px';
+    }
+    const modeLabel=isFocus ? `🔎 Đang zoom vùng từ${focusRect.match?` · khớp: ${focusRect.match}`:''}` : '📄 Đang xem cả trang';
+    const note=isFocus ? 'Có thể kéo ngang/dọc để xem hết vùng zoom. Nếu vùng chưa đúng, bấm “Cả trang”.' : 'Đây là toàn bộ trang PDF.';
+    box.innerHTML = `<div class="pdf-canvas-tools">
+      <span class="pdf-crop-badge">${esc(modeLabel)}</span>
+      <button type="button" class="ghost" onclick='renderPdfExactPage(this.closest(".pdf-inline-viewer,.pdf-exact-body"), ${jsArg(file)}, ${Number(pageInFile)}, ${Number(originalPage||0)}, ${jsArg(title||'')}, ${jsArg(cardId||'')}, "focus", ${Math.max(.9,z-.25).toFixed(2)})'>− Zoom</button>
+      <button type="button" class="ghost" onclick='renderPdfExactPage(this.closest(".pdf-inline-viewer,.pdf-exact-body"), ${jsArg(file)}, ${Number(pageInFile)}, ${Number(originalPage||0)}, ${jsArg(title||'')}, ${jsArg(cardId||'')}, "focus", ${Math.min(3,z+.25).toFixed(2)})'>＋ Zoom</button>
+      <button type="button" class="ghost" onclick='renderPdfExactPage(this.closest(".pdf-inline-viewer,.pdf-exact-body"), ${jsArg(file)}, ${Number(pageInFile)}, ${Number(originalPage||0)}, ${jsArg(title||'')}, ${jsArg(cardId||'')}, "focus", 1.75)'>Vùng từ</button>
+      <button type="button" class="ghost" onclick='renderPdfExactPage(this.closest(".pdf-inline-viewer,.pdf-exact-body"), ${jsArg(file)}, ${Number(pageInFile)}, ${Number(originalPage||0)}, ${jsArg(title||'')}, ${jsArg(cardId||'')}, "full", 1)'>Cả trang</button>
+    </div><div class="pdf-canvas-note">${esc(safeTitle)}<br>${esc(note)}<br>File: ${esc(file)} · trang ${pageNo}/${doc.numPages}</div><div class="pdf-canvas-wrap ${isFocus?'focused':''}"></div>`;
     const wrap=box.querySelector('.pdf-canvas-wrap');
     wrap.appendChild(canvas);
-    await page.render({canvasContext:ctx, viewport}).promise;
+    if(isFocus){ requestAnimationFrame(()=>{ try{ wrap.scrollLeft=Math.max(0,(canvas.clientWidth-wrap.clientWidth)*0.08); }catch(_){} }); }
     const native=document.createElement('a');
     native.href=url+'#page='+pageNo;
     native.target='_blank';
@@ -1445,20 +1585,20 @@ async function renderPdfExactPage(target, file, pageInFile, originalPage, title)
     box.innerHTML = `<div class="pdf-error">Không mở được trang PDF trong app.<br>${esc(err && err.message ? err.message : err)}<br><span class="small muted">Hãy kiểm tra file PDF đã upload đúng tên, hoặc dùng nút “Mở bằng trình duyệt”.</span></div>`;
   }
 }
-function toggleInlinePdfExact(id, file, pageInFile, originalPage, title, btn){
+function toggleInlinePdfExact(id, file, pageInFile, originalPage, title, btn, cardId){
   const box=document.getElementById(id);
   if(!box) return;
   if(box.classList.contains('show')){
     box.classList.remove('show');
     box.innerHTML='';
-    if(btn) btn.textContent='🖼️ Hiện trang PDF trong app';
+    if(btn) btn.textContent='🖼️ Hiện vùng từ trong app';
     return;
   }
   box.classList.add('show');
-  if(btn) btn.textContent='Ẩn trang PDF';
-  renderPdfExactPage(box, file, pageInFile, originalPage, title);
+  if(btn) btn.textContent='Ẩn vùng PDF';
+  renderPdfExactPage(box, file, pageInFile, originalPage, title, cardId, 'focus', 1.75);
 }
-function openPdfExactViewer(file, pageInFile, originalPage, title){
+function openPdfExactViewer(file, pageInFile, originalPage, title, cardId){
   let modal=document.getElementById('pdfExactModal');
   if(!modal){
     modal=document.createElement('div');
@@ -1467,12 +1607,12 @@ function openPdfExactViewer(file, pageInFile, originalPage, title){
     document.body.appendChild(modal);
   }
   modal.innerHTML=`<div class="pdf-exact-panel">
-    <div class="pdf-exact-head"><div class="pdf-exact-title">📖 ${esc(title||'Trang PDF gốc')}</div><div class="pdf-exact-actions"><button type="button" class="ghost" onclick="closePdfExactViewer()">Đóng</button></div></div>
+    <div class="pdf-exact-head"><div class="pdf-exact-title">🔎 ${esc(title||'Trang PDF gốc')}</div><div class="pdf-exact-actions"><button type="button" class="ghost" onclick="closePdfExactViewer()">Đóng</button></div></div>
     <div class="pdf-exact-body" id="pdfExactBody"></div>
   </div>`;
   modal.classList.add('show');
   document.body.classList.add('pdf-modal-open');
-  renderPdfExactPage(document.getElementById('pdfExactBody'), file, pageInFile, originalPage, title);
+  renderPdfExactPage(document.getElementById('pdfExactBody'), file, pageInFile, originalPage, title, cardId, 'focus', 1.75);
 }
 function closePdfExactViewer(){
   const modal=document.getElementById('pdfExactModal');
@@ -1480,8 +1620,6 @@ function closePdfExactViewer(){
   document.body.classList.remove('pdf-modal-open');
 }
 window.addEventListener('keydown', e=>{ if(e.key==='Escape') closePdfExactViewer(); });
-
-
 function kanjiPdfLikeHtml(c){
   const rawLines=rawLineList(c.raw);
   const readingParts=c.reading ? String(c.reading).normalize('NFKC').split('/').map(x=>x.trim()).filter(Boolean) : [];
