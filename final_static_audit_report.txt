@@ -1,0 +1,29 @@
+STATIC AUDIT REPORT
+cards: 2546
+counts: {('N2', 'vocab'): 931, ('N2', 'kanji'): 395, ('N3', 'vocab'): 856, ('N3', 'kanji'): 364}
+checks:
+- data_assignment_once: True
+- has_confusions_tab: True
+- has_start_button_handler: True
+- has_search_normalization: True
+- has_pdf_example_reading: True
+- has_mazii_app_only: True
+- dark_mode_button_css: True
+- exact_duplicate_groups_zero: True
+- vocab_kanji_missing_reading_zero: True
+- bad_title_pattern_zero: True
+- kana_okurigana_mismatch_zero: True
+- search_蒸し暑い: True
+- search_むしあつい: True
+- search_nong_nuc_no_accent: True
+- search_khong_dau_co_dau: True
+samples:
+- N3-vocab-0555: 蒸し暑い / むしあつい / Nóng nực, oi bức
+- N2-vocab-0435: 面する / めんする / Hướng về/Đối diện với
+- N2-vocab-0436: 甘やかす / あまやかす / Nuông chiều
+- N2-vocab-0440: 生じる / しょうじる / Phát sinh, nảy sinh
+- N2-vocab-0233: 舌 / した / Lưỡi
+- N2-vocab-0614: 繰り返す / くりかえす / Lặp lại
+- N3-vocab-0009: 知り合い / しりあい / Người quen
+- N3-vocab-0713: (が)移る / うつる / 1. Di chuyển 2. Bị lây, lây sang
+- N3-vocab-0714: (を)移す / うつす / 1. Di chuyển 2. Làm lây sang

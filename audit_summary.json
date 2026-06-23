@@ -1,0 +1,9 @@
+{
+  "cards": 2546,
+  "fix_rows": 96,
+  "dups_removed": 0,
+  "remaining_suspects": 0,
+  "vocab_kanji_missing_reading": 0,
+  "bad_title_pattern": 0,
+  "title_not_in_raw_after_normalize": 0
+}
