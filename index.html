@@ -263,6 +263,29 @@ button.ghost{color:inherit;}
 [data-theme="dark"] .quiz-option.wrong{background:rgba(239,68,68,.24)!important;border-color:var(--danger)!important}
 [data-theme="dark"] .toolbar button,[data-theme="dark"] .filter-card button,[data-theme="dark"] .panel button{color:#e5e7eb}
 
+
+.search-study-banner{margin:10px 0 12px;padding:12px 14px;border:1px solid var(--line);border-left:5px solid var(--primary);border-radius:14px;background:rgba(15,159,143,.09);color:var(--ink)}
+[data-theme="dark"] .search-study-banner{background:rgba(45,212,191,.10);border-color:#334155;color:var(--ink)}
+
+
+
+/* PDF display refinement: closer to original PDF layout and cleaner examples */
+.pdf-card.pdf-vocab-simple{grid-template-columns:190px minmax(0,1fr);border:2px solid #1f2937;border-radius:10px;overflow:hidden;background:#fff}
+[data-theme="dark"] .pdf-card.pdf-vocab-simple{background:#101827;border-color:#334155}
+.pdf-vocab-simple .pdf-left{min-height:170px}
+.pdf-vocab-simple .pdf-right{display:flex;align-items:center;padding:18px 22px}
+.pdf-example-board{width:100%;display:grid;gap:18px}
+.pdf-example-row{display:grid;grid-template-columns:24px 1fr;align-items:start;gap:10px;font-size:18px;line-height:1.8;border:0;background:transparent;padding:0}
+.pdf-example-row .pdf-dot{width:9px;height:9px;margin-top:.82em;border-radius:50%;background:#111827;display:inline-block}
+[data-theme="dark"] .pdf-example-row .pdf-dot{background:#e5e7eb}
+.pdf-example-text{font-weight:500}
+.pdf-example-reading{display:block;margin-top:3px;color:var(--muted);font-size:14px;line-height:1.5}
+.pdf-vocab-simple .pdf-word{font-size:clamp(46px,6vw,82px);line-height:1.08}
+.pdf-vocab-simple .pdf-reading-main{font-size:20px}
+.pdf-vocab-simple .pdf-vi{font-size:17px}
+.pdf-section.noisy-supplement{display:none}
+@media(max-width:760px){.pdf-card.pdf-vocab-simple{grid-template-columns:1fr}.pdf-vocab-simple .pdf-right{padding:16px}.pdf-example-row{font-size:17px}.pdf-vocab-simple .pdf-left{min-height:auto}}
+
 </style>
 </head>
 <body>
@@ -649,6 +672,11 @@ function bindShell(){
     stopDrive();
     setFocusMode(false);
     render();
+    // Khi đang có từ khóa tìm kiếm, bấm tab Học / Review sẽ học ngay các thẻ đang lọc.
+    // Tránh nhầm lẫn: trước đây chỉ hiện màn hình chọn phiên nên người dùng tưởng nút học bị lỗi.
+    if(app.view === 'study' && app.filters.q){
+      startFilteredSearchStudy();
+    }
   }));
   $('#levelFilter').addEventListener('change', e=>{ app.filters.level=e.target.value; app.page=1; render(); });
   $('#kindFilter').addEventListener('change', e=>{ app.filters.kind=e.target.value; app.page=1; render(); });
@@ -936,9 +964,11 @@ function renderStudy(){
     <section class="panel">
       <h2>Học / Review</h2>
       <p class="muted">Chọn kiểu phiên rồi bấm tạo. Khi phiên bắt đầu, app sẽ mở một tab học riêng dạng full màn hình để bạn tập trung.</p>
+      ${app.filters.q ? `<div class="search-study-banner"><b>Đang tìm:</b> ${esc(app.filters.q)} · <b>${filteredCards().length}</b> thẻ phù hợp. Bấm <b>Học kết quả tìm kiếm</b> để học đúng các thẻ này.</div>` : ''}
       <div class="toolbar">
         ${fontSizeControl('studyFontScale','Cỡ chữ học/quiz')}
         <button id="modeSmart" class="primary">Bắt đầu học hôm nay</button>
+        ${app.filters.q ? '<button id="modeSearch" class="primary">Học kết quả tìm kiếm</button>' : ''}
         <button id="modeSetup">Tạo phiên theo thiết lập</button>
         <button id="modeReview">Review đến hạn</button>
         <button id="modeNew">Học thẻ mới</button>
@@ -951,6 +981,12 @@ function renderStudy(){
   $('#modeReview') && ($('#modeReview').onclick=()=>startStudy('review', {limit: app.state.settings.sessionSize || 25}));
   $('#modeNew') && ($('#modeNew').onclick=()=>startTodayGoalSession());
   $('#modeAll') && ($('#modeAll').onclick=()=>startStudy('all', {limit: app.state.settings.sessionSize || 25}));
+  $('#modeSearch') && ($('#modeSearch').onclick=()=>startFilteredSearchStudy());
+}
+
+function startFilteredSearchStudy(){
+  const limit = Number(app.state.settings.sessionSize) || 25;
+  startStudy('search', {limit});
 }
 function startStudyFromSetup(){
   const s = app.state.settings;
@@ -975,6 +1011,7 @@ function startStudy(mode, opts={}){
     deck = [...due, ...fresh];
   }
   if(mode==='all') deck = orderedCards(base).slice(0, limit);
+  if(mode==='search') deck = orderedCards(base).slice(0, limit);
   app.currentStudy = { mode, deck, index:0, revealed:false };
   renderStudyCard();
   updateSidebarGoal();
@@ -990,7 +1027,7 @@ function renderStudyCard(){
   setFocusMode(true);
   const card=s.deck[s.index];
   const p=getP(card);
-  const modeName={smart:'Hôm nay thông minh',review:'Review đến hạn',new:'Học thẻ mới',mixed:'Review + thẻ mới',all:'Luyện tất cả',single:'Học 1 thẻ'}[s.mode] || s.mode;
+  const modeName={smart:'Hôm nay thông minh',review:'Review đến hạn',new:'Học thẻ mới',mixed:'Review + thẻ mới',all:'Luyện tất cả',search:'Kết quả tìm kiếm',single:'Học 1 thẻ'}[s.mode] || s.mode;
   $('#view').innerHTML = `
     <section class="focus-shell">
       ${focusHeader(`Phiên học: ${modeName}`, `${s.index+1}/${s.deck.length}`)}
@@ -1262,6 +1299,132 @@ function kanjiPdfLikeHtml(c){
   </div>`;
 }
 function pdfLikeHtml(c){ return c.kind === 'kanji' ? kanjiPdfLikeHtml(c) : vocabPdfLikeHtml(c); }
+
+
+
+// --- Refined PDF-like renderer: clean furigana fragments and show simple PDF cards closer to the source PDF ---
+function hasJapaneseText2(text){ return /[ぁ-ゖァ-ヺ一-龯々]/.test(String(text||'')); }
+function compactKey2(text){ return String(text||'').normalize('NFKC').replace(/\s+/g,'').trim(); }
+function rawHasStructuredPdfLabels(raw){
+  return rawLineList(raw).some(l=>/^(意味|ポイント|例文|使い分け|関連語彙|補足)/.test(String(l||'').normalize('NFKC').trim()));
+}
+function isPdfTitleFragment2(line,c){
+  const l=compactKey2(line).replace(/^・/,'');
+  if(!l || l.length>12) return false;
+  if(/[。！？!?、，]/.test(l)) return false;
+  const t=compactKey2(c&&c.title||'');
+  const ct=compactKey2(cleanSurfaceTitle(c&&c.title||''));
+  if(!t && !ct) return false;
+  return (t && (t.includes(l) || l.includes(t))) || (ct && (ct.includes(l) || l.includes(ct)));
+}
+function isStandaloneFurigana2(line){
+  const l=String(line||'').normalize('NFKC').replace(/\s+/g,'').trim();
+  return /^[ぁ-ゖァ-ヺー]+$/.test(l) && l.length<=8;
+}
+function isVietnameseOnlyLine2(line,c){
+  const l=String(line||'').normalize('NFKC').trim();
+  if(!l) return true;
+  if(c && c.meaning_vi && compactKey2(l)===compactKey2(c.meaning_vi)) return true;
+  return !hasJapaneseText2(l) && /[A-Za-zÀ-ỹ]/.test(l);
+}
+function cleanupPdfExampleText2(text){
+  return String(text||'').normalize('NFKC')
+    .replace(/\s+/g,' ')
+    .replace(/\s+([。、！？!?])/g,'$1')
+    .replace(/([「『（(])\s+/g,'$1')
+    .replace(/\s+([」』）)])/g,'$1')
+    .trim();
+}
+function extractCleanPdfExamples(c){
+  const lines=rawLineList(c.raw);
+  const examples=[];
+  let cur='';
+  const flush=()=>{
+    const v=cleanupPdfExampleText2(cur);
+    if(v && hasJapaneseText2(v) && !examples.includes(v)) examples.push(v);
+    cur='';
+  };
+  for(const raw of lines){
+    let l=String(raw||'').normalize('NFKC').replace(/\s+/g,' ').trim();
+    if(!l) continue;
+    if(isSectionLabel(l)){ if(/^意味|^ポイント|^使い分け|^関連語彙|^補足/.test(l)) flush(); continue; }
+    if(c && isNoiseLine(l,c)) continue;
+    if(/^[・•]/.test(l)){
+      flush();
+      l=l.replace(/^[・•]\s*/,'').trim();
+      if(!l || isStandaloneFurigana2(l) || isPdfTitleFragment2(l,c) || isVietnameseOnlyLine2(l,c)) { cur=''; continue; }
+      cur=l;
+      continue;
+    }
+    if(cur){
+      if(isStandaloneFurigana2(l)) continue;
+      if(isPdfTitleFragment2(l,c)) continue;
+      if(isVietnameseOnlyLine2(l,c)) continue;
+      if(/^[-=—]+$/.test(l)) continue;
+      cur=joinPdfContinuation(cur,l);
+    }
+  }
+  flush();
+  return examples;
+}
+function pdfExampleRowsHtml(c, examples){
+  const arr=(examples||[]).filter(Boolean);
+  if(!arr.length) return '';
+  return `<div class="pdf-example-board">${arr.map(x=>{
+    const reading=exampleReadingText(x,c);
+    return `<div class="pdf-example-row"><span class="pdf-dot"></span><div><span class="pdf-example-text">${esc(x)}</span>${reading?`<span class="pdf-example-reading">よみ：${esc(reading)}</span>`:''}</div></div>`;
+  }).join('')}</div>`;
+}
+function simpleVocabPdfLikeHtml(c){
+  const examples=extractCleanPdfExamples(c);
+  return `<div class="pdf-page pdf-clean-page">
+    <div class="pdf-top"><div class="pdf-brand">Riki JLPT · ${esc(c.source)}</div><div class="pdf-lesson">${esc(c.lesson||'')} · Trang ${esc(c.page||'')}</div></div>
+    <div class="pdf-card pdf-vocab-simple">
+      <div class="pdf-left">
+        <div class="pdf-no">${esc(String(c.number||c.global_number||'' ).padStart(2,'0'))}</div>
+        <div class="pdf-word">${esc(c.title||'')}</div>
+        ${c.reading?`<div class="pdf-reading-main">${esc(c.reading)}</div>`:''}
+        ${c.meaning_vi?`<div class="pdf-vi">${esc(c.meaning_vi)}</div>`:''}
+      </div>
+      <div class="pdf-right">
+        ${examples.length ? pdfExampleRowsHtml(c,examples) : `<div class="muted">Chưa tách được ví dụ rõ ràng. Hãy mở raw text để đối chiếu.</div>`}
+      </div>
+    </div>
+    <details class="raw-toggle"><summary>Xem raw text gốc để đối chiếu</summary><pre class="raw">${esc(String(c.raw||'').normalize('NFKC'))}</pre></details>
+  </div>`;
+}
+function vocabPdfLikeHtml(c){
+  const structured=rawHasStructuredPdfLabels(c.raw);
+  if(!structured) return simpleVocabPdfLikeHtml(c);
+  const sec=vocabSections(c);
+  const cleanExamples=extractCleanPdfExamples(c);
+  if(cleanExamples.length) sec.examples=cleanExamples;
+  const fallback=(!sec.meaning.length&&!sec.point.length&&!sec.examples.length&&!sec.usage.length&&!sec.related.length) ? compactDisplayLines(rawLineList(c.raw),c,{dropKanaFragments:true}) : [];
+  const other=(sec.other||[]).filter(x=>x && !isPdfTitleFragment2(x,c) && !isStandaloneFurigana2(x) && !isVietnameseOnlyLine2(x,c));
+  return `<div class="pdf-page pdf-clean-page">
+    <div class="pdf-top"><div class="pdf-brand">Riki JLPT · ${esc(c.source)}</div><div class="pdf-lesson">${esc(c.lesson||'')} · Trang ${esc(c.page||'')}</div></div>
+    <div class="pdf-buoi">${esc(c.level)} ${c.kind==='kanji'?'漢字':'文字語彙'}</div>
+    <div class="pdf-card">
+      <div class="pdf-left">
+        <div class="pdf-no">${esc(String(c.number||c.global_number||'' ).padStart(2,'0'))}</div>
+        <div class="pdf-word">${esc(c.title||'')}</div>
+        ${c.reading?`<div class="pdf-reading-main">${esc(c.reading)}</div>`:''}
+        ${c.hanviet?`<div class="pdf-hv">${esc(c.hanviet)}</div>`:''}
+        ${c.meaning_vi?`<div class="pdf-vi">${esc(c.meaning_vi)}</div>`:''}
+      </div>
+      <div class="pdf-right">
+        ${pdfSection('意味','Nghĩa',sec.meaning,'',c)}
+        ${pdfSection('ポイント','Điểm nhớ / dùng với',sec.point,'point',c)}
+        ${pdfSection('例文','Ví dụ',sec.examples,'example',c)}
+        ${pdfSection('使い分け','Phân biệt',sec.usage,'usage',c)}
+        ${pdfSection('関連語彙','Liên quan',sec.related,'related',c)}
+        ${pdfSection('補足','Bổ sung',other,'related',c)}
+        ${pdfSection('抽出テキスト','Bản trích',fallback,'',c)}
+      </div>
+    </div>
+    <details class="raw-toggle"><summary>Xem raw text gốc để đối chiếu</summary><pre class="raw">${esc(String(c.raw||'').normalize('NFKC'))}</pre></details>
+  </div>`;
+}
 
 function backHtml(c){
   return `<div class="answer-title">Đáp án</div>

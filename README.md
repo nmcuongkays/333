@@ -1,7 +1,9 @@
-# Nihongo Memory Coach - Restored + Search Fixed
+# Nihongo Memory Coach - PDF Layout Fix
 
-Bản này khôi phục các chức năng bị mất từ bản đầy đủ trước đó và giữ bản sửa tìm kiếm.
+Bản này chỉnh lại phần hiển thị “Nội dung gốc đã trích từ PDF” cho dễ nhìn hơn và gần bố cục PDF gốc hơn:
 
-- Khôi phục Mazii selection/menu, tab Dễ nhầm, Drive mode nâng cấp, backup reminder, học thông minh, cỡ chữ, dark mode.
-- Tìm kiếm hỗ trợ tiếng Việt có dấu/không dấu, Kanji, hiragana; tự chuyển sang Danh sách khi gõ từ khóa.
-- Dữ liệu audit/fix trước đó được giữ theo bản final-audit.
+- Với mục không có nhãn rõ trong PDF, app hiển thị dạng thẻ giống PDF: bên trái là số/thẻ/từ/cách đọc/nghĩa, bên phải là ví dụ.
+- Tự ẩn các dòng furigana rơi rạc nằm phía trên Kanji khi PDF bị trích text theo dòng.
+- Ghép lại ví dụ bị tách dòng như 腕に包 + 帯 + を巻く。 → 腕に包帯を巻く。
+- Giữ nguyên raw text gốc trong phần gập để đối chiếu.
+- Giữ nguyên các chức năng cũ: Mazii app-only, bôi đen mở Mazii, search, SRS, quiz, Drive Mode, dark mode.
